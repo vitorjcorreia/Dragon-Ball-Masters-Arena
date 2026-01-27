@@ -37,6 +37,15 @@
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "Deck",
+            "count": 8,
+            "destination": "Life"
+          }
+        ]
+      },
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
@@ -52,9 +61,10 @@
       "sections": {
         "customSections": [
           "Leader",
-          "Unisson",
-          "Battle Area",
-          "Combo Area",
+          "Life",
+          "Unison",
+          "Battle",
+          "Combo",
           "Energy",
           "Drop",
           "Warp",
@@ -108,23 +118,23 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Unison Area",
+                      "section": "Unison",
                       "style": {
                         "width": "20vh"
                       }
                     },
                     {
-                      "section": "Battle Area",
+                      "section": "Battle",
                       "style": false
                     }
                   ]
                 },
                 {
-                  "section": "Combo Area",
+                  "section": "Combo",
                   "style": false
                 },
                 {
-                  "section": "Energy Area",
+                  "section": "Energy",
                   "style": false
                 }
               ]
@@ -136,11 +146,11 @@
               },
               "content": [
                 {
-                  "section": "Warp Area",
+                  "section": "Warp",
                   "style": false
                 },
                 {
-                  "section": "Drop Area",
+                  "section": "Drop",
                   "style": false
                 }
               ]
@@ -184,7 +194,7 @@
             "isDefaultSection": true,
             "title": "Discard",
             "isHidden": "no",
-            "height": "DEFAULT",
+            "height": "SMALL",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
@@ -234,13 +244,13 @@
           "Exile": {
             "isDefaultSection": true,
             "title": "Exile",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "DEFAULT",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
-            "displayedTitle": "Removed",
+            "displayedTitle": "Exiled",
             "opponentAlignment": false,
             "noQuickActions": false,
             "enterTapped": false,
@@ -285,12 +295,28 @@
           "Leader": {
             "title": "Leader",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Leader Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unison": {
+            "title": "Unison",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unison Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -340,7 +366,7 @@
             "isHorizontalAllowed": false,
             "displayedTitle": "Combo Area",
             "noQuickActions": false,
-            "enterTapped": false,
+            "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
@@ -355,6 +381,70 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Energy Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+            "Drop": {
+            "title": "Drop",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Drop Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Warp": {
+            "title": "Warp",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Warp Area",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+            "Z-Energy": {
+            "title": "Z-Energy",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Z-Energy Area",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+            "Z-Deck": {
+            "title": "Z-Deck",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Z-Deck Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": true,
