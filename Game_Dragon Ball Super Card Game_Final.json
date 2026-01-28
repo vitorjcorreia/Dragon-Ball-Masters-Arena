@@ -1,11 +1,11 @@
 {
   "name": "Dragon Ball Super Card Game Masters",
-  "menuBackgroundImage": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/menu_background.png",
+  "menuBackgroundImage": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/MastersBanner.png",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/starterDecks.json"
   },
-  "customHelp": "\"How to play DB Masters:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
+  "customHelp": "\"How to play DB Masters:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/us-en/rule",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/cards.json",
@@ -134,6 +134,21 @@
           "id": "ability-used",
           "name": "Ability Used",
           "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/used.png"
+        },
+        {
+          "id": "doubleStrike",
+          "name": "doubleStrike",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/doubleStrike_token.png"
+        },
+        {
+          "id": "tripleStrike",
+          "name": "tripleStrike",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/tripleStrike_token.png"
+        },
+        {
+          "id": "critical",
+          "name": "critical",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/critical_token.png"
         }
       ],
       "sections": {
