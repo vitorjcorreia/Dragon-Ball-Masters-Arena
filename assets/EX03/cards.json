@@ -1,0 +1,1598 @@
+{
+    "EX03-01": {
+        "id": "EX03-01",
+        "face": {
+            "front": {
+                "name": "Kefla",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Explosive Power Kefla",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kefla",
+        "type": "LEADER",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-01.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX03",
+        "character": [
+            "Kefla"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Explosive Power Kefla",
+        "back_power": "15000",
+        "back_character": [
+            "Kefla"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ]
+    },
+    "EX03-02": {
+        "id": "EX03-02",
+        "face": {
+            "front": {
+                "name": "Ghost Combo Gotenks",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Ghost Combo Gotenks",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-02.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EX03",
+        "character": [
+            "Gotenks"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-03": {
+        "id": "EX03-03",
+        "face": {
+            "front": {
+                "name": "Virtuous Strength Gohan",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Virtuous Strength Gohan",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-03.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Son Gohan: Adolescence"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-04": {
+        "id": "EX03-04",
+        "face": {
+            "front": {
+                "name": "Umbral Blade Dabura",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Umbral Blade Dabura",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-04.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Dabura"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Demon Realm Race"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Auto",
+            "Dual Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-05": {
+        "id": "EX03-05",
+        "face": {
+            "front": {
+                "name": "Rampant Evil Majin Buu",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Rampant Evil Majin Buu",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-05.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Majin Buu"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Majin"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Auto",
+            "Triple Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-06": {
+        "id": "EX03-06",
+        "face": {
+            "front": {
+                "name": "Capricious Destroyer Champa",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Capricious Destroyer Champa",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-06.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Champa"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-07": {
+        "id": "EX03-07",
+        "face": {
+            "front": {
+                "name": "Vegeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-07.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Explosive Power Vegeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-07_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegeta",
+        "type": "LEADER",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-07.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX03",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Warrior of Universe 7",
+            "Auto",
+            "Awaken",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Explosive Power Vegeta",
+        "back_power": "15000",
+        "back_character": [
+            "Vegeta"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Universe 7"
+        ]
+    },
+    "EX03-08": {
+        "id": "EX03-08",
+        "face": {
+            "front": {
+                "name": "Awe-Inspiring Intimidator SSB Vegito",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-08.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Awe-Inspiring Intimidator SSB Vegito",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-08.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-09": {
+        "id": "EX03-09",
+        "face": {
+            "front": {
+                "name": "Determined Time Leaper Trunks",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-09.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Determined Time Leaper Trunks",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-09.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Trunks: Future"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-10": {
+        "id": "EX03-10",
+        "face": {
+            "front": {
+                "name": "Nightmare Scythe Goku Black",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-10.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Nightmare Scythe Goku Black",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-10.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Goku Black"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-11": {
+        "id": "EX03-11",
+        "face": {
+            "front": {
+                "name": "Undying Link Zamasu",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-11.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Undying Link Zamasu",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-11.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Zamasu"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Indestructible",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-12": {
+        "id": "EX03-12",
+        "face": {
+            "front": {
+                "name": "Indiscriminate Obliteration Sidra",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-12.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Indiscriminate Obliteration Sidra",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-12.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Sidra"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 9"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-13": {
+        "id": "EX03-13",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-13.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Explosive Power Son Goku",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-13_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku",
+        "type": "LEADER",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-13.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX03",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Warrior of Universe 7",
+            "Auto",
+            "Bond 1",
+            "Awaken",
+            "Permanent",
+            "Bond 2",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Explosive Power Son Goku",
+        "back_power": "15000",
+        "back_character": [
+            "Son Goku"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Universe 7"
+        ]
+    },
+    "EX03-14": {
+        "id": "EX03-14",
+        "face": {
+            "front": {
+                "name": "Last One Standing Son Goku",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-14.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Last One Standing Son Goku",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-14.webp",
+        "power": "25000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EX03",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Auto",
+            "Triple Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-14_PR": {
+        "id": "EX03-14_PR",
+        "face": {
+            "front": {
+                "name": "Last One Standing Son Goku",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-14_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Last One Standing Son Goku",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-14_PR.webp",
+        "power": "25000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EX03",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Auto",
+            "Triple Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-15": {
+        "id": "EX03-15",
+        "face": {
+            "front": {
+                "name": "Vile Replication Cell",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-15.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vile Replication Cell",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-15.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-16": {
+        "id": "EX03-16",
+        "face": {
+            "front": {
+                "name": "Deathless Warrior Broly",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-16.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Deathless Warrior Broly",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-16.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Broly"
+        ],
+        "era": [
+            "Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Evolve",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-17": {
+        "id": "EX03-17",
+        "face": {
+            "front": {
+                "name": "Limitless Energy Android 17",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-17.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Limitless Energy Android 17",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-17.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Android",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Blocker",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-18": {
+        "id": "EX03-18",
+        "face": {
+            "front": {
+                "name": "Elegant Assistance Heles",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "12000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-18.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Elegant Assistance Heles",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-18.webp",
+        "power": "12000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "EX03",
+        "character": [
+            "Heles"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 2"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-18_PR": {
+        "id": "EX03-18_PR",
+        "face": {
+            "front": {
+                "name": "Elegant Assistance Heles",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "12000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-18_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Elegant Assistance Heles",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-18_PR.webp",
+        "power": "12000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "EX03",
+        "character": [
+            "Heles"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 2"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-19": {
+        "id": "EX03-19",
+        "face": {
+            "front": {
+                "name": "Jiren",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-19.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Explosive Power Jiren",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-19_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jiren",
+        "type": "LEADER",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-19.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX03",
+        "character": [
+            "Jiren"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Activate: Main",
+            "Quadruple Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Explosive Power Jiren",
+        "back_power": "15000",
+        "back_character": [
+            "Jiren"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ]
+    },
+    "EX03-20": {
+        "id": "EX03-20",
+        "face": {
+            "front": {
+                "name": "Indomitable SS Son Goku Jr.",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-20.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Indomitable SS Son Goku Jr.",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-20.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Son Goku Jr."
+        ],
+        "era": [
+            "Special"
+        ],
+        "traits": [
+            "Goku's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Swap 8"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-21": {
+        "id": "EX03-21",
+        "face": {
+            "front": {
+                "name": "Space Pirate Chilled",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-21.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Space Pirate Chilled",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-21.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Chilled"
+        ],
+        "era": [
+            "Chilled Saga"
+        ],
+        "traits": [
+            "Frieza Clan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-22": {
+        "id": "EX03-22",
+        "face": {
+            "front": {
+                "name": "Elite Bloodline Cooler",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-22.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Elite Bloodline Cooler",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-22.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Cooler"
+        ],
+        "era": [
+            "Cooler Saga"
+        ],
+        "traits": [
+            "Frieza Clan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-23": {
+        "id": "EX03-23",
+        "face": {
+            "front": {
+                "name": "Frieza, Obsession of The Clan",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-23.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Frieza, Obsession of The Clan",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-23.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Frieza"
+        ],
+        "era": [
+            "Frieza Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ]
+    },
+    "EX03-24": {
+        "id": "EX03-24",
+        "face": {
+            "front": {
+                "name": "Clownish Destruction Belmod",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-24.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Clownish Destruction Belmod",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-24.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Belmod"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 11"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Double Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-25": {
+        "id": "EX03-25",
+        "face": {
+            "front": {
+                "name": "Zen-Oh",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-25.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Zen-Oh, Ruler of the Universe",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-25_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Zen-Oh",
+        "type": "LEADER",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-25.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX03",
+        "character": [
+            "Zen-Oh"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Awaken",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Zen-Oh, Ruler of the Universe",
+        "back_power": "15000",
+        "back_character": [
+            "Zen-Oh"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "God"
+        ]
+    },
+    "EX03-26": {
+        "id": "EX03-26",
+        "face": {
+            "front": {
+                "name": "Forced Absorption Demigra",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "30000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-26.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Forced Absorption Demigra",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-26.webp",
+        "power": "30000",
+        "color": "Black",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EX03",
+        "character": [
+            "Demigra"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Demon God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Triple Strike",
+            "Auto",
+            "Barrier"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-27": {
+        "id": "EX03-27",
+        "face": {
+            "front": {
+                "name": "Forced Ejection Masked Saiyan",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-27.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Forced Ejection Masked Saiyan",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-27.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Masked Saiyan"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": true,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Over Realm 3",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-28": {
+        "id": "EX03-28",
+        "face": {
+            "front": {
+                "name": "Smiling Madness Towa",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-28.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Smiling Madness Towa",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-28.webp",
+        "power": "20000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Towa"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Demon Realm Race"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Xeno-Evolve",
+            "Double Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-29": {
+        "id": "EX03-29",
+        "face": {
+            "front": {
+                "name": "Forced Destruction Mira",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-29.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Forced Destruction Mira",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-29.webp",
+        "power": "25000",
+        "color": "Black",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Mira"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Xeno-Evolve",
+            "Triple Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX03-30": {
+        "id": "EX03-30",
+        "face": {
+            "front": {
+                "name": "Toppo Unleashed",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-30.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Toppo Unleashed",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX03-30.webp",
+        "power": "25000",
+        "color": "Black",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX03",
+        "character": [
+            "Toppo"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "EX-Evolve",
+            "Barrier",
+            "Blocker",
+            "Auto",
+            "Double Strike",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

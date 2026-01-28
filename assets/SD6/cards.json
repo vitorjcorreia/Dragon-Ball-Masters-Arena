@@ -1,0 +1,250 @@
+{
+    "SD6-01": {
+        "id": "SD6-01",
+        "face": {
+            "front": {
+                "name": "Gogeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Knockout Strike Gogeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gogeta",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-01.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD6",
+        "character": [
+            "Gogeta"
+        ],
+        "era": [
+            "Janemba Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Burst 2",
+            "Awaken",
+            "Sparking 5",
+            "Double Strike",
+            "Activate: Main",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Knockout Strike Gogeta",
+        "back_power": "15000",
+        "back_character": [
+            "Gogeta"
+        ],
+        "back_era": [
+            "Janemba Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "SD6-02": {
+        "id": "SD6-02",
+        "face": {
+            "front": {
+                "name": "Fusion Reborn Vegeta",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Fusion Reborn Vegeta",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-02.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD6",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Janemba Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Union-Fusion"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD6-03": {
+        "id": "SD6-03",
+        "face": {
+            "front": {
+                "name": "Fusion Reborn Son Goku",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Fusion Reborn Son Goku",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-03.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD6",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Janemba Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Union-Fusion"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD6-04": {
+        "id": "SD6-04",
+        "face": {
+            "front": {
+                "name": "Ultimate Fusion Gogeta",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Ultimate Fusion Gogeta",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-04.webp",
+        "power": "25000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "SD6",
+        "character": [
+            "Gogeta"
+        ],
+        "era": [
+            "Janemba Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Union-Fusion",
+            "Auto",
+            "Sparking 5"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD6-05": {
+        "id": "SD6-05",
+        "face": {
+            "front": {
+                "name": "Great Saiyaman",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "30000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Great Saiyaman",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD6-05.webp",
+        "power": "30000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD6",
+        "character": [
+            "Son Gohan: Adolescence"
+        ],
+        "era": [
+            "Janemba Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

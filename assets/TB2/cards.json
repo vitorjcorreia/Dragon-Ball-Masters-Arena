@@ -1,0 +1,3941 @@
+{
+    "TB2-001": {
+        "id": "TB2-001",
+        "face": {
+            "front": {
+                "name": "Hercule",
+                "type": "LEADER",
+                "cost": null,
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-001.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Bundle of Confidence Hercule",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-001_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hercule",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-001.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": [
+            "Hercule"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle",
+            "Awaken",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Bundle of Confidence Hercule",
+        "back_power": "10000",
+        "back_character": [
+            "Hercule"
+        ],
+        "back_era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "back_traits": [
+            "Earthling",
+            "World Tournament"
+        ]
+    },
+    "TB2-002": {
+        "id": "TB2-002",
+        "face": {
+            "front": {
+                "name": "Supreme Showdown Son Goku",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-002.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Supreme Showdown Son Goku",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-002.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Triple Strike",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-002_SPR": {
+        "id": "TB2-002_SPR",
+        "face": {
+            "front": {
+                "name": "Supreme Showdown Son Goku",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-002_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Supreme Showdown Son Goku",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-002_SPR.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Triple Strike",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-003": {
+        "id": "TB2-003",
+        "face": {
+            "front": {
+                "name": "Heroic Duo Son Gohan",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-003.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Heroic Duo Son Gohan",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-003.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Gohan: Adolescence"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-004": {
+        "id": "TB2-004",
+        "face": {
+            "front": {
+                "name": "Tiny Rivals Son Goten",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-004.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Tiny Rivals Son Goten",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-004.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goten"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Permanent",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-005": {
+        "id": "TB2-005",
+        "face": {
+            "front": {
+                "name": "Supreme Showdown Vegeta",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-005.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Supreme Showdown Vegeta",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-005.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Triple Strike",
+            "Permanent",
+            "Auto",
+            "Blocker"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-005_SPR": {
+        "id": "TB2-005_SPR",
+        "face": {
+            "front": {
+                "name": "Supreme Showdown Vegeta",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-005_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Supreme Showdown Vegeta",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-005_SPR.webp",
+        "power": "25000",
+        "color": "Red",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Triple Strike",
+            "Permanent",
+            "Auto",
+            "Blocker"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-006": {
+        "id": "TB2-006",
+        "face": {
+            "front": {
+                "name": "Vegeta, Power Misused",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "12000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-006.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Power Misused",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-006.webp",
+        "power": "12000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "TB2",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-007": {
+        "id": "TB2-007",
+        "face": {
+            "front": {
+                "name": "Tiny Rivals Trunks",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-007.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Tiny Rivals Trunks",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-007.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Trunks: Youth"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Permanent",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-008": {
+        "id": "TB2-008",
+        "face": {
+            "front": {
+                "name": "Mighty Mask, Powers Combined",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "12000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-008.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Mighty Mask, Powers Combined",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-008.webp",
+        "power": "12000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "TB2",
+        "character": [
+            "Mighty Mask"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-009": {
+        "id": "TB2-009",
+        "face": {
+            "front": {
+                "name": "Secret Treaty Android 18",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-009.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Secret Treaty Android 18",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-009.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Android 18"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Android",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-010": {
+        "id": "TB2-010",
+        "face": {
+            "front": {
+                "name": "Secret Treaty Hercule",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-010.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Secret Treaty Hercule",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-010.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Hercule"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-011": {
+        "id": "TB2-011",
+        "face": {
+            "front": {
+                "name": "Heroic Duo Videl",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-011.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Heroic Duo Videl",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-011.webp",
+        "power": "1000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Videl"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Counter",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-011_PR": {
+        "id": "TB2-011_PR",
+        "face": {
+            "front": {
+                "name": "Heroic Duo Videl",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-011_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Heroic Duo Videl",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-011_PR.webp",
+        "power": "1000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Videl"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Counter: Attack",
+            "Counter",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-012": {
+        "id": "TB2-012",
+        "face": {
+            "front": {
+                "name": "Hidden Power, East Supreme Kai",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-012.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Hidden Power, East Supreme Kai",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-012.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "East Supreme Kai"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "God",
+            "World Tournament"
+        ],
+        "banned": true,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-013": {
+        "id": "TB2-013",
+        "face": {
+            "front": {
+                "name": "Dark Duo Babidi",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-013.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Dark Duo Babidi",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-013.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Evil Wizard Babidi"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Evil Wizard",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-013_PR": {
+        "id": "TB2-013_PR",
+        "face": {
+            "front": {
+                "name": "Dark Duo Babidi",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-013_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Dark Duo Babidi",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-013_PR.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Evil Wizard Babidi"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Evil Wizard",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-014": {
+        "id": "TB2-014",
+        "face": {
+            "front": {
+                "name": "Dark Duo Dabura",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-014.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Dark Duo Dabura",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-014.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Dabura"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Demon Realm Race",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-014_PR": {
+        "id": "TB2-014_PR",
+        "face": {
+            "front": {
+                "name": "Dark Duo Dabura",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-014_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Dark Duo Dabura",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-014_PR.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Dabura"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Demon Realm Race",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-015": {
+        "id": "TB2-015",
+        "face": {
+            "front": {
+                "name": "Tainted Power, Spopovich & Yamu",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-015.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Tainted Power, Spopovich & Yamu",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-015.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Spopovich",
+            "Yamu"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-016": {
+        "id": "TB2-016",
+        "face": {
+            "front": {
+                "name": "Pui Pui, Magician's Lackey",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-016.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Pui Pui, Magician's Lackey",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-016.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Pui Pui"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Alien",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-017": {
+        "id": "TB2-017",
+        "face": {
+            "front": {
+                "name": "Razor's Edge Yakon",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-017.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Razor's Edge Yakon",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-017.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Yakon"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Alien",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-018": {
+        "id": "TB2-018",
+        "face": {
+            "front": {
+                "name": "Babidi's Spaceship",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-018.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Babidi's Spaceship",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-018.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Field",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-019": {
+        "id": "TB2-019",
+        "face": {
+            "front": {
+                "name": "Uub",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-019.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Uub, Unknowing Power",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-019_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Uub",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-019.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": [
+            "Uub"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Uub, Unknowing Power",
+        "back_power": "15000",
+        "back_character": [
+            "Uub"
+        ],
+        "back_era": [
+            "Majin Buu Saga"
+        ],
+        "back_traits": [
+            "Earthling",
+            "World Tournament"
+        ]
+    },
+    "TB2-020": {
+        "id": "TB2-020",
+        "face": {
+            "front": {
+                "name": "Test of Strength Son Goku",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-020.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Test of Strength Son Goku",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-020.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-021": {
+        "id": "TB2-021",
+        "face": {
+            "front": {
+                "name": "Top of His Game Son Gohan",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "12000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-021.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Top of His Game Son Gohan",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-021.webp",
+        "power": "12000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "TB2",
+        "character": [
+            "Son Gohan: Adolescence"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-022": {
+        "id": "TB2-022",
+        "face": {
+            "front": {
+                "name": "Scuffle Time Son Goten",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-022.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Scuffle Time Son Goten",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-022.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goten: Adolescence"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-023": {
+        "id": "TB2-023",
+        "face": {
+            "front": {
+                "name": "Pan, Proudest Daughter",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-023.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Pan, Proudest Daughter",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-023.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "Pan"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Dual Attack",
+            "Permanent",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-023_SPR": {
+        "id": "TB2-023_SPR",
+        "face": {
+            "front": {
+                "name": "Pan, Proudest Daughter",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-023_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Pan, Proudest Daughter",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-023_SPR.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "Pan"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Dual Attack",
+            "Permanent",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-024": {
+        "id": "TB2-024",
+        "face": {
+            "front": {
+                "name": "Awakening Talent Pan",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-024.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Awakening Talent Pan",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-024.webp",
+        "power": "5000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Pan"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-024_PR": {
+        "id": "TB2-024_PR",
+        "face": {
+            "front": {
+                "name": "Awakening Talent Pan",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-024_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Awakening Talent Pan",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-024_PR.webp",
+        "power": "5000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Pan"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-025": {
+        "id": "TB2-025",
+        "face": {
+            "front": {
+                "name": "Begrudging Respect Vegeta",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-025.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Begrudging Respect Vegeta",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-025.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-026": {
+        "id": "TB2-026",
+        "face": {
+            "front": {
+                "name": "Awkward Situation Trunks",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-026.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Awkward Situation Trunks",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-026.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Trunks: Adolescence"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-027": {
+        "id": "TB2-027",
+        "face": {
+            "front": {
+                "name": "Begrudging Respect Piccolo",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-027.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Begrudging Respect Piccolo",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-027.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Piccolo"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Namekian",
+            "God",
+            "World Tournament"
+        ],
+        "banned": true,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Permanent",
+            "Blocker",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-028": {
+        "id": "TB2-028",
+        "face": {
+            "front": {
+                "name": "Scuffle Time Mr. Buu",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-028.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Scuffle Time Mr. Buu",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-028.webp",
+        "power": "5000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Mr. Buu"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Majin",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-029": {
+        "id": "TB2-029",
+        "face": {
+            "front": {
+                "name": "Hercule, Proudest Grandpa",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-029.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Hercule, Proudest Grandpa",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-029.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Hercule"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-029_SPR": {
+        "id": "TB2-029_SPR",
+        "face": {
+            "front": {
+                "name": "Hercule, Proudest Grandpa",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-029_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Hercule, Proudest Grandpa",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-029_SPR.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Hercule"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-030": {
+        "id": "TB2-030",
+        "face": {
+            "front": {
+                "name": "Test of Strength Uub",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-030.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Test of Strength Uub",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-030.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Uub"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-031": {
+        "id": "TB2-031",
+        "face": {
+            "front": {
+                "name": "Wild Tiger, the Imposing",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-031.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Wild Tiger, the Imposing",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-031.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Wild Tiger"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-032": {
+        "id": "TB2-032",
+        "face": {
+            "front": {
+                "name": "Awkward Situation Otokosuki",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-032.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Awkward Situation Otokosuki",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-032.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Otokosuki"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-033": {
+        "id": "TB2-033",
+        "face": {
+            "front": {
+                "name": "Shocking Latent Ability",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-033.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Shocking Latent Ability",
+        "type": "EXTRA",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-033.webp",
+        "power": "",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-034": {
+        "id": "TB2-034",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-034.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Stopping Power Son Goku",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-034_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-034.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Stopping Power Son Goku",
+        "back_power": "15000",
+        "back_character": [
+            "Son Goku"
+        ],
+        "back_era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "World Tournament"
+        ]
+    },
+    "TB2-035": {
+        "id": "TB2-035",
+        "face": {
+            "front": {
+                "name": "Fateful Reunion Son Goku",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-035.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Fateful Reunion Son Goku",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-035.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-036": {
+        "id": "TB2-036",
+        "face": {
+            "front": {
+                "name": "Trading Blows Son Goku",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-036.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Trading Blows Son Goku",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-036.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-037": {
+        "id": "TB2-037",
+        "face": {
+            "front": {
+                "name": "Fateful Reunion Chi-Chi",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-037.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Fateful Reunion Chi-Chi",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-037.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Chi-Chi"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-038": {
+        "id": "TB2-038",
+        "face": {
+            "front": {
+                "name": "Martial Daughter Chi-Chi",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "12000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-038.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Martial Daughter Chi-Chi",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-038.webp",
+        "power": "12000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "TB2",
+        "character": [
+            "Chi-Chi"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-039": {
+        "id": "TB2-039",
+        "face": {
+            "front": {
+                "name": "Destined Conclusion Piccolo Jr.",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-039.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Destined Conclusion Piccolo Jr.",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-039.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "Piccolo Jr."
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Namekian",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Auto",
+            "Triple Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-039_SPR": {
+        "id": "TB2-039_SPR",
+        "face": {
+            "front": {
+                "name": "Destined Conclusion Piccolo Jr.",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-039_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Destined Conclusion Piccolo Jr.",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-039_SPR.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "Piccolo Jr."
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Namekian",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Auto",
+            "Triple Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-040": {
+        "id": "TB2-040",
+        "face": {
+            "front": {
+                "name": "Speed Attack Piccolo Jr.",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-040.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Speed Attack Piccolo Jr.",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-040.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Piccolo Jr."
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Namekian",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-041": {
+        "id": "TB2-041",
+        "face": {
+            "front": {
+                "name": "Double Impact Krillin",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-041.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Double Impact Krillin",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-041.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Krillin"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Barrier"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-042": {
+        "id": "TB2-042",
+        "face": {
+            "front": {
+                "name": "Honed Moves Yamcha",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-042.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Honed Moves Yamcha",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-042.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Yamcha"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-043": {
+        "id": "TB2-043",
+        "face": {
+            "front": {
+                "name": "Tien Shinhan, Trading Moves",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-043.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Tien Shinhan, Trading Moves",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-043.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Tien Shinhan"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-044": {
+        "id": "TB2-044",
+        "face": {
+            "front": {
+                "name": "Best Buddy Chiaotzu",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-044.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Best Buddy Chiaotzu",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-044.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "1",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Chiaotzu"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-045": {
+        "id": "TB2-045",
+        "face": {
+            "front": {
+                "name": "Destined Conclusion Hero",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-045.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Destined Conclusion Hero",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-045.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Hero"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "God",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-045_SPR": {
+        "id": "TB2-045_SPR",
+        "face": {
+            "front": {
+                "name": "Destined Conclusion Hero",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-045_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Destined Conclusion Hero",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-045_SPR.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Hero"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "God",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Auto",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-046": {
+        "id": "TB2-046",
+        "face": {
+            "front": {
+                "name": "Trusting Relationship Kami",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-046.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Trusting Relationship Kami",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-046.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Kami"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "God",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Permanent",
+            "Barrier"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-047": {
+        "id": "TB2-047",
+        "face": {
+            "front": {
+                "name": "Trusting Relationship Popo",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-047.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Trusting Relationship Popo",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-047.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Popo"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "God",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-048": {
+        "id": "TB2-048",
+        "face": {
+            "front": {
+                "name": "Mercenary Tao, Trading Moves",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-048.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Mercenary Tao, Trading Moves",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-048.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Mercenary Tao"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-049": {
+        "id": "TB2-049",
+        "face": {
+            "front": {
+                "name": "Feet Kamehameha",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-049.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Feet Kamehameha",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-049.webp",
+        "power": "",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-050": {
+        "id": "TB2-050",
+        "face": {
+            "front": {
+                "name": "Jackie Chun",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-050.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Jackie Chun, the Mysterious Fighter",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-050_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Jackie Chun",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-050.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": [
+            "Jackie Chun"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Jackie Chun, the Mysterious Fighter",
+        "back_power": "15000",
+        "back_character": [
+            "Jackie Chun"
+        ],
+        "back_era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "back_traits": [
+            "Earthling",
+            "World Tournament"
+        ]
+    },
+    "TB2-051": {
+        "id": "TB2-051",
+        "face": {
+            "front": {
+                "name": "Unyielding Victory Son Goku",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-051.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Unyielding Victory Son Goku",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-051.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goku: Childhood"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike",
+            "Triple Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-051_SPR": {
+        "id": "TB2-051_SPR",
+        "face": {
+            "front": {
+                "name": "Unyielding Victory Son Goku",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-051_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Unyielding Victory Son Goku",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-051_SPR.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Son Goku: Childhood"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike",
+            "Triple Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-052": {
+        "id": "TB2-052",
+        "face": {
+            "front": {
+                "name": "Future Martial Artist Son Goku",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "12000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-052.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Future Martial Artist Son Goku",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-052.webp",
+        "power": "12000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "TB2",
+        "character": [
+            "Son Goku: Childhood"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-053": {
+        "id": "TB2-053",
+        "face": {
+            "front": {
+                "name": "Toughened Up Krillin",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-053.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Toughened Up Krillin",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-053.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Krillin: Childhood"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-054": {
+        "id": "TB2-054",
+        "face": {
+            "front": {
+                "name": "Unending Moves Yamcha",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-054.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Unending Moves Yamcha",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-054.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Yamcha"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Permanent",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-055": {
+        "id": "TB2-055",
+        "face": {
+            "front": {
+                "name": "Unending Moves Tien Shinhan",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-055.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Unending Moves Tien Shinhan",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-055.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Tien Shinhan"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Barrier",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-056": {
+        "id": "TB2-056",
+        "face": {
+            "front": {
+                "name": "Toughened Up Chiaotzu",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-056.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Toughened Up Chiaotzu",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-056.webp",
+        "power": "1000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Chiaotzu"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-057": {
+        "id": "TB2-057",
+        "face": {
+            "front": {
+                "name": "Master Roshi, Martial Meister",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "6000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-057.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Master Roshi, Martial Meister",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-057.webp",
+        "power": "6000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Master Roshi"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-058": {
+        "id": "TB2-058",
+        "face": {
+            "front": {
+                "name": "Unyielding Victory Jackie Chun",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-058.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Unyielding Victory Jackie Chun",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-058.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "Jackie Chun"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-058_SPR": {
+        "id": "TB2-058_SPR",
+        "face": {
+            "front": {
+                "name": "Unyielding Victory Jackie Chun",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-058_SPR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Unyielding Victory Jackie Chun",
+        "type": "BATTLE",
+        "rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-058_SPR.webp",
+        "power": "20000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "Jackie Chun"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Barrier",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-059": {
+        "id": "TB2-059",
+        "face": {
+            "front": {
+                "name": "Doublechop Nam",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-059.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Doublechop Nam",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-059.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Nam"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Dual Attack",
+            "Barrier",
+            "Auto",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-060": {
+        "id": "TB2-060",
+        "face": {
+            "front": {
+                "name": "Ginormous Strength Giran",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-060.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Ginormous Strength Giran",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-060.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Giran"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-061": {
+        "id": "TB2-061",
+        "face": {
+            "front": {
+                "name": "Stenchful Bacterian",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-061.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Stenchful Bacterian",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-061.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Bacterian"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-061_PR": {
+        "id": "TB2-061_PR",
+        "face": {
+            "front": {
+                "name": "Stenchful Bacterian",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-061_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Stenchful Bacterian",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-061_PR.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Bacterian"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-062": {
+        "id": "TB2-062",
+        "face": {
+            "front": {
+                "name": "Risque Ranfan",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-062.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Risque Ranfan",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-062.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Ranfan"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-063": {
+        "id": "TB2-063",
+        "face": {
+            "front": {
+                "name": "Master Shen, Martial Meister",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "6000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-063.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Master Shen, Martial Meister",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-063.webp",
+        "power": "6000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Master Shen"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-064": {
+        "id": "TB2-064",
+        "face": {
+            "front": {
+                "name": "I'm the World Champion!",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-064.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "I'm the World Champion!",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-064.webp",
+        "power": "",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-065": {
+        "id": "TB2-065",
+        "face": {
+            "front": {
+                "name": "Announcer",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-065.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Announcer, Referee Veteran",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-065_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Announcer",
+        "type": "LEADER",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-065.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": [
+            "Announcer"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Once per turn",
+            "Awaken",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Announcer, Referee Veteran",
+        "back_power": "15000",
+        "back_character": [
+            "Announcer"
+        ],
+        "back_era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "back_traits": [
+            "Earthling",
+            "World Tournament"
+        ]
+    },
+    "TB2-066": {
+        "id": "TB2-066",
+        "face": {
+            "front": {
+                "name": "Announcer, Ever-Curious",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-066.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Announcer, Ever-Curious",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-066.webp",
+        "power": "1000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Announcer"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-067": {
+        "id": "TB2-067",
+        "face": {
+            "front": {
+                "name": "Announcer, Play-By-Play Pro",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-067.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Announcer, Play-By-Play Pro",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-067.webp",
+        "power": "1000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "TB2",
+        "character": [
+            "Announcer"
+        ],
+        "era": [
+            "The Evil Wizard Babidi Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Counter",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-068": {
+        "id": "TB2-068",
+        "face": {
+            "front": {
+                "name": "World Tournament Arena",
+                "type": "EXTRA",
+                "cost": "0",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-068.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "World Tournament Arena",
+        "type": "EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-068.webp",
+        "power": "",
+        "color": "Black",
+        "energy_cost": "0",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "TB2",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Field",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "TB2-069": {
+        "id": "TB2-069",
+        "face": {
+            "front": {
+                "name": "Son Goku & Uub, Seeds of the Future",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "40000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-069.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Son Goku & Uub, Seeds of the Future",
+        "type": "BATTLE",
+        "rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/TB2-069.webp",
+        "power": "40000",
+        "color": "Blue",
+        "energy_cost": "8",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "TB2",
+        "character": [
+            "Son Goku",
+            "Uub"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Dual Attack",
+            "Ultimate",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

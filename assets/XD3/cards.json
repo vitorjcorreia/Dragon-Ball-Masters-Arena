@@ -1,0 +1,705 @@
+{
+    "XD3-01": {
+        "id": "XD3-01",
+        "face": {
+            "front": {
+                "name": "Cell",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Cell & Cell Jr., Endless Supremity",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cell",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-01.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "XD3",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Field",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Cell & Cell Jr., Endless Supremity",
+        "back_power": "15000",
+        "back_character": [
+            "Cell",
+            "Cell Jr."
+        ],
+        "back_era": [
+            "Android Cell Saga"
+        ],
+        "back_traits": [
+            "Android"
+        ]
+    },
+    "XD3-02": {
+        "id": "XD3-02",
+        "face": {
+            "front": {
+                "name": "Cell, Genetic Consumption",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cell, Genetic Consumption",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Union Absorb"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-02_PR": {
+        "id": "XD3-02_PR",
+        "face": {
+            "front": {
+                "name": "Cell, Genetic Consumption",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cell, Genetic Consumption",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02_PR.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Union Absorb"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-03": {
+        "id": "XD3-03",
+        "face": {
+            "front": {
+                "name": "Android 18, Imminent Danger",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 18, Imminent Danger",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-03.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Android 18"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-04": {
+        "id": "XD3-04",
+        "face": {
+            "front": {
+                "name": "Android 17, Impending Crisis",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 17, Impending Crisis",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-04_PR": {
+        "id": "XD3-04_PR",
+        "face": {
+            "front": {
+                "name": "Android 17, Impending Crisis",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 17, Impending Crisis",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Counter: Attack",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-04_PR2": {
+        "id": "XD3-04_PR2",
+        "face": {
+            "front": {
+                "name": "Android 17, Impending Crisis",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR2.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 17, Impending Crisis",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR2.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Counter: Attack",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-05": {
+        "id": "XD3-05",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Valiant Breakthrough",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS Son Goku, Valiant Breakthrough",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-05.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-06": {
+        "id": "XD3-06",
+        "face": {
+            "front": {
+                "name": "SS Vegeta, Begrudging Support",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS Vegeta, Begrudging Support",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-06.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD3",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-07": {
+        "id": "XD3-07",
+        "face": {
+            "front": {
+                "name": "Pernicious Progeny",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-07.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Pernicious Progeny",
+        "type": "EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-07.webp",
+        "power": "",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "XD3",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Battle",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-08": {
+        "id": "XD3-08",
+        "face": {
+            "front": {
+                "name": "SS2 Son Gohan, Wounded Victor",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "30000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-08.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS2 Son Gohan, Wounded Victor",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-08.webp",
+        "power": "30000",
+        "color": "Green/Yellow",
+        "energy_cost": "8",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "XD3",
+        "character": [
+            "Son Gohan: Childhood"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Triple Strike",
+            "Energy-Exhaust",
+            "Successor",
+            "Auto",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-09": {
+        "id": "XD3-09",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Misspent",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cell, Perfection Misspent",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09.webp",
+        "power": "20000",
+        "color": "Green/Yellow",
+        "energy_cost": "8",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "XD3",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-09_PR": {
+        "id": "XD3-09_PR",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Misspent",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cell, Perfection Misspent",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09_PR.webp",
+        "power": "20000",
+        "color": "Green/Yellow",
+        "energy_cost": "8",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "XD3",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-10": {
+        "id": "XD3-10",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Reclaimed",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cell, Perfection Reclaimed",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10.webp",
+        "power": "15000",
+        "color": "Green/Yellow",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "XD3",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Union Absorb",
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD3-10_PR": {
+        "id": "XD3-10_PR",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Reclaimed",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cell, Perfection Reclaimed",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10_PR.webp",
+        "power": "15000",
+        "color": "Green/Yellow",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "XD3",
+        "character": [
+            "Cell"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Union Absorb",
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

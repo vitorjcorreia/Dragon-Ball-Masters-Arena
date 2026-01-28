@@ -1,0 +1,525 @@
+{
+    "XD1-01": {
+        "id": "XD1-01",
+        "face": {
+            "front": {
+                "name": "Cabba",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Vegeta & Cabba, Master & Pupil",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cabba",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-01.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "XD1",
+        "character": [
+            "Cabba"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Awaken",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Vegeta & Cabba, Master & Pupil",
+        "back_power": "15000",
+        "back_character": [
+            "Vegeta",
+            "Cabba"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 7",
+            "Universe 6"
+        ]
+    },
+    "XD1-02": {
+        "id": "XD1-02",
+        "face": {
+            "front": {
+                "name": "Vegeta, Saiyan of Universe 7",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Saiyan of Universe 7",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-02.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD1",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-03": {
+        "id": "XD1-03",
+        "face": {
+            "front": {
+                "name": "Champa, Scheming God of Destruction",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Champa, Scheming God of Destruction",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-03.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD1",
+        "character": [
+            "Champa"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-04": {
+        "id": "XD1-04",
+        "face": {
+            "front": {
+                "name": "Sisterly Bonds Kale",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "9000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Sisterly Bonds Kale",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-04.webp",
+        "power": "9000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD1",
+        "character": [
+            "Kale"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-05": {
+        "id": "XD1-05",
+        "face": {
+            "front": {
+                "name": "Hit, Ace of Universe 6",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Hit, Ace of Universe 6",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-05.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD1",
+        "character": [
+            "Hit"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Bond 2"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-06": {
+        "id": "XD1-06",
+        "face": {
+            "front": {
+                "name": "Cabba, Saiyan of Universe 6",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cabba, Saiyan of Universe 6",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-06.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD1",
+        "character": [
+            "Cabba"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-07": {
+        "id": "XD1-07",
+        "face": {
+            "front": {
+                "name": "Caulifla, Troublemaker of Universe 6",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-07.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Caulifla, Troublemaker of Universe 6",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-07.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "XD1",
+        "character": [
+            "Caulifla"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-08": {
+        "id": "XD1-08",
+        "face": {
+            "front": {
+                "name": "Vegeta & Cabba, Master-Pupil Bond",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "19000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-08.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta & Cabba, Master-Pupil Bond",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-08.webp",
+        "power": "19000",
+        "color": "Blue/Yellow",
+        "energy_cost": "3",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "XD1",
+        "character": [
+            "Vegeta",
+            "Cabba"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 7",
+            "Universe 6"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Aegis",
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-09": {
+        "id": "XD1-09",
+        "face": {
+            "front": {
+                "name": "Planet Sadala",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-09.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Planet Sadala",
+        "type": "EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-09.webp",
+        "power": "",
+        "color": "Blue/Yellow",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "XD1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Field",
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-10": {
+        "id": "XD1-10",
+        "face": {
+            "front": {
+                "name": "Frost's Deadly Poison",
+                "type": "EXTRA",
+                "cost": "3",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-10.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Frost's Deadly Poison",
+        "type": "EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-10.webp",
+        "power": "",
+        "color": "Blue/Yellow",
+        "energy_cost": "3",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "XD1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Counter: Play"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "XD1-10_PR": {
+        "id": "XD1-10_PR",
+        "face": {
+            "front": {
+                "name": "Frost's Deadly Poison",
+                "type": "EXTRA",
+                "cost": "3",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-10_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Frost's Deadly Poison",
+        "type": "EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD1-10_PR.webp",
+        "power": null,
+        "color": "Blue/Yellow",
+        "energy_cost": "3",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "XD1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Energy-Exhaust",
+            "Counter: Play"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

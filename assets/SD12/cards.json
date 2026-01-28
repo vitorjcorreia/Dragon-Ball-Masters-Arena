@@ -1,0 +1,245 @@
+{
+    "SD12-01": {
+        "id": "SD12-01",
+        "face": {
+            "front": {
+                "name": "Vegito",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SSB Vegito, Godhood Transcended",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegito",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-01.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD12",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Activate: Battle",
+            "Triple Strike",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": "SSB Vegito, Godhood Transcended",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Future Trunks Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "SD12-02": {
+        "id": "SD12-02",
+        "face": {
+            "front": {
+                "name": "Gogeta, Pursuit of Power",
+                "type": "UNISON",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Gogeta, Pursuit of Power",
+        "type": "UNISON",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-02.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD12",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "0",
+            "Activate: Main",
+            "-2",
+            "Barrier"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD12-03": {
+        "id": "SD12-03",
+        "face": {
+            "front": {
+                "name": "SSB Son Goku, Tenacious Warrior",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SSB Son Goku, Tenacious Warrior",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-03.webp",
+        "power": "4000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD12",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD12-04": {
+        "id": "SD12-04",
+        "face": {
+            "front": {
+                "name": "SSB Vegeta, Heroic Warrior",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SSB Vegeta, Heroic Warrior",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-04.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD12",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Critical",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD12-05": {
+        "id": "SD12-05",
+        "face": {
+            "front": {
+                "name": "SS Trunks, Architect of Peace",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS Trunks, Architect of Peace",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD12-05.webp",
+        "power": "5000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD12",
+        "character": [
+            "Trunks: Future"
+        ],
+        "era": [
+            "Future Trunks Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

@@ -1,0 +1,293 @@
+{
+    "EX10-01": {
+        "id": "EX10-01",
+        "face": {
+            "front": {
+                "name": "Heavy Kick Krillin",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-01.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Heavy Kick Krillin",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-01.webp",
+        "power": "5000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX10",
+        "character": [
+            "Krillin"
+        ],
+        "era": [
+            "Dr. Uiro Saga"
+        ],
+        "traits": [
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX10-02": {
+        "id": "EX10-02",
+        "face": {
+            "front": {
+                "name": "Master Roshi, Kamehameha Origins",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Master Roshi, Kamehameha Origins",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-02.webp",
+        "power": "5000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX10",
+        "character": [
+            "Master Roshi"
+        ],
+        "era": [
+            "Dr. Uiro Saga"
+        ],
+        "traits": [
+            "Earthling"
+        ],
+        "banned": true,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX10-03": {
+        "id": "EX10-03",
+        "face": {
+            "front": {
+                "name": "Piccolo",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-03.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Gohan & Piccolo, Surge of Consciousness",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-03_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Piccolo",
+        "type": "LEADER",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-03.webp",
+        "power": "10000",
+        "color": "Blue/Green",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX10",
+        "character": [
+            "Piccolo"
+        ],
+        "era": [
+            "Dr. Uiro Saga"
+        ],
+        "traits": [
+            "Namekian",
+            "Frenzied Warrior"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "Awaken: Surge",
+            "Activate: Main/Battle",
+            "Energy-Exhaust"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Son Gohan & Piccolo, Surge of Consciousness",
+        "back_power": "15000",
+        "back_character": [
+            "Son Gohan: Youth",
+            "Piccolo"
+        ],
+        "back_era": [
+            "Dr. Uiro Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Earthling",
+            "Namekian"
+        ]
+    },
+    "EX10-04": {
+        "id": "EX10-04",
+        "face": {
+            "front": {
+                "name": "Kaio-Ken Son Goku Returns",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Kaio-Ken Son Goku Returns",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-04.webp",
+        "power": "15000",
+        "color": "Blue/Green",
+        "energy_cost": "2",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EX10",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Dr. Uiro Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Revive Blue/Green",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX10-05": {
+        "id": "EX10-05",
+        "face": {
+            "front": {
+                "name": "Dr. Uiro, Cybernetic Rebirth",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Dr. Uiro, Cybernetic Rebirth",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-05.webp",
+        "power": "15000",
+        "color": "Blue/Green",
+        "energy_cost": "2",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EX10",
+        "character": [
+            "Dr. Uiro"
+        ],
+        "era": [
+            "Dr. Uiro Saga"
+        ],
+        "traits": [
+            "Scientist"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Energy-Exhaust",
+            "Auto",
+            "Revive"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX10-06": {
+        "id": "EX10-06",
+        "face": {
+            "front": {
+                "name": "Hidden Potential",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Hidden Potential",
+        "type": "EXTRA",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-06.webp",
+        "power": "",
+        "color": "Blue/Green",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX10",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Counter: Play"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

@@ -1,0 +1,401 @@
+{
+    "SD23-01": {
+        "id": "SD23-01",
+        "face": {
+            "front": {
+                "name": "Son Goku & Vegeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SSB Vegito, Shining Warrior",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku & Vegeta",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-01.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD23",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": null,
+        "back_name": "SSB Vegito, Shining Warrior",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Prison Planet Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "SD23-01_PR": {
+        "id": "SD23-01_PR",
+        "face": {
+            "front": {
+                "name": "Son Goku & Vegeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-01_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SSB Vegito, Shining Warrior",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-01_PR_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku & Vegeta",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-01_PR.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD23",
+        "character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "activate main",
+            "once per turn",
+            "awaken"
+        ],
+        "z_energy_cost": null,
+        "back_name": "SSB Vegito, Shining Warrior",
+        "back_power": "15000",
+        "back_character": [
+            "Vegito"
+        ],
+        "back_era": [
+            "Prison Planet Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "SD23-02": {
+        "id": "SD23-02",
+        "face": {
+            "front": {
+                "name": "SS Trunks, Guide From the Future",
+                "type": "Z-BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS Trunks, Guide From the Future",
+        "type": "Z-BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-02.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD23",
+        "character": [
+            "Trunks: Future"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "deflect",
+            "permanent",
+            "activate main",
+            "black_ball"
+        ],
+        "z_energy_cost": "2",
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD23-03": {
+        "id": "SD23-03",
+        "face": {
+            "front": {
+                "name": "Mai, Together With Trunks",
+                "type": "Z-BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Mai, Together With Trunks",
+        "type": "Z-BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-03.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD23",
+        "character": [
+            "Mai: Future"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "barrier",
+            "z-stack 1",
+            "activate main"
+        ],
+        "z_energy_cost": "1",
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD23-04": {
+        "id": "SD23-04",
+        "face": {
+            "front": {
+                "name": "Final Kamehameha",
+                "type": "Z-EXTRA",
+                "cost": "1",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Final Kamehameha",
+        "type": "Z-EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-04.webp",
+        "power": null,
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD23",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "activate: battle",
+            "limit 1"
+        ],
+        "z_energy_cost": "1",
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD23-05": {
+        "id": "SD23-05",
+        "face": {
+            "front": {
+                "name": "Son Goku, Help Has Arrived",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Son Goku, Help Has Arrived",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-05.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD23",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD23-06": {
+        "id": "SD23-06",
+        "face": {
+            "front": {
+                "name": "Vegeta, Help Has Arrived",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Help Has Arrived",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-06.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD23",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD23-07": {
+        "id": "SD23-07",
+        "face": {
+            "front": {
+                "name": "SSB Vegito, Beyond Shining",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-07.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SSB Vegito, Beyond Shining",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD23-07.webp",
+        "power": "20000",
+        "color": "Black",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD23",
+        "character": [
+            "Vegito"
+        ],
+        "era": [
+            "Prison Planet Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "deflect",
+            "union-potara",
+            "limit 1",
+            "activate main",
+            "once per turn",
+            "black_ball",
+            "activate: battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

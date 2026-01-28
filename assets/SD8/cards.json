@@ -1,0 +1,538 @@
+{
+    "SD8-01": {
+        "id": "SD8-01",
+        "face": {
+            "front": {
+                "name": "Broly",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Broly, Evil Unleashed",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Broly",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-01.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD8",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Awaken",
+            "Permanent",
+            "Auto",
+            "Sparking 7",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Broly, Evil Unleashed",
+        "back_power": "15000",
+        "back_character": [
+            "Broly: Br"
+        ],
+        "back_era": [
+            "DBS: Broly Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ]
+    },
+    "SD8-02": {
+        "id": "SD8-02",
+        "face": {
+            "front": {
+                "name": "Broly, the Ravager",
+                "type": "BATTLE",
+                "cost": "7",
+                "power": "30000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Broly, the Ravager",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-02.webp",
+        "power": "30000",
+        "color": "Green",
+        "energy_cost": "7",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "SD8",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Activate: Battle",
+            "Once per turn",
+            "Burst 3"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD8-03": {
+        "id": "SD8-03",
+        "face": {
+            "front": {
+                "name": "Broly, Rushing Forth",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Broly, Rushing Forth",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-03.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD8",
+        "character": [
+            "Broly: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD8-04": {
+        "id": "SD8-04",
+        "face": {
+            "front": {
+                "name": "Defending Father Paragus",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Defending Father Paragus",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-04.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "10000",
+        "series": "SD8",
+        "character": [
+            "Paragus: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD8-04_PR": {
+        "id": "SD8-04_PR",
+        "face": {
+            "front": {
+                "name": "Defending Father Paragus",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-04_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Defending Father Paragus",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-04_PR.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "10000",
+        "series": "SD8",
+        "character": [
+            "Paragus: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD8-05": {
+        "id": "SD8-05",
+        "face": {
+            "front": {
+                "name": "Cheelai, Frieza Force Soldier",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Cheelai, Frieza Force Soldier",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-05.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD8",
+        "character": [
+            "Cheelai: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": [
+            "Frieza's Army"
+        ]
+    },
+    "SD8-06": {
+        "id": "SD8-06",
+        "face": {
+            "front": {
+                "name": "Lemo, Frieza Force Soldier",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Lemo, Frieza Force Soldier",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-06.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD8",
+        "character": [
+            "Lemo: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": [
+            "Frieza's Army"
+        ]
+    },
+    "SD8-07": {
+        "id": "SD8-07",
+        "face": {
+            "front": {
+                "name": "Son Goku, Time to Fight",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-07.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Son Goku, Time to Fight",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-07.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD8",
+        "character": [
+            "Son Goku: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD8-08": {
+        "id": "SD8-08",
+        "face": {
+            "front": {
+                "name": "Vegeta, Time to Fight",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-08.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Time to Fight",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-08.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD8",
+        "character": [
+            "Vegeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD8-09": {
+        "id": "SD8-09",
+        "face": {
+            "front": {
+                "name": "Godly Destruction Whis",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-09.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Godly Destruction Whis",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-09.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD8",
+        "character": [
+            "Whis: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "Awaken"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD8-10": {
+        "id": "SD8-10",
+        "face": {
+            "front": {
+                "name": "Godly Destruction Beerus",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-10.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Godly Destruction Beerus",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD8-10.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD8",
+        "character": [
+            "Beerus: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

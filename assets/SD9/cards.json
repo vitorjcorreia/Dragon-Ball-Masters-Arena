@@ -1,0 +1,248 @@
+{
+    "SD9-01": {
+        "id": "SD9-01",
+        "face": {
+            "front": {
+                "name": "King Vegeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "King Vegeta, Leader of the Saiyans",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "King Vegeta",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-01.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD9",
+        "character": [
+            "King Vegeta"
+        ],
+        "era": [
+            "Bardock Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": "King Vegeta, Leader of the Saiyans",
+        "back_power": "15000",
+        "back_character": [
+            "King Vegeta"
+        ],
+        "back_era": [
+            "Bardock Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "SD9-02": {
+        "id": "SD9-02",
+        "face": {
+            "front": {
+                "name": "Raditz, Earth Invader",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Raditz, Earth Invader",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-02.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD9",
+        "character": [
+            "Raditz"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD9-03": {
+        "id": "SD9-03",
+        "face": {
+            "front": {
+                "name": "Vegeta, Royal Prince",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Royal Prince",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-03.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD9",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD9-04": {
+        "id": "SD9-04",
+        "face": {
+            "front": {
+                "name": "Fated Kaio-Ken Son Goku",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Fated Kaio-Ken Son Goku",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-04.webp",
+        "power": "20000",
+        "color": "Red/Green",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "SD9",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Arrival Red/Green",
+            "Energy-Exhaust",
+            "Permanent",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike",
+            "Dual Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD9-05": {
+        "id": "SD9-05",
+        "face": {
+            "front": {
+                "name": "King Vegeta's Dynasty",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "King Vegeta's Dynasty",
+        "type": "EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD9-05.webp",
+        "power": "",
+        "color": "Red/Green",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD9",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Field",
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

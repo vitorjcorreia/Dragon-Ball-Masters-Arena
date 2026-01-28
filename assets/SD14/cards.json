@@ -1,0 +1,344 @@
+{
+    "SD14-01": {
+        "id": "SD14-01",
+        "face": {
+            "front": {
+                "name": "Vegeta : Xeno & Trunks : Xeno",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Vegeks, the Unsung Fusion Hero",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegeta : Xeno & Trunks : Xeno",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-01.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD14",
+        "character": [
+            "Vegeta: Xeno",
+            "Trunks: Xeno"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Activate: Main",
+            "Once per turn",
+            "Burst 5",
+            "Awaken",
+            "Sparking 20",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Vegeks, the Unsung Fusion Hero",
+        "back_power": "15000",
+        "back_character": [
+            "Vegeks: Xeno"
+        ],
+        "back_era": [
+            "Dark Empire Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Earthling"
+        ]
+    },
+    "SD14-02": {
+        "id": "SD14-02",
+        "face": {
+            "front": {
+                "name": "SS Gotenks, Fusion of Friendship",
+                "type": "UNISON",
+                "cost": null,
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS Gotenks, Fusion of Friendship",
+        "type": "UNISON",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-02.webp",
+        "power": "5000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD14",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "+2",
+            "Activate: Main",
+            "-4",
+            "Dual Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD14-03": {
+        "id": "SD14-03",
+        "face": {
+            "front": {
+                "name": "Time Agent Vegeta",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "19000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Time Agent Vegeta",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-03.webp",
+        "power": "19000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD14",
+        "character": [
+            "Vegeta: Xeno"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Activate: Battle",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD14-04": {
+        "id": "SD14-04",
+        "face": {
+            "front": {
+                "name": "Time Agent Trunks",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Time Agent Trunks",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-04.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD14",
+        "character": [
+            "Trunks: Xeno"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Blocker",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD14-05": {
+        "id": "SD14-05",
+        "face": {
+            "front": {
+                "name": "Supreme Kai of Time, Guardian of Spacetime",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Supreme Kai of Time, Guardian of Spacetime",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD14",
+        "character": [
+            "Supreme Kai of Time"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD14-05_PR": {
+        "id": "SD14-05_PR",
+        "face": {
+            "front": {
+                "name": "Supreme Kai of Time, Guardian of Spacetime",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Supreme Kai of Time, Guardian of Spacetime",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD14",
+        "character": [
+            "Supreme Kai of Time"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD14-05_PR2": {
+        "id": "SD14-05_PR2",
+        "face": {
+            "front": {
+                "name": "Supreme Kai of Time, Guardian of Spacetime",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR2.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Supreme Kai of Time, Guardian of Spacetime",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR2.webp",
+        "power": "4000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD14",
+        "character": [
+            "Supreme Kai of Time"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

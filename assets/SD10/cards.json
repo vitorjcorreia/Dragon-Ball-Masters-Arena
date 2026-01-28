@@ -1,0 +1,300 @@
+{
+    "SD10-01": {
+        "id": "SD10-01",
+        "face": {
+            "front": {
+                "name": "Baby Vegeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Super Baby 2, Out for Revenge",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Baby Vegeta",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-01.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD10",
+        "character": [
+            "Baby",
+            "Vegeta: GT"
+        ],
+        "era": [
+            "Baby Saga"
+        ],
+        "traits": [
+            "Machine Mutant",
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Dual Attack",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Super Baby 2, Out for Revenge",
+        "back_power": "15000",
+        "back_character": [
+            "Baby Vegeta: GT"
+        ],
+        "back_era": [
+            "Baby Saga"
+        ],
+        "back_traits": [
+            "Machine Mutant",
+            "Saiyan"
+        ]
+    },
+    "SD10-02": {
+        "id": "SD10-02",
+        "face": {
+            "front": {
+                "name": "SS3 Son Goku, the Last Straw",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS3 Son Goku, the Last Straw",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-02.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD10",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Baby Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD10-02_PR": {
+        "id": "SD10-02_PR",
+        "face": {
+            "front": {
+                "name": "SS3 Son Goku, the Last Straw",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-02_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS3 Son Goku, the Last Straw",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-02_PR.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD10",
+        "character": [
+            "Son Goku: GT"
+        ],
+        "era": [
+            "Baby Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Auto",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD10-03": {
+        "id": "SD10-03",
+        "face": {
+            "front": {
+                "name": "Super Baby 1, the Conqueror",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Super Baby 1, the Conqueror",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-03.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD10",
+        "character": [
+            "Baby",
+            "Vegeta: GT"
+        ],
+        "era": [
+            "Baby Saga"
+        ],
+        "traits": [
+            "Machine Mutant",
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD10-04": {
+        "id": "SD10-04",
+        "face": {
+            "front": {
+                "name": "Super Baby 2, Vengeful Rampage",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Super Baby 2, Vengeful Rampage",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-04.webp",
+        "power": "25000",
+        "color": "Red/Yellow",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "SD10",
+        "character": [
+            "Baby",
+            "Vegeta: GT"
+        ],
+        "era": [
+            "Baby Saga"
+        ],
+        "traits": [
+            "Machine Mutant",
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "EX-Evolve",
+            "Energy-Exhaust",
+            "Offering",
+            "Auto",
+            "Barrier",
+            "Dual Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD10-05": {
+        "id": "SD10-05",
+        "face": {
+            "front": {
+                "name": "Battle to the Death",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Battle to the Death",
+        "type": "EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD10-05.webp",
+        "power": "",
+        "color": "Red/Yellow",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD10",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Activate: Main",
+            "Barrier"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "SD3-01": {
+        "id": "SD3-01",
+        "face": {
+            "front": {
+                "name": "The Masked Saiyan",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Bardock, Unbound by Darkness",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "The Masked Saiyan",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-01.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD3",
+        "character": [
+            "Masked Saiyan"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Critical",
+            "Awaken",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Bardock, Unbound by Darkness",
+        "back_power": "15000",
+        "back_character": [
+            "Bardock: Xeno"
+        ],
+        "back_era": [
+            "Dark Demon Realm Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "SD3-02": {
+        "id": "SD3-02",
+        "face": {
+            "front": {
+                "name": "Killer Sword Trunks",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Killer Sword Trunks",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-02.webp",
+        "power": "20000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD3",
+        "character": [
+            "Trunks: Xeno"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Xeno-Evolve",
+            "Double Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD3-03": {
+        "id": "SD3-03",
+        "face": {
+            "front": {
+                "name": "Quick blade Trunks",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Quick blade Trunks",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-03.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD3",
+        "character": [
+            "Trunks: Xeno"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Over Realm 2",
+            "Over Realm"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD3-04": {
+        "id": "SD3-04",
+        "face": {
+            "front": {
+                "name": "Encroaching Threat Masked Saiyan",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Encroaching Threat Masked Saiyan",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-04.webp",
+        "power": "20000",
+        "color": "Black",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD3",
+        "character": [
+            "Masked Saiyan"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD3-05": {
+        "id": "SD3-05",
+        "face": {
+            "front": {
+                "name": "Power Aura Mira",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Power Aura Mira",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD3-05.webp",
+        "power": "15000",
+        "color": "Black",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD3",
+        "character": [
+            "Mira"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

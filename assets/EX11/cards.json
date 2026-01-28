@@ -1,0 +1,341 @@
+{
+    "EX11-01": {
+        "id": "EX11-01",
+        "face": {
+            "front": {
+                "name": "Vegeta",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Vegeta, Candidate of Destruction",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegeta",
+        "type": "LEADER",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-01.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX11",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Once per turn",
+            "Dual Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Vegeta, Candidate of Destruction",
+        "back_power": "15000",
+        "back_character": [
+            "Vegeta"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Universe 7"
+        ]
+    },
+    "EX11-02": {
+        "id": "EX11-02",
+        "face": {
+            "front": {
+                "name": "Gotenks, Unison of Rage",
+                "type": "UNISON",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Gotenks, Unison of Rage",
+        "type": "UNISON",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-02.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX11",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "+1",
+            "Activate: Main",
+            "-2"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX11-03": {
+        "id": "EX11-03",
+        "face": {
+            "front": {
+                "name": "Whis, Destruction's Conductor",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Whis, Destruction's Conductor",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-03.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX11",
+        "character": [
+            "Whis"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX11-04": {
+        "id": "EX11-04",
+        "face": {
+            "front": {
+                "name": "Beerus, Wrath of the Gods",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Beerus, Wrath of the Gods",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-04.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX11",
+        "character": [
+            "Beerus"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "God",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Unique",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX11-05": {
+        "id": "EX11-05",
+        "face": {
+            "front": {
+                "name": "Android 17, High Alert",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 17, High Alert",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-05.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX11",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Android",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Activate: Main",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX11-06": {
+        "id": "EX11-06",
+        "face": {
+            "front": {
+                "name": "Frieza, Fair-Weather Fiend",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Frieza, Fair-Weather Fiend",
+        "type": "BATTLE",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-06.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EX11",
+        "character": [
+            "Frieza"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Unique",
+            "Auto",
+            "Once per turn",
+            "Counter",
+            "Barrier"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EX11-07": {
+        "id": "EX11-07",
+        "face": {
+            "front": {
+                "name": "Omen of Awakening",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-07.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Omen of Awakening",
+        "type": "EXTRA",
+        "rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX11-07.webp",
+        "power": "",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EX11",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Play",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

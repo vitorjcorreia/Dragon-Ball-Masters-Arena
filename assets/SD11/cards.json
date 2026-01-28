@@ -1,0 +1,246 @@
+{
+    "SD11-01": {
+        "id": "SD11-01",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Ultra Instinct Son Goku, Hero of Universe 7",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-01.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD11",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Critical",
+            "Warrior of Universe 7",
+            "Awaken",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Ultra Instinct Son Goku, Hero of Universe 7",
+        "back_power": "15000",
+        "back_character": [
+            "Son Goku"
+        ],
+        "back_era": [
+            "Universe Survival Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Universe 7"
+        ]
+    },
+    "SD11-02": {
+        "id": "SD11-02",
+        "face": {
+            "front": {
+                "name": "Friendly Rival Frieza",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Friendly Rival Frieza",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-02.webp",
+        "power": "20000",
+        "color": "Red",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD11",
+        "character": [
+            "Frieza"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD11-03": {
+        "id": "SD11-03",
+        "face": {
+            "front": {
+                "name": "Ultra Instinct Son Goku, Universal Impulse",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "16000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Ultra Instinct Son Goku, Universal Impulse",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-03.webp",
+        "power": "16000",
+        "color": "Red/Blue",
+        "energy_cost": "2",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "SD11",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD11-04": {
+        "id": "SD11-04",
+        "face": {
+            "front": {
+                "name": "SSB Vegeta, Steadfast Ally",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SSB Vegeta, Steadfast Ally",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-04.webp",
+        "power": "25000",
+        "color": "Red/Blue",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "SD11",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Energy-Exhaust",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD11-05": {
+        "id": "SD11-05",
+        "face": {
+            "front": {
+                "name": "We're in This Together!",
+                "type": "EXTRA",
+                "cost": "4",
+                "power": "",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "We're in This Together!",
+        "type": "EXTRA",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD11-05.webp",
+        "power": "",
+        "color": "Red/Blue",
+        "energy_cost": "4",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD11",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

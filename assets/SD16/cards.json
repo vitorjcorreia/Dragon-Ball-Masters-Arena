@@ -1,0 +1,258 @@
+{
+    "SD16-01": {
+        "id": "SD16-01",
+        "face": {
+            "front": {
+                "name": "Masked Saiyan",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SS3 Bardock, Reborn from Darkness",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Masked Saiyan",
+        "type": "LEADER",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-01.webp",
+        "power": "10000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD16",
+        "character": [
+            "Masked Saiyan"
+        ],
+        "era": [
+            "Dark Demon Realm Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Burst 3",
+            "Critical",
+            "Awaken",
+            "Auto",
+            "Spirit Boost"
+        ],
+        "z_energy_cost": null,
+        "back_name": "SS3 Bardock, Reborn from Darkness",
+        "back_power": "15000",
+        "back_character": [
+            "Bardock: Xeno"
+        ],
+        "back_era": [
+            "Dark Demon Realm Saga"
+        ],
+        "back_traits": [
+            "Saiyan"
+        ]
+    },
+    "SD16-02": {
+        "id": "SD16-02",
+        "face": {
+            "front": {
+                "name": "Dark Masked King, Spirit Resonance",
+                "type": "UNISON",
+                "cost": null,
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Dark Masked King, Spirit Resonance",
+        "type": "UNISON",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-02.webp",
+        "power": "5000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "SD16",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "Spirit Boost",
+            "+2",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD16-03": {
+        "id": "SD16-03",
+        "face": {
+            "front": {
+                "name": "Dark Broly, Spirit Boost Berserker",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "30000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Dark Broly, Spirit Boost Berserker",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-03.webp",
+        "power": "30000",
+        "color": "Red",
+        "energy_cost": "6",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD16",
+        "character": [
+            "Dark Broly"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": true,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Activate: Main",
+            "Limit 1",
+            "Spirit Boost 1",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD16-04": {
+        "id": "SD16-04",
+        "face": {
+            "front": {
+                "name": "Masked Saiyan, Spirit Boost Enigma",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Masked Saiyan, Spirit Boost Enigma",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-04.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD16",
+        "character": [
+            "Masked Saiyan"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Dual Attack",
+            "Activate: Main",
+            "Limit 1",
+            "Spirit Boost 1"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "SD16-05": {
+        "id": "SD16-05",
+        "face": {
+            "front": {
+                "name": "Black Masked Saiyan, Spirit Boost Minion",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Black Masked Saiyan, Spirit Boost Minion",
+        "type": "BATTLE",
+        "rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD16-05.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "SD16",
+        "character": [
+            "Black Masked Saiyan"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Spirit Boost 1"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}

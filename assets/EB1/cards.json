@@ -1,0 +1,3805 @@
+{
+    "EB1-01": {
+        "id": "EB1-01",
+        "face": {
+            "front": {
+                "name": "Nappa",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Nappa & Saibaimen, the First Invaders",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Nappa",
+        "type": "LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-01.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": [
+            "Nappa"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Nappa & Saibaimen, the First Invaders",
+        "back_power": "15000",
+        "back_character": [
+            "Nappa",
+            "Saibaiman"
+        ],
+        "back_era": [
+            "Saiyan Saga"
+        ],
+        "back_traits": [
+            "Saiyan",
+            "Alien"
+        ]
+    },
+    "EB1-02": {
+        "id": "EB1-02",
+        "face": {
+            "front": {
+                "name": "Yamcha, Wolf Fang Pitching Fistball",
+                "type": "UNISON",
+                "cost": null,
+                "power": "9000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-02.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Yamcha, Wolf Fang Pitching Fistball",
+        "type": "UNISON",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-02.webp",
+        "power": "9000",
+        "color": "Red",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Once per turn",
+            "+1",
+            "Activate: Main",
+            "-5"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-03": {
+        "id": "EB1-03",
+        "face": {
+            "front": {
+                "name": "Launch, Inspiring Support",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-03.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Launch, Inspiring Support",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-03.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Launch"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-04": {
+        "id": "EB1-04",
+        "face": {
+            "front": {
+                "name": "Vegeta, the Executioner",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-04.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, the Executioner",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-04.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-05": {
+        "id": "EB1-05",
+        "face": {
+            "front": {
+                "name": "Nappa, Testing the Opposition",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-05.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Nappa, Testing the Opposition",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-05.webp",
+        "power": "10000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Nappa"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-06": {
+        "id": "EB1-06",
+        "face": {
+            "front": {
+                "name": "Saibaiman, Infinite Assault",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-06.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Saibaiman, Infinite Assault",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-06.webp",
+        "power": "4000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Saibaiman"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Alien"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-07": {
+        "id": "EB1-07",
+        "face": {
+            "front": {
+                "name": "Vegeta, Royal Evolution",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-07.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Royal Evolution",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-07.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-07_PR": {
+        "id": "EB1-07_PR",
+        "face": {
+            "front": {
+                "name": "Vegeta, Royal Evolution",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-07_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Royal Evolution",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-07_PR.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-07_PR2": {
+        "id": "EB1-07_PR2",
+        "face": {
+            "front": {
+                "name": "Vegeta, Royal Evolution",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-07_PR2.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Royal Evolution",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-07_PR2.webp",
+        "power": "15000",
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-08": {
+        "id": "EB1-08",
+        "face": {
+            "front": {
+                "name": "Golden Frieza, the Perished",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-08.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Golden Frieza, the Perished",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-08.webp",
+        "power": "5000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Frieza"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-09": {
+        "id": "EB1-09",
+        "face": {
+            "front": {
+                "name": "Vegeta the 3rd, Lineage's Beginning",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-09.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta the 3rd, Lineage's Beginning",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-09.webp",
+        "power": "4000",
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "King Vegeta: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Vegeta's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Swap 2",
+            "Auto",
+            "Activate: Battle",
+            "Once per turn",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-10": {
+        "id": "EB1-10",
+        "face": {
+            "front": {
+                "name": "Unexpected Casualties",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-10.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Unexpected Casualties",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-10.webp",
+        "power": null,
+        "color": "Red",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-11": {
+        "id": "EB1-11",
+        "face": {
+            "front": {
+                "name": "Testing the Opposition",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-11.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Testing the Opposition",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-11.webp",
+        "power": null,
+        "color": "Red",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-12": {
+        "id": "EB1-12",
+        "face": {
+            "front": {
+                "name": "Android 16",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-12.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Android 16, Bottomless Inferno",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-12_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 16",
+        "type": "LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-12.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": [
+            "Android 16"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Energy-Exhaust",
+            "Arrival Blue/Green",
+            "Auto",
+            "Awaken",
+            "Once per turn",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Android 16, Bottomless Inferno",
+        "back_power": "15000",
+        "back_character": [
+            "Android 16"
+        ],
+        "back_era": [
+            "Android Cell Saga"
+        ],
+        "back_traits": [
+            "Android"
+        ]
+    },
+    "EB1-13": {
+        "id": "EB1-13",
+        "face": {
+            "front": {
+                "name": "Super Android 13, Neverending Bloodlust",
+                "type": "UNISON",
+                "cost": null,
+                "power": "14000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-13.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Super Android 13, Neverending Bloodlust",
+        "type": "UNISON",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-13.webp",
+        "power": "14000",
+        "color": "Blue",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "+2",
+            "-4",
+            "Activate: Battle",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-13_PR": {
+        "id": "EB1-13_PR",
+        "face": {
+            "front": {
+                "name": "Super Android 13, Neverending Bloodlust",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "14000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-13_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Super Android 13, Neverending Bloodlust",
+        "type": "UNISON",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-13_PR.webp",
+        "power": "14000",
+        "color": "Blue",
+        "energy_cost": "X",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Activate ： Main",
+            "+2",
+            "-4",
+            "Activate ： Battle",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-14": {
+        "id": "EB1-14",
+        "face": {
+            "front": {
+                "name": "Tora, Keeper of the Red Armband",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-14.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Tora, Keeper of the Red Armband",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-14.webp",
+        "power": "4000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Tora"
+        ],
+        "era": [
+            "Bardock Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-15": {
+        "id": "EB1-15",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Revitalizing Absorption",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-15.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Majin Buu, Revitalizing Absorption",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-15.webp",
+        "power": "4000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Majin Buu"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Majin"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-16": {
+        "id": "EB1-16",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Tide-Turning Absorption",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "9000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-16.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Majin Buu, Tide-Turning Absorption",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-16.webp",
+        "power": "9000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Majin Buu"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Majin"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-17": {
+        "id": "EB1-17",
+        "face": {
+            "front": {
+                "name": "Bergamo, Unstoppable Colossus",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-17.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Bergamo, Unstoppable Colossus",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-17.webp",
+        "power": "4000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Bergamo"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Trio De Dangers",
+            "Universe 9"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-18": {
+        "id": "EB1-18",
+        "face": {
+            "front": {
+                "name": "Gine, Heroic Support",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-18.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Gine, Heroic Support",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-18.webp",
+        "power": "10000",
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "1000",
+        "series": "EB1",
+        "character": [
+            "Gine: Br"
+        ],
+        "era": [
+            "DBS: Broly Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Sparking 5",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-19": {
+        "id": "EB1-19",
+        "face": {
+            "front": {
+                "name": "Android 17, Restrained Support",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-19.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 17, Restrained Support",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-19.webp",
+        "power": "20000",
+        "color": "Blue",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 17"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-20": {
+        "id": "EB1-20",
+        "face": {
+            "front": {
+                "name": "Android 18, Let the Battle Begin",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-20.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 18, Let the Battle Begin",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-20.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 18"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Counter: Play",
+            "Permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-20_PR": {
+        "id": "EB1-20_PR",
+        "face": {
+            "front": {
+                "name": "Android 18, Let the Battle Begin",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-20_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 18, Let the Battle Begin",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-20_PR.webp",
+        "power": "15000",
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 18"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "blocker",
+            "counter: play",
+            "permanent"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-21": {
+        "id": "EB1-21",
+        "face": {
+            "front": {
+                "name": "Android 16, For His Mother",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-21.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 16, For His Mother",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-21.webp",
+        "power": "4000",
+        "color": "Blue",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 16"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Once per turn",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-22": {
+        "id": "EB1-22",
+        "face": {
+            "front": {
+                "name": "Chilled's Army Reinforcements",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-22.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Chilled's Army Reinforcements",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-22.webp",
+        "power": null,
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-22_PR": {
+        "id": "EB1-22_PR",
+        "face": {
+            "front": {
+                "name": "Chilled's Army Reinforcements",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-22_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Chilled's Army Reinforcements",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-22_PR.webp",
+        "power": null,
+        "color": "Blue",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-23": {
+        "id": "EB1-23",
+        "face": {
+            "front": {
+                "name": "Assault of the Great Apes",
+                "type": "EXTRA",
+                "cost": "4",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-23.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Assault of the Great Apes",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-23.webp",
+        "power": null,
+        "color": "Blue",
+        "energy_cost": "4",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-24": {
+        "id": "EB1-24",
+        "face": {
+            "front": {
+                "name": "Tien Shinhan",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-24.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Tien Shinhan, Mysterious Technique",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-24_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tien Shinhan",
+        "type": "LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-24.webp",
+        "power": "10000",
+        "color": "Green",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": [
+            "Tien Shinhan"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Awaken",
+            "Critical"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Tien Shinhan, Mysterious Technique",
+        "back_power": "15000",
+        "back_character": [
+            "Tien Shinhan"
+        ],
+        "back_era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "back_traits": [
+            "Earthling",
+            "World Tournament"
+        ]
+    },
+    "EB1-25": {
+        "id": "EB1-25",
+        "face": {
+            "front": {
+                "name": "Launch, the Wild One",
+                "type": "UNISON",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-25.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Launch, the Wild One",
+        "type": "UNISON",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-25.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "+1",
+            "-1"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-26": {
+        "id": "EB1-26",
+        "face": {
+            "front": {
+                "name": "Son Goku, the Long-Awaited Rematch",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-26.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Son Goku, the Long-Awaited Rematch",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-26.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Barrier",
+            "Permanent",
+            "Triple Strike",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-27": {
+        "id": "EB1-27",
+        "face": {
+            "front": {
+                "name": "Tien Shinhan, the Long-Awaited Rematch",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-27.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Tien Shinhan, the Long-Awaited Rematch",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-27.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Tien Shinhan"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Double Strike",
+            "Permanent",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-28": {
+        "id": "EB1-28",
+        "face": {
+            "front": {
+                "name": "Chiaotzu, Unwanted Reunion",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-28.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Chiaotzu, Unwanted Reunion",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-28.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Chiaotzu"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-29": {
+        "id": "EB1-29",
+        "face": {
+            "front": {
+                "name": "Mercenary Tao, Overflowing Confidence",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-29.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Mercenary Tao, Overflowing Confidence",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-29.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Mercenary Tao"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-30": {
+        "id": "EB1-30",
+        "face": {
+            "front": {
+                "name": "Broly, the Swift Berserker",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-30.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Broly, the Swift Berserker",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-30.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Broly"
+        ],
+        "era": [
+            "Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Evolve",
+            "Activate: Main",
+            "Field"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-31": {
+        "id": "EB1-31",
+        "face": {
+            "front": {
+                "name": "Broly, the Tamed Beast",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-31.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Broly, the Tamed Beast",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-31.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Broly"
+        ],
+        "era": [
+            "Broly Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-32": {
+        "id": "EB1-32",
+        "face": {
+            "front": {
+                "name": "Ribrianne, the Power of Support",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-32.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Ribrianne, the Power of Support",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-32.webp",
+        "power": "20000",
+        "color": "Green",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Ribrianne"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Maiden Squadron",
+            "Universe 2",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Double Strike",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-33": {
+        "id": "EB1-33",
+        "face": {
+            "front": {
+                "name": "Ribrianne, Pretty Cannon Unleashed",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-33.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Ribrianne, Pretty Cannon Unleashed",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-33.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Ribrianne"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Maiden Squadron",
+            "Universe 2",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Burst 2"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-34": {
+        "id": "EB1-34",
+        "face": {
+            "front": {
+                "name": "Kakunsa, Feral Fury",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-34.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Kakunsa, Feral Fury",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-34.webp",
+        "power": "4000",
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Kakunsa"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Maiden Squadron",
+            "Universe 2",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Burst 2",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-35": {
+        "id": "EB1-35",
+        "face": {
+            "front": {
+                "name": "Rozie, Blast Manipulator",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-35.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Rozie, Blast Manipulator",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-35.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Rozie"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Maiden Squadron",
+            "Universe 2",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Auto",
+            "Triple Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-35_PR": {
+        "id": "EB1-35_PR",
+        "face": {
+            "front": {
+                "name": "Rozie, Blast Manipulator",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-35_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Rozie, Blast Manipulator",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-35_PR.webp",
+        "power": "15000",
+        "color": "Green",
+        "energy_cost": "3",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Rozie"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Maiden Squadron",
+            "Universe 2",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Deflect",
+            "Auto",
+            "Triple Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-36": {
+        "id": "EB1-36",
+        "face": {
+            "front": {
+                "name": "Goku's Solar Flare",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-36.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Goku's Solar Flare",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-36.webp",
+        "power": null,
+        "color": "Green",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Activate: Main",
+            "Blocker"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-37": {
+        "id": "EB1-37",
+        "face": {
+            "front": {
+                "name": "Homicidal Clones",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-37.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Homicidal Clones",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-37.webp",
+        "power": null,
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-37_PR": {
+        "id": "EB1-37_PR",
+        "face": {
+            "front": {
+                "name": "Homicidal Clones",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-37_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Homicidal Clones",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-37_PR.webp",
+        "power": null,
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-37_PR2": {
+        "id": "EB1-37_PR2",
+        "face": {
+            "front": {
+                "name": "Homicidal Clones",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-37_PR2.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Homicidal Clones",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-37_PR2.webp",
+        "power": null,
+        "color": "Green",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-38": {
+        "id": "EB1-38",
+        "face": {
+            "front": {
+                "name": "Android 13, Android 14, & Android 15",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-38.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Android 13, the Unstoppable",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-38_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 13, Android 14, & Android 15",
+        "type": "LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-38.webp",
+        "power": "10000",
+        "color": "Yellow",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": [
+            "Android 13",
+            "Android 14",
+            "Android 15"
+        ],
+        "era": [
+            "Android 13 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Awaken",
+            "Once per turn",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Android 13, the Unstoppable",
+        "back_power": "15000",
+        "back_character": [
+            "Android 13"
+        ],
+        "back_era": [
+            "Android 13 Saga"
+        ],
+        "back_traits": [
+            "Android"
+        ]
+    },
+    "EB1-39": {
+        "id": "EB1-39",
+        "face": {
+            "front": {
+                "name": "Super 17, Energy Absorber",
+                "type": "UNISON",
+                "cost": null,
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-39.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Super 17, Energy Absorber",
+        "type": "UNISON",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-39.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "+2",
+            "Activate: Main",
+            "-5"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-40": {
+        "id": "EB1-40",
+        "face": {
+            "front": {
+                "name": "Android 14, the Mission Begins",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-40.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 14, the Mission Begins",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-40.webp",
+        "power": "5000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 14"
+        ],
+        "era": [
+            "Android 13 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-41": {
+        "id": "EB1-41",
+        "face": {
+            "front": {
+                "name": "Android 15, the Mission Begins",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-41.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 15, the Mission Begins",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-41.webp",
+        "power": "4000",
+        "color": "Yellow",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 15"
+        ],
+        "era": [
+            "Android 13 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-42": {
+        "id": "EB1-42",
+        "face": {
+            "front": {
+                "name": "Mecha Frieza, Full Assault",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-42.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Mecha Frieza, Full Assault",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-42.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Frieza"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-43": {
+        "id": "EB1-43",
+        "face": {
+            "front": {
+                "name": "SS3 Son Goku, Even Further Beyond",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-43.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS3 Son Goku, Even Further Beyond",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-43.webp",
+        "power": "15000",
+        "color": "Yellow",
+        "energy_cost": "4",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Majin Buu Saga"
+        ],
+        "traits": [
+            "Goku's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Barrier",
+            "Swap 5",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-44": {
+        "id": "EB1-44",
+        "face": {
+            "front": {
+                "name": "Kaio-Ken Son Goku, a Heavy Toll",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-44.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Kaio-Ken Son Goku, a Heavy Toll",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-44.webp",
+        "power": "25000",
+        "color": "Yellow",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Son Goku"
+        ],
+        "era": [
+            "Frieza Saga"
+        ],
+        "traits": [
+            "Goku's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Double Strike",
+            "Swap 8",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-45": {
+        "id": "EB1-45",
+        "face": {
+            "front": {
+                "name": "Pan, the Courageous Youth",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "19000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-45.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Pan, the Courageous Youth",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-45.webp",
+        "power": "19000",
+        "color": "Yellow",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Pan"
+        ],
+        "era": [
+            "Black Star Dragon Ball Saga"
+        ],
+        "traits": [
+            "Goku's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Deflect",
+            "Auto",
+            "Swap",
+            "Double Strike"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-46": {
+        "id": "EB1-46",
+        "face": {
+            "front": {
+                "name": "Death Blaster",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-46.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Death Blaster",
+        "type": "EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-46.webp",
+        "power": null,
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Play"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-47": {
+        "id": "EB1-47",
+        "face": {
+            "front": {
+                "name": "Your Worst Nightmare",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-47.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Your Worst Nightmare",
+        "type": "EXTRA",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-47.webp",
+        "power": null,
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-48": {
+        "id": "EB1-48",
+        "face": {
+            "front": {
+                "name": "Frieza Army Reinforcements",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-48.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Frieza Army Reinforcements",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-48.webp",
+        "power": null,
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-48_PR": {
+        "id": "EB1-48_PR",
+        "face": {
+            "front": {
+                "name": "Frieza Army Reinforcements",
+                "type": "EXTRA",
+                "cost": "2",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-48_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Frieza Army Reinforcements",
+        "type": "EXTRA",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-48_PR.webp",
+        "power": null,
+        "color": "Yellow",
+        "energy_cost": "2",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Counter: Attack",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-49": {
+        "id": "EB1-49",
+        "face": {
+            "front": {
+                "name": "Bulma",
+                "type": "LEADER",
+                "cost": null,
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-49.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Bulma, Life of a Heroine",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-49_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bulma",
+        "type": "LEADER",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-49.webp",
+        "power": "5000",
+        "color": "Black",
+        "energy_cost": null,
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": [
+            "Bulma"
+        ],
+        "era": [
+            "Pilaf Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Permanent",
+            "Auto",
+            "Once per turn",
+            "Awaken",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": "Bulma, Life of a Heroine",
+        "back_power": "10000",
+        "back_character": [
+            "Bulma"
+        ],
+        "back_era": [
+            "Special"
+        ],
+        "back_traits": [
+            "Earthling",
+            "Heroine"
+        ]
+    },
+    "EB1-50": {
+        "id": "EB1-50",
+        "face": {
+            "front": {
+                "name": "Bulma, Inspiring Support",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-50.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Bulma, Inspiring Support",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-50.webp",
+        "power": "1000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "0",
+        "series": "EB1",
+        "character": [
+            "Bulma"
+        ],
+        "era": [
+            "World Martial Arts Tournament Saga"
+        ],
+        "traits": [
+            "Earthling",
+            "World Tournament",
+            "Heroine"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Super Combo",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-51": {
+        "id": "EB1-51",
+        "face": {
+            "front": {
+                "name": "Son Goku, the Path to Power",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-51.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Son Goku, the Path to Power",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-51.webp",
+        "power": "25000",
+        "color": "Black",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Son Goku: Childhood"
+        ],
+        "era": [
+            "The Path to Power Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Unique",
+            "Double Strike",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-51_PR": {
+        "id": "EB1-51_PR",
+        "face": {
+            "front": {
+                "name": "Son Goku, the Path to Power",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-51_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Son Goku, the Path to Power",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-51_PR.webp",
+        "power": "25000",
+        "color": "Black",
+        "energy_cost": "5",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Son Goku: Childhood"
+        ],
+        "era": [
+            "The Path to Power Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Unique",
+            "Double Strike",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-52": {
+        "id": "EB1-52",
+        "face": {
+            "front": {
+                "name": "Android 8, Helping a Friend",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-52.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 8, Helping a Friend",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-52.webp",
+        "power": "5000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 8"
+        ],
+        "era": [
+            "The Path to Power Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-53": {
+        "id": "EB1-53",
+        "face": {
+            "front": {
+                "name": "Katopesla, Modular Mastery",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-53.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Katopesla, Modular Mastery",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-53.webp",
+        "power": "5000",
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Katopesla"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Universe 3"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Auto",
+            "Activate: Main",
+            "Evolve"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-54": {
+        "id": "EB1-54",
+        "face": {
+            "front": {
+                "name": "Towa, the Next Move",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "5000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-54.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Towa, the Next Move",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-54.webp",
+        "power": "5000",
+        "color": "Black",
+        "energy_cost": "2",
+        "combo_cost": "0",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Towa"
+        ],
+        "era": [
+            "Dark Empire Saga"
+        ],
+        "traits": [
+            "Demon Realm Race",
+            "Demon God"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Blocker",
+            "Auto",
+            "Overlord",
+            "Servant"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-55": {
+        "id": "EB1-55",
+        "face": {
+            "front": {
+                "name": "Playtime's Over!",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-55.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Playtime's Over!",
+        "type": "EXTRA",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-55.webp",
+        "power": null,
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Counter: Attack"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-56": {
+        "id": "EB1-56",
+        "face": {
+            "front": {
+                "name": "King Vegeta, the Insubordinate",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-56.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "King Vegeta, the Insubordinate",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-56.webp",
+        "power": "10000",
+        "color": "Red/Green",
+        "energy_cost": "2",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "King Vegeta"
+        ],
+        "era": [
+            "Bardock Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Vegeta's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Unique",
+            "Arrival Red/Green",
+            "Swap 3",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-57": {
+        "id": "EB1-57",
+        "face": {
+            "front": {
+                "name": "Vegeta, Unyielding Pride",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-57.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Vegeta, Unyielding Pride",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-57.webp",
+        "power": "20000",
+        "color": "Red/Green",
+        "energy_cost": "3",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Vegeta"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Vegeta's Lineage"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-58": {
+        "id": "EB1-58",
+        "face": {
+            "front": {
+                "name": "Nappa, Break Cannon Unleashed",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-58.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Nappa, Break Cannon Unleashed",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-58.webp",
+        "power": "20000",
+        "color": "Red/Green",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Nappa"
+        ],
+        "era": [
+            "Saiyan Saga"
+        ],
+        "traits": [
+            "Saiyan"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Dual Attack",
+            "Auto",
+            "Once per turn"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-59": {
+        "id": "EB1-59",
+        "face": {
+            "front": {
+                "name": "SS Bardock, Neverending Vengeance",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-59.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "SS Bardock, Neverending Vengeance",
+        "type": "BATTLE",
+        "rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-59.webp",
+        "power": "25000",
+        "color": "Blue/Yellow",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Bardock"
+        ],
+        "era": [
+            "Chilled Saga"
+        ],
+        "traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Unique",
+            "Barrier",
+            "Permanent",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-60": {
+        "id": "EB1-60",
+        "face": {
+            "front": {
+                "name": "Trio De Dangers, Fierce Trinity",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-60.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Trio De Dangers, Fierce Trinity",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-60.webp",
+        "power": "20000",
+        "color": "Blue/Yellow",
+        "energy_cost": "5",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Bergamo",
+            "Basil",
+            "Lavender"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Trio De Dangers",
+            "Universe 9"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Permanent",
+            "Counter",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-61": {
+        "id": "EB1-61",
+        "face": {
+            "front": {
+                "name": "Sorrel & Hop, Fiends of Universe 9",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-61.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Sorrel & Hop, Fiends of Universe 9",
+        "type": "BATTLE",
+        "rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-61.webp",
+        "power": "15000",
+        "color": "Blue/Yellow",
+        "energy_cost": "2",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Sorrel",
+            "Hop"
+        ],
+        "era": [
+            "Universe Survival Saga"
+        ],
+        "traits": [
+            "Alien",
+            "Universe 9"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Blocker",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-62": {
+        "id": "EB1-62",
+        "face": {
+            "front": {
+                "name": "Android 17 & Android 18, Siblings Revived",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-62.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 17 & Android 18, Siblings Revived",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-62.webp",
+        "power": "25000",
+        "color": "Blue/Green",
+        "energy_cost": "8",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Android 17",
+            "Android 18"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Dual Attack",
+            "Auto",
+            "Barrier"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-63": {
+        "id": "EB1-63",
+        "face": {
+            "front": {
+                "name": "Android 16, Steadfast Ally",
+                "type": "BATTLE",
+                "cost": "7",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-63.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 16, Steadfast Ally",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-63.webp",
+        "power": "25000",
+        "color": "Blue/Green",
+        "energy_cost": "7",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Android 16"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Double Strike",
+            "Arrival Blue/Green",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-63_PR": {
+        "id": "EB1-63_PR",
+        "face": {
+            "front": {
+                "name": "Android 16, Steadfast Ally",
+                "type": "BATTLE",
+                "cost": "7",
+                "power": "25000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-63_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 16, Steadfast Ally",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-63_PR.webp",
+        "power": "25000",
+        "color": "Blue/Green",
+        "energy_cost": "7",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Android 16"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Energy-Exhaust",
+            "Double Strike",
+            "Arrival Blue/Green",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-64": {
+        "id": "EB1-64",
+        "face": {
+            "front": {
+                "name": "Android 16, Steadfast Comeback",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-64.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 16, Steadfast Comeback",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-64.webp",
+        "power": "20000",
+        "color": "Blue/Green",
+        "energy_cost": "6",
+        "combo_cost": "1",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 16"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Dual Attack",
+            "Blocker",
+            "Revenge",
+            "Arrival Blue/Green",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-64_PR": {
+        "id": "EB1-64_PR",
+        "face": {
+            "front": {
+                "name": "Android 16, Steadfast Comeback",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-64_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 16, Steadfast Comeback",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-64_PR.webp",
+        "power": "20000",
+        "color": "Blue/Green",
+        "energy_cost": "6",
+        "combo_cost": "1",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 16"
+        ],
+        "era": [
+            "Android Cell Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 7,
+        "keywords": [
+            "Energy-Exhaust",
+            "Dual Attack",
+            "Blocker",
+            "Revenge",
+            "Arrival Blue/Green",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-65": {
+        "id": "EB1-65",
+        "face": {
+            "front": {
+                "name": "Super Android 13, Cores of the Trio",
+                "type": "BATTLE",
+                "cost": "7",
+                "power": "30000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-65.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Super Android 13, Cores of the Trio",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-65.webp",
+        "power": "30000",
+        "color": "Green/Yellow",
+        "energy_cost": "7",
+        "combo_cost": "1",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 13"
+        ],
+        "era": [
+            "Android 13 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Triple Attack",
+            "Successor",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-66": {
+        "id": "EB1-66",
+        "face": {
+            "front": {
+                "name": "Android 13, the Mission Begins",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-66.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 13, the Mission Begins",
+        "type": "BATTLE",
+        "rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-66.webp",
+        "power": "20000",
+        "color": "Green/Yellow",
+        "energy_cost": "4",
+        "combo_cost": "1",
+        "combo_power": "10000",
+        "series": "EB1",
+        "character": [
+            "Android 13"
+        ],
+        "era": [
+            "Android 13 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Unique",
+            "Double Strike",
+            "Arrival Green/Yellow",
+            "Auto",
+            "Activate: Main"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-67": {
+        "id": "EB1-67",
+        "face": {
+            "front": {
+                "name": "Android 14 & Android 15, Target Acquired",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-67.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Android 14 & Android 15, Target Acquired",
+        "type": "BATTLE",
+        "rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-67.webp",
+        "power": "15000",
+        "color": "Green/Yellow",
+        "energy_cost": "2",
+        "combo_cost": "1",
+        "combo_power": "5000",
+        "series": "EB1",
+        "character": [
+            "Android 14",
+            "Android 15"
+        ],
+        "era": [
+            "Android 13 Saga"
+        ],
+        "traits": [
+            "Android"
+        ],
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Permanent",
+            "Auto"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    },
+    "EB1-68": {
+        "id": "EB1-68",
+        "face": {
+            "front": {
+                "name": "Heroines' Lineage",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-68.webp",
+                "isHorizontal": false
+            },
+            "back": {}
+        },
+        "name": "Heroines' Lineage",
+        "type": "EXTRA",
+        "rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EB1-68.webp",
+        "power": null,
+        "color": "Black",
+        "energy_cost": "1",
+        "combo_cost": null,
+        "combo_power": null,
+        "series": "EB1",
+        "character": null,
+        "era": null,
+        "traits": null,
+        "banned": false,
+        "limited": false,
+        "limited_to": 4,
+        "keywords": [
+            "Ultimate",
+            "Activate: Main",
+            "Activate: Battle"
+        ],
+        "z_energy_cost": null,
+        "back_name": null,
+        "back_power": null,
+        "back_character": null,
+        "back_era": null,
+        "back_traits": null
+    }
+}
