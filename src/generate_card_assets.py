@@ -4,6 +4,7 @@ import sys
 import os
 
 from tqdm import tqdm
+from PIL import Image
 
 ASSETS_PATH = "./assets"
 IMG_SRC_URL = "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters"
@@ -134,6 +135,12 @@ for series, cards in tqdm(cards_grouped_by_series.items(), desc="Generating card
         card_image_path = f"{card_series_path}/{card['id']}.webp"
         if not os.path.exists(card_image_path):
             download_image(url=f'{IMG_SRC_URL}/{card['id']}.webp', path=card_image_path)
+
+            if card['face']['front']['type'] == "Z-EXTRA":
+                # Convert to vertical
+                with Image.open(card_image_path) as img:
+                    img = img.rotate(90)
+                    img.save(card_image_path)
 
         if card['face']['front']['type'] == "LEADER":
             card_image_back_path = f"{card_series_path}/{card['id']}_b.webp"
