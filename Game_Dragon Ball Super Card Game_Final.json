@@ -255,7 +255,8 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Leader"
+          "Leader",
+          "Z_deck"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -519,7 +520,7 @@
             "showHiddenCardInHistory": false
           },
           "Z_Deck": {
-            "title": "Z_deck",
+            "title": "Z_Deck",
             "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "DECK",
