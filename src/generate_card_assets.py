@@ -118,6 +118,7 @@ with open(input_file, 'r', encoding='utf-8') as f:
             }
         cards_grouped_by_series.setdefault(series_norm, {}).update(card_entry)
 
+all_cards = {}
 for series, cards in tqdm(cards_grouped_by_series.items(), desc="Generating card assets by series"):
     card_series_path = f"{ASSETS_PATH}/{series}"
     card_series_metadata_path = f'{card_series_path}/cards.json'
@@ -131,6 +132,7 @@ for series, cards in tqdm(cards_grouped_by_series.items(), desc="Generating card
             with open(card_series_metadata_path, 'w', encoding='utf-8') as f:
                 json.dump(cards, f, indent=4, ensure_ascii=False)
 
+    all_cards.update(cards)
     for card_id, card in tqdm(cards.items(), desc=f"Downloading images for series {series}", leave=False):
         card_image_path = f"{card_series_path}/{card['id']}.webp"
         if not os.path.exists(card_image_path):
@@ -146,3 +148,7 @@ for series, cards in tqdm(cards_grouped_by_series.items(), desc="Generating card
             card_image_back_path = f"{card_series_path}/{card['id']}_b.webp"
             if not os.path.exists(card_image_back_path):
                 download_image(url=f'{IMG_SRC_URL}/{card['id']}_b.webp', path=card_image_back_path)
+
+
+with open('./cards.json', 'w', encoding='utf-8') as f:
+    json.dump(all_cards, f, indent=4, ensure_ascii=False)
