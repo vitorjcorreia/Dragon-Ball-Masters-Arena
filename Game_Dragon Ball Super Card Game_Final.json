@@ -11,7 +11,10 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/cards.json",
-    "cardBack": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/cardBack.webp"
+    "cardBack": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/cardBack.webp",
+    "extraCardBacks": {
+      "Z_Deck": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/zDeckBack.webp"
+    }
   },
   "deckBuilding": {
     "mainFilters": [
