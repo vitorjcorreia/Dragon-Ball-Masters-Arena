@@ -78,6 +78,11 @@
             "drawFromTop": "Deck",
             "count": 8,
             "destination": "Life"
+          },
+          {
+            "drawFromTop": "Z_Deck",
+            "count": 2,
+            "destination": "Z_Deck"
           }
         ]
       },
