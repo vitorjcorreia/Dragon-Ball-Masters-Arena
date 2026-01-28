@@ -251,13 +251,12 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Z-Deck->Z_Deck"
+          "Z_Deck"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
           "Energy Marker": "Energy",
           "Extra": "Stack",
-          "Z_Deck": "Stack",
           "Life": "Hand"
         },
         "autoPlayFromStack": {
@@ -516,15 +515,16 @@
           },
           "Z_Deck": {
             "title": "Z_deck",
-            "isHidden": "yes",
+            "isHidden": "opponent-only",
             "height": "SMALL",
             "alignment": "DECK",
-            "displayedTitle": "Z-Deck",
             "opponentAlignment": false,
-            "noAutoPayTo": false,
+            "displayedTitle": "Z-Deck",
+            "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "noQuickActions": true,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
