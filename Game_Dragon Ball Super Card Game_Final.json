@@ -24,7 +24,9 @@
       {
         "title": "Standard",
         "gameplay": "Classic",
-        "customCategories": [],
+        "customCategories": [
+          "Z_Deck"
+        ],
         "deckRuleset": "Standard"
       }
     ],
@@ -253,7 +255,7 @@
           "Battle": "Battle",
           "Energy Marker": "Energy",
           "Extra": "Stack",
-          "Z_Deck": "Hand",
+          "Z_Deck": "Stack",
           "Life": "Hand"
         },
         "autoPlayFromStack": {
