@@ -494,7 +494,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-            "Z-Energy": {
+          "Z-Energy": {
             "title": "Z-Energy",
             "isHidden": "no",
             "height": "SMALL",
@@ -510,8 +510,9 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-            "Z_Deck": {
-            "title": "Z-Deck",
+          "Z_Deck": {
+            "isDefaultSection": "true",
+            "title": "Z-deck",
             "isHidden": "yes",
             "height": "20",
             "alignment": "DECK",
