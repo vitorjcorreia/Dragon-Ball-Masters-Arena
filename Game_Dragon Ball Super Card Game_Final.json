@@ -95,49 +95,29 @@
       "hideFacedDownCards": false,
       "draggableTokens": [
         {
-          "id": "1-cnt",
-          "name": "1 Counter",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/1_token.png"
-        },
-        {
-          "id": "2-cnt",
-          "name": "2 Counter",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/2_token.png"
-        },
-        {
-          "id": "3-cnt",
-          "name": "3 Counter",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/3_token.png"
-        },
-        {
-          "id": "4-cnt",
-          "name": "4 Counter",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/4_token.png"
-        },
-        {
-          "id": "5-cnt",
-          "name": "5 Counter",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/5_token.png"
-        },
-        {
-          "id": "6-cnt",
-          "name": "6 Counter",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/6_token.png"
-        },
-        {
-          "id": "7-cnt",
-          "name": "7 Counter",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/7_token.png"
+          "id": "5000",
+          "name": "+5k power",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/5000_token.png"
         },
         {
           "id": "barrier",
-          "name": "Barrier",
+          "name": "Barrier counter",
           "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/barrier_token.png"
         },
         {
-          "id": "ability-used",
-          "name": "Ability Used",
-          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/used.png"
+          "id": "blocker",
+          "name": "Blocker counter",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/blocker_token.png"
+        },
+        {
+          "id": "stun",
+          "name": "Stun counter",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/stun_token.png"
+        },
+        {
+          "id": "servant",
+          "name": "Servant counter",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/servant_token.png"
         },
         {
           "id": "doubleStrike",
@@ -153,6 +133,11 @@
           "id": "critical",
           "name": "critical",
           "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/critical_token.png"
+        },
+        {
+          "id": "ability-used",
+          "name": "Ability Used",
+          "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/used.png"
         }
       ],
       "sections": {
