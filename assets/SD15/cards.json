@@ -1,0 +1,193 @@
+{
+    "SD15-01": {
+        "id": "SD15-01",
+        "face": {
+            "front": {
+                "name": "Vegeta",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SSB Vegeta, Spirit Boost Elite",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-01.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD15",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken",
+            "Double Strike",
+            "Once per turn",
+            "Spirit Boost 1"
+        ]
+    },
+    "SD15-02": {
+        "id": "SD15-02",
+        "face": {
+            "front": {
+                "name": "SS Cabba, Spirit Resonance",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "15000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Cabba, Spirit Resonance",
+        "Type": "UNISON",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-02.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD15",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "+1",
+            "Activate: Main",
+            "-6"
+        ]
+    },
+    "SD15-03": {
+        "id": "SD15-03",
+        "face": {
+            "front": {
+                "name": "Son Goku, Spirit Boost Warrior",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Spirit Boost Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-03.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD15",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Double Strike",
+            "Dual Attack",
+            "Permanent",
+            "Auto",
+            "Limit 1",
+            "Spirit Boost 1"
+        ]
+    },
+    "SD15-04": {
+        "id": "SD15-04",
+        "face": {
+            "front": {
+                "name": "Surprise Attack Son Gohan",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Surprise Attack Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-04.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD15",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "SD15-05": {
+        "id": "SD15-05",
+        "face": {
+            "front": {
+                "name": "Surprise Attack SSB Vegeta",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Surprise Attack SSB Vegeta",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD15-05.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD15",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Critical",
+            "Auto",
+            "Spirit Boost"
+        ]
+    }
+}

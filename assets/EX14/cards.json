@@ -1,0 +1,178 @@
+{
+    "EX14-01": {
+        "id": "EX14-01",
+        "face": {
+            "front": {
+                "name": "Ultimate Shenron, Dimensional Wishmaster",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "20000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-01.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ultimate Shenron, Dimensional Wishmaster",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-01.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX14",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "+1",
+            "Activate: Main",
+            "-3"
+        ]
+    },
+    "EX14-02": {
+        "id": "EX14-02",
+        "face": {
+            "front": {
+                "name": "Trunks, Power to Save the Future",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks, Power to Save the Future",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-02.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX14",
+        "Character": [
+            "Trunks: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "EX14-03": {
+        "id": "EX14-03",
+        "face": {
+            "front": {
+                "name": "Ginyu Force, the Showstoppers",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ginyu Force, the Showstoppers",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-03.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX14",
+        "Character": [
+            "Ginyu Force"
+        ],
+        "Traits": [
+            "Ginyu Force",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "EX14-04": {
+        "id": "EX14-04",
+        "face": {
+            "front": {
+                "name": "Son Goten & Trunks, Super Saiyan Tag Team",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goten & Trunks, Super Saiyan Tag Team",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-04.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX14",
+        "Character": [
+            "Son Goten: GT",
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Union-Fusion",
+            "Barrier"
+        ]
+    },
+    "EX14-05": {
+        "id": "EX14-05",
+        "face": {
+            "front": {
+                "name": "Towa, Rewriting History",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Towa, Rewriting History",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX14-05.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX14",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race",
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ]
+    }
+}

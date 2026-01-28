@@ -1,0 +1,256 @@
+{
+    "SD14-01": {
+        "id": "SD14-01",
+        "face": {
+            "front": {
+                "name": "Vegeta : Xeno & Trunks : Xeno",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Vegeks, the Unsung Fusion Hero",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta : Xeno & Trunks : Xeno",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-01.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD14",
+        "Character": [
+            "Vegeta: Xeno",
+            "Trunks: Xeno"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate: Main",
+            "Once per turn",
+            "Burst 5",
+            "Awaken",
+            "Sparking 20",
+            "Double Strike"
+        ]
+    },
+    "SD14-02": {
+        "id": "SD14-02",
+        "face": {
+            "front": {
+                "name": "SS Gotenks, Fusion of Friendship",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "5000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gotenks, Fusion of Friendship",
+        "Type": "UNISON",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-02.webp",
+        "Power": "5000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD14",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "+2",
+            "Activate: Main",
+            "-4",
+            "Dual Attack"
+        ]
+    },
+    "SD14-03": {
+        "id": "SD14-03",
+        "face": {
+            "front": {
+                "name": "Time Agent Vegeta",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "19000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time Agent Vegeta",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-03.webp",
+        "Power": "19000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD14",
+        "Character": [
+            "Vegeta: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Activate: Battle",
+            "Once per turn"
+        ]
+    },
+    "SD14-04": {
+        "id": "SD14-04",
+        "face": {
+            "front": {
+                "name": "Time Agent Trunks",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "4000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time Agent Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-04.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD14",
+        "Character": [
+            "Trunks: Xeno"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "SD14-05": {
+        "id": "SD14-05",
+        "face": {
+            "front": {
+                "name": "Supreme Kai of Time, Guardian of Spacetime",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Supreme Kai of Time, Guardian of Spacetime",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD14",
+        "Character": [
+            "Supreme Kai of Time"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "SD14-05_PR": {
+        "id": "SD14-05_PR",
+        "face": {
+            "front": {
+                "name": "Supreme Kai of Time, Guardian of Spacetime",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Supreme Kai of Time, Guardian of Spacetime",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD14",
+        "Character": [
+            "Supreme Kai of Time"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "SD14-05_PR2": {
+        "id": "SD14-05_PR2",
+        "face": {
+            "front": {
+                "name": "Supreme Kai of Time, Guardian of Spacetime",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Supreme Kai of Time, Guardian of Spacetime",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD14-05_PR2.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD14",
+        "Character": [
+            "Supreme Kai of Time"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    }
+}

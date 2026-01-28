@@ -1,0 +1,209 @@
+{
+    "EX15-01": {
+        "id": "EX15-01",
+        "face": {
+            "front": {
+                "name": "Gogeta, Time for Payback",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "9000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-01.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gogeta, Time for Payback",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-01.webp",
+        "Power": "9000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX15",
+        "Character": [
+            "Gogeta: Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Blocker",
+            "Union-Fusion",
+            "Activate: Main"
+        ]
+    },
+    "EX15-02": {
+        "id": "EX15-02",
+        "face": {
+            "front": {
+                "name": "Vegeta, Protector of the Earth",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Protector of the Earth",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-02.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX15",
+        "Character": [
+            "Vegeta: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "EX15-03": {
+        "id": "EX15-03",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Malice Distilled",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Majin Buu, Malice Distilled",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-03.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX15",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "EX15-04": {
+        "id": "EX15-04",
+        "face": {
+            "front": {
+                "name": "Garlic Jr., Immortal Avenger",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Garlic Jr., Immortal Avenger",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-04.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX15",
+        "Character": [
+            "Garlic Jr."
+        ],
+        "Traits": [
+            "Demon Clan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Indestructible",
+            "Auto",
+            "Once per turn",
+            "Overlord"
+        ]
+    },
+    "EX15-05": {
+        "id": "EX15-05",
+        "face": {
+            "front": {
+                "name": "Mira, Dimensional Superpower",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "15000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Dimensional Superpower",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-05.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX15",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "+1",
+            "Activate: Main",
+            "-2",
+            "Activate: Battle"
+        ]
+    },
+    "EX15-05_PR": {
+        "id": "EX15-05_PR",
+        "face": {
+            "front": {
+                "name": "Mira, Dimensional Superpower",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "15000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-05_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Dimensional Superpower",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX15-05_PR.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX15",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "+1",
+            "activate main",
+            "-2",
+            "activate: battle"
+        ]
+    }
+}

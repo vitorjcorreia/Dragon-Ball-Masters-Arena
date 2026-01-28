@@ -1,0 +1,4417 @@
+{
+    "DB1-001": {
+        "id": "DB1-001",
+        "face": {
+            "front": {
+                "name": "Son Goku, Might of Many",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "16000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-001.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Might of Many",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-001.webp",
+        "Power": "16000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Permanent"
+        ]
+    },
+    "DB1-002": {
+        "id": "DB1-002",
+        "face": {
+            "front": {
+                "name": "SS Vegeta, Exploiting Weakness",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "19000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-002.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Vegeta, Exploiting Weakness",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-002.webp",
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-002_PR": {
+        "id": "DB1-002_PR",
+        "face": {
+            "front": {
+                "name": "SS Vegeta, Exploiting Weakness",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "19000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-002_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Vegeta, Exploiting Weakness",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-002_PR.webp",
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-003": {
+        "id": "DB1-003",
+        "face": {
+            "front": {
+                "name": "Trunks, Deluge of Power",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-003.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks, Deluge of Power",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-003.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-004": {
+        "id": "DB1-004",
+        "face": {
+            "front": {
+                "name": "Giru",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-004.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Giru",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-004.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Giru"
+        ],
+        "Traits": [
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-005": {
+        "id": "DB1-005",
+        "face": {
+            "front": {
+                "name": "Majin Buu, the Reincarnator",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-005.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Majin Buu, the Reincarnator",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-005.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-006": {
+        "id": "DB1-006",
+        "face": {
+            "front": {
+                "name": "Champa, Destruction Perfected",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "19000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-006.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Champa, Destruction Perfected",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-006.webp",
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Champa"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Double Strike",
+            "Critical",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "DB1-007": {
+        "id": "DB1-007",
+        "face": {
+            "front": {
+                "name": "Champa, Destruction Augmented",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-007.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Champa, Destruction Augmented",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-007.webp",
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Champa"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Once per turn",
+            "Double Strike"
+        ]
+    },
+    "DB1-008": {
+        "id": "DB1-008",
+        "face": {
+            "front": {
+                "name": "Vados, Assembled Might",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "20000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-008.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vados, Assembled Might",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-008.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Vados"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Triple Attack",
+            "Deflect",
+            "Auto"
+        ]
+    },
+    "DB1-009": {
+        "id": "DB1-009",
+        "face": {
+            "front": {
+                "name": "Cabba, Surging Forward",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-009.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cabba, Surging Forward",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-009.webp",
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Cabba"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack"
+        ]
+    },
+    "DB1-010": {
+        "id": "DB1-010",
+        "face": {
+            "front": {
+                "name": "Caulifla, Frenzied Sister",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-010.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Caulifla, Frenzied Sister",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-010.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Caulifla"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-011": {
+        "id": "DB1-011",
+        "face": {
+            "front": {
+                "name": "Kale, Frenzied Sister",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-011.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kale, Frenzied Sister",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-011.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Kale"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "DB1-012": {
+        "id": "DB1-012",
+        "face": {
+            "front": {
+                "name": "Kefla, Roar of Destruction",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-012.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kefla, Roar of Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-012.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Kefla"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Activate: Battle",
+            "Auto"
+        ]
+    },
+    "DB1-012_PR": {
+        "id": "DB1-012_PR",
+        "face": {
+            "front": {
+                "name": "Kefla, Roar of Destruction",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-012_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kefla, Roar of Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-012_PR.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Kefla"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "double strike",
+            "activate: battle",
+            "two",
+            "auto"
+        ]
+    },
+    "DB1-013": {
+        "id": "DB1-013",
+        "face": {
+            "front": {
+                "name": "Botamo and Magetta",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-013.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Botamo and Magetta",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-013.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Botamo",
+            "Magetta"
+        ],
+        "Traits": [
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-014": {
+        "id": "DB1-014",
+        "face": {
+            "front": {
+                "name": "Toppo, Righteous Aid",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-014.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Toppo, Righteous Aid",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-014.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Toppo"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Counter",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-014_PR": {
+        "id": "DB1-014_PR",
+        "face": {
+            "front": {
+                "name": "Toppo, Righteous Aid",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-014_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Toppo, Righteous Aid",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-014_PR.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Toppo"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Counter",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-014_PR2": {
+        "id": "DB1-014_PR2",
+        "face": {
+            "front": {
+                "name": "Toppo, Righteous Aid",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-014_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Toppo, Righteous Aid",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-014_PR2.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Toppo"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Counter",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-015": {
+        "id": "DB1-015",
+        "face": {
+            "front": {
+                "name": "Jiren, Shackles of the Past",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-015.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Jiren, Shackles of the Past",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-015.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Jiren"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Permanent",
+            "Auto",
+            "Double Strike",
+            "Dual Attack",
+            "Counter"
+        ]
+    },
+    "DB1-016": {
+        "id": "DB1-016",
+        "face": {
+            "front": {
+                "name": "Moginan, the Savage Strongman",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-016.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Moginan, the Savage Strongman",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-016.webp",
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Moginan"
+        ],
+        "Traits": [
+            "Alien"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Once per turn",
+            "Auto"
+        ]
+    },
+    "DB1-017": {
+        "id": "DB1-017",
+        "face": {
+            "front": {
+                "name": "Moginan, Alien Bonds",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-017.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Moginan, Alien Bonds",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-017.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Moginan"
+        ],
+        "Traits": [
+            "Alien"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Once per turn",
+            "Bond 2"
+        ]
+    },
+    "DB1-018": {
+        "id": "DB1-018",
+        "face": {
+            "front": {
+                "name": "Moginan Underling, Relentless Horde",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-018.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Moginan Underling, Relentless Horde",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-018.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Moginan Underling"
+        ],
+        "Traits": [
+            "Alien"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Bond 2"
+        ]
+    },
+    "DB1-019": {
+        "id": "DB1-019",
+        "face": {
+            "front": {
+                "name": "Niagara Drop",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-019.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Niagara Drop",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-019.webp",
+        "Power": "",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "DB1-020": {
+        "id": "DB1-020",
+        "face": {
+            "front": {
+                "name": "Galick Cannon",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-020.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Galick Cannon",
+        "Type": "EXTRA",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-020.webp",
+        "Power": "",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play"
+        ]
+    },
+    "DB1-021": {
+        "id": "DB1-021",
+        "face": {
+            "front": {
+                "name": "Ultra Instinct Son Goku, the Unstoppable",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-021.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ultra Instinct Son Goku, the Unstoppable",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-021.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Counter: Attack",
+            "Permanent",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "DB1-021_PR": {
+        "id": "DB1-021_PR",
+        "face": {
+            "front": {
+                "name": "Ultra Instinct Son Goku, the Unstoppable",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-021_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ultra Instinct Son Goku, the Unstoppable",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-021_PR.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Counter: Attack",
+            "Permanent",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "DB1-021_PR2": {
+        "id": "DB1-021_PR2",
+        "face": {
+            "front": {
+                "name": "Ultra Instinct Son Goku, the Unstoppable",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-021_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ultra Instinct Son Goku, the Unstoppable",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-021_PR2.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Counter: Attack",
+            "Permanent",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "DB1-022": {
+        "id": "DB1-022",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, the Ever-Adapting",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-022.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goku, the Ever-Adapting",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-022.webp",
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Evolve",
+            "Critical",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "DB1-023": {
+        "id": "DB1-023",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-023.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-023.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-024": {
+        "id": "DB1-024",
+        "face": {
+            "front": {
+                "name": "SSB Vegeta, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-024.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SSB Vegeta, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-024.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "DB1-025": {
+        "id": "DB1-025",
+        "face": {
+            "front": {
+                "name": "Krillin, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-025.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Krillin, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-025.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Krillin"
+        ],
+        "Traits": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-026": {
+        "id": "DB1-026",
+        "face": {
+            "front": {
+                "name": "Tien Shinhan, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-026.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Tien Shinhan, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-026.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Tien Shinhan"
+        ],
+        "Traits": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Burst 3"
+        ]
+    },
+    "DB1-027": {
+        "id": "DB1-027",
+        "face": {
+            "front": {
+                "name": "Master Roshi, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-027.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Master Roshi, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-027.webp",
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Master Roshi"
+        ],
+        "Traits": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Counter"
+        ]
+    },
+    "DB1-028": {
+        "id": "DB1-028",
+        "face": {
+            "front": {
+                "name": "Android 17, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-028.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 17, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-028.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Android 17"
+        ],
+        "Traits": [
+            "Android",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical"
+        ]
+    },
+    "DB1-029": {
+        "id": "DB1-029",
+        "face": {
+            "front": {
+                "name": "Android 18, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-029.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 18, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-029.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Android 18"
+        ],
+        "Traits": [
+            "Android",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "DB1-030": {
+        "id": "DB1-030",
+        "face": {
+            "front": {
+                "name": "Majin Buu",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "30000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-030.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Majin Buu",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-030.webp",
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-031": {
+        "id": "DB1-031",
+        "face": {
+            "front": {
+                "name": "Frieza, Universe 7 United",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-031.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, Universe 7 United",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-031.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Frieza"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Barrier",
+            "Activate: Main"
+        ]
+    },
+    "DB1-032": {
+        "id": "DB1-032",
+        "face": {
+            "front": {
+                "name": "Whis, Keeper of Universe 7",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "25000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-032.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Whis, Keeper of Universe 7",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-032.webp",
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Whis"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Barrier",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-033": {
+        "id": "DB1-033",
+        "face": {
+            "front": {
+                "name": "Grand Kai, the Lazy Instructor",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-033.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Grand Kai, the Lazy Instructor",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-033.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Grand Kai"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-034": {
+        "id": "DB1-034",
+        "face": {
+            "front": {
+                "name": "North Kai, Protector of Earth",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-034.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "North Kai, Protector of Earth",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-034.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "North Kai"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "DB1-035": {
+        "id": "DB1-035",
+        "face": {
+            "front": {
+                "name": "Bubbles",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-035.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bubbles",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-035.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Bubbles"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-036": {
+        "id": "DB1-036",
+        "face": {
+            "front": {
+                "name": "Shu, Deluge of Power",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-036.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Shu, Deluge of Power",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-036.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Shu"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-037": {
+        "id": "DB1-037",
+        "face": {
+            "front": {
+                "name": "Mai, the Graceful Tactician",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-037.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mai, the Graceful Tactician",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-037.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Mai: Youth"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-038": {
+        "id": "DB1-038",
+        "face": {
+            "front": {
+                "name": "Janemba, Infernal Intruder",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-038.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Infernal Intruder",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-038.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Activate: Main"
+        ]
+    },
+    "DB1-039": {
+        "id": "DB1-039",
+        "face": {
+            "front": {
+                "name": "Kamehameha",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-039.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kamehameha",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-039.webp",
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-040": {
+        "id": "DB1-040",
+        "face": {
+            "front": {
+                "name": "Desperate Measures",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-040.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Desperate Measures",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-040.webp",
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play"
+        ]
+    },
+    "DB1-040_PR": {
+        "id": "DB1-040_PR",
+        "face": {
+            "front": {
+                "name": "Desperate Measures",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-040_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Desperate Measures",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-040_PR.webp",
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play"
+        ]
+    },
+    "DB1-041": {
+        "id": "DB1-041",
+        "face": {
+            "front": {
+                "name": "Swift Combo Kaio-Ken Son Goku",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-041.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Swift Combo Kaio-Ken Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-041.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate: Main",
+            "Once per turn",
+            "Critical"
+        ]
+    },
+    "DB1-042": {
+        "id": "DB1-042",
+        "face": {
+            "front": {
+                "name": "Son Goten, Deluge of Power",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-042.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goten, Deluge of Power",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-042.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-043": {
+        "id": "DB1-043",
+        "face": {
+            "front": {
+                "name": "King Vegeta, Saiyan Ruler",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-043.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "King Vegeta, Saiyan Ruler",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-043.webp",
+        "Power": "19000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "King Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike"
+        ]
+    },
+    "DB1-044": {
+        "id": "DB1-044",
+        "face": {
+            "front": {
+                "name": "Trunks, the Prankster",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-044.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks, the Prankster",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-044.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "DB1-045": {
+        "id": "DB1-045",
+        "face": {
+            "front": {
+                "name": "Dr. Brief, Father of a Genius",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-045.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dr. Brief, Father of a Genius",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-045.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Dr. Brief"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "DB1-046": {
+        "id": "DB1-046",
+        "face": {
+            "front": {
+                "name": "Bulma's Mom, Mother of a Genius",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-046.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bulma's Mom, Mother of a Genius",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-046.webp",
+        "Power": "1000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Bulma's Mom"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-047": {
+        "id": "DB1-047",
+        "face": {
+            "front": {
+                "name": "Bulma, Genius Inventor",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-047.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bulma, Genius Inventor",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-047.webp",
+        "Power": "1000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-048": {
+        "id": "DB1-048",
+        "face": {
+            "front": {
+                "name": "Piccolo, Assimilated Ability",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-048.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Assimilated Ability",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-048.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Activate: Battle",
+            "Once per turn",
+            "Bond 2"
+        ]
+    },
+    "DB1-048_PR": {
+        "id": "DB1-048_PR",
+        "face": {
+            "front": {
+                "name": "Piccolo, Assimilated Ability",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-048_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Assimilated Ability",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-048_PR.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Activate: Battle",
+            "Once per turn",
+            "Bond 2"
+        ]
+    },
+    "DB1-049": {
+        "id": "DB1-049",
+        "face": {
+            "front": {
+                "name": "Krillin, Steadfast Defender",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-049.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Krillin, Steadfast Defender",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-049.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Krillin"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Permanent",
+            "Sparking 10",
+            "Auto"
+        ]
+    },
+    "DB1-050": {
+        "id": "DB1-050",
+        "face": {
+            "front": {
+                "name": "Beerus, the Bad-Tempered",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-050.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Beerus, the Bad-Tempered",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-050.webp",
+        "Power": "30000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Beerus"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "DB1-051": {
+        "id": "DB1-051",
+        "face": {
+            "front": {
+                "name": "Whis",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-051.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Whis",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-051.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Whis"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-052": {
+        "id": "DB1-052",
+        "face": {
+            "front": {
+                "name": "Broly, Free at Last",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-052.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Broly, Free at Last",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-052.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-053": {
+        "id": "DB1-053",
+        "face": {
+            "front": {
+                "name": "Lemo",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-053.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Lemo",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-053.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Lemo: Br"
+        ],
+        "Traits": [
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-054": {
+        "id": "DB1-054",
+        "face": {
+            "front": {
+                "name": "Dr. Myuu, Weapon Surplus",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-054.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dr. Myuu, Weapon Surplus",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-054.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Dr. Myuu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Burst 3"
+        ]
+    },
+    "DB1-055": {
+        "id": "DB1-055",
+        "face": {
+            "front": {
+                "name": "Super 17, Power Distilled",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "19000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-055.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Super 17, Power Distilled",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-055.webp",
+        "Power": "19000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Super 17"
+        ],
+        "Traits": [
+            "Android",
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-056": {
+        "id": "DB1-056",
+        "face": {
+            "front": {
+                "name": "SS Rose Goku Black, a Delicate Plan",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-056.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Rose Goku Black, a Delicate Plan",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-056.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Goku Black"
+        ],
+        "Traits": [
+            "Saiyan",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Activate: Main"
+        ]
+    },
+    "DB1-057": {
+        "id": "DB1-057",
+        "face": {
+            "front": {
+                "name": "Fused Zamasu, Deity's Wrath",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fused Zamasu, Deity's Wrath",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Zamasu"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Indestructible",
+            "Activate: Main",
+            "Auto"
+        ]
+    },
+    "DB1-057_PR": {
+        "id": "DB1-057_PR",
+        "face": {
+            "front": {
+                "name": "Fused Zamasu, Deity's Wrath",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fused Zamasu, Deity's Wrath",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057_PR.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Zamasu"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Indestructible",
+            "Activate: Main",
+            "Auto"
+        ]
+    },
+    "DB1-057_PR2": {
+        "id": "DB1-057_PR2",
+        "face": {
+            "front": {
+                "name": "Fused Zamasu, Deity's Wrath",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fused Zamasu, Deity's Wrath",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057_PR2.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Zamasu"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Indestructible",
+            "Activate: Main",
+            "Auto"
+        ]
+    },
+    "DB1-057_PR3": {
+        "id": "DB1-057_PR3",
+        "face": {
+            "front": {
+                "name": "Fused Zamasu, Deity's Wrath",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057_PR3.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fused Zamasu, Deity's Wrath",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-057_PR3.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Zamasu"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Indestructible",
+            "Activate: Main",
+            "Auto"
+        ]
+    },
+    "DB1-058": {
+        "id": "DB1-058",
+        "face": {
+            "front": {
+                "name": "Zamasu, the Undying",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-058.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Zamasu, the Undying",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-058.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Zamasu"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Indestructible",
+            "Activate: Battle"
+        ]
+    },
+    "DB1-059": {
+        "id": "DB1-059",
+        "face": {
+            "front": {
+                "name": "Slumber Strike",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-059.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Slumber Strike",
+        "Type": "EXTRA",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-059.webp",
+        "Power": "",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-060": {
+        "id": "DB1-060",
+        "face": {
+            "front": {
+                "name": "M2, the Phantasmagoric Planet",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-060.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "M2, the Phantasmagoric Planet",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-060.webp",
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Field",
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "DB1-061": {
+        "id": "DB1-061",
+        "face": {
+            "front": {
+                "name": "Great Ape Bardock, Raider's Warcry",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-061.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Bardock, Raider's Warcry",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-061.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "2",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto"
+        ]
+    },
+    "DB1-061_PR": {
+        "id": "DB1-061_PR",
+        "face": {
+            "front": {
+                "name": "Great Ape Bardock, Raider's Warcry",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-061_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Bardock, Raider's Warcry",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-061_PR.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "2",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto"
+        ]
+    },
+    "DB1-062": {
+        "id": "DB1-062",
+        "face": {
+            "front": {
+                "name": "Gine, the Kind Saiyan",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-062.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gine, the Kind Saiyan",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-062.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Gine"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Sparking 3"
+        ]
+    },
+    "DB1-063": {
+        "id": "DB1-063",
+        "face": {
+            "front": {
+                "name": "Son Goku, Saiyan Reborn",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-063.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Saiyan Reborn",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-063.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-064": {
+        "id": "DB1-064",
+        "face": {
+            "front": {
+                "name": "Great Ape Son Goku, Saiyan Instincts",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-064.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Son Goku, Saiyan Instincts",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-064.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-064_PR": {
+        "id": "DB1-064_PR",
+        "face": {
+            "front": {
+                "name": "Great Ape Son Goku, Saiyan Instincts",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-064_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Son Goku, Saiyan Instincts",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-064_PR.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-064_PR2": {
+        "id": "DB1-064_PR2",
+        "face": {
+            "front": {
+                "name": "Great Ape Son Goku, Saiyan Instincts",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-064_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Son Goku, Saiyan Instincts",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-064_PR2.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-065": {
+        "id": "DB1-065",
+        "face": {
+            "front": {
+                "name": "Pan, Natural Fighter",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-065.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Pan, Natural Fighter",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-065.webp",
+        "Power": "1000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Blocker",
+            "Critical"
+        ]
+    },
+    "DB1-066": {
+        "id": "DB1-066",
+        "face": {
+            "front": {
+                "name": "King Vegeta, the Majestic Ruler",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-066.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "King Vegeta, the Majestic Ruler",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-066.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "King Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent"
+        ]
+    },
+    "DB1-067": {
+        "id": "DB1-067",
+        "face": {
+            "front": {
+                "name": "Vegeta, the King's Son",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-067.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, the King's Son",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-067.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Vegeta: Youth"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Burst 3"
+        ]
+    },
+    "DB1-068": {
+        "id": "DB1-068",
+        "face": {
+            "front": {
+                "name": "Tights, Sister of a Genius",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "1000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-068.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Tights, Sister of a Genius",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-068.webp",
+        "Power": "1000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Tights"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-069": {
+        "id": "DB1-069",
+        "face": {
+            "front": {
+                "name": "Chiaotzu, Gallant Pupil",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-069.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Chiaotzu, Gallant Pupil",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-069.webp",
+        "Power": "19000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Chiaotzu"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Revenge"
+        ]
+    },
+    "DB1-070": {
+        "id": "DB1-070",
+        "face": {
+            "front": {
+                "name": "Oracle Fish",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-070.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Oracle Fish",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-070.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Oracle Fish"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-071": {
+        "id": "DB1-071",
+        "face": {
+            "front": {
+                "name": "Tora",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "30000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-071.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Tora",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-071.webp",
+        "Power": "30000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Tora"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "DB1-072": {
+        "id": "DB1-072",
+        "face": {
+            "front": {
+                "name": "Fasha, Deluge of Power",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-072.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fasha, Deluge of Power",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-072.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Fasha"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-073": {
+        "id": "DB1-073",
+        "face": {
+            "front": {
+                "name": "Shugesh, Raider's Warcry",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-073.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Shugesh, Raider's Warcry",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-073.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Shugesh"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-074": {
+        "id": "DB1-074",
+        "face": {
+            "front": {
+                "name": "Borgos, Raider's Warcry",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-074.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Borgos, Raider's Warcry",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-074.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Borgos"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-075": {
+        "id": "DB1-075",
+        "face": {
+            "front": {
+                "name": "Chilled, the Cruel",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-075.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Chilled, the Cruel",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-075.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Chilled"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Chilled's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto"
+        ]
+    },
+    "DB1-076": {
+        "id": "DB1-076",
+        "face": {
+            "front": {
+                "name": "Frieza, Cry of the Sovereign",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "5000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-076.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, Cry of the Sovereign",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-076.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Frieza"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-077": {
+        "id": "DB1-077",
+        "face": {
+            "front": {
+                "name": "Ginyu, Ultimate Transformation",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-077.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ginyu, Ultimate Transformation",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-077.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Ginyu"
+        ],
+        "Traits": [
+            "Ginyu Force",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike",
+            "Dual Attack"
+        ]
+    },
+    "DB1-078": {
+        "id": "DB1-078",
+        "face": {
+            "front": {
+                "name": "Mercenary Tao, the Master",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-078.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mercenary Tao, the Master",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-078.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Mercenary Tao"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Dual Attack"
+        ]
+    },
+    "DB1-079": {
+        "id": "DB1-079",
+        "face": {
+            "front": {
+                "name": "Final Spirit Cannon",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-079.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Final Spirit Cannon",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-079.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-079_PR": {
+        "id": "DB1-079_PR",
+        "face": {
+            "front": {
+                "name": "Final Spirit Cannon",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-079_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Final Spirit Cannon",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-079_PR.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-080": {
+        "id": "DB1-080",
+        "face": {
+            "front": {
+                "name": "Paternal Bonds",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-080.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Paternal Bonds",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-080.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack"
+        ]
+    },
+    "DB1-081": {
+        "id": "DB1-081",
+        "face": {
+            "front": {
+                "name": "Son Goku, Striking True",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-081.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Striking True",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-081.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-082": {
+        "id": "DB1-082",
+        "face": {
+            "front": {
+                "name": "Trunks, Dimension Sniper",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-082.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks, Dimension Sniper",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-082.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Trunks: Xeno"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Auto"
+        ]
+    },
+    "DB1-083": {
+        "id": "DB1-083",
+        "face": {
+            "front": {
+                "name": "Dende, Cry of the Soul",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-083.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dende, Cry of the Soul",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-083.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Dende"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-084": {
+        "id": "DB1-084",
+        "face": {
+            "front": {
+                "name": "Mira, Assault from the Skies",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-084.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Assault from the Skies",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-084.webp",
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Over Realm 7",
+            "Auto"
+        ]
+    },
+    "DB1-084_PR": {
+        "id": "DB1-084_PR",
+        "face": {
+            "front": {
+                "name": "Mira, Assault from the Skies",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-084_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Assault from the Skies",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-084_PR.webp",
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Over Realm 7",
+            "Auto"
+        ]
+    },
+    "DB1-085": {
+        "id": "DB1-085",
+        "face": {
+            "front": {
+                "name": "Fu, Mission Accomplished",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-085.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu, Mission Accomplished",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-085.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-086": {
+        "id": "DB1-086",
+        "face": {
+            "front": {
+                "name": "Remote Serious Bomb",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-086.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Remote Serious Bomb",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-086.webp",
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-087": {
+        "id": "DB1-087",
+        "face": {
+            "front": {
+                "name": "Burning Slash",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-087.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Burning Slash",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-087.webp",
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "DB1",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Permanent"
+        ]
+    },
+    "DB1-088": {
+        "id": "DB1-088",
+        "face": {
+            "front": {
+                "name": "Champa and Beerus, Capricious Gods",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Champa and Beerus, Capricious Gods",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088.webp",
+        "Power": "20000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Champa",
+            "Beerus"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Red/Green",
+            "Energy-Exhaust",
+            "Auto",
+            "Double Strike"
+        ]
+    },
+    "DB1-088_PR": {
+        "id": "DB1-088_PR",
+        "face": {
+            "front": {
+                "name": "Champa and Beerus, Capricious Gods",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Champa and Beerus, Capricious Gods",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088_PR.webp",
+        "Power": "20000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Champa",
+            "Beerus"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Red/Green",
+            "Energy-Exhaust",
+            "Auto",
+            "Double Strike"
+        ]
+    },
+    "DB1-088_PR2": {
+        "id": "DB1-088_PR2",
+        "face": {
+            "front": {
+                "name": "Champa and Beerus, Capricious Gods",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Champa and Beerus, Capricious Gods",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088_PR2.webp",
+        "Power": "20000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Champa",
+            "Beerus"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "arrival red/green",
+            "red_ball",
+            "energy-exhaust",
+            "auto",
+            "double strike"
+        ]
+    },
+    "DB1-088_PR3": {
+        "id": "DB1-088_PR3",
+        "face": {
+            "front": {
+                "name": "Champa and Beerus, Capricious Gods",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088_PR3.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Champa and Beerus, Capricious Gods",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-088_PR3.webp",
+        "Power": "20000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Champa",
+            "Beerus"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "arrival red/green",
+            "red_ball",
+            "energy-exhaust",
+            "auto",
+            "double strike"
+        ]
+    },
+    "DB1-089": {
+        "id": "DB1-089",
+        "face": {
+            "front": {
+                "name": "Son Goku and Vegeta, Saiyan Bonds",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-089.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku and Vegeta, Saiyan Bonds",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-089.webp",
+        "Power": "20000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku: Br",
+            "Vegeta: Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Blue/Yellow",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-090": {
+        "id": "DB1-090",
+        "face": {
+            "front": {
+                "name": "King Vegeta and Vegeta, Royal Bloodline",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-090.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "King Vegeta and Vegeta, Royal Bloodline",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-090.webp",
+        "Power": "20000",
+        "Color": "Red/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "King Vegeta",
+            "Vegeta: Youth"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Red/Yellow",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-090_PR": {
+        "id": "DB1-090_PR",
+        "face": {
+            "front": {
+                "name": "King Vegeta and Vegeta, Royal Bloodline",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-090_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "King Vegeta and Vegeta, Royal Bloodline",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-090_PR.webp",
+        "Power": "20000",
+        "Color": "Red/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "King Vegeta",
+            "Vegeta: Youth"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Red/Yellow",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-091": {
+        "id": "DB1-091",
+        "face": {
+            "front": {
+                "name": "Son Goku and Son Gohan, Saiyans of Earth",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-091.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku and Son Gohan, Saiyans of Earth",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-091.webp",
+        "Power": "25000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku",
+            "Son Gohan: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Blue/Green",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-091_PR": {
+        "id": "DB1-091_PR",
+        "face": {
+            "front": {
+                "name": "Son Goku and Son Gohan, Saiyans of Earth",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-091_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku and Son Gohan, Saiyans of Earth",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-091_PR.webp",
+        "Power": "25000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku",
+            "Son Gohan: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Blue/Green",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-092": {
+        "id": "DB1-092",
+        "face": {
+            "front": {
+                "name": "Hercule and Majin Buu, Friends Forever",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-092.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hercule and Majin Buu, Friends Forever",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-092.webp",
+        "Power": "19000",
+        "Color": "Red/Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Hercule",
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Earthling",
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Red/Blue",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-092_PR": {
+        "id": "DB1-092_PR",
+        "face": {
+            "front": {
+                "name": "Hercule and Majin Buu, Friends Forever",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-092_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hercule and Majin Buu, Friends Forever",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-092_PR.webp",
+        "Power": "19000",
+        "Color": "Red/Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Hercule",
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Earthling",
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Red/Blue",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-093": {
+        "id": "DB1-093",
+        "face": {
+            "front": {
+                "name": "Krillin and Android 18, Power Couple",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-093.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Krillin and Android 18, Power Couple",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-093.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Krillin",
+            "Android 18"
+        ],
+        "Traits": [
+            "Earthling",
+            "Android",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Green/Yellow",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-093_PR": {
+        "id": "DB1-093_PR",
+        "face": {
+            "front": {
+                "name": "Krillin and Android 18, Power Couple",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-093_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Krillin and Android 18, Power Couple",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-093_PR.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Krillin",
+            "Android 18"
+        ],
+        "Traits": [
+            "Earthling",
+            "Android",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Arrival Green/Yellow",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "DB1-094": {
+        "id": "DB1-094",
+        "face": {
+            "front": {
+                "name": "Vegeta, Saiyan Tag Team",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-094.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Saiyan Tag Team",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-094.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "DB1-095": {
+        "id": "DB1-095",
+        "face": {
+            "front": {
+                "name": "Cabba, Saiyan Tag Team",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-095.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cabba, Saiyan Tag Team",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-095.webp",
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Cabba"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "DB1-096": {
+        "id": "DB1-096",
+        "face": {
+            "front": {
+                "name": "Uneasy Alliance Son Goku",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-096.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Uneasy Alliance Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-096.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Auto"
+        ]
+    },
+    "DB1-097": {
+        "id": "DB1-097",
+        "face": {
+            "front": {
+                "name": "Uneasy Alliance Frieza",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-097.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Uneasy Alliance Frieza",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-097.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Frieza"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "DB1-098": {
+        "id": "DB1-098",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Master and Pupil",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "5000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-098.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Master and Pupil",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-098.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Son Gohan: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Auto"
+        ]
+    },
+    "DB1-099": {
+        "id": "DB1-099",
+        "face": {
+            "front": {
+                "name": "Piccolo, Master and Pupil",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-099.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Master and Pupil",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-099.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Burst 3"
+        ]
+    },
+    "DB1-100": {
+        "id": "DB1-100",
+        "face": {
+            "front": {
+                "name": "Bardock, Father and Son",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-100.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bardock, Father and Son",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-100.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "DB1-101": {
+        "id": "DB1-101",
+        "face": {
+            "front": {
+                "name": "Son Goku, Father and Son",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-101.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Father and Son",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-101.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "DB1-101_PR": {
+        "id": "DB1-101_PR",
+        "face": {
+            "front": {
+                "name": "Son Goku, Father and Son",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-101_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Father and Son",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-101_PR.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "DB1",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "DB1-102": {
+        "id": "DB1-102",
+        "face": {
+            "front": {
+                "name": "SS3 Tag Team Son Gohan",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-102.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Tag Team Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-102.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Gohan: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-102_PR": {
+        "id": "DB1-102_PR",
+        "face": {
+            "front": {
+                "name": "SS3 Tag Team Son Gohan",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-102_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Tag Team Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-102_PR.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Son Gohan: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "DB1-103": {
+        "id": "DB1-103",
+        "face": {
+            "front": {
+                "name": "SS3 Tag Team Trunks",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-103.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Tag Team Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Duo Power Rare[DPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/DB1-103.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "DB1",
+        "Character": [
+            "Trunks: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Auto",
+            "Over Realm",
+            "Critical",
+            "Activate: Battle",
+            "Double Strike"
+        ]
+    }
+}

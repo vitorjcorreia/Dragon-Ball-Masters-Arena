@@ -1,0 +1,274 @@
+{
+    "SD21-01": {
+        "id": "SD21-01",
+        "face": {
+            "front": {
+                "name": "Son Gohan",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Gohan, Command of Universe 7",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-01.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD21",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Warrior of Universe 7",
+            "Permanent",
+            "Auto",
+            "Awaken",
+            "Activate: Main",
+            "Once per turn",
+            "Activate: Battle"
+        ]
+    },
+    "SD21-02": {
+        "id": "SD21-02",
+        "face": {
+            "front": {
+                "name": "Piccolo, Master-Student Technique",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Master-Student Technique",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-02.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD21",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "God",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "SD21-03": {
+        "id": "SD21-03",
+        "face": {
+            "front": {
+                "name": "Frieza, Unexpected Assistance",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, Unexpected Assistance",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-03.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD21",
+        "Character": [
+            "Frieza"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "SD21-04": {
+        "id": "SD21-04",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Master-Student Technique",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "16000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Master-Student Technique",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-04.webp",
+        "Power": "16000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD21",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Z-Stack 2",
+            "Auto",
+            "Barrier",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "SD21-05": {
+        "id": "SD21-05",
+        "face": {
+            "front": {
+                "name": "Piccolo, Piercing Flash",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Piercing Flash",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-05.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD21",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "God",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto",
+            "Activate: Main",
+            "Limit 1",
+            "Warrior of Universe 7"
+        ]
+    },
+    "SD21-06": {
+        "id": "SD21-06",
+        "face": {
+            "front": {
+                "name": "Krillin, Clever Fighter",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Krillin, Clever Fighter",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-06.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD21",
+        "Character": [
+            "Krillin"
+        ],
+        "Traits": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "SD21-07": {
+        "id": "SD21-07",
+        "face": {
+            "front": {
+                "name": "Android 18, Perfect Teamwork",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-07.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 18, Perfect Teamwork",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD21-07.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD21",
+        "Character": [
+            "Android 18"
+        ],
+        "Traits": [
+            "Android",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1",
+            "Warrior of Universe 7"
+        ]
+    }
+}

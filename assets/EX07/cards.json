@@ -1,0 +1,373 @@
+{
+    "EX07-01": {
+        "id": "EX07-01",
+        "face": {
+            "front": {
+                "name": "Son Goku, Preparing for BATTLE",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-01.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Preparing for BATTLE",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-01.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Son Goku: Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Auto"
+        ]
+    },
+    "EX07-02": {
+        "id": "EX07-02",
+        "face": {
+            "front": {
+                "name": "Vegeta, Preparing for Battle",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Preparing for Battle",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-02.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Vegeta: Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": true,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "EX07-03": {
+        "id": "EX07-03",
+        "face": {
+            "front": {
+                "name": "Whis, Godly Fundamentals",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Whis, Godly Fundamentals",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-03.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Whis"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "EX07-04": {
+        "id": "EX07-04",
+        "face": {
+            "front": {
+                "name": "Gogeta, a Hero's Advent",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gogeta, a Hero's Advent",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-04.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Gogeta: Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "EX07-05": {
+        "id": "EX07-05",
+        "face": {
+            "front": {
+                "name": "Altered Reality",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Altered Reality",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-05.webp",
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX07",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Field",
+            "Permanent",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "EX07-06": {
+        "id": "EX07-06",
+        "face": {
+            "front": {
+                "name": "Broly, Preparing for BATTLE",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Broly, Preparing for BATTLE",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-06.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Broly: Br"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "EX07-07": {
+        "id": "EX07-07",
+        "face": {
+            "front": {
+                "name": "Raditz, Ruthless Adversary",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-07.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Raditz, Ruthless Adversary",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-07.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Raditz"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "EX07-08": {
+        "id": "EX07-08",
+        "face": {
+            "front": {
+                "name": "Frieza, Spiteful Strike",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-08.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, Spiteful Strike",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-08.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Frieza: Br"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "EX07-09": {
+        "id": "EX07-09",
+        "face": {
+            "front": {
+                "name": "Paragus, the Forebearer",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-09.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Paragus, the Forebearer",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-09.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Paragus: Br"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "EX07-10": {
+        "id": "EX07-10",
+        "face": {
+            "front": {
+                "name": "SS Caulifla, the Hellion",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-10.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Caulifla, the Hellion",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-10.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Caulifla"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "EX07-11": {
+        "id": "EX07-11",
+        "face": {
+            "front": {
+                "name": "Demigra, Demonic Overlord",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-11.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Demigra, Demonic Overlord",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX07-11.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX07",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Burst 2"
+        ]
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "EX16-01": {
+        "id": "EX16-01",
+        "face": {
+            "front": {
+                "name": "Towa",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Towa & Mechikabura, Dark Conjurers",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Towa",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-01.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX16",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race",
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Awaken",
+            "Once per turn"
+        ]
+    },
+    "EX16-02": {
+        "id": "EX16-02",
+        "face": {
+            "front": {
+                "name": "Dark Shenron, Tyrannical Savior",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "16000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Shenron, Tyrannical Savior",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-02.webp",
+        "Power": "16000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX16",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "+1",
+            "Activate: Main",
+            "-3",
+            "Auto"
+        ]
+    },
+    "EX16-03": {
+        "id": "EX16-03",
+        "face": {
+            "front": {
+                "name": "Dark Broly, Unbridled Destruction",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Broly, Unbridled Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-03.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX16",
+        "Character": [
+            "Dark Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": true,
+        "Keywords": [
+            "Deflect",
+            "Unique",
+            "EX-Evolve",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "EX16-04": {
+        "id": "EX16-04",
+        "face": {
+            "front": {
+                "name": "Dark Broly, the Shadow Warrior",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Broly, the Shadow Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-04.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX16",
+        "Character": [
+            "Dark Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Activate: Main"
+        ]
+    },
+    "EX16-05": {
+        "id": "EX16-05",
+        "face": {
+            "front": {
+                "name": "Janemba, the Shadow Warrior",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, the Shadow Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-05.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX16",
+        "Character": [
+            "Janemba: Xeno"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack"
+        ]
+    },
+    "EX16-06": {
+        "id": "EX16-06",
+        "face": {
+            "front": {
+                "name": "Frieza, the Shadow Warrior",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, the Shadow Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-06.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX16",
+        "Character": [
+            "Frieza: Xeno"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "EX16-07": {
+        "id": "EX16-07",
+        "face": {
+            "front": {
+                "name": "Majin Buu, the Shadow Warrior",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-07.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Majin Buu, the Shadow Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-07.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX16",
+        "Character": [
+            "Majin Buu: Xeno"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Barrier",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "EX16-08": {
+        "id": "EX16-08",
+        "face": {
+            "front": {
+                "name": "Lord Slug, the Shadow Warrior",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-08.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Lord Slug, the Shadow Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-08.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX16",
+        "Character": [
+            "Lord Slug: Xeno"
+        ],
+        "Traits": [
+            "Namekian",
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "EX16-09": {
+        "id": "EX16-09",
+        "face": {
+            "front": {
+                "name": "Dark Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-09.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Dragon Balls",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-09.webp",
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX16",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate: Main"
+        ]
+    },
+    "EX16-10": {
+        "id": "EX16-10",
+        "face": {
+            "front": {
+                "name": "Lord Slug, Unbridled Might",
+                "type": "Main_Deck",
+                "cost": "9",
+                "power": "25000",
+                "Energy_cost": "9",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-10.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Lord Slug, Unbridled Might",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX16-10.webp",
+        "Power": "25000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX16",
+        "Character": [
+            "Lord Slug: Xeno"
+        ],
+        "Traits": [
+            "Namekian",
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Unique",
+            "Blocker",
+            "EX-Evolve",
+            "Auto",
+            "Once per turn"
+        ]
+    }
+}

@@ -1,0 +1,6398 @@
+{
+    "BT22-001": {
+        "id": "BT22-001",
+        "face": {
+            "front": {
+                "name": "Son Gohan",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-001.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Gohan, Unfaltering Power",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-001_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-001.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken",
+            "Once per turn",
+            "Blocker"
+        ]
+    },
+    "BT22-002": {
+        "id": "BT22-002",
+        "face": {
+            "front": {
+                "name": "Dr. Hedo",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-002.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Dr. Hedo, Admiration for Heroes",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-002_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dr. Hedo",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-002.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Dr. Hedo: SH"
+        ],
+        "Traits": [
+            "Earthling",
+            "Scientist",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken",
+            "Permanent",
+            "Barrier",
+            "Once per turn",
+            "Activate: Main"
+        ]
+    },
+    "BT22-003": {
+        "id": "BT22-003",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Awakening to Beast",
+                "type": "Z_Deck",
+                "cost": null,
+                "power": "20000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-003.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Awakening to Beast",
+        "Type": "Z-LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-003.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Z-Awaken",
+            "Auto"
+        ]
+    },
+    "BT22-004": {
+        "id": "BT22-004",
+        "face": {
+            "front": {
+                "name": "Gamma 1 & Gamma 2, Arrival of Heroes",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-004.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 1 & Gamma 2, Arrival of Heroes",
+        "Type": "Z-BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-004.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Gamma 1: SH",
+            "Gamma 2: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Limit 1",
+            "Double Strike"
+        ]
+    },
+    "BT22-005": {
+        "id": "BT22-005",
+        "face": {
+            "front": {
+                "name": "Cell Max, Advent of Despair",
+                "type": "Z_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-005.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell Max, Advent of Despair",
+        "Type": "Z-BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-005.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Cell Max: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Blocker",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "BT22-006": {
+        "id": "BT22-006",
+        "face": {
+            "front": {
+                "name": "Battle With the Red Ribbon Army",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-006.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Battle With the Red Ribbon Army",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-006.webp",
+        "Power": null,
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-007": {
+        "id": "BT22-007",
+        "face": {
+            "front": {
+                "name": "Special Beam Cannon, Inherited Power",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-007.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Special Beam Cannon, Inherited Power",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-007.webp",
+        "Power": null,
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Barrier",
+            "Double Strike"
+        ]
+    },
+    "BT22-008": {
+        "id": "BT22-008",
+        "face": {
+            "front": {
+                "name": "Dr. Hedo's Laboratory",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-008.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Dr. Hedo's Laboratory",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-008.webp",
+        "Power": null,
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Z-Stack 1",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-009": {
+        "id": "BT22-009",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Beast Roar",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-009.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Beast Roar",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-009.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Auto",
+            "Limit 1",
+            "Counter",
+            "Activate: Main"
+        ]
+    },
+    "BT22-009_SPR": {
+        "id": "BT22-009_SPR",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Beast Roar",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-009_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Beast Roar",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-009_SPR.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Auto",
+            "Limit 1",
+            "Counter",
+            "Activate: Main"
+        ]
+    },
+    "BT22-010": {
+        "id": "BT22-010",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Ultimate Power of Legend",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-010.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Ultimate Power of Legend",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-010.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "EX-Evolve",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-011": {
+        "id": "BT22-011",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan, All-Out Explosion",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-011.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan, All-Out Explosion",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-011.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Unique",
+            "Barrier",
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT22-012": {
+        "id": "BT22-012",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan & Pan, Strong Father and Daughter",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "24000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-012.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan & Pan, Strong Father and Daughter",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-012.webp",
+        "Power": "24000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: SH",
+            "Pan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-013": {
+        "id": "BT22-013",
+        "face": {
+            "front": {
+                "name": "Pan, Glimpse of Strength",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-013.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Pan, Glimpse of Strength",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-013.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Pan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-014": {
+        "id": "BT22-014",
+        "face": {
+            "front": {
+                "name": "Pan, Determined Young Girl",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-014.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Pan, Determined Young Girl",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-014.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Pan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-015": {
+        "id": "BT22-015",
+        "face": {
+            "front": {
+                "name": "Piccolo, Power Beyond Awakening",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-015.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Power Beyond Awakening",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-015.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Piccolo: SH"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "EX-Evolve",
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT22-016": {
+        "id": "BT22-016",
+        "face": {
+            "front": {
+                "name": "Piccolo, Bestowed Power",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-016.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Bestowed Power",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-016.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Piccolo: SH"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-017": {
+        "id": "BT22-017",
+        "face": {
+            "front": {
+                "name": "Piccolo, With a New Student",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-017.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, With a New Student",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-017.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Piccolo: SH"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-018": {
+        "id": "BT22-018",
+        "face": {
+            "front": {
+                "name": "Videl, Dedicated Mother",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-018.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Videl, Dedicated Mother",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-018.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Videl: SH"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT22-019": {
+        "id": "BT22-019",
+        "face": {
+            "front": {
+                "name": "Gamma 1, Hero Pride",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-019.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 1, Hero Pride",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-019.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Gamma 1: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Once per turn"
+        ]
+    },
+    "BT22-020": {
+        "id": "BT22-020",
+        "face": {
+            "front": {
+                "name": "Gamma 1, A New Hero Created By Dr. Hedo",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-020.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 1, A New Hero Created By Dr. Hedo",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-020.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Gamma 1: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Limit 1",
+            "Once per turn"
+        ]
+    },
+    "BT22-021": {
+        "id": "BT22-021",
+        "face": {
+            "front": {
+                "name": "Gamma 1 & Gamma 2, Heroes' Mission",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-021.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 1 & Gamma 2, Heroes' Mission",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-021.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Gamma 1: SH",
+            "Gamma 2: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-021_PR": {
+        "id": "BT22-021_PR",
+        "face": {
+            "front": {
+                "name": "Gamma 1 & Gamma 2, Heroes' Mission",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-021_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 1 & Gamma 2, Heroes' Mission",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-021_PR.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Gamma 1: SH",
+            "Gamma 2: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "once per turn",
+            "activate: battle",
+            "limit 1",
+            "red_ball"
+        ]
+    },
+    "BT22-021_SPR": {
+        "id": "BT22-021_SPR",
+        "face": {
+            "front": {
+                "name": "Gamma 1 & Gamma 2, Heroes' Mission",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-021_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 1 & Gamma 2, Heroes' Mission",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-021_SPR.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Gamma 1: SH",
+            "Gamma 2: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-022": {
+        "id": "BT22-022",
+        "face": {
+            "front": {
+                "name": "Gamma 2, Suicide Attack Departure",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-022.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 2, Suicide Attack Departure",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-022.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Gamma 2: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-023": {
+        "id": "BT22-023",
+        "face": {
+            "front": {
+                "name": "Gamma 2, A New Hero Created By Dr. Hedo",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-023.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 2, A New Hero Created By Dr. Hedo",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-023.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Gamma 2: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-024": {
+        "id": "BT22-024",
+        "face": {
+            "front": {
+                "name": "Dr. Hedo, Heroism and Aesthetics",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-024.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dr. Hedo, Heroism and Aesthetics",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-024.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Dr. Hedo: SH"
+        ],
+        "Traits": [
+            "Earthling",
+            "Scientist",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-025": {
+        "id": "BT22-025",
+        "face": {
+            "front": {
+                "name": "Dr. Hedo, A Heroic Brain?",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-025.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dr. Hedo, A Heroic Brain?",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-025.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Dr. Hedo: SH"
+        ],
+        "Traits": [
+            "Earthling",
+            "Scientist",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-026": {
+        "id": "BT22-026",
+        "face": {
+            "front": {
+                "name": "Hachimaru, Small Scout",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-026.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hachimaru, Small Scout",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-026.webp",
+        "Power": "1000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Hachimaru: SH"
+        ],
+        "Traits": [
+            "Robot",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-027": {
+        "id": "BT22-027",
+        "face": {
+            "front": {
+                "name": "Cell Max, Return of Despair",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-027.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell Max, Return of Despair",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-027.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cell Max: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-027_PR": {
+        "id": "BT22-027_PR",
+        "face": {
+            "front": {
+                "name": "Cell Max, Return of Despair",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-027_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell Max, Return of Despair",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-027_PR.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cell Max: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-027_SPR": {
+        "id": "BT22-027_SPR",
+        "face": {
+            "front": {
+                "name": "Cell Max, Return of Despair",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-027_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell Max, Return of Despair",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-027_SPR.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cell Max: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-028": {
+        "id": "BT22-028",
+        "face": {
+            "front": {
+                "name": "Magenta, Emergency Armament",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-028.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Magenta, Emergency Armament",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-028.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Magenta: SH"
+        ],
+        "Traits": [
+            "Earthling",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Limit 1",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT22-029": {
+        "id": "BT22-029",
+        "face": {
+            "front": {
+                "name": "Magenta, Path to Wish Fulfillment",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-029.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Magenta, Path to Wish Fulfillment",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-029.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Magenta: SH"
+        ],
+        "Traits": [
+            "Earthling",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Double Strike"
+        ]
+    },
+    "BT22-030": {
+        "id": "BT22-030",
+        "face": {
+            "front": {
+                "name": "Focused Barrage",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": null,
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-030.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Focused Barrage",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-030.webp",
+        "Power": null,
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-031": {
+        "id": "BT22-031",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-031.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Goku & Vegeta, Tag Team in Hell",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-031_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-031.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Energy-Exhaust",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Auto"
+        ]
+    },
+    "BT22-031_PR": {
+        "id": "BT22-031_PR",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-031_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Goku & Vegeta, Tag Team in Hell",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-031_PR_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-031_PR.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Energy-Exhaust",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Auto"
+        ]
+    },
+    "BT22-032": {
+        "id": "BT22-032",
+        "face": {
+            "front": {
+                "name": "Janemba",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-032.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Janemba, Silent Demon",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-032_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-032.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken",
+            "Once per turn"
+        ]
+    },
+    "BT22-033": {
+        "id": "BT22-033",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Light Shining Through Hell",
+                "type": "Z_Deck",
+                "cost": null,
+                "power": "20000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-033.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Light Shining Through Hell",
+        "Type": "Z-LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-033.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Z-Awaken",
+            "Auto",
+            "Once per turn",
+            "Union",
+            "Barrier",
+            "Activate: Battle",
+            "Aegis"
+        ]
+    },
+    "BT22-033_PR": {
+        "id": "BT22-033_PR",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Light Shining Through Hell",
+                "type": "Z_Deck",
+                "cost": null,
+                "power": "20000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-033_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Light Shining Through Hell",
+        "Type": "Z-LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-033_PR.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Z-Awaken",
+            "Auto",
+            "Once per turn",
+            "Union",
+            "Barrier",
+            "Activate: Battle",
+            "Aegis"
+        ]
+    },
+    "BT22-034": {
+        "id": "BT22-034",
+        "face": {
+            "front": {
+                "name": "Janemba, Pure Evil",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-034.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Pure Evil",
+        "Type": "Z-BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-034.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "BT22-035": {
+        "id": "BT22-035",
+        "face": {
+            "front": {
+                "name": "Soul Punisher, the Cleansing Light",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-035.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Soul Punisher, the Cleansing Light",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-035.webp",
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Aegis",
+            "Activate: Battle",
+            "Limit 1",
+            "Triple Strike"
+        ]
+    },
+    "BT22-035_PR": {
+        "id": "BT22-035_PR",
+        "face": {
+            "front": {
+                "name": "Soul Punisher, the Cleansing Light",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-035_PR.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Soul Punisher, the Cleansing Light",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-035_PR.webp",
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Aegis",
+            "Activate: Battle",
+            "Limit 1",
+            "Triple Strike"
+        ]
+    },
+    "BT22-036": {
+        "id": "BT22-036",
+        "face": {
+            "front": {
+                "name": "Demonic Blade",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-036.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Demonic Blade",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-036.webp",
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-037": {
+        "id": "BT22-037",
+        "face": {
+            "front": {
+                "name": "Dimensional Hole",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-037.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Dimensional Hole",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-037.webp",
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-038": {
+        "id": "BT22-038",
+        "face": {
+            "front": {
+                "name": "Lightning Shower Rain",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-038.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Lightning Shower Rain",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-038.webp",
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-039": {
+        "id": "BT22-039",
+        "face": {
+            "front": {
+                "name": "SS Vegeta, Counter Strike",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "5000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-039.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Vegeta, Counter Strike",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-039.webp",
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-040": {
+        "id": "BT22-040",
+        "face": {
+            "front": {
+                "name": "Vegeta, Combination Attack in Hell",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "5000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-040.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Combination Attack in Hell",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-040.webp",
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ]
+    },
+    "BT22-041": {
+        "id": "BT22-041",
+        "face": {
+            "front": {
+                "name": "Great Saiyaman, Protecting Worldly Life",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-041.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Saiyaman, Protecting Worldly Life",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-041.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT22-042": {
+        "id": "BT22-042",
+        "face": {
+            "front": {
+                "name": "Son Goten",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-042.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goten",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-042.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT22-043": {
+        "id": "BT22-043",
+        "face": {
+            "front": {
+                "name": "Janemba, Devious Trickster",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-043.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Devious Trickster",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-043.webp",
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Blocker",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1",
+            "Once per turn"
+        ]
+    },
+    "BT22-043_SPR": {
+        "id": "BT22-043_SPR",
+        "face": {
+            "front": {
+                "name": "Janemba, Devious Trickster",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-043_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Devious Trickster",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-043_SPR.webp",
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Blocker",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1",
+            "Once per turn"
+        ]
+    },
+    "BT22-044": {
+        "id": "BT22-044",
+        "face": {
+            "front": {
+                "name": "Janemba, Blinding Attack Fury",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "19000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-044.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Blinding Attack Fury",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-044.webp",
+        "Power": "19000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-045": {
+        "id": "BT22-045",
+        "face": {
+            "front": {
+                "name": "Janemba, Unapproachable Power",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "19000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-045.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Unapproachable Power",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-045.webp",
+        "Power": "19000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Critical"
+        ]
+    },
+    "BT22-046": {
+        "id": "BT22-046",
+        "face": {
+            "front": {
+                "name": "Janemba, Unexpected Appearance",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "19000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-046.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Unexpected Appearance",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-046.webp",
+        "Power": "19000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-047": {
+        "id": "BT22-047",
+        "face": {
+            "front": {
+                "name": "Janemba, Innocent Precursor",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-047.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Innocent Precursor",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-047.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Blocker",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-048": {
+        "id": "BT22-048",
+        "face": {
+            "front": {
+                "name": "Janemba, Precursor to a Devil",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-048.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Precursor to a Devil",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-048.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Blocker",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-049": {
+        "id": "BT22-049",
+        "face": {
+            "front": {
+                "name": "Janemba",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-049.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-049.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT22-050": {
+        "id": "BT22-050",
+        "face": {
+            "front": {
+                "name": "Saike Demon, Neglect of Duty",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-050.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Saike Demon, Neglect of Duty",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-050.webp",
+        "Power": "1000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Saike Demon"
+        ],
+        "Traits": [
+            "Demon"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-051": {
+        "id": "BT22-051",
+        "face": {
+            "front": {
+                "name": "Beerus, Merciless Destruction",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "20000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-051.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Beerus, Merciless Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-051.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Beerus"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Limit 1",
+            "Once per turn",
+            "Double Strike",
+            "Dual Attack"
+        ]
+    },
+    "BT22-052": {
+        "id": "BT22-052",
+        "face": {
+            "front": {
+                "name": "Whis, Perfect Support",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-052.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Whis, Perfect Support",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-052.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Whis"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ]
+    },
+    "BT22-053": {
+        "id": "BT22-053",
+        "face": {
+            "front": {
+                "name": "Barrier Around Check-In Station",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": null,
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-053.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Barrier Around Check-In Station",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-053.webp",
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Field",
+            "Permanent",
+            "Activate: Main/Battle"
+        ]
+    },
+    "BT22-054": {
+        "id": "BT22-054",
+        "face": {
+            "front": {
+                "name": "Son Goten",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-054.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SS Son Gohan & SS Son Goten, Brothers",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-054_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goten",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-054.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Auto",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-054_PR": {
+        "id": "BT22-054_PR",
+        "face": {
+            "front": {
+                "name": "Son Goten",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-054_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SS Son Gohan & SS Son Goten, Brothers",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-054_PR_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goten",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-054_PR.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate main",
+            "once per turn",
+            "awaken"
+        ]
+    },
+    "BT22-055": {
+        "id": "BT22-055",
+        "face": {
+            "front": {
+                "name": "Broly & Paragus",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-055.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SS Broly, Devil of Destruction",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-055_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Broly & Paragus",
+        "Type": "LEADER",
+        "Rarity": "Uncommon [UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-055.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Broly",
+            "Paragus"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Awaken",
+            "Permanent",
+            "Counter",
+            "Auto"
+        ]
+    },
+    "BT22-056": {
+        "id": "BT22-056",
+        "face": {
+            "front": {
+                "name": "SS Broly, All-Transcending Devil",
+                "type": "Z_Deck",
+                "cost": null,
+                "power": "20000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-056.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Broly, All-Transcending Devil",
+        "Type": "Z-LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-056.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Z-Awaken",
+            "Permanent",
+            "Counter",
+            "Auto"
+        ]
+    },
+    "BT22-057": {
+        "id": "BT22-057",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Emotions Delivered",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "4000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-057.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goku, Emotions Delivered",
+        "Type": "Z-BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-057.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Limit 1",
+            "Activate: Battle",
+            "Triple Strike"
+        ]
+    },
+    "BT22-058": {
+        "id": "BT22-058",
+        "face": {
+            "front": {
+                "name": "SS3 Broly, Tyrant",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-058.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Broly, Tyrant",
+        "Type": "Z-BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-058.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Once per turn",
+            "Double Strike",
+            "Activate: Main"
+        ]
+    },
+    "BT22-058_PR": {
+        "id": "BT22-058_PR",
+        "face": {
+            "front": {
+                "name": "SS3 Broly, Tyrant",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-058_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Broly, Tyrant",
+        "Type": "Z-BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-058_PR.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Permanent",
+            "Auto",
+            "Once per turn",
+            "Double Strike",
+            "Activate: Main"
+        ]
+    },
+    "BT22-059": {
+        "id": "BT22-059",
+        "face": {
+            "front": {
+                "name": "Family Kamehameha, Emotions Delivered",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-059.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Family Kamehameha, Emotions Delivered",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-059.webp",
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Z-Stack 1",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1",
+            "Critical"
+        ]
+    },
+    "BT22-060": {
+        "id": "BT22-060",
+        "face": {
+            "front": {
+                "name": "Gigantic Meteor of Destruction",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-060.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Gigantic Meteor of Destruction",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-060.webp",
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-060_PR": {
+        "id": "BT22-060_PR",
+        "face": {
+            "front": {
+                "name": "Gigantic Meteor of Destruction",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-060_PR.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Gigantic Meteor of Destruction",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-060_PR.webp",
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-061": {
+        "id": "BT22-061",
+        "face": {
+            "front": {
+                "name": "Krillin & Yamcha, Turtle School Experts",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-061.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Krillin & Yamcha, Turtle School Experts",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-061.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Krillin",
+            "Yamcha"
+        ],
+        "Traits": [
+            "Earthling",
+            "World Tournament",
+            "Turtle School"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-062": {
+        "id": "BT22-062",
+        "face": {
+            "front": {
+                "name": "Master Roshi, Turtle School Patriarch",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-062.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Master Roshi, Turtle School Patriarch",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-062.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Master Roshi"
+        ],
+        "Traits": [
+            "Earthling",
+            "World Tournament",
+            "Turtle School"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-063": {
+        "id": "BT22-063",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan, Released Power",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-063.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan, Released Power",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-063.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Limit 1",
+            "Critical"
+        ]
+    },
+    "BT22-064": {
+        "id": "BT22-064",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan, Building Up Power",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-064.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan, Building Up Power",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-064.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "EX-Evolve",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-065": {
+        "id": "BT22-065",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Close Call",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-065.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Close Call",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-065.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto"
+        ]
+    },
+    "BT22-066": {
+        "id": "BT22-066",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan & SS Son Goten, Emotions Delivered",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-066.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan & SS Son Goten, Emotions Delivered",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-066.webp",
+        "Power": "30000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence",
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-066_PR": {
+        "id": "BT22-066_PR",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan & SS Son Goten, Emotions Delivered",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-066_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan & SS Son Goten, Emotions Delivered",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-066_PR.webp",
+        "Power": "30000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence",
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "once per turn",
+            "activate main",
+            "limit 1",
+            "green_ball"
+        ]
+    },
+    "BT22-066_SPR": {
+        "id": "BT22-066_SPR",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan & SS Son Goten, Emotions Delivered",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-066_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan & SS Son Goten, Emotions Delivered",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-066_SPR.webp",
+        "Power": "30000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence",
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-067": {
+        "id": "BT22-067",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan & SS Son Goten, Battle Ready",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-067.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan & SS Son Goten, Battle Ready",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-067.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence",
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-067_SPR": {
+        "id": "BT22-067_SPR",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan & SS Son Goten, Battle Ready",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-067_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan & SS Son Goten, Battle Ready",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-067_SPR.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Adolescence",
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-068": {
+        "id": "BT22-068",
+        "face": {
+            "front": {
+                "name": "SS Son Goten, Released Power",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-068.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goten, Released Power",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-068.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Limit 1",
+            "Double Strike"
+        ]
+    },
+    "BT22-069": {
+        "id": "BT22-069",
+        "face": {
+            "front": {
+                "name": "SS Son Goten, Building Up Power",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-069.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goten, Building Up Power",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-069.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "EX-Evolve",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-070": {
+        "id": "BT22-070",
+        "face": {
+            "front": {
+                "name": "Son Goten, Close Call",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-070.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goten, Close Call",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-070.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto"
+        ]
+    },
+    "BT22-071": {
+        "id": "BT22-071",
+        "face": {
+            "front": {
+                "name": "Trunks, Provocation",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-071.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks, Provocation",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-071.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT22-072": {
+        "id": "BT22-072",
+        "face": {
+            "front": {
+                "name": "Bio-Broly, Out of Control Monster",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-072.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bio-Broly, Out of Control Monster",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-072.webp",
+        "Power": "25000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bio Warrior"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Blocker",
+            "Permanent",
+            "Activate: Main"
+        ]
+    },
+    "BT22-073": {
+        "id": "BT22-073",
+        "face": {
+            "front": {
+                "name": "Broly, Lone Warrior",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-073.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Broly, Lone Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-073.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT22-074": {
+        "id": "BT22-074",
+        "face": {
+            "front": {
+                "name": "Broly & Paragus, Father and Son of Vengeance",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-074.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Broly & Paragus, Father and Son of Vengeance",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-074.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Broly",
+            "Paragus"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT22-075": {
+        "id": "BT22-075",
+        "face": {
+            "front": {
+                "name": "Paragus, Strategist",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-075.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Paragus, Strategist",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-075.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Paragus"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT22-076": {
+        "id": "BT22-076",
+        "face": {
+            "front": {
+                "name": "Paragus, Beginnings of Ambition",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-076.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Paragus, Beginnings of Ambition",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-076.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Paragus"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT22-077": {
+        "id": "BT22-077",
+        "face": {
+            "front": {
+                "name": "Bio Warrior, Artificial Beings",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-077.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bio Warrior, Artificial Beings",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-077.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Bio Warrior"
+        ],
+        "Traits": [
+            "Bio Warrior"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT22-078": {
+        "id": "BT22-078",
+        "face": {
+            "front": {
+                "name": "Sealed Super Warrior",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-078.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Sealed Super Warrior",
+        "Type": "EXTRA",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-078.webp",
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Field",
+            "Permanent",
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT22-079": {
+        "id": "BT22-079",
+        "face": {
+            "front": {
+                "name": "Dormant Super Warrior",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-079.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dormant Super Warrior",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-079.webp",
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Field",
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-080": {
+        "id": "BT22-080",
+        "face": {
+            "front": {
+                "name": "Jaguar's Island",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-080.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Jaguar's Island",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-080.webp",
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Field",
+            "Permanent",
+            "Activate: Main",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-081": {
+        "id": "BT22-081",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-081.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Goku & Korin, Martial Discipline",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-081_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-081.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Permanent",
+            "Activate: Main/Battle",
+            "Auto"
+        ]
+    },
+    "BT22-082": {
+        "id": "BT22-082",
+        "face": {
+            "front": {
+                "name": "Fortuneteller Baba",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-082.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Fortuneteller Baba & Son Gohan, Battle Observation",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-082_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fortuneteller Baba",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-082.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Fortuneteller Baba"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Awaken",
+            "Permanent",
+            "Double Strike",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-083": {
+        "id": "BT22-083",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Unpredicted Blow",
+                "type": "Z_Deck",
+                "cost": "3",
+                "power": "25000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-083.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Unpredicted Blow",
+        "Type": "Z-BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-083.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Barrier",
+            "Dual Attack",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-084": {
+        "id": "BT22-084",
+        "face": {
+            "front": {
+                "name": "Korin, Teacher of Fighting",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-084.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Korin, Teacher of Fighting",
+        "Type": "Z-BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-084.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Korin"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Unique",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-085": {
+        "id": "BT22-085",
+        "face": {
+            "front": {
+                "name": "Mercenary Tao, Cool Extortion",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-085.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mercenary Tao, Cool Extortion",
+        "Type": "Z-BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-085.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Mercenary Tao"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Limit 1",
+            "Dragon Ball"
+        ]
+    },
+    "BT22-086": {
+        "id": "BT22-086",
+        "face": {
+            "front": {
+                "name": "Goku's Kamehameha",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-086.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Goku's Kamehameha",
+        "Type": "Z-EXTRA",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-086.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Battle",
+            "Critical"
+        ]
+    },
+    "BT22-086_PR": {
+        "id": "BT22-086_PR",
+        "face": {
+            "front": {
+                "name": "Goku's Kamehameha",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-086_PR.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Goku's Kamehameha",
+        "Type": "Z-EXTRA",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-086_PR.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: battle",
+            "critical"
+        ]
+    },
+    "BT22-087": {
+        "id": "BT22-087",
+        "face": {
+            "front": {
+                "name": "Devilmite Beam",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": null,
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-087.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Devilmite Beam",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-087.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-088": {
+        "id": "BT22-088",
+        "face": {
+            "front": {
+                "name": "Son Goku, Duel With an Assassin",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-088.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Duel With an Assassin",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-088.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Auto",
+            "Barrier",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-088_SPR": {
+        "id": "BT22-088_SPR",
+        "face": {
+            "front": {
+                "name": "Son Goku, Duel With an Assassin",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-088_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Duel With an Assassin",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-088_SPR.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Auto",
+            "Barrier",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-089": {
+        "id": "BT22-089",
+        "face": {
+            "front": {
+                "name": "Son Goku, Days of Adventure",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-089.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Days of Adventure",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-089.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Dragon Ball",
+            "Dual Attack",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-090": {
+        "id": "BT22-090",
+        "face": {
+            "front": {
+                "name": "Son Goku, Intense Headbutt",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-090.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Intense Headbutt",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-090.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Barrier",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-091": {
+        "id": "BT22-091",
+        "face": {
+            "front": {
+                "name": "Bulma, Cute Comrade",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-091.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bulma, Cute Comrade",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-091.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT22-092": {
+        "id": "BT22-092",
+        "face": {
+            "front": {
+                "name": "Son Gohan, True Self Revealed",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-092.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, True Self Revealed",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-092.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Counter: Attack",
+            "Permanent",
+            "Counter",
+            "Auto"
+        ]
+    },
+    "BT22-092_PR": {
+        "id": "BT22-092_PR",
+        "face": {
+            "front": {
+                "name": "Son Gohan, True Self Revealed",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-092_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, True Self Revealed",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-092_PR.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "blocker",
+            "counter ： attack",
+            "permanent",
+            "counter",
+            "auto"
+        ]
+    },
+    "BT22-092_SPR": {
+        "id": "BT22-092_SPR",
+        "face": {
+            "front": {
+                "name": "Son Gohan, True Self Revealed",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-092_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, True Self Revealed",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-092_SPR.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Counter: Attack",
+            "Permanent",
+            "Counter",
+            "Auto"
+        ]
+    },
+    "BT22-093": {
+        "id": "BT22-093",
+        "face": {
+            "front": {
+                "name": "Fortuneteller Baba, Seeing the Future",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-093.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fortuneteller Baba, Seeing the Future",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-093.webp",
+        "Power": "1000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Fortuneteller Baba"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT22-094": {
+        "id": "BT22-094",
+        "face": {
+            "front": {
+                "name": "Upa",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-094.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Upa",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-094.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Upa"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT22-095": {
+        "id": "BT22-095",
+        "face": {
+            "front": {
+                "name": "Upa, Father Revived",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-095.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Upa, Father Revived",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-095.webp",
+        "Power": "1000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Upa"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-096": {
+        "id": "BT22-096",
+        "face": {
+            "front": {
+                "name": "Bora",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-096.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bora",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-096.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Bora"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT22-097": {
+        "id": "BT22-097",
+        "face": {
+            "front": {
+                "name": "Korin, Legendary Hermit Cat",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "5000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-097.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Korin, Legendary Hermit Cat",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-097.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Korin"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-098": {
+        "id": "BT22-098",
+        "face": {
+            "front": {
+                "name": "Shenron, Wish Dragon",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "25000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-098.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Shenron, Wish Dragon",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-098.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Shenron"
+        ],
+        "Traits": [
+            "Shenron"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Unique",
+            "Barrier",
+            "Permanent",
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT22-099": {
+        "id": "BT22-099",
+        "face": {
+            "front": {
+                "name": "Mercenary Tao",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "30000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-099.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mercenary Tao",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-099.webp",
+        "Power": "30000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Mercenary Tao"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT22-100": {
+        "id": "BT22-100",
+        "face": {
+            "front": {
+                "name": "Mercenary Tao, an Assassin to Overcome",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-100.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mercenary Tao, an Assassin to Overcome",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-100.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Mercenary Tao"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Dragon Ball",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-101": {
+        "id": "BT22-101",
+        "face": {
+            "front": {
+                "name": "Draculaman, a Challenging Warrior",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-101.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Draculaman, a Challenging Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-101.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Draculaman"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-102": {
+        "id": "BT22-102",
+        "face": {
+            "front": {
+                "name": "Suke San, a Challenging Warrior",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-102.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Suke San, a Challenging Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-102.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Suke San"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-103": {
+        "id": "BT22-103",
+        "face": {
+            "front": {
+                "name": "Bandages, a Challenging Warrior",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-103.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bandages, a Challenging Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-103.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Bandages"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-104": {
+        "id": "BT22-104",
+        "face": {
+            "front": {
+                "name": "Spike, a Challenging Warrior",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-104.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Spike, a Challenging Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-104.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Spike"
+        ],
+        "Traits": [
+            "Earthling",
+            "Devil Clan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-105": {
+        "id": "BT22-105",
+        "face": {
+            "front": {
+                "name": "Son Gohan & Hire-Dragon, a Place for a Friend",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-105.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan & Hire-Dragon, a Place for a Friend",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-105.webp",
+        "Power": "30000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Gohan: Youth",
+            "Hire-Dragon"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Great Ape",
+            "Monster"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Dual Attack",
+            "Blocker",
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-106": {
+        "id": "BT22-106",
+        "face": {
+            "front": {
+                "name": "Hire-Dragon, Carrying a Friend",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-106.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hire-Dragon, Carrying a Friend",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-106.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Hire-Dragon"
+        ],
+        "Traits": [
+            "Earthling",
+            "Monster"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-107": {
+        "id": "BT22-107",
+        "face": {
+            "front": {
+                "name": "SS2 Son Goku, Counter Strike",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "5000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-107.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS2 Son Goku, Counter Strike",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-107.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Permanent",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT22-108": {
+        "id": "BT22-108",
+        "face": {
+            "front": {
+                "name": "Son Goku, Combination Attack in Hell",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "5000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-108.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Combination Attack in Hell",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-108.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main"
+        ]
+    },
+    "BT22-109": {
+        "id": "BT22-109",
+        "face": {
+            "front": {
+                "name": "Trunks",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-109.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-109.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT22-110": {
+        "id": "BT22-110",
+        "face": {
+            "front": {
+                "name": "Paikuhan, Other World Expert",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-110.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Paikuhan, Other World Expert",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-110.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Paikuhan"
+        ],
+        "Traits": [
+            "West Galaxy Warrior"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Activate: Main",
+            "Limit 1",
+            "Activate: Battle",
+            "Field"
+        ]
+    },
+    "BT22-111": {
+        "id": "BT22-111",
+        "face": {
+            "front": {
+                "name": "Sacred Water",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-111.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Sacred Water",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-111.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Auto",
+            "Limit 1",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-112": {
+        "id": "BT22-112",
+        "face": {
+            "front": {
+                "name": "Grandpa's Heirloom, the Four-Star Ball",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-112.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Grandpa's Heirloom, the Four-Star Ball",
+        "Type": "EXTRA",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-112.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Dragon Ball",
+            "Activate: Main/Battle",
+            "Limit 1",
+            "Activate: Main"
+        ]
+    },
+    "BT22-112_PR2": {
+        "id": "BT22-112_PR2",
+        "face": {
+            "front": {
+                "name": "Grandpa's Heirloom, the Four-Star Ball",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-112_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Grandpa's Heirloom, the Four-Star Ball",
+        "Type": "EXTRA",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-112_PR2.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Dragon Ball",
+            "Activate: Main/Battle",
+            "Limit 1",
+            "Activate: Main"
+        ]
+    },
+    "BT22-112_SPR": {
+        "id": "BT22-112_SPR",
+        "face": {
+            "front": {
+                "name": "Grandpa's Heirloom, the Four-Star Ball",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-112_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Grandpa's Heirloom, the Four-Star Ball",
+        "Type": "EXTRA",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-112_SPR.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Dragon Ball",
+            "Activate: Main/Battle",
+            "Limit 1",
+            "Activate: Main"
+        ]
+    },
+    "BT22-113": {
+        "id": "BT22-113",
+        "face": {
+            "front": {
+                "name": "Fortuneteller Baba's Palace",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": null,
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-113.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fortuneteller Baba's Palace",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-113.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Field",
+            "Permanent",
+            "Auto",
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT22-114": {
+        "id": "BT22-114",
+        "face": {
+            "front": {
+                "name": "Crystal Gazing",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-114.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Crystal Gazing",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-114.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-115": {
+        "id": "BT22-115",
+        "face": {
+            "front": {
+                "name": "Fu",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-115.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Super Fu, Heinous Commander",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-115_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-115.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-116": {
+        "id": "BT22-116",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku, Cross-Dimensional Fighting Spirit",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "15000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-116.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS4 Son Goku, Cross-Dimensional Fighting Spirit",
+        "Type": "Z-BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-116.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Son Goku: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Double Strike"
+        ]
+    },
+    "BT22-117": {
+        "id": "BT22-117",
+        "face": {
+            "front": {
+                "name": "Fu, Fighting Enthusiast Treatment",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-117.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu, Fighting Enthusiast Treatment",
+        "Type": "Z-BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-117.webp",
+        "Power": "5000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Z-Stack 1",
+            "Permanent",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-117_PR": {
+        "id": "BT22-117_PR",
+        "face": {
+            "front": {
+                "name": "Fu, Fighting Enthusiast Treatment",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-117_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu, Fighting Enthusiast Treatment",
+        "Type": "Z-BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-117_PR.webp",
+        "Power": "5000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "z-stack 1",
+            "permanent",
+            "activate main",
+            "limit 1"
+        ]
+    },
+    "BT22-117_PR2": {
+        "id": "BT22-117_PR2",
+        "face": {
+            "front": {
+                "name": "Fu, Fighting Enthusiast Treatment",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-117_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu, Fighting Enthusiast Treatment",
+        "Type": "Z-BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-117_PR2.webp",
+        "Power": "5000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "z-stack 1",
+            "permanent",
+            "activate main",
+            "limit 1"
+        ]
+    },
+    "BT22-118": {
+        "id": "BT22-118",
+        "face": {
+            "front": {
+                "name": "Fu's Laboratory",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-118.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Fu's Laboratory",
+        "Type": "Z-EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-118.webp",
+        "Power": null,
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Limit 1",
+            "Z-Stack",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-119": {
+        "id": "BT22-119",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-119.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-119.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT22-120": {
+        "id": "BT22-120",
+        "face": {
+            "front": {
+                "name": "Vegeta, Combined Offense and Defense",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-120.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Combined Offense and Defense",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-120.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT22-121": {
+        "id": "BT22-121",
+        "face": {
+            "front": {
+                "name": "SSB Vegito, Ultimate Battle",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-121.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SSB Vegito, Ultimate Battle",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-121.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Vegito"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Double Strike",
+            "Union-Potara",
+            "Limit 1",
+            "Auto"
+        ]
+    },
+    "BT22-122": {
+        "id": "BT22-122",
+        "face": {
+            "front": {
+                "name": "SSB Vegito, All-Around Warrior",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-122.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SSB Vegito, All-Around Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-122.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Vegito"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Blocker",
+            "Union-Potara",
+            "Limit 1",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-123": {
+        "id": "BT22-123",
+        "face": {
+            "front": {
+                "name": "Super Fu, Assault Dominator",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-123.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Super Fu, Assault Dominator",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-123.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Limit 1",
+            "Overlord",
+            "Once per turn",
+            "Activate: Main",
+            "Activate: Battle",
+            "Servant"
+        ]
+    },
+    "BT22-123_PR": {
+        "id": "BT22-123_PR",
+        "face": {
+            "front": {
+                "name": "Super Fu, Assault Dominator",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-123_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Super Fu, Assault Dominator",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-123_PR.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "dual attack",
+            "limit 1",
+            "overlord",
+            "once per turn",
+            "activate main",
+            "black_ball",
+            "activate: battle",
+            "servant"
+        ]
+    },
+    "BT22-123_SPR": {
+        "id": "BT22-123_SPR",
+        "face": {
+            "front": {
+                "name": "Super Fu, Assault Dominator",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-123_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Super Fu, Assault Dominator",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-123_SPR.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Limit 1",
+            "Overlord",
+            "Once per turn",
+            "Activate: Main",
+            "Activate: Battle",
+            "Servant"
+        ]
+    },
+    "BT22-124": {
+        "id": "BT22-124",
+        "face": {
+            "front": {
+                "name": "Fu, Making the Next Move",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-124.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu, Making the Next Move",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-124.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-125": {
+        "id": "BT22-125",
+        "face": {
+            "front": {
+                "name": "Fu, a Scheme Set Into Motion",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-125.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu, a Scheme Set Into Motion",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-125.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-126": {
+        "id": "BT22-126",
+        "face": {
+            "front": {
+                "name": "Fu, Supreme Intellect",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-126.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fu, Supreme Intellect",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-126.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-127": {
+        "id": "BT22-127",
+        "face": {
+            "front": {
+                "name": "SS Cumber, Assailant's Fury",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "25000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Cumber, Assailant's Fury",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier",
+            "Double Strike",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-127_PR": {
+        "id": "BT22-127_PR",
+        "face": {
+            "front": {
+                "name": "SS Cumber, Assailant's Fury",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "25000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Cumber, Assailant's Fury",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127_PR.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier",
+            "Double Strike",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-127_PR3": {
+        "id": "BT22-127_PR3",
+        "face": {
+            "front": {
+                "name": "SS Cumber, Assailant's Fury",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "25000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127_PR3.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Cumber, Assailant's Fury",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127_PR3.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier",
+            "Double Strike",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-127_SPR": {
+        "id": "BT22-127_SPR",
+        "face": {
+            "front": {
+                "name": "SS Cumber, Assailant's Fury",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "25000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Cumber, Assailant's Fury",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-127_SPR.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier",
+            "Double Strike",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-128": {
+        "id": "BT22-128",
+        "face": {
+            "front": {
+                "name": "Cumber, Thriving Darkness",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "10000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-128.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cumber, Thriving Darkness",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-128.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Servant",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-129": {
+        "id": "BT22-129",
+        "face": {
+            "front": {
+                "name": "Cumber, Oerwhelming Fight",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "10000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-129.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cumber, Oerwhelming Fight",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-129.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Servant",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-130": {
+        "id": "BT22-130",
+        "face": {
+            "front": {
+                "name": "Cumber, Jet Black Hostility",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "10000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-130.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cumber, Jet Black Hostility",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-130.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Servant",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT22-131": {
+        "id": "BT22-131",
+        "face": {
+            "front": {
+                "name": "Eliminating a Nuisance",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-131.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Eliminating a Nuisance",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-131.webp",
+        "Power": null,
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Limit 1",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-132": {
+        "id": "BT22-132",
+        "face": {
+            "front": {
+                "name": "SS Broly, Tenacious Onslaught",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-132.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Broly, Tenacious Onslaught",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-132.webp",
+        "Power": "35000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Double Strike",
+            "EX-Evolve",
+            "Arrival Red/Green",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "BT22-132_SPR": {
+        "id": "BT22-132_SPR",
+        "face": {
+            "front": {
+                "name": "SS Broly, Tenacious Onslaught",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-132_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Broly, Tenacious Onslaught",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-132_SPR.webp",
+        "Power": "35000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Double Strike",
+            "EX-Evolve",
+            "Arrival Red/Green",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "BT22-133": {
+        "id": "BT22-133",
+        "face": {
+            "front": {
+                "name": "SS Broly, the Nightmare Begins",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "30000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-133.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Broly, the Nightmare Begins",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-133.webp",
+        "Power": "30000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Auto",
+            "Critical",
+            "Once per turn"
+        ]
+    },
+    "BT22-134": {
+        "id": "BT22-134",
+        "face": {
+            "front": {
+                "name": "SS Broly, Glacial Awakening",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-134.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Broly, Glacial Awakening",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-134.webp",
+        "Power": "20000",
+        "Color": "Red/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Broly"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT22-135": {
+        "id": "BT22-135",
+        "face": {
+            "front": {
+                "name": "SS3 Son Goku, Premonitions of a Fierce Battle",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-135.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Son Goku, Premonitions of a Fierce Battle",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-135.webp",
+        "Power": "25000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Permanent",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-135_PR": {
+        "id": "BT22-135_PR",
+        "face": {
+            "front": {
+                "name": "SS3 Son Goku, Premonitions of a Fierce Battle",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-135_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Son Goku, Premonitions of a Fierce Battle",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-135_PR.webp",
+        "Power": "25000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Permanent",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-135_SPR": {
+        "id": "BT22-135_SPR",
+        "face": {
+            "front": {
+                "name": "SS3 Son Goku, Premonitions of a Fierce Battle",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-135_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS3 Son Goku, Premonitions of a Fierce Battle",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-135_SPR.webp",
+        "Power": "25000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "BT22",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Permanent",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "BT22-136": {
+        "id": "BT22-136",
+        "face": {
+            "front": {
+                "name": "Veku, Comeback From Defeat",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "10000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-136.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Veku, Comeback From Defeat",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-136.webp",
+        "Power": "10000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Veku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Union-Fusion",
+            "Auto",
+            "Barrier",
+            "Aegis"
+        ]
+    },
+    "BT22-137": {
+        "id": "BT22-137",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Sparking to Utmost Limit",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-137.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Sparking to Utmost Limit",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-137.webp",
+        "Power": "35000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Blocker",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Union-Fusion",
+            "Auto"
+        ]
+    },
+    "BT22-137_PR": {
+        "id": "BT22-137_PR",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Sparking to Utmost Limit",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-137_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Sparking to Utmost Limit",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-137_PR.webp",
+        "Power": "35000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Blocker",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Union-Fusion",
+            "Auto"
+        ]
+    },
+    "BT22-137_SPR": {
+        "id": "BT22-137_SPR",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Sparking to Utmost Limit",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-137_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Sparking to Utmost Limit",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-137_SPR.webp",
+        "Power": "35000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Deflect",
+            "Double Strike",
+            "Blocker",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Union-Fusion",
+            "Auto"
+        ]
+    },
+    "BT22-138": {
+        "id": "BT22-138",
+        "face": {
+            "front": {
+                "name": "Bursting Rage",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-138.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bursting Rage",
+        "Type": "EXTRA",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-138.webp",
+        "Power": null,
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-138_PR": {
+        "id": "BT22-138_PR",
+        "face": {
+            "front": {
+                "name": "Bursting Rage",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-138_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bursting Rage",
+        "Type": "EXTRA",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-138_PR.webp",
+        "Power": null,
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-139": {
+        "id": "BT22-139",
+        "face": {
+            "front": {
+                "name": "Great Ape Cumber, Golden Wickedness Amplified",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-139.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Cumber, Golden Wickedness Amplified",
+        "Type": "BATTLE",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-139.webp",
+        "Power": "40000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Double Strike",
+            "Permanent",
+            "Activate: Main",
+            "Once per turn",
+            "Activate: Battle"
+        ]
+    },
+    "BT22-140": {
+        "id": "BT22-140",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Fusion Reborn",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-140.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Fusion Reborn",
+        "Type": "BATTLE",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-140.webp",
+        "Power": "40000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Energy-Exhaust",
+            "Blocker",
+            "Union-Fusion",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Permanent",
+            "Aegis",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "BT22-140_GDR": {
+        "id": "BT22-140_GDR",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Fusion Reborn",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-140_GDR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Fusion Reborn",
+        "Type": "BATTLE",
+        "Rarity": "God Rare[GDR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-140_GDR.webp",
+        "Power": "40000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "ultimate",
+            "energy-exhaust",
+            "blocker",
+            "union-fusion",
+            "blue_ball",
+            "yellow_ball",
+            "aegis blue/yellow",
+            "once per turn",
+            "permanent",
+            "aegis",
+            "auto",
+            "barrier"
+        ]
+    },
+    "BT22-140_PR": {
+        "id": "BT22-140_PR",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Fusion Reborn",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-140_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Gogeta, Fusion Reborn",
+        "Type": "BATTLE",
+        "Rarity": "God Rare[GDR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT22-140_PR.webp",
+        "Power": "40000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT22",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Energy-Exhaust",
+            "Blocker",
+            "Union-Fusion",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Permanent",
+            "Aegis",
+            "Auto",
+            "Barrier"
+        ]
+    }
+}

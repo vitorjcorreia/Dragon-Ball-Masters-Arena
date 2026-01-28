@@ -1,0 +1,5485 @@
+{
+    "BT4-001": {
+        "id": "BT4-001",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-001.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Energy Burst Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-001_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-001.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken"
+        ]
+    },
+    "BT4-002": {
+        "id": "BT4-002",
+        "face": {
+            "front": {
+                "name": "Baby",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-002.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Rampaging Great Ape Baby",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-002_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Baby",
+        "Type": "LEADER",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-002.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Baby"
+        ],
+        "Traits": [
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken"
+        ]
+    },
+    "BT4-003": {
+        "id": "BT4-003",
+        "face": {
+            "front": {
+                "name": "Triple Flash SS4 Son Goku",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-003.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Triple Flash SS4 Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-003.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "EX-Evolve",
+            "Deflect",
+            "Counter: Play",
+            "Triple Strike",
+            "Auto",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT4-003_SPR": {
+        "id": "BT4-003_SPR",
+        "face": {
+            "front": {
+                "name": "Triple Flash SS4 Son Goku",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-003_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Triple Flash SS4 Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-003_SPR.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "EX-Evolve",
+            "Deflect",
+            "Counter: Play",
+            "Triple Strike",
+            "Auto",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT4-004": {
+        "id": "BT4-004",
+        "face": {
+            "front": {
+                "name": "Untapped Power SS3 Son Goku",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-004.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Untapped Power SS3 Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-004.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Evolve",
+            "Deflect",
+            "Counter: Play",
+            "Auto"
+        ]
+    },
+    "BT4-004_PR": {
+        "id": "BT4-004_PR",
+        "face": {
+            "front": {
+                "name": "Untapped Power SS3 Son Goku",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-004_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Untapped Power SS3 Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-004_PR.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Evolve",
+            "Deflect",
+            "Counter: Play",
+            "Auto"
+        ]
+    },
+    "BT4-005": {
+        "id": "BT4-005",
+        "face": {
+            "front": {
+                "name": "Blazing Spirit Son Goku",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-005.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Blazing Spirit Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-005.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier"
+        ]
+    },
+    "BT4-006": {
+        "id": "BT4-006",
+        "face": {
+            "front": {
+                "name": "Blaze of Glory Son Gohan",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-006.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Blaze of Glory Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-006.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-007": {
+        "id": "BT4-007",
+        "face": {
+            "front": {
+                "name": "Extra Strike SS Son Goten",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-007.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Extra Strike SS Son Goten",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-007.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goten: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Evolve",
+            "Dual Attack",
+            "Permanent"
+        ]
+    },
+    "BT4-008": {
+        "id": "BT4-008",
+        "face": {
+            "front": {
+                "name": "Charging Up Son Goten",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-008.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Charging Up Son Goten",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-008.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goten: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-009": {
+        "id": "BT4-009",
+        "face": {
+            "front": {
+                "name": "Power of Friendship Pan",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-009.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Power of Friendship Pan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-009.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-010": {
+        "id": "BT4-010",
+        "face": {
+            "front": {
+                "name": "Digging Deep Vegeta",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-010.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Digging Deep Vegeta",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-010.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Vegeta: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "BT4-011": {
+        "id": "BT4-011",
+        "face": {
+            "front": {
+                "name": "Daily Training Vegeta",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-011.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Daily Training Vegeta",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-011.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Vegeta: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-012": {
+        "id": "BT4-012",
+        "face": {
+            "front": {
+                "name": "Intensifying Power Trunks",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-012.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Intensifying Power Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-012.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Critical"
+        ]
+    },
+    "BT4-012_PR": {
+        "id": "BT4-012_PR",
+        "face": {
+            "front": {
+                "name": "Intensifying Power Trunks",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-012_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Intensifying Power Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-012_PR.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Critical"
+        ]
+    },
+    "BT4-012_PR2": {
+        "id": "BT4-012_PR2",
+        "face": {
+            "front": {
+                "name": "Intensifying Power Trunks",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-012_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Intensifying Power Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-012_PR2.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Critical"
+        ]
+    },
+    "BT4-013": {
+        "id": "BT4-013",
+        "face": {
+            "front": {
+                "name": "Dependable Mom Bulma",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-013.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dependable Mom Bulma",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-013.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bulma: GT"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "BT4-014": {
+        "id": "BT4-014",
+        "face": {
+            "front": {
+                "name": "Saiyan Daughter Bulla",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-014.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Saiyan Daughter Bulla",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-014.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bulla"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-015": {
+        "id": "BT4-015",
+        "face": {
+            "front": {
+                "name": "Mr. Buu",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-015.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mr. Buu",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-015.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Mr. Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT4-016": {
+        "id": "BT4-016",
+        "face": {
+            "front": {
+                "name": "Epochal Grudge Great Ape Baby",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "30000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-016.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Epochal Grudge Great Ape Baby",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-016.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Baby"
+        ],
+        "Traits": [
+            "Machine Mutant",
+            "Great Ape",
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Evolve",
+            "Triple Strike",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "BT4-017": {
+        "id": "BT4-017",
+        "face": {
+            "front": {
+                "name": "Saiyan Strength Baby",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-017.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Saiyan Strength Baby",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-017.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Baby",
+            "Vegeta: GT"
+        ],
+        "Traits": [
+            "Machine Mutant",
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto"
+        ]
+    },
+    "BT4-018": {
+        "id": "BT4-018",
+        "face": {
+            "front": {
+                "name": "Baby, Vengeance Unleashed",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-018.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Baby, Vengeance Unleashed",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-018.webp",
+        "Power": "1000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Baby"
+        ],
+        "Traits": [
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union Absorb"
+        ]
+    },
+    "BT4-019": {
+        "id": "BT4-019",
+        "face": {
+            "front": {
+                "name": "Saiyan Onslaught Kefla",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-019.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Saiyan Onslaught Kefla",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-019.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Kefla"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union-Potara",
+            "Deflect",
+            "Counter: Play",
+            "Dual Attack",
+            "Auto"
+        ]
+    },
+    "BT4-020": {
+        "id": "BT4-020",
+        "face": {
+            "front": {
+                "name": "Vow Revenge",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-020.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vow Revenge",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-020.webp",
+        "Power": "",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "BT4-021": {
+        "id": "BT4-021",
+        "face": {
+            "front": {
+                "name": "Revenge Death Ball",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-021.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Revenge Death Ball",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-021.webp",
+        "Power": "",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "BT4-022": {
+        "id": "BT4-022",
+        "face": {
+            "front": {
+                "name": "Vengeful Onslaught",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-022.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vengeful Onslaught",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-022.webp",
+        "Power": "",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "BT4-023": {
+        "id": "BT4-023",
+        "face": {
+            "front": {
+                "name": "Trunks",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-023.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Iron Vow Trunks",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-023_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-023.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken"
+        ]
+    },
+    "BT4-024": {
+        "id": "BT4-024",
+        "face": {
+            "front": {
+                "name": "Hirudegarn",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-024.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Awakened Perfection Hirudegarn",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-024_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hirudegarn",
+        "Type": "LEADER",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-024.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Hirudegarn"
+        ],
+        "Traits": [
+            "Phantom Demon"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken"
+        ]
+    },
+    "BT4-025": {
+        "id": "BT4-025",
+        "face": {
+            "front": {
+                "name": "Dragon Fist SS3 Son Goku",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-025.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dragon Fist SS3 Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-025.webp",
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Double Strike",
+            "Auto"
+        ]
+    },
+    "BT4-026": {
+        "id": "BT4-026",
+        "face": {
+            "front": {
+                "name": "Sneak Attack Son Goku",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-026.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Sneak Attack Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-026.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-026_PR": {
+        "id": "BT4-026_PR",
+        "face": {
+            "front": {
+                "name": "Sneak Attack Son Goku",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-026_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Sneak Attack Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-026_PR.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-027": {
+        "id": "BT4-027",
+        "face": {
+            "front": {
+                "name": "City Patrol Great Saiyaman",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-027.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "City Patrol Great Saiyaman",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-027.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Blocker",
+            "Permanent"
+        ]
+    },
+    "BT4-028": {
+        "id": "BT4-028",
+        "face": {
+            "front": {
+                "name": "Son Gohan",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-028.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-028.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT4-029": {
+        "id": "BT4-029",
+        "face": {
+            "front": {
+                "name": "Quick Dodge Son Goten",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-029.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Quick Dodge Son Goten",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-029.webp",
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker"
+        ]
+    },
+    "BT4-030": {
+        "id": "BT4-030",
+        "face": {
+            "front": {
+                "name": "At All Costs Vegeta",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-030.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "At All Costs Vegeta",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-030.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Triple Strike"
+        ]
+    },
+    "BT4-030_PR": {
+        "id": "BT4-030_PR",
+        "face": {
+            "front": {
+                "name": "At All Costs Vegeta",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-030_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "At All Costs Vegeta",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-030_PR.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Once per turn",
+            "Triple Strike"
+        ]
+    },
+    "BT4-031": {
+        "id": "BT4-031",
+        "face": {
+            "front": {
+                "name": "Sneak Attack Vegeta",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-031.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Sneak Attack Vegeta",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-031.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "BT4-032": {
+        "id": "BT4-032",
+        "face": {
+            "front": {
+                "name": "Oath's Power Trunks",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-032.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Oath's Power Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-032.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Double Strike",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "BT4-033": {
+        "id": "BT4-033",
+        "face": {
+            "front": {
+                "name": "Heroic Encounter Trunks",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-033.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Heroic Encounter Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-033.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-034": {
+        "id": "BT4-034",
+        "face": {
+            "front": {
+                "name": "Raging Energy Blast Gotenks",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-034.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Raging Energy Blast Gotenks",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-034.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Gotenks"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Activate: Main"
+        ]
+    },
+    "BT4-035": {
+        "id": "BT4-035",
+        "face": {
+            "front": {
+                "name": "City Patrol Great Saiyaman 2",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-035.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "City Patrol Great Saiyaman 2",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-035.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Videl"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-036": {
+        "id": "BT4-036",
+        "face": {
+            "front": {
+                "name": "Colossal Malice Hirudegarn",
+                "type": "Main_Deck",
+                "cost": "9",
+                "power": "30000",
+                "Energy_cost": "9",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-036.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Colossal Malice Hirudegarn",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-036.webp",
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Hirudegarn"
+        ],
+        "Traits": [
+            "Phantom Demon"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "EX-Evolve",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "BT4-037": {
+        "id": "BT4-037",
+        "face": {
+            "front": {
+                "name": "Impenetrable Defense Hirudegarn",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "20000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-037.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Impenetrable Defense Hirudegarn",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-037.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Hirudegarn"
+        ],
+        "Traits": [
+            "Phantom Demon"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "BT4-038": {
+        "id": "BT4-038",
+        "face": {
+            "front": {
+                "name": "Hirudegarn, the Wanderer",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-038.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hirudegarn, the Wanderer",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-038.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Hirudegarn"
+        ],
+        "Traits": [
+            "Phantom Demon"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "BT4-039": {
+        "id": "BT4-039",
+        "face": {
+            "front": {
+                "name": "Oath's Power, Tapion",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-039.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Oath's Power, Tapion",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-039.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Tapion"
+        ],
+        "Traits": [
+            "Hero"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-040": {
+        "id": "BT4-040",
+        "face": {
+            "front": {
+                "name": "Hidden Darkness Tapion",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-040.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hidden Darkness Tapion",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-040.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Tapion"
+        ],
+        "Traits": [
+            "Hero"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-041": {
+        "id": "BT4-041",
+        "face": {
+            "front": {
+                "name": "Hidden Darkness Minotia",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-041.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hidden Darkness Minotia",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-041.webp",
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Minotia"
+        ],
+        "Traits": [
+            "Hero"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-042": {
+        "id": "BT4-042",
+        "face": {
+            "front": {
+                "name": "Hoi, Emissary of Flame",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "12000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-042.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hoi, Emissary of Flame",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-042.webp",
+        "Power": "12000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "0",
+        "Series": "BT4",
+        "Character": [
+            "Hoi"
+        ],
+        "Traits": [
+            "Evil Wizard"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT4-043": {
+        "id": "BT4-043",
+        "face": {
+            "front": {
+                "name": "Phantom Flame Cannon",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-043.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Phantom Flame Cannon",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-043.webp",
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "BT4-044": {
+        "id": "BT4-044",
+        "face": {
+            "front": {
+                "name": "Ectoplasm",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-044.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ectoplasm",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-044.webp",
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play"
+        ]
+    },
+    "BT4-045": {
+        "id": "BT4-045",
+        "face": {
+            "front": {
+                "name": "The Legendary Flute",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-045.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "The Legendary Flute",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-045.webp",
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": true,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "BT4-046": {
+        "id": "BT4-046",
+        "face": {
+            "front": {
+                "name": "Piccolo",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-046.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Piccolo, Kami's Successor",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-046_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-046.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "God",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken",
+            "Permanent",
+            "Bond 2",
+            "Critical"
+        ]
+    },
+    "BT4-047": {
+        "id": "BT4-047",
+        "face": {
+            "front": {
+                "name": "Lord Slug",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-047.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Lord Slug, Gigantified",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-047_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Lord Slug",
+        "Type": "LEADER",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-047.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Lord Slug"
+        ],
+        "Traits": [
+            "Namekian",
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Critical",
+            "Awaken",
+            "Auto"
+        ]
+    },
+    "BT4-048": {
+        "id": "BT4-048",
+        "face": {
+            "front": {
+                "name": "Newfound Power Son Gohan",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-048.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Newfound Power Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-048.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Critical"
+        ]
+    },
+    "BT4-048_PR": {
+        "id": "BT4-048_PR",
+        "face": {
+            "front": {
+                "name": "Newfound Power Son Gohan",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-048_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Newfound Power Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-048_PR.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Critical"
+        ]
+    },
+    "BT4-049": {
+        "id": "BT4-049",
+        "face": {
+            "front": {
+                "name": "Kami's Power Piccolo",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-049.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kami's Power Piccolo",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-049.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Double Strike",
+            "Activate: Main",
+            "Once per turn",
+            "Bond 2"
+        ]
+    },
+    "BT4-049_SPR": {
+        "id": "BT4-049_SPR",
+        "face": {
+            "front": {
+                "name": "Kami's Power Piccolo",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-049_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kami's Power Piccolo",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-049_SPR.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Double Strike",
+            "Activate: Main",
+            "Once per turn",
+            "Bond 2"
+        ]
+    },
+    "BT4-050": {
+        "id": "BT4-050",
+        "face": {
+            "front": {
+                "name": "Power Barrier Piccolo",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-050.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Power Barrier Piccolo",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-050.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier"
+        ]
+    },
+    "BT4-051": {
+        "id": "BT4-051",
+        "face": {
+            "front": {
+                "name": "Reign of Terror King Piccolo",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-051.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Reign of Terror King Piccolo",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-051.webp",
+        "Power": "25000",
+        "Color": "Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "King Piccolo"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Activate: Main"
+        ]
+    },
+    "BT4-052": {
+        "id": "BT4-052",
+        "face": {
+            "front": {
+                "name": "Gift of Power Guru",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-052.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gift of Power Guru",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-052.webp",
+        "Power": "1000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Guru"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT4-053": {
+        "id": "BT4-053",
+        "face": {
+            "front": {
+                "name": "Nail, the Namekian Ace",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-053.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Nail, the Namekian Ace",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-053.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Nail"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Bond 2"
+        ]
+    },
+    "BT4-053_PR": {
+        "id": "BT4-053_PR",
+        "face": {
+            "front": {
+                "name": "Nail, the Namekian Ace",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-053_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Nail, the Namekian Ace",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-053_PR.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Nail"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Bond 2"
+        ]
+    },
+    "BT4-054": {
+        "id": "BT4-054",
+        "face": {
+            "front": {
+                "name": "Kami, the Watcher",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-054.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kami, the Watcher",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-054.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Kami"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Bond 2",
+            "Auto"
+        ]
+    },
+    "BT4-055": {
+        "id": "BT4-055",
+        "face": {
+            "front": {
+                "name": "Kindhearted Namekian Dende",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-055.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kindhearted Namekian Dende",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-055.webp",
+        "Power": "1000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Dende"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-056": {
+        "id": "BT4-056",
+        "face": {
+            "front": {
+                "name": "Popo, Guardian's Aide",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-056.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Popo, Guardian's Aide",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-056.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Popo"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-057": {
+        "id": "BT4-057",
+        "face": {
+            "front": {
+                "name": "Namekian Duo Saonel",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "12000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-057.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Namekian Duo Saonel",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-057.webp",
+        "Power": "12000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "0",
+        "Series": "BT4",
+        "Character": [
+            "Saonel"
+        ],
+        "Traits": [
+            "Namekian",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT4-058": {
+        "id": "BT4-058",
+        "face": {
+            "front": {
+                "name": "Namekian Duo Pirina",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-058.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Namekian Duo Pirina",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-058.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Pirina"
+        ],
+        "Traits": [
+            "Namekian",
+            "Alien",
+            "Universe 6"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Critical"
+        ]
+    },
+    "BT4-059": {
+        "id": "BT4-059",
+        "face": {
+            "front": {
+                "name": "Titanic Ambition Lord Slug",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-059.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Titanic Ambition Lord Slug",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-059.webp",
+        "Power": "25000",
+        "Color": "Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Lord Slug"
+        ],
+        "Traits": [
+            "Namekian",
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "EX-Evolve",
+            "Double Strike",
+            "Auto",
+            "Bond 3"
+        ]
+    },
+    "BT4-060": {
+        "id": "BT4-060",
+        "face": {
+            "front": {
+                "name": "Lord Slug, Young Again",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-060.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Lord Slug, Young Again",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-060.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Lord Slug"
+        ],
+        "Traits": [
+            "Namekian",
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Bond 2"
+        ]
+    },
+    "BT4-061": {
+        "id": "BT4-061",
+        "face": {
+            "front": {
+                "name": "Lord Slug, Returned to Form",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-061.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Lord Slug, Returned to Form",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-061.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Lord Slug"
+        ],
+        "Traits": [
+            "Namekian",
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-061_PR": {
+        "id": "BT4-061_PR",
+        "face": {
+            "front": {
+                "name": "Lord Slug, Returned to Form",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-061_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Lord Slug, Returned to Form",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-061_PR.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Lord Slug"
+        ],
+        "Traits": [
+            "Namekian",
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto"
+        ]
+    },
+    "BT4-062": {
+        "id": "BT4-062",
+        "face": {
+            "front": {
+                "name": "Adonic Warrior Angila",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-062.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Adonic Warrior Angila",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-062.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Angila"
+        ],
+        "Traits": [
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Auto",
+            "Bond 2"
+        ]
+    },
+    "BT4-063": {
+        "id": "BT4-063",
+        "face": {
+            "front": {
+                "name": "Head Honcho Medamatcha",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-063.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Head Honcho Medamatcha",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-063.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Medamatcha"
+        ],
+        "Traits": [
+            "Slug's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-064": {
+        "id": "BT4-064",
+        "face": {
+            "front": {
+                "name": "Dark Vassal Tambourine",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-064.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Vassal Tambourine",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-064.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Tambourine"
+        ],
+        "Traits": [
+            "Demon Clan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical"
+        ]
+    },
+    "BT4-065": {
+        "id": "BT4-065",
+        "face": {
+            "front": {
+                "name": "Dark Vassal Cymbal",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-065.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Vassal Cymbal",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-065.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Cymbal"
+        ],
+        "Traits": [
+            "Demon Clan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker"
+        ]
+    },
+    "BT4-066": {
+        "id": "BT4-066",
+        "face": {
+            "front": {
+                "name": "Dark Vassal Drum",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-066.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Vassal Drum",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-066.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Drum"
+        ],
+        "Traits": [
+            "Demon Clan"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT4-067": {
+        "id": "BT4-067",
+        "face": {
+            "front": {
+                "name": "Combo Killer Anilaza",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-067.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Combo Killer Anilaza",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-067.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Anilaza"
+        ],
+        "Traits": [
+            "Alien",
+            "Universe 3"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Double Strike",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "BT4-068": {
+        "id": "BT4-068",
+        "face": {
+            "front": {
+                "name": "Special Beam Cannon",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-068.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Special Beam Cannon",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-068.webp",
+        "Power": "",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "BT4-069": {
+        "id": "BT4-069",
+        "face": {
+            "front": {
+                "name": "Planet Namek",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-069.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Planet Namek",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-069.webp",
+        "Power": "",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Field",
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT4-070": {
+        "id": "BT4-070",
+        "face": {
+            "front": {
+                "name": "Sacrifice",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-070.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Sacrifice",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-070.webp",
+        "Power": "",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT4-071": {
+        "id": "BT4-071",
+        "face": {
+            "front": {
+                "name": "Bardock",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-071.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Uncontrollable Bardock",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-071_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bardock",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-071.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Auto"
+        ]
+    },
+    "BT4-072": {
+        "id": "BT4-072",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-072.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Legacy Bearer Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-072_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-072.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken"
+        ]
+    },
+    "BT4-073": {
+        "id": "BT4-073",
+        "face": {
+            "front": {
+                "name": "Bardock, the Progenitor",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-073.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bardock, the Progenitor",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-073.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": true,
+        "Keywords": [
+            "Swap 2",
+            "Auto"
+        ]
+    },
+    "BT4-073_PR": {
+        "id": "BT4-073_PR",
+        "face": {
+            "front": {
+                "name": "Bardock, the Progenitor",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-073_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bardock, the Progenitor",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-073_PR.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": true,
+        "Keywords": [
+            "Swap 2",
+            "Auto"
+        ]
+    },
+    "BT4-073_PR2": {
+        "id": "BT4-073_PR2",
+        "face": {
+            "front": {
+                "name": "Bardock, the Progenitor",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-073_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bardock, the Progenitor",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-073_PR2.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": true,
+        "Keywords": [
+            "Swap 2",
+            "Auto"
+        ]
+    },
+    "BT4-074": {
+        "id": "BT4-074",
+        "face": {
+            "front": {
+                "name": "Gine, Here to Support",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-074.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gine, Here to Support",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-074.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Gine"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-075": {
+        "id": "BT4-075",
+        "face": {
+            "front": {
+                "name": "Height of Mastery Son Goku",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-075.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Height of Mastery Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-075.webp",
+        "Power": "35000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7",
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Counter: Play",
+            "Triple Strike",
+            "Dual Attack",
+            "Auto",
+            "Swap",
+            "Barrier"
+        ]
+    },
+    "BT4-075_PR": {
+        "id": "BT4-075_PR",
+        "face": {
+            "front": {
+                "name": "Height of Mastery Son Goku",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-075_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Height of Mastery Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-075_PR.webp",
+        "Power": "35000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7",
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Counter: Play",
+            "Triple Strike",
+            "Dual Attack",
+            "Auto",
+            "Swap",
+            "Barrier"
+        ]
+    },
+    "BT4-075_SPR": {
+        "id": "BT4-075_SPR",
+        "face": {
+            "front": {
+                "name": "Height of Mastery Son Goku",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-075_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Height of Mastery Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-075_SPR.webp",
+        "Power": "35000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7",
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Counter: Play",
+            "Triple Strike",
+            "Dual Attack",
+            "Auto",
+            "Swap",
+            "Barrier"
+        ]
+    },
+    "BT4-076": {
+        "id": "BT4-076",
+        "face": {
+            "front": {
+                "name": "Abrupt Breakthrough Son Goku",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "27000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-076.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Abrupt Breakthrough Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-076.webp",
+        "Power": "27000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 8",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "BT4-077": {
+        "id": "BT4-077",
+        "face": {
+            "front": {
+                "name": "Indomitable Dynasty SS Son Goku",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-077.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Indomitable Dynasty SS Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-077.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 4",
+            "Barrier"
+        ]
+    },
+    "BT4-078": {
+        "id": "BT4-078",
+        "face": {
+            "front": {
+                "name": "Dependable Dynasty Son Goku",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-078.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dependable Dynasty Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-078.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 3"
+        ]
+    },
+    "BT4-078_PR": {
+        "id": "BT4-078_PR",
+        "face": {
+            "front": {
+                "name": "Dependable Dynasty Son Goku",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-078_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dependable Dynasty Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-078_PR.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 3"
+        ]
+    },
+    "BT4-079": {
+        "id": "BT4-079",
+        "face": {
+            "front": {
+                "name": "Unbroken Dynasty Son Goku",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-079.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Unbroken Dynasty Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-079.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 2"
+        ]
+    },
+    "BT4-080": {
+        "id": "BT4-080",
+        "face": {
+            "front": {
+                "name": "Deadly Golden Great Ape Son Goku",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-080.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Deadly Golden Great Ape Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-080.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 5",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT4-081": {
+        "id": "BT4-081",
+        "face": {
+            "front": {
+                "name": "Dynasty Deferred Son Goku",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-081.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dynasty Deferred Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-081.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 5",
+            "Barrier",
+            "Auto"
+        ]
+    },
+    "BT4-082": {
+        "id": "BT4-082",
+        "face": {
+            "front": {
+                "name": "Kakarot",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "10000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-082.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kakarot",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-082.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Kakarot"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT4-083": {
+        "id": "BT4-083",
+        "face": {
+            "front": {
+                "name": "Discovered Dynasty Son Gohan",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-083.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Discovered Dynasty Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-083.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 5",
+            "Barrier",
+            "Auto",
+            "Swap"
+        ]
+    },
+    "BT4-084": {
+        "id": "BT4-084",
+        "face": {
+            "front": {
+                "name": "Intrepid Dynasty Son Gohan",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-084.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Intrepid Dynasty Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-084.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: Youth"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 3",
+            "Barrier"
+        ]
+    },
+    "BT4-084_PR": {
+        "id": "BT4-084_PR",
+        "face": {
+            "front": {
+                "name": "Intrepid Dynasty Son Gohan",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-084_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Intrepid Dynasty Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-084_PR.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan: Youth"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 3",
+            "Barrier"
+        ]
+    },
+    "BT4-085": {
+        "id": "BT4-085",
+        "face": {
+            "front": {
+                "name": "Prodigal Dynasty Son Goten",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-085.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Prodigal Dynasty Son Goten",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-085.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 4",
+            "Auto"
+        ]
+    },
+    "BT4-086": {
+        "id": "BT4-086",
+        "face": {
+            "front": {
+                "name": "Plucky Dynasty Pan",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-086.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Plucky Dynasty Pan",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-086.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "0",
+        "Series": "BT4",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 5",
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT4-087": {
+        "id": "BT4-087",
+        "face": {
+            "front": {
+                "name": "Fledgling Talent Pan",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-087.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Fledgling Talent Pan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-087.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT4-088": {
+        "id": "BT4-088",
+        "face": {
+            "front": {
+                "name": "Ox-King, Dad at Heart",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-088.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ox-King, Dad at Heart",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-088.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Ox-King"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Barrier"
+        ]
+    },
+    "BT4-089": {
+        "id": "BT4-089",
+        "face": {
+            "front": {
+                "name": "Dynasty's Solace Chi-Chi",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-089.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dynasty's Solace Chi-Chi",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-089.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Chi-Chi"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-090": {
+        "id": "BT4-090",
+        "face": {
+            "front": {
+                "name": "Caring Mother Videl",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-090.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Caring Mother Videl",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-090.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Videl"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "BT4-090_PR": {
+        "id": "BT4-090_PR",
+        "face": {
+            "front": {
+                "name": "Caring Mother Videl",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-090_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Caring Mother Videl",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-090_PR.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Videl"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "BT4-091": {
+        "id": "BT4-091",
+        "face": {
+            "front": {
+                "name": "Adoptive Father Son Gohan",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-091.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Adoptive Father Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-091.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 2",
+            "Blocker"
+        ]
+    },
+    "BT4-091_PR": {
+        "id": "BT4-091_PR",
+        "face": {
+            "front": {
+                "name": "Adoptive Father Son Gohan",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-091_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Adoptive Father Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-091_PR.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Swap 2",
+            "Blocker"
+        ]
+    },
+    "BT4-091_PR2": {
+        "id": "BT4-091_PR2",
+        "face": {
+            "front": {
+                "name": "Adoptive Father Son Gohan",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-091_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Adoptive Father Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-091_PR2.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Son Gohan"
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "swap 2",
+            "blocker"
+        ]
+    },
+    "BT4-092": {
+        "id": "BT4-092",
+        "face": {
+            "front": {
+                "name": "Multimech Bulma",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-092.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Multimech Bulma",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-092.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Special (Model Kit)"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "EX-Evolve",
+            "Auto"
+        ]
+    },
+    "BT4-093": {
+        "id": "BT4-093",
+        "face": {
+            "front": {
+                "name": "Explorer Bulma",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-093.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Explorer Bulma",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-093.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Special (Model Kit)"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-093_PR": {
+        "id": "BT4-093_PR",
+        "face": {
+            "front": {
+                "name": "Explorer Bulma",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-093_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Explorer Bulma",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-093_PR.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Special (Model Kit)"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-094": {
+        "id": "BT4-094",
+        "face": {
+            "front": {
+                "name": "Jiren, Universe's Strongest",
+                "type": "Main_Deck",
+                "cost": "12",
+                "power": "40000",
+                "Energy_cost": "12",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-094.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Jiren, Universe's Strongest",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-094.webp",
+        "Power": "40000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Jiren"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Counter: Play",
+            "Quadruple Strike",
+            "Permanent",
+            "Counter",
+            "Blocker"
+        ]
+    },
+    "BT4-095": {
+        "id": "BT4-095",
+        "face": {
+            "front": {
+                "name": "Successor of Hope",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-095.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Successor of Hope",
+        "Type": "EXTRA",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-095.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Swap"
+        ]
+    },
+    "BT4-095_PR": {
+        "id": "BT4-095_PR",
+        "face": {
+            "front": {
+                "name": "Successor of Hope",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-095_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Successor of Hope",
+        "Type": "EXTRA",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-095_PR.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Swap"
+        ]
+    },
+    "BT4-096": {
+        "id": "BT4-096",
+        "face": {
+            "front": {
+                "name": "10x Kamehameha",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-096.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "10x Kamehameha",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-096.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Double Strike"
+        ]
+    },
+    "BT4-097": {
+        "id": "BT4-097",
+        "face": {
+            "front": {
+                "name": "Instant Transmission",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-097.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Instant Transmission",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-097.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT4-098": {
+        "id": "BT4-098",
+        "face": {
+            "front": {
+                "name": "Demigra",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-098.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Ghastly Malice Demigra",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-098_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Demigra",
+        "Type": "LEADER",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-098.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken",
+            "Wormhole",
+            "Over Realm",
+            "Dark Over Realm",
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT4-099": {
+        "id": "BT4-099",
+        "face": {
+            "front": {
+                "name": "Mira",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-099.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Mira, One with Darkness",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-099_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira",
+        "Type": "LEADER",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-099.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Awaken",
+            "Auto"
+        ]
+    },
+    "BT4-100": {
+        "id": "BT4-100",
+        "face": {
+            "front": {
+                "name": "Burst Energy SS Bardock",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-100.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Burst Energy SS Bardock",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-100.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Bardock: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 4",
+            "Auto",
+            "Over Realm"
+        ]
+    },
+    "BT4-101": {
+        "id": "BT4-101",
+        "face": {
+            "front": {
+                "name": "Absolute Space SS3 Trunks",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-101.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Absolute Space SS3 Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-101.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Trunks: Xeno"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Xeno-Evolve",
+            "Triple Strike",
+            "Auto"
+        ]
+    },
+    "BT4-102": {
+        "id": "BT4-102",
+        "face": {
+            "front": {
+                "name": "Dimension Support Trunks",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-102.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dimension Support Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-102.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Trunks: Xeno"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Auto",
+            "Over Realm",
+            "Critical"
+        ]
+    },
+    "BT4-103": {
+        "id": "BT4-103",
+        "face": {
+            "front": {
+                "name": "Time's Choice, Supreme Kai of Time",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time's Choice, Supreme Kai of Time",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Supreme Kai of Time"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-103_PR": {
+        "id": "BT4-103_PR",
+        "face": {
+            "front": {
+                "name": "Time's Choice, Supreme Kai of Time",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time's Choice, Supreme Kai of Time",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103_PR.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Supreme Kai of Time"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-103_PR2": {
+        "id": "BT4-103_PR2",
+        "face": {
+            "front": {
+                "name": "Time's Choice, Supreme Kai of Time",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time's Choice, Supreme Kai of Time",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103_PR2.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Supreme Kai of Time"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-103_PR3": {
+        "id": "BT4-103_PR3",
+        "face": {
+            "front": {
+                "name": "Time's Choice, Supreme Kai of Time",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103_PR3.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time's Choice, Supreme Kai of Time",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-103_PR3.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Supreme Kai of Time"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-104": {
+        "id": "BT4-104",
+        "face": {
+            "front": {
+                "name": "Time Control Chronoa",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "3000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-104.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time Control Chronoa",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-104.webp",
+        "Power": "3000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Chronoa"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Counter: Play",
+            "Auto",
+            "Super Combo"
+        ]
+    },
+    "BT4-105": {
+        "id": "BT4-105",
+        "face": {
+            "front": {
+                "name": "Temporal Darkness Demigra",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-105.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Temporal Darkness Demigra",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-105.webp",
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 7",
+            "Over Realm",
+            "Dark Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-105_SPR": {
+        "id": "BT4-105_SPR",
+        "face": {
+            "front": {
+                "name": "Temporal Darkness Demigra",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-105_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Temporal Darkness Demigra",
+        "Type": "BATTLE",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-105_SPR.webp",
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 7",
+            "Over Realm",
+            "Dark Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-106": {
+        "id": "BT4-106",
+        "face": {
+            "front": {
+                "name": "Dark Control Demon God Demigra",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-106.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Control Demon God Demigra",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-106.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 4",
+            "Over Realm",
+            "Dark Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-107": {
+        "id": "BT4-107",
+        "face": {
+            "front": {
+                "name": "Heavenly Wizard Demigra",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-107.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Heavenly Wizard Demigra",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-107.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Evil Wizard"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "BT4-107_PR": {
+        "id": "BT4-107_PR",
+        "face": {
+            "front": {
+                "name": "Heavenly Wizard Demigra",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-107_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Heavenly Wizard Demigra",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-107_PR.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Evil Wizard"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "BT4-107_PR2": {
+        "id": "BT4-107_PR2",
+        "face": {
+            "front": {
+                "name": "Heavenly Wizard Demigra",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-107_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Heavenly Wizard Demigra",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-107_PR2.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Evil Wizard"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "BT4-108": {
+        "id": "BT4-108",
+        "face": {
+            "front": {
+                "name": "Mira, Creator Absorbed",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-108.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Creator Absorbed",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-108.webp",
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 4",
+            "Deflect",
+            "Counter: Play",
+            "Auto",
+            "Union",
+            "Double Strike"
+        ]
+    },
+    "BT4-108_PR": {
+        "id": "BT4-108_PR",
+        "face": {
+            "front": {
+                "name": "Mira, Creator Absorbed",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-108_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Creator Absorbed",
+        "Type": "BATTLE",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-108_PR.webp",
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 4",
+            "Deflect",
+            "Counter: Play",
+            "Auto",
+            "Union",
+            "Double Strike"
+        ]
+    },
+    "BT4-109": {
+        "id": "BT4-109",
+        "face": {
+            "front": {
+                "name": "Invasive Power Mira",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-109.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Invasive Power Mira",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-109.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 5",
+            "Over Realm",
+            "Double Strike"
+        ]
+    },
+    "BT4-110": {
+        "id": "BT4-110",
+        "face": {
+            "front": {
+                "name": "Dark Absorption Mira",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-110.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Absorption Mira",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-110.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Union Absorb"
+        ]
+    },
+    "BT4-111": {
+        "id": "BT4-111",
+        "face": {
+            "front": {
+                "name": "Umbral Invitation Towa",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-111.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Umbral Invitation Towa",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-111.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 4",
+            "Over Realm",
+            "Dark Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-111_PR": {
+        "id": "BT4-111_PR",
+        "face": {
+            "front": {
+                "name": "Umbral Invitation Towa",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-111_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Umbral Invitation Towa",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-111_PR.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 4",
+            "Over Realm",
+            "Dark Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-111_PR2": {
+        "id": "BT4-111_PR2",
+        "face": {
+            "front": {
+                "name": "Umbral Invitation Towa",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-111_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Umbral Invitation Towa",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-111_PR2.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 4",
+            "Over Realm",
+            "Dark Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-112": {
+        "id": "BT4-112",
+        "face": {
+            "front": {
+                "name": "Dark Rejuvenator Towa",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-112.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Rejuvenator Towa",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-112.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-112_PR": {
+        "id": "BT4-112_PR",
+        "face": {
+            "front": {
+                "name": "Dark Rejuvenator Towa",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-112_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Rejuvenator Towa",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-112_PR.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 3",
+            "Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-113": {
+        "id": "BT4-113",
+        "face": {
+            "front": {
+                "name": "Gravy, Lightning's Might",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-113.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gravy, Lightning's Might",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-113.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Gravy"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 2",
+            "Over Realm",
+            "Dark Over Realm"
+        ]
+    },
+    "BT4-114": {
+        "id": "BT4-114",
+        "face": {
+            "front": {
+                "name": "Gravy, in Demigra's Thrall",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-114.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gravy, in Demigra's Thrall",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-114.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Gravy"
+        ],
+        "Traits": [
+            "Evil Wizard"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-115": {
+        "id": "BT4-115",
+        "face": {
+            "front": {
+                "name": "Frigid Blast Putine",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-115.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frigid Blast Putine",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-115.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Putine"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dark Over Realm 3",
+            "Over Realm",
+            "Dark Over Realm",
+            "Auto"
+        ]
+    },
+    "BT4-116": {
+        "id": "BT4-116",
+        "face": {
+            "front": {
+                "name": "Putine, in Demigra's Thrall",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-116.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Putine, in Demigra's Thrall",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-116.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Putine"
+        ],
+        "Traits": [
+            "Evil Wizard"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "BT4-117": {
+        "id": "BT4-117",
+        "face": {
+            "front": {
+                "name": "Time Trauma Masked Saiyan",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-117.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Time Trauma Masked Saiyan",
+        "Type": "BATTLE",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-117.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Masked Saiyan"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "BT4-118": {
+        "id": "BT4-118",
+        "face": {
+            "front": {
+                "name": "Dimensional Banisher Fu",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-118.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dimensional Banisher Fu",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-118.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 5",
+            "Double Strike",
+            "Auto",
+            "Over Realm"
+        ]
+    },
+    "BT4-118_PR": {
+        "id": "BT4-118_PR",
+        "face": {
+            "front": {
+                "name": "Dimensional Banisher Fu",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-118_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dimensional Banisher Fu",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-118_PR.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 5",
+            "Double Strike",
+            "Auto",
+            "Over Realm"
+        ]
+    },
+    "BT4-118_PR2": {
+        "id": "BT4-118_PR2",
+        "face": {
+            "front": {
+                "name": "Dimensional Banisher Fu",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-118_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dimensional Banisher Fu",
+        "Type": "BATTLE",
+        "Rarity": "Rare[R]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-118_PR2.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Fu"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Over Realm 5",
+            "Double Strike",
+            "Auto",
+            "Over Realm"
+        ]
+    },
+    "BT4-119": {
+        "id": "BT4-119",
+        "face": {
+            "front": {
+                "name": "Tokitoki, Time Creator",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-119.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Tokitoki, Time Creator",
+        "Type": "BATTLE",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-119.webp",
+        "Power": "1000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT4",
+        "Character": [
+            "Tokitoki"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Counter: Play",
+            "Auto"
+        ]
+    },
+    "BT4-120": {
+        "id": "BT4-120",
+        "face": {
+            "front": {
+                "name": "Seasoning Arrow",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-120.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Seasoning Arrow",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-120.webp",
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "BT4-121": {
+        "id": "BT4-121",
+        "face": {
+            "front": {
+                "name": "Dark Kamehameha",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-121.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dark Kamehameha",
+        "Type": "EXTRA",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-121.webp",
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle"
+        ]
+    },
+    "BT4-122": {
+        "id": "BT4-122",
+        "face": {
+            "front": {
+                "name": "Minus Kili Zone",
+                "type": "Main_Deck",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-122.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Minus Kili Zone",
+        "Type": "EXTRA",
+        "Rarity": "Common[C]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-122.webp",
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT4",
+        "Character": [],
+        "Traits": null,
+        "Banned": true,
+        "Keywords": [
+            "Activate: Main",
+            "Counter: Play"
+        ]
+    },
+    "BT4-123": {
+        "id": "BT4-123",
+        "face": {
+            "front": {
+                "name": "Distant Descendant, Son Goku Jr.",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-123.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Distant Descendant, Son Goku Jr.",
+        "Type": "BATTLE",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-123.webp",
+        "Power": "40000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Son Goku Jr."
+        ],
+        "Traits": [
+            "Goku's Lineage"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Triple Strike",
+            "Auto"
+        ]
+    },
+    "BT4-124": {
+        "id": "BT4-124",
+        "face": {
+            "front": {
+                "name": "Beyond Darkness Demigra",
+                "type": "Main_Deck",
+                "cost": "10",
+                "power": "40000",
+                "Energy_cost": "10",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-124.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Beyond Darkness Demigra",
+        "Type": "BATTLE",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT4-124.webp",
+        "Power": "40000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT4",
+        "Character": [
+            "Demigra"
+        ],
+        "Traits": [
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Dark Over Realm 7",
+            "Triple Strike",
+            "Auto"
+        ]
+    }
+}

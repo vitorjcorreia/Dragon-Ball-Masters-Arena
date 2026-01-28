@@ -1,0 +1,1632 @@
+{
+    "EX24-01": {
+        "id": "EX24-01",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Goku, Story of a Forming Wish",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-01.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate Main",
+            "Wish",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "EX24-01_PR": {
+        "id": "EX24-01_PR",
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-01_PR.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Goku, Story of a Forming Wish",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-01_PR_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Special Leader Rare[SLR]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-01_PR.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate Main",
+            "Wish",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "EX24-02": {
+        "id": "EX24-02",
+        "face": {
+            "front": {
+                "name": "Son Goku, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-02.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Double Strike",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-03": {
+        "id": "EX24-03",
+        "face": {
+            "front": {
+                "name": "Pilaf, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Pilaf, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-03.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Pilaf"
+        ],
+        "Traits": [
+            "Earthling",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-04": {
+        "id": "EX24-04",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goku, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-04.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Double Strike",
+            "Auto",
+            "Spirit Boost X",
+            "Barrier",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-05": {
+        "id": "EX24-05",
+        "face": {
+            "front": {
+                "name": "Frieza, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-05.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Frieza"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate Main",
+            "Limit 1",
+            "Once per turn",
+            "Dual Attack"
+        ]
+    },
+    "EX24-06": {
+        "id": "EX24-06",
+        "face": {
+            "front": {
+                "name": "Android 18, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 18, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-06.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Android 18"
+        ],
+        "Traits": [
+            "Android",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Once per turn",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-07": {
+        "id": "EX24-07",
+        "face": {
+            "front": {
+                "name": "Great Ape Son Goku, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-07.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Son Goku, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-07.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Critical",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-08": {
+        "id": "EX24-08",
+        "face": {
+            "front": {
+                "name": "Oolong, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-08.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Oolong, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-08.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Oolong"
+        ],
+        "Traits": [
+            "Earthling",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-09": {
+        "id": "EX24-09",
+        "face": {
+            "front": {
+                "name": "Zamasu, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-09.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Zamasu, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-09.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Zamasu"
+        ],
+        "Traits": [
+            "God",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Activate: Main/Battle",
+            "Once per turn",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-10": {
+        "id": "EX24-10",
+        "face": {
+            "front": {
+                "name": "Goku Black, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-10.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Goku Black, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-10.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Goku Black"
+        ],
+        "Traits": [
+            "Saiyan",
+            "God",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Double Strike",
+            "Auto",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-11": {
+        "id": "EX24-11",
+        "face": {
+            "front": {
+                "name": "Android 17, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-11.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 17, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-11.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Android 17"
+        ],
+        "Traits": [
+            "Android",
+            "Universe 7",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Limit 1",
+            "Permanent",
+            "Counter",
+            "Auto"
+        ]
+    },
+    "EX24-12": {
+        "id": "EX24-12",
+        "face": {
+            "front": {
+                "name": "SS Broly, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "35000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-12.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Broly, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-12.webp",
+        "Power": "35000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Broly: Br"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Frieza's Army",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Triple Strike",
+            "Activate Main",
+            "Limit 1",
+            "Once per turn"
+        ]
+    },
+    "EX24-13": {
+        "id": "EX24-13",
+        "face": {
+            "front": {
+                "name": "Cheelai, Guided by the Dragon Balls",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-13.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cheelai, Guided by the Dragon Balls",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-13.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Cheelai: Br"
+        ],
+        "Traits": [
+            "Frieza's Army",
+            "Power Wish"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-14": {
+        "id": "EX24-14",
+        "face": {
+            "front": {
+                "name": "Pan, Miracle to Save the Universe",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-14.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Pan, Miracle to Save the Universe",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-14.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-15": {
+        "id": "EX24-15",
+        "face": {
+            "front": {
+                "name": "Core Absorption",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "0",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-15.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Core Absorption",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-15.webp",
+        "Power": "0",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate Main"
+        ]
+    },
+    "EX24-16": {
+        "id": "EX24-16",
+        "face": {
+            "front": {
+                "name": "Android 13, Unleashed Power",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "15000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-16.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 13, Unleashed Power",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-16.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Android 13"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Activate Main",
+            "Limit 1",
+            "Activate: Battle"
+        ]
+    },
+    "EX24-17": {
+        "id": "EX24-17",
+        "face": {
+            "front": {
+                "name": "Android 14 & Android 15, Cool-Headed Advance Guard",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-17.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 14 & Android 15, Cool-Headed Advance Guard",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-17.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Android 14",
+            "Android 15"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate Main"
+        ]
+    },
+    "EX24-18": {
+        "id": "EX24-18",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku, Power of Family Bonds",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-18.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS4 Son Goku, Power of Family Bonds",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-18.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate Main",
+            "Limit 1",
+            "Burst 2"
+        ]
+    },
+    "EX24-19": {
+        "id": "EX24-19",
+        "face": {
+            "front": {
+                "name": "Pan, Fighting Tomboy",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-19.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Pan, Fighting Tomboy",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-19.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Activate Main",
+            "Limit 1",
+            "Burst 2"
+        ]
+    },
+    "EX24-20": {
+        "id": "EX24-20",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Apex of Rage",
+                "type": "Z_Deck",
+                "cost": null,
+                "power": "20000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-20.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan, Apex of Rage",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-20.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [
+            "Son Gohan: SH"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Z-Awaken",
+            "Auto",
+            "Activate Main",
+            "Once per turn"
+        ]
+    },
+    "EX24-21": {
+        "id": "EX24-21",
+        "face": {
+            "front": {
+                "name": "Janemba, Endless Copies",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-21.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Endless Copies",
+        "Type": "Z-UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-21.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "+1",
+            "Activate Main",
+            "0",
+            "Auto"
+        ]
+    },
+    "EX24-22": {
+        "id": "EX24-22",
+        "face": {
+            "front": {
+                "name": "Janemba, Rising Power",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "19000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-22.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Rising Power",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-22.webp",
+        "Power": "19000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-23": {
+        "id": "EX24-23",
+        "face": {
+            "front": {
+                "name": "Janemba, Transformation Premonition",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-23.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Transformation Premonition",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-23.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Counter: Attack",
+            "Auto",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "EX24-24": {
+        "id": "EX24-24",
+        "face": {
+            "front": {
+                "name": "Piccolo, Shining Orange Strength",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-24.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo, Shining Orange Strength",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-24.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Piccolo: SH"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Double Strike",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "EX24-25": {
+        "id": "EX24-25",
+        "face": {
+            "front": {
+                "name": "Gamma 1 & Gamma 2, Stand-Up Heroes",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-25.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Gamma 1 & Gamma 2, Stand-Up Heroes",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-25.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Gamma 1: SH",
+            "Gamma 2: SH"
+        ],
+        "Traits": [
+            "Android",
+            "Red Ribbon Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Dual Attack",
+            "Permanent",
+            "Auto",
+            "Barrier",
+            "Activate: Main/Battle",
+            "Limit 1"
+        ]
+    },
+    "EX24-26": {
+        "id": "EX24-26",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Help From Above",
+                "type": "Z_Deck",
+                "cost": "2",
+                "power": "4000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-26.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goku, Help From Above",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-26.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Activate Main",
+            "Limit 1",
+            "Auto"
+        ]
+    },
+    "EX24-27": {
+        "id": "EX24-27",
+        "face": {
+            "front": {
+                "name": "King Cold Comes",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "0",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-27.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "King Cold Comes",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-27.webp",
+        "Power": "0",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle",
+            "Once per turn",
+            "Field",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-28": {
+        "id": "EX24-28",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan, Brotherly Combination",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "10000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-28.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Gohan, Brotherly Combination",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-28.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Once per turn",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-29": {
+        "id": "EX24-29",
+        "face": {
+            "front": {
+                "name": "SS Son Goten, Brotherly Combination",
+                "type": "Main_Deck",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-29.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goten, Brotherly Combination",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-29.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Auto",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "EX24-30": {
+        "id": "EX24-30",
+        "face": {
+            "front": {
+                "name": "Frieza, Steadfast Emperor",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-30.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, Steadfast Emperor",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-30.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Frieza: Br"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Permanent",
+            "Auto",
+            "Field",
+            "Activate: Battle",
+            "Once per turn"
+        ]
+    },
+    "EX24-31": {
+        "id": "EX24-31",
+        "face": {
+            "front": {
+                "name": "Frieza, Tiny Aggressor",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "19000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-31.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza, Tiny Aggressor",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-31.webp",
+        "Power": "19000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Frieza: Br"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Blocker",
+            "Permanent",
+            "Activate Main",
+            "Once per turn",
+            "Limit 1",
+            "Field",
+            "Barrier"
+        ]
+    },
+    "EX24-32": {
+        "id": "EX24-32",
+        "face": {
+            "front": {
+                "name": "Trunks, Inherited Will",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-32.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Trunks, Inherited Will",
+        "Type": "Z-UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-32.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "+1",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "EX24-33": {
+        "id": "EX24-33",
+        "face": {
+            "front": {
+                "name": "Irreconcilable",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "0",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-33.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Irreconcilable",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-33.webp",
+        "Power": "0",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate: Main/Battle",
+            "Z-Awaken"
+        ]
+    },
+    "EX24-34": {
+        "id": "EX24-34",
+        "face": {
+            "front": {
+                "name": "Bardock, Direct Combat",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-34.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Bardock, Direct Combat",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-34.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Bardock"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-35": {
+        "id": "EX24-35",
+        "face": {
+            "front": {
+                "name": "Tora, Entrusted Saiyan Pride",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-35.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Tora, Entrusted Saiyan Pride",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-35.webp",
+        "Power": "1000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Tora"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Bardock's Crew"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Activate Main",
+            "Barrier"
+        ]
+    },
+    "EX24-36": {
+        "id": "EX24-36",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Tactful Combat",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-36.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goku, Tactful Combat",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-36.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-37": {
+        "id": "EX24-37",
+        "face": {
+            "front": {
+                "name": "Prince of Destruction Vegeta, Full Control of Majin Power",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "25000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-37.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Prince of Destruction Vegeta, Full Control of Majin Power",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-37.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Servant",
+            "Permanent",
+            "Activate Main",
+            "Limit 1",
+            "Activate: Battle",
+            "Once per turn",
+            "Triple Strike"
+        ]
+    },
+    "EX24-38": {
+        "id": "EX24-38",
+        "face": {
+            "front": {
+                "name": "Demon God Towa, Greater Chaos",
+                "type": "Z_Deck",
+                "cost": null,
+                "power": "15000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-38.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Demon God Towa, Greater Chaos",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-38.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [
+            "Towa"
+        ],
+        "Traits": [
+            "Demon Realm Race",
+            "Demon God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Z-Awaken",
+            "Activate Main",
+            "Limit 1",
+            "Once per turn"
+        ]
+    },
+    "EX24-39": {
+        "id": "EX24-39",
+        "face": {
+            "front": {
+                "name": "Manifestation Frenzy",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "0",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-39.webp",
+                "isHorizontal": true
+            }
+        },
+        "Name": "Manifestation Frenzy",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-39.webp",
+        "Power": "0",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX24",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle",
+            "Once per turn",
+            "Z-Awaken",
+            "Limit 1"
+        ]
+    },
+    "EX24-40": {
+        "id": "EX24-40",
+        "face": {
+            "front": {
+                "name": "Mira, Limitless Power",
+                "type": "Main_Deck",
+                "cost": "7",
+                "power": "25000",
+                "Energy_cost": "7",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-40.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Limitless Power",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-40.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Blocker",
+            "Auto",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-41": {
+        "id": "EX24-41",
+        "face": {
+            "front": {
+                "name": "Mira, Dark Empire Technology",
+                "type": "Main_Deck",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-41.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mira, Dark Empire Technology",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-41.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Mira"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union-Absorb",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "EX24-42": {
+        "id": "EX24-42",
+        "face": {
+            "front": {
+                "name": "Great Ape Cumber, Gigantic Combatant",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-42.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Great Ape Cumber, Gigantic Combatant",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-42.webp",
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Great Ape"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Barrier",
+            "Activate Main",
+            "Limit 1"
+        ]
+    },
+    "EX24-43": {
+        "id": "EX24-43",
+        "face": {
+            "front": {
+                "name": "Cumber, Becoming the Strongest",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-43.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cumber, Becoming the Strongest",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX24-43.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX24",
+        "Character": [
+            "Cumber"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Servant",
+            "Activate Main",
+            "Limit 1"
+        ]
+    }
+}

@@ -1,0 +1,215 @@
+{
+    "EX10-01": {
+        "id": "EX10-01",
+        "face": {
+            "front": {
+                "name": "Heavy Kick Krillin",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-01.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Heavy Kick Krillin",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-01.webp",
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX10",
+        "Character": [
+            "Krillin"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "EX10-02": {
+        "id": "EX10-02",
+        "face": {
+            "front": {
+                "name": "Master Roshi, Kamehameha Origins",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Master Roshi, Kamehameha Origins",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-02.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX10",
+        "Character": [
+            "Master Roshi"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": true,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "EX10-03": {
+        "id": "EX10-03",
+        "face": {
+            "front": {
+                "name": "Piccolo",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-03.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Son Gohan & Piccolo, Surge of Consciousness",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-03_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Piccolo",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-03.webp",
+        "Power": "10000",
+        "Color": "Blue/Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX10",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "Frenzied Warrior"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn",
+            "Awaken: Surge",
+            "Activate: Main/Battle",
+            "Energy-Exhaust"
+        ]
+    },
+    "EX10-04": {
+        "id": "EX10-04",
+        "face": {
+            "front": {
+                "name": "Kaio-Ken Son Goku Returns",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kaio-Ken Son Goku Returns",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-04.webp",
+        "Power": "15000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX10",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Revive Blue/Green",
+            "Auto"
+        ]
+    },
+    "EX10-05": {
+        "id": "EX10-05",
+        "face": {
+            "front": {
+                "name": "Dr. Uiro, Cybernetic Rebirth",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dr. Uiro, Cybernetic Rebirth",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-05.webp",
+        "Power": "15000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX10",
+        "Character": [
+            "Dr. Uiro"
+        ],
+        "Traits": [
+            "Scientist"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Energy-Exhaust",
+            "Auto",
+            "Revive"
+        ]
+    },
+    "EX10-06": {
+        "id": "EX10-06",
+        "face": {
+            "front": {
+                "name": "Hidden Potential",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Hidden Potential",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX10-06.webp",
+        "Power": "",
+        "Color": "Blue/Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX10",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Counter: Play"
+        ]
+    }
+}

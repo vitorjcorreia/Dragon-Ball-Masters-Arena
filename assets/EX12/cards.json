@@ -1,0 +1,288 @@
+{
+    "EX12-01": {
+        "id": "EX12-01",
+        "face": {
+            "front": {
+                "name": "Toppo",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Toppo, Candidate of Destruction",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Toppo",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-01.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX12",
+        "Character": [
+            "Toppo"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken",
+            "Permanent"
+        ]
+    },
+    "EX12-02": {
+        "id": "EX12-02",
+        "face": {
+            "front": {
+                "name": "Vegeta, Unison of Fury",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "15000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Unison of Fury",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-02.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX12",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "-1",
+            "-3",
+            "Double Strike",
+            "Dual Attack"
+        ]
+    },
+    "EX12-02_PR": {
+        "id": "EX12-02_PR",
+        "face": {
+            "front": {
+                "name": "Vegeta, Unison of Fury",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "15000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-02_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Unison of Fury",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-02_PR.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX12",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "-1",
+            "-3",
+            "Double Strike",
+            "Dual Attack"
+        ]
+    },
+    "EX12-03": {
+        "id": "EX12-03",
+        "face": {
+            "front": {
+                "name": "Belmod, the Self-Indulgent",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Belmod, the Self-Indulgent",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-03.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX12",
+        "Character": [
+            "Belmod"
+        ],
+        "Traits": [
+            "God",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Counter: Attack",
+            "Permanent"
+        ]
+    },
+    "EX12-04": {
+        "id": "EX12-04",
+        "face": {
+            "front": {
+                "name": "Marcarita, Tutor of Power",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Marcarita, Tutor of Power",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-04.webp",
+        "Power": "19000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX12",
+        "Character": [
+            "Marcarita"
+        ],
+        "Traits": [
+            "God",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "EX12-05": {
+        "id": "EX12-05",
+        "face": {
+            "front": {
+                "name": "Dyspo, the Flashstriker",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dyspo, the Flashstriker",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-05.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX12",
+        "Character": [
+            "Dyspo"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Activate: Main"
+        ]
+    },
+    "EX12-06": {
+        "id": "EX12-06",
+        "face": {
+            "front": {
+                "name": "Kahseral, the Slashstriker",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Kahseral, the Slashstriker",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-06.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX12",
+        "Character": [
+            "Kahseral"
+        ],
+        "Traits": [
+            "Alien",
+            "Pride Troopers",
+            "Universe 11"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "EX12-07": {
+        "id": "EX12-07",
+        "face": {
+            "front": {
+                "name": "Spirit Fist",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-07.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Spirit Fist",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX12-07.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX12",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Play",
+            "Activate: Battle"
+        ]
+    }
+}

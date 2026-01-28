@@ -1,0 +1,521 @@
+{
+    "XD3-01": {
+        "id": "XD3-01",
+        "face": {
+            "front": {
+                "name": "Cell",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Cell & Cell Jr., Endless Supremity",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-01.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "XD3",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Field",
+            "Activate: Main",
+            "Once per turn",
+            "Awaken"
+        ]
+    },
+    "XD3-02": {
+        "id": "XD3-02",
+        "face": {
+            "front": {
+                "name": "Cell, Genetic Consumption",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell, Genetic Consumption",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union Absorb"
+        ]
+    },
+    "XD3-02_PR": {
+        "id": "XD3-02_PR",
+        "face": {
+            "front": {
+                "name": "Cell, Genetic Consumption",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell, Genetic Consumption",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-02_PR.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union Absorb"
+        ]
+    },
+    "XD3-03": {
+        "id": "XD3-03",
+        "face": {
+            "front": {
+                "name": "Android 18, Imminent Danger",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 18, Imminent Danger",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-03.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Android 18"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "XD3-04": {
+        "id": "XD3-04",
+        "face": {
+            "front": {
+                "name": "Android 17, Impending Crisis",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 17, Impending Crisis",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Android 17"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Auto"
+        ]
+    },
+    "XD3-04_PR": {
+        "id": "XD3-04_PR",
+        "face": {
+            "front": {
+                "name": "Android 17, Impending Crisis",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 17, Impending Crisis",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Android 17"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Auto"
+        ]
+    },
+    "XD3-04_PR2": {
+        "id": "XD3-04_PR2",
+        "face": {
+            "front": {
+                "name": "Android 17, Impending Crisis",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR2.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Android 17, Impending Crisis",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-04_PR2.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Android 17"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Auto"
+        ]
+    },
+    "XD3-05": {
+        "id": "XD3-05",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Valiant Breakthrough",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Son Goku, Valiant Breakthrough",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-05.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main"
+        ]
+    },
+    "XD3-06": {
+        "id": "XD3-06",
+        "face": {
+            "front": {
+                "name": "SS Vegeta, Begrudging Support",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS Vegeta, Begrudging Support",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-06.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD3",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "XD3-07": {
+        "id": "XD3-07",
+        "face": {
+            "front": {
+                "name": "Pernicious Progeny",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-07.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Pernicious Progeny",
+        "Type": "EXTRA",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-07.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "XD3",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Activate: Main"
+        ]
+    },
+    "XD3-08": {
+        "id": "XD3-08",
+        "face": {
+            "front": {
+                "name": "SS2 Son Gohan, Wounded Victor",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-08.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "SS2 Son Gohan, Wounded Victor",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-08.webp",
+        "Power": "30000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD3",
+        "Character": [
+            "Son Gohan: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Triple Strike",
+            "Energy-Exhaust",
+            "Successor",
+            "Auto",
+            "Once per turn"
+        ]
+    },
+    "XD3-09": {
+        "id": "XD3-09",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Misspent",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "20000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell, Perfection Misspent",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD3",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "XD3-09_PR": {
+        "id": "XD3-09_PR",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Misspent",
+                "type": "Main_Deck",
+                "cost": "8",
+                "power": "20000",
+                "Energy_cost": "8",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell, Perfection Misspent",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-09_PR.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD3",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "XD3-10": {
+        "id": "XD3-10",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Reclaimed",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell, Perfection Reclaimed",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10.webp",
+        "Power": "15000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD3",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union Absorb",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "XD3-10_PR": {
+        "id": "XD3-10_PR",
+        "face": {
+            "front": {
+                "name": "Cell, Perfection Reclaimed",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Cell, Perfection Reclaimed",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD3-10_PR.webp",
+        "Power": "15000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD3",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union Absorb",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    }
+}

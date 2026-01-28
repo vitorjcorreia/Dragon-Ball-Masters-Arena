@@ -1,0 +1,183 @@
+{
+    "EX05-01": {
+        "id": "EX05-01",
+        "face": {
+            "front": {
+                "name": "Janemba, Lighthearted Destroyer",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-01.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Lighthearted Destroyer",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-01.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX05",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main"
+        ]
+    },
+    "EX05-02": {
+        "id": "EX05-02",
+        "face": {
+            "front": {
+                "name": "Boujack, Pirate's Pride",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Boujack, Pirate's Pride",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-02.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX05",
+        "Character": [
+            "Boujack"
+        ],
+        "Traits": [
+            "Boujack Brigade"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "EX05-03": {
+        "id": "EX05-03",
+        "face": {
+            "front": {
+                "name": "Janemba, Resonant Agent of Destruction",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Janemba, Resonant Agent of Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-03.webp",
+        "Power": "20000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX05",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate",
+            "Agent of Destruction"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Barrier",
+            "Aegis Blue/Yellow",
+            "Once per turn",
+            "Aegis",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "EX05-04": {
+        "id": "EX05-04",
+        "face": {
+            "front": {
+                "name": "Boujack, Resonant Agent of Destruction",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Boujack, Resonant Agent of Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-04.webp",
+        "Power": "20000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX05",
+        "Character": [
+            "Boujack"
+        ],
+        "Traits": [
+            "Boujack Brigade",
+            "Agent of Destruction"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Arrival Blue/Yellow",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    },
+    "EX05-04_PR": {
+        "id": "EX05-04_PR",
+        "face": {
+            "front": {
+                "name": "Boujack, Resonant Agent of Destruction",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-04_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Boujack, Resonant Agent of Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX05-04_PR.webp",
+        "Power": "20000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX05",
+        "Character": [
+            "Boujack"
+        ],
+        "Traits": [
+            "Boujack Brigade",
+            "Agent of Destruction"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Arrival Blue/Yellow",
+            "Energy-Exhaust",
+            "Auto"
+        ]
+    }
+}

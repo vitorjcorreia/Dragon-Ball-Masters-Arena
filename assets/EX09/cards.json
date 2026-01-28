@@ -1,0 +1,250 @@
+{
+    "EX09-01": {
+        "id": "EX09-01",
+        "face": {
+            "front": {
+                "name": "Son Goku, Nimbus Voyager",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-01.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goku, Nimbus Voyager",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-01.webp",
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX09",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "EX09-02": {
+        "id": "EX09-02",
+        "face": {
+            "front": {
+                "name": "Vegeta, Time for Vacation",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Time for Vacation",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-02.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX09",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Activate: Main/Battle"
+        ]
+    },
+    "EX09-03": {
+        "id": "EX09-03",
+        "face": {
+            "front": {
+                "name": "Super Saiyan Son Goku",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-03.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SSG Son Goku, Surge of Divinity",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-03_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Super Saiyan Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-03.webp",
+        "Power": "10000",
+        "Color": "Red/Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX09",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Awaken: Surge",
+            "Activate: Main/Battle",
+            "Once per turn",
+            "Barrier",
+            "Critical"
+        ]
+    },
+    "EX09-04": {
+        "id": "EX09-04",
+        "face": {
+            "front": {
+                "name": "Son Gohan & Videl, Power Couple",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Gohan & Videl, Power Couple",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-04.webp",
+        "Power": "15000",
+        "Color": "Red/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX09",
+        "Character": [
+            "Son Gohan: Adolescence",
+            "Videl"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Activate: Main",
+            "Barrier"
+        ]
+    },
+    "EX09-05": {
+        "id": "EX09-05",
+        "face": {
+            "front": {
+                "name": "Son Goten & Trunks, Back to Back",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Son Goten & Trunks, Back to Back",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-05.webp",
+        "Power": "15000",
+        "Color": "Red/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX09",
+        "Character": [
+            "Son Goten",
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Counter: Play"
+        ]
+    },
+    "EX09-06": {
+        "id": "EX09-06",
+        "face": {
+            "front": {
+                "name": "Almighty Resistance",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-06.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Almighty Resistance",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-06.webp",
+        "Power": "",
+        "Color": "Red/Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX09",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Counter: Counter",
+            "Counter: Attack"
+        ]
+    },
+    "EX09-06_PR": {
+        "id": "EX09-06_PR",
+        "face": {
+            "front": {
+                "name": "Almighty Resistance",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-06_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Almighty Resistance",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX09-06_PR.webp",
+        "Power": "",
+        "Color": "Red/Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX09",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Counter: Counter",
+            "Counter: Attack"
+        ]
+    }
+}

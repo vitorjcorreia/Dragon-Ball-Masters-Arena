@@ -1,0 +1,183 @@
+{
+    "SD13-01": {
+        "id": "SD13-01",
+        "face": {
+            "front": {
+                "name": "Frieza",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Last Resort Frieza",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-01.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD13",
+        "Character": [
+            "Frieza"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Awaken",
+            "Activate: Main",
+            "Once per turn",
+            "Critical"
+        ]
+    },
+    "SD13-02": {
+        "id": "SD13-02",
+        "face": {
+            "front": {
+                "name": "Frieza : Xeno, Darkness Overflowing",
+                "type": "Main_Deck",
+                "cost": null,
+                "power": "15000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Frieza : Xeno, Darkness Overflowing",
+        "Type": "UNISON",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-02.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD13",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "+1",
+            "Activate: Main",
+            "-1"
+        ]
+    },
+    "SD13-03": {
+        "id": "SD13-03",
+        "face": {
+            "front": {
+                "name": "Ginyu, Frieza's Greatest Soldier",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Ginyu, Frieza's Greatest Soldier",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-03.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD13",
+        "Character": [
+            "Ginyu"
+        ],
+        "Traits": [
+            "Ginyu Force",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "SD13-04": {
+        "id": "SD13-04",
+        "face": {
+            "front": {
+                "name": "Zarbon, Frieza's Right-Hand Man",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Zarbon, Frieza's Right-Hand Man",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-04.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD13",
+        "Character": [
+            "Zarbon"
+        ],
+        "Traits": [
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Battle"
+        ]
+    },
+    "SD13-05": {
+        "id": "SD13-05",
+        "face": {
+            "front": {
+                "name": "Dodoria, Frieza's Devoted Servant",
+                "type": "Main_Deck",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dodoria, Frieza's Devoted Servant",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD13-05.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD13",
+        "Character": [
+            "Dodoria"
+        ],
+        "Traits": [
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main"
+        ]
+    }
+}

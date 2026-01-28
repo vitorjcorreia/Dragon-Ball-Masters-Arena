@@ -1,0 +1,191 @@
+{
+    "SD7-01": {
+        "id": "SD7-01",
+        "face": {
+            "front": {
+                "name": "Dragon Ball",
+                "type": "Leader",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-01.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Miraculous Arrival Shenron",
+                "type": "Leader",
+                "cost": null,
+                "power": "15000",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-01_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dragon Ball",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-01.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD7",
+        "Character": [
+            "Dragon Ball"
+        ],
+        "Traits": [
+            "Shenron"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate: Main",
+            "Dragon Ball",
+            "Wish",
+            "Once per turn",
+            "Triple Attack"
+        ]
+    },
+    "SD7-02": {
+        "id": "SD7-02",
+        "face": {
+            "front": {
+                "name": "Dimensional Warrior Son Goku",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-02.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Dimensional Warrior Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-02.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD7",
+        "Character": [
+            "Son Goku: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Barrier",
+            "Auto",
+            "Sparking 7"
+        ]
+    },
+    "SD7-03": {
+        "id": "SD7-03",
+        "face": {
+            "front": {
+                "name": "Vegeta, Returned from Darkness",
+                "type": "Main_Deck",
+                "cost": "3",
+                "power": "19000",
+                "Energy_cost": "3",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-03.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Vegeta, Returned from Darkness",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-03.webp",
+        "Power": "19000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD7",
+        "Character": [
+            "Vegeta: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Auto",
+            "Burst 5"
+        ]
+    },
+    "SD7-04": {
+        "id": "SD7-04",
+        "face": {
+            "front": {
+                "name": "Shenron, Figure of Majesty",
+                "type": "Main_Deck",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-04.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Shenron, Figure of Majesty",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-04.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD7",
+        "Character": [
+            "Shenron"
+        ],
+        "Traits": [
+            "Shenron"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate: Main",
+            "Once per turn",
+            "Sparking 5",
+            "Critical"
+        ]
+    },
+    "SD7-05": {
+        "id": "SD7-05",
+        "face": {
+            "front": {
+                "name": "Mega Focus Son Goku",
+                "type": "Main_Deck",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-05.webp",
+                "isHorizontal": false
+            }
+        },
+        "Name": "Mega Focus Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD7-05.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD7",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Once per turn",
+            "Burst 3"
+        ]
+    }
+}
