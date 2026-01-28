@@ -27,7 +27,7 @@
         "title": "Standard",
         "gameplay": "Classic",
         "customCategories": [
-          "Extra deck"
+          "Z-Deck"
         ],
         "deckRuleset": "Standard"
       }
@@ -251,7 +251,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Extra deck->Z_Deck"
+          "Z-Deck->Z_Deck"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -519,7 +519,7 @@
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "DECK",
-            "displayedTitle": "Extra deck",
+            "displayedTitle": "Z-Deck",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
