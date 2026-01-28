@@ -515,19 +515,20 @@
             "showHiddenCardInHistory": false
           },
           "Z_Deck": {
-            "displayedTitle": "Z-Deck Area",
-            "enterSpun": false,
-            "enterTapped": false,
-            "height": "20",
-            "isGroupForbidden": false,
-            "isHidden": "yes",
-            "isHorizontalAllowed": false,
-            "keepTappedNewTurn": false,
-            "noAutoPayTo": true,
-            "noQuickActions": false,
+            "title": "Z_Deck",
+            "isHidden": "opponent-only",
+            "height": "SMALL",
+            "alignment": "DECK",
             "opponentAlignment": false,
-            "showHiddenCardInHistory": false,
-            "title": "Z-deck"
+            "displayedTitle": "Z-Deck Area",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
           }
         }
       }
