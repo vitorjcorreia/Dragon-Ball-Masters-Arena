@@ -6,7 +6,8 @@ import os
 from tqdm import tqdm
 
 ASSETS_PATH = "./assets"
-IMAGE_SOURCE_URL = "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets"
+IMG_SRC_URL = "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters"
+IMAGE_BASE_URL = "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets"
 # https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/BT13-037.webp
 
 CARD_TYPES_MAPPING = {
@@ -59,19 +60,19 @@ with open(input_file, 'r', encoding='utf-8') as f:
     for card in cards_data:
         series : str = card.get('card_series', 'Unknown Series')
         series_norm = series.replace(" ", "").strip()
-        img_url = f'{IMAGE_SOURCE_URL}/{series}/{card["img_link"]}.webp'
+        img_url = f'{IMAGE_BASE_URL}/{series}/{card["img_link"]}.webp'
 
         # card_series_path = f"{ASSETS_PATH}/{series_norm}"
         # if not os.path.exists(card_series_path):
         #     os.mkdir(card_series_path, exist_ok=True)
-
+        card_name_fqdn = f'{card['card_name']} [{card['card_number'].split("_")[0]}]'
         card_entry = {
             f'{card["card_number"]}': {
                 'id': card['card_number'],
                 'face': {
                     'front': {
-                        'name': card['card_name'],
-                        'type': CARD_TYPES_MAPPING[card['card_type']],
+                        'name': card_name_fqdn,
+                        'type': card['card_type'],
                         'cost': card['card_energy_cost'],
                         'power': card['card_power'],
                         'Energy_cost': card['card_energy_cost'],
@@ -79,13 +80,13 @@ with open(input_file, 'r', encoding='utf-8') as f:
                         'isHorizontal': card['card_type'] == 'Z-EXTRA'
                     }
                 },
-                'Name': card['card_name'],
-                'Type': card['card_type'],
+                'name': card_name_fqdn,
+                'type': CARD_TYPES_MAPPING[card['card_type']],
                 'Rarity': card['card_rarity'],
                 'image': img_url,
                 'Power': card['card_power'],
                 'Color': card['card_color'],
-                #'Energy_cost': card['card_energy_cost'],
+                'cost': card['card_energy_cost'],
                 'Combo_cost': card['card_combo_cost'],
                 'Combo_power': card['card_combo_power'],
                 'Series': series,
@@ -108,10 +109,10 @@ with open(input_file, 'r', encoding='utf-8') as f:
         if card['card_type'] == 'LEADER':
             card_entry[f'{card["card_number"]}']['face']['back'] = {
                 'name': card['card_back_name'],
-                'type': CARD_TYPES_MAPPING[card['card_type']],
+                'type': card['card_type'],
                 'cost': card['card_energy_cost'],
                 'power': card['card_back_power'],
-                'image': f'{IMAGE_SOURCE_URL}/{series}/{card["img_link"]}_b.webp',
+                'image': f'{IMAGE_BASE_URL}/{series}/{card["img_link"]}_b.webp',
                 'isHorizontal': False
             }
         cards_grouped_by_series.setdefault(series_norm, {}).update(card_entry)
@@ -132,4 +133,9 @@ for series, cards in tqdm(cards_grouped_by_series.items(), desc="Generating card
     for card_id, card in tqdm(cards.items(), desc=f"Downloading images for series {series}", leave=False):
         card_image_path = f"{card_series_path}/{card['id']}.webp"
         if not os.path.exists(card_image_path):
-            download_image(url=card['image'], path=card_image_path)
+            download_image(url=f'{IMG_SRC_URL}/{card['id']}.webp', path=card_image_path)
+
+        if card['face']['front']['type'] == "LEADER":
+            card_image_back_path = f"{card_series_path}/{card['id']}_b.webp"
+            if not os.path.exists(card_image_back_path):
+                download_image(url=f'{IMG_SRC_URL}/{card['id']}_b.webp', path=card_image_back_path)
