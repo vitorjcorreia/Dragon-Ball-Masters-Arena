@@ -429,7 +429,7 @@
             "displayedTitle": "Life",
             "enterTapped": false,
             "enterSpun": false,
-            "isGroupForbidden": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
@@ -515,7 +515,6 @@
             "showHiddenCardInHistory": false
           },
           "Z_Deck": {
-            "isDefaultSection": true,
             "title": "Z_Deck",
             "isHidden": "yes",
             "height": "SMALL",
