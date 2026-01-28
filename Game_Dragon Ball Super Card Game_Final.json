@@ -1,0 +1,518 @@
+{
+  "name": "Dragon Ball Super Card Game Masters",
+  "menuBackgroundImage": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/menu_background.png",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/starterDecks.json"
+  },
+  "customHelp": "\"How to play DB Masters:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "https://vhsaraiva.github.io/HattrickSelector/docs/bt26cards.json",
+    "cardBack": "https://vhsaraiva.github.io/HattrickSelector/docs/cardBack.webp"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Color",
+      "Type",
+      "Power",
+      "Combo",
+      "Cost",
+      "Trait"
+    ],
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Classic",
+        "customCategories": [],
+        "deckRuleset": "Standard"
+      }
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "general": {
+          "maxPerCard": 4
+        },
+        "categories": [
+          {
+            "category": "Leader",
+            "min": 1,
+            "max": 1,
+            "maxPerCard": 1
+          },
+          {
+            "category": "Battle",
+            "min": 50,
+            "max": 60
+          },
+          {
+            "category": "Side Deck",
+            "min": 0,
+            "max": 15
+          },
+          {
+            "category": "Z-Deck",
+            "min": 0,
+            "max": 10
+          }
+        ]
+      }
+    }
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "You can mulligan once per game.",
+        "startingHandSize": "6",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "Deck",
+            "count": 8,
+            "destination": "Life"
+          }
+        ]
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0
+      ],
+      "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "1-cnt",
+          "name": "1 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/1_token.png"
+        },
+        {
+          "id": "2-cnt",
+          "name": "2 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/2_token.png"
+        },
+        {
+          "id": "3-cnt",
+          "name": "3 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/3_token.png"
+        },
+        {
+          "id": "4-cnt",
+          "name": "4 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/4_token.png"
+        },
+        {
+          "id": "5-cnt",
+          "name": "5 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/5_token.png"
+        },
+        {
+          "id": "6-cnt",
+          "name": "6 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/6_token.png"
+        },
+        {
+          "id": "7-cnt",
+          "name": "7 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/7_token.png"
+        },
+        {
+          "id": "barrier",
+          "name": "Barrier",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/barrier_token.png"
+        },
+        {
+          "id": "ability-used",
+          "name": "Ability Used",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/used.png"
+        }
+      ],
+      "sections": {
+        "customSections": [
+          "Z-Deck",
+          "Z-Energy",
+          "Leader",
+          "Life",
+          "Unison",
+          "Battle",
+          "Combo",
+          "Energy",
+          "Warp"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh"
+              },
+              "content": [
+                {
+                  "section": "Z-Deck",
+                  "style": false
+                },
+                {
+                  "section": "Z-Energy",
+                  "style": false
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh"
+              },
+              "content": [
+                {
+                  "section": "Leader",
+                  "style": false
+                },
+                {
+                  "section": "Life",
+                  "style": false
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "flex": 1
+              },
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Unison",
+                      "style": {
+                        "width": "20vh"
+                      }
+                    },
+                    {
+                      "section": "Battle",
+                      "style": false
+                    }
+                  ]
+                },
+                {
+                  "section": "Combo",
+                  "style": false
+                },
+                {
+                  "section": "Energy",
+                  "style": false
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh"
+              },
+              "content": [
+                {
+                  "section": "Warp",
+                  "style": false
+                }
+              ]
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Leader",
+          "Z-Deck"
+        ],
+        "autoPlayFromHand": {
+          "Battle": "Battle",
+          "Energy Marker": "Energy",
+          "Extra": "Stack",
+          "Z-Deck": "Hand",
+          "Life": "Hand"
+        },
+        "autoPlayFromStack": {
+          "Battle": "Battle",
+          "Extra": "Discard",
+          "Energy Marker": "Energy"
+        },
+        "sectionsDict": {
+          "Hand": {
+            "isDefaultSection": true,
+            "title": "Hand",
+            "isHidden": "opponent-only",
+            "height": "DEFAULT",
+            "alignment": "CENTER",
+            "autoPayFrom": true,
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Discard": {
+            "isDefaultSection": true,
+            "title": "Discard",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "opponentAlignment": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck": {
+            "isDefaultSection": true,
+            "title": "Deck",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "Battle",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Stack": {
+            "isDefaultSection": true,
+            "title": "Stack",
+            "isHidden": "no",
+            "height": "HUGE",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "displayedTitle": "Pile",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Exile": {
+            "isDefaultSection": true,
+            "title": "Exile",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Exile",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "ExileHidden": {
+            "isDefaultSection": true,
+            "title": "ExileHidden",
+            "isHidden": "yes",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "noAutoPayTo": true,
+            "displayedTitle": "Removed hidden",
+            "opponentAlignment": false,
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sideboard": {
+            "isDefaultSection": true,
+            "title": "Sideboard",
+            "isHidden": "no",
+            "height": "DEFAULT",
+            "alignment": "NONE",
+            "isHorizontalAllowed": false,
+            "isGroupForbidden": true,
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Leader": {
+            "title": "Leader",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Leader Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Unison": {
+            "title": "Unison",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Unison Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Life": {
+            "title": "Life",
+            "isHidden": "yes",
+            "height": "18",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Life",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Battle": {
+            "title": "Battle",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Battle Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Combo": {
+            "title": "Combo",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Combo Area",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Energy": {
+            "title": "Energy",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Energy Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Warp": {
+            "title": "Warp",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Warp Area",
+            "noQuickActions": false,
+            "enterTapped": true,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+            "Z-Energy": {
+            "title": "Z-Energy",
+            "isHidden": "no",
+            "height": "20",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Z-Energy Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": true,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+            "Z-Deck": {
+            "title": "Z-Deck",
+            "isHidden": "yes",
+            "height": "20",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Z-Deck Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
