@@ -61,7 +61,7 @@ with open(input_file, 'r', encoding='utf-8') as f:
     for card in cards_data:
         series : str = card.get('card_series', 'Unknown Series')
         series_norm = series.replace(" ", "").strip()
-        img_url = f'{IMAGE_BASE_URL}/{series}/{card["img_link"]}.webp'
+        img_url = f'{IMAGE_BASE_URL}/{series_norm}/{card["img_link"]}.webp'
 
         # card_series_path = f"{ASSETS_PATH}/{series_norm}"
         # if not os.path.exists(card_series_path):
@@ -113,7 +113,7 @@ with open(input_file, 'r', encoding='utf-8') as f:
                 'type': card['card_type'],
                 'cost': card['card_energy_cost'],
                 'power': card['card_back_power'],
-                'image': f'{IMAGE_BASE_URL}/{series}/{card["img_link"]}_b.webp',
+                'image': f'{IMAGE_BASE_URL}/{series_norm}/{card["img_link"]}_b.webp',
                 'isHorizontal': False
             }
         cards_grouped_by_series.setdefault(series_norm, {}).update(card_entry)
