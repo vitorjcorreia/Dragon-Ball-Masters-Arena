@@ -3,8 +3,8 @@
         "id": "SD6-01",
         "face": {
             "front": {
-                "name": "Gogeta",
-                "type": "Leader",
+                "name": "Gogeta [SD6-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Knockout Strike Gogeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD6/SD6-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Gogeta",
-        "Type": "LEADER",
+        "name": "Gogeta [SD6-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD6/SD6-01.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD6",
@@ -50,8 +51,8 @@
         "id": "SD6-02",
         "face": {
             "front": {
-                "name": "Fusion Reborn Vegeta",
-                "type": "Main_Deck",
+                "name": "Fusion Reborn Vegeta [SD6-02]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -59,12 +60,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fusion Reborn Vegeta",
-        "Type": "BATTLE",
+        "name": "Fusion Reborn Vegeta [SD6-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD6/SD6-02.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD6",
@@ -84,8 +86,8 @@
         "id": "SD6-03",
         "face": {
             "front": {
-                "name": "Fusion Reborn Son Goku",
-                "type": "Main_Deck",
+                "name": "Fusion Reborn Son Goku [SD6-03]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -93,12 +95,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fusion Reborn Son Goku",
-        "Type": "BATTLE",
+        "name": "Fusion Reborn Son Goku [SD6-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD6/SD6-03.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD6",
@@ -118,8 +121,8 @@
         "id": "SD6-04",
         "face": {
             "front": {
-                "name": "Ultimate Fusion Gogeta",
-                "type": "Main_Deck",
+                "name": "Ultimate Fusion Gogeta [SD6-04]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -127,12 +130,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ultimate Fusion Gogeta",
-        "Type": "BATTLE",
+        "name": "Ultimate Fusion Gogeta [SD6-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD6/SD6-04.webp",
         "Power": "25000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD6",
@@ -154,8 +158,8 @@
         "id": "SD6-05",
         "face": {
             "front": {
-                "name": "Great Saiyaman",
-                "type": "Main_Deck",
+                "name": "Great Saiyaman [SD6-05]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "30000",
                 "Energy_cost": "3",
@@ -163,12 +167,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Great Saiyaman",
-        "Type": "BATTLE",
+        "name": "Great Saiyaman [SD6-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD6/SD6-05.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD6",

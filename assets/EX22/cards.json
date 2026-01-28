@@ -3,8 +3,8 @@
         "id": "EX22-01",
         "face": {
             "front": {
-                "name": "Goku Black",
-                "type": "Leader",
+                "name": "Goku Black [EX22-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "SS Rose Goku Black, the Beginning of the Return to Despair",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Goku Black",
-        "Type": "LEADER",
+        "name": "Goku Black [EX22-01]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-01.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX22",
@@ -48,8 +49,8 @@
         "id": "EX22-02",
         "face": {
             "front": {
-                "name": "SS Rose Goku Black, Dark Purple Sickle",
-                "type": "Z_Deck",
+                "name": "SS Rose Goku Black, Dark Purple Sickle [EX22-02]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Rose Goku Black, Dark Purple Sickle",
-        "Type": "Z-LEADER",
+        "name": "SS Rose Goku Black, Dark Purple Sickle [EX22-02]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-02.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX22",
@@ -87,8 +89,8 @@
         "id": "EX22-03",
         "face": {
             "front": {
-                "name": "Zamasu, Serving Justice",
-                "type": "Z_Deck",
+                "name": "Zamasu, Serving Justice [EX22-03]",
+                "type": "Z-BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -96,12 +98,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Zamasu, Serving Justice",
-        "Type": "Z-BATTLE",
+        "name": "Zamasu, Serving Justice [EX22-03]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-03.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX22",
@@ -125,8 +128,8 @@
         "id": "EX22-04",
         "face": {
             "front": {
-                "name": "SS Rose Goku Black, Serving Justice",
-                "type": "Z_Deck",
+                "name": "SS Rose Goku Black, Serving Justice [EX22-04]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -134,12 +137,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Rose Goku Black, Serving Justice",
-        "Type": "Z-BATTLE",
+        "name": "SS Rose Goku Black, Serving Justice [EX22-04]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-04.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX22",
@@ -161,8 +165,8 @@
         "id": "EX22-05",
         "face": {
             "front": {
-                "name": "Fused Zamasu, Striving for Perfect Order",
-                "type": "Main_Deck",
+                "name": "Fused Zamasu, Striving for Perfect Order [EX22-05]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -170,12 +174,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fused Zamasu, Striving for Perfect Order",
-        "Type": "BATTLE",
+        "name": "Fused Zamasu, Striving for Perfect Order [EX22-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-05.webp",
         "Power": "25000",
         "Color": "Blue",
+        "cost": "7",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -199,8 +204,8 @@
         "id": "EX22-06",
         "face": {
             "front": {
-                "name": "Fused Zamasu, the Power of the Gods is Complete",
-                "type": "Main_Deck",
+                "name": "Fused Zamasu, the Power of the Gods is Complete [EX22-06]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -208,12 +213,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fused Zamasu, the Power of the Gods is Complete",
-        "Type": "BATTLE",
+        "name": "Fused Zamasu, the Power of the Gods is Complete [EX22-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-06.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -235,8 +241,8 @@
         "id": "EX22-07",
         "face": {
             "front": {
-                "name": "SS Rose Goku Black, Shining Illusion",
-                "type": "Main_Deck",
+                "name": "SS Rose Goku Black, Shining Illusion [EX22-07]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -244,12 +250,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Rose Goku Black, Shining Illusion",
-        "Type": "BATTLE",
+        "name": "SS Rose Goku Black, Shining Illusion [EX22-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-07.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -272,8 +279,8 @@
         "id": "EX22-08",
         "face": {
             "front": {
-                "name": "SS Rose Goku Black, Justice of Destruction",
-                "type": "Main_Deck",
+                "name": "SS Rose Goku Black, Justice of Destruction [EX22-08]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -281,12 +288,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Rose Goku Black, Justice of Destruction",
-        "Type": "BATTLE",
+        "name": "SS Rose Goku Black, Justice of Destruction [EX22-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-08.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -313,8 +321,8 @@
         "id": "EX22-08_PR",
         "face": {
             "front": {
-                "name": "SS Rose Goku Black, Justice of Destruction",
-                "type": "Main_Deck",
+                "name": "SS Rose Goku Black, Justice of Destruction [EX22-08]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -322,12 +330,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Rose Goku Black, Justice of Destruction",
-        "Type": "BATTLE",
+        "name": "SS Rose Goku Black, Justice of Destruction [EX22-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-08_PR.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -355,8 +364,8 @@
         "id": "EX22-09",
         "face": {
             "front": {
-                "name": "SS Rose Goku Black, Close Combat",
-                "type": "Main_Deck",
+                "name": "SS Rose Goku Black, Close Combat [EX22-09]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -364,12 +373,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Rose Goku Black, Close Combat",
-        "Type": "BATTLE",
+        "name": "SS Rose Goku Black, Close Combat [EX22-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-09.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -393,8 +403,8 @@
         "id": "EX22-10",
         "face": {
             "front": {
-                "name": "Goku Black, Fake Protagonist",
-                "type": "Main_Deck",
+                "name": "Goku Black, Fake Protagonist [EX22-10]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -402,12 +412,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Goku Black, Fake Protagonist",
-        "Type": "BATTLE",
+        "name": "Goku Black, Fake Protagonist [EX22-10]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-10.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "10000",
         "Series": "EX22",
@@ -428,8 +439,8 @@
         "id": "EX22-11",
         "face": {
             "front": {
-                "name": "Gowasu, Easygoing Watcher",
-                "type": "Main_Deck",
+                "name": "Gowasu, Easygoing Watcher [EX22-11]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -437,12 +448,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gowasu, Easygoing Watcher",
-        "Type": "BATTLE",
+        "name": "Gowasu, Easygoing Watcher [EX22-11]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-11.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -462,8 +474,8 @@
         "id": "EX22-12",
         "face": {
             "front": {
-                "name": "Zuno, Convergence of Knowledge",
-                "type": "Main_Deck",
+                "name": "Zuno, Convergence of Knowledge [EX22-12]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -471,12 +483,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Zuno, Convergence of Knowledge",
-        "Type": "BATTLE",
+        "name": "Zuno, Convergence of Knowledge [EX22-12]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-12.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX22",
@@ -496,8 +509,8 @@
         "id": "EX22-13",
         "face": {
             "front": {
-                "name": "Breaking a Taboo",
-                "type": "Main_Deck",
+                "name": "Breaking a Taboo [EX22-13]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -505,12 +518,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Breaking a Taboo",
-        "Type": "EXTRA",
+        "name": "Breaking a Taboo [EX22-13]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX22/EX22-13.webp",
         "Power": null,
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX22",

@@ -3,8 +3,8 @@
         "id": "SD10-01",
         "face": {
             "front": {
-                "name": "Baby Vegeta",
-                "type": "Leader",
+                "name": "Baby Vegeta [SD10-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Super Baby 2, Out for Revenge",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD10/SD10-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Baby Vegeta",
-        "Type": "LEADER",
+        "name": "Baby Vegeta [SD10-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD10/SD10-01.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD10",
@@ -50,8 +51,8 @@
         "id": "SD10-02",
         "face": {
             "front": {
-                "name": "SS3 Son Goku, the Last Straw",
-                "type": "Main_Deck",
+                "name": "SS3 Son Goku, the Last Straw [SD10-02]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -59,12 +60,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Son Goku, the Last Straw",
-        "Type": "BATTLE",
+        "name": "SS3 Son Goku, the Last Straw [SD10-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD10/SD10-02.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD10",
@@ -84,8 +86,8 @@
         "id": "SD10-02_PR",
         "face": {
             "front": {
-                "name": "SS3 Son Goku, the Last Straw",
-                "type": "Main_Deck",
+                "name": "SS3 Son Goku, the Last Straw [SD10-02]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -93,12 +95,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Son Goku, the Last Straw",
-        "Type": "BATTLE",
+        "name": "SS3 Son Goku, the Last Straw [SD10-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD10/SD10-02_PR.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD10",
@@ -118,8 +121,8 @@
         "id": "SD10-03",
         "face": {
             "front": {
-                "name": "Super Baby 1, the Conqueror",
-                "type": "Main_Deck",
+                "name": "Super Baby 1, the Conqueror [SD10-03]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -127,12 +130,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super Baby 1, the Conqueror",
-        "Type": "BATTLE",
+        "name": "Super Baby 1, the Conqueror [SD10-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD10/SD10-03.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD10",
@@ -154,8 +158,8 @@
         "id": "SD10-04",
         "face": {
             "front": {
-                "name": "Super Baby 2, Vengeful Rampage",
-                "type": "Main_Deck",
+                "name": "Super Baby 2, Vengeful Rampage [SD10-04]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -163,12 +167,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super Baby 2, Vengeful Rampage",
-        "Type": "BATTLE",
+        "name": "Super Baby 2, Vengeful Rampage [SD10-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD10/SD10-04.webp",
         "Power": "25000",
         "Color": "Red/Yellow",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD10",
@@ -194,8 +199,8 @@
         "id": "SD10-05",
         "face": {
             "front": {
-                "name": "Battle to the Death",
-                "type": "Main_Deck",
+                "name": "Battle to the Death [SD10-05]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -203,12 +208,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Battle to the Death",
-        "Type": "EXTRA",
+        "name": "Battle to the Death [SD10-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD10/SD10-05.webp",
         "Power": "",
         "Color": "Red/Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD10",

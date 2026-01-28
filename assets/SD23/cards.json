@@ -3,8 +3,8 @@
         "id": "SD23-01",
         "face": {
             "front": {
-                "name": "Son Goku & Vegeta",
-                "type": "Leader",
+                "name": "Son Goku & Vegeta [SD23-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "SSB Vegito, Shining Warrior",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku & Vegeta",
-        "Type": "LEADER",
+        "name": "Son Goku & Vegeta [SD23-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-01.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD23",
@@ -47,8 +48,8 @@
         "id": "SD23-01_PR",
         "face": {
             "front": {
-                "name": "Son Goku & Vegeta",
-                "type": "Leader",
+                "name": "Son Goku & Vegeta [SD23-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -57,19 +58,20 @@
             },
             "back": {
                 "name": "SSB Vegito, Shining Warrior",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku & Vegeta",
-        "Type": "LEADER",
+        "name": "Son Goku & Vegeta [SD23-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-01_PR.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD23",
@@ -91,8 +93,8 @@
         "id": "SD23-02",
         "face": {
             "front": {
-                "name": "SS Trunks, Guide From the Future",
-                "type": "Z_Deck",
+                "name": "SS Trunks, Guide From the Future [SD23-02]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -100,12 +102,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Trunks, Guide From the Future",
-        "Type": "Z-BATTLE",
+        "name": "SS Trunks, Guide From the Future [SD23-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-02.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD23",
@@ -128,8 +131,8 @@
         "id": "SD23-03",
         "face": {
             "front": {
-                "name": "Mai, Together With Trunks",
-                "type": "Z_Deck",
+                "name": "Mai, Together With Trunks [SD23-03]",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -137,12 +140,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mai, Together With Trunks",
-        "Type": "Z-BATTLE",
+        "name": "Mai, Together With Trunks [SD23-03]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-03.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD23",
@@ -163,8 +167,8 @@
         "id": "SD23-04",
         "face": {
             "front": {
-                "name": "Final Kamehameha",
-                "type": "Z_Deck",
+                "name": "Final Kamehameha [SD23-04]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -172,12 +176,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Final Kamehameha",
-        "Type": "Z-EXTRA",
+        "name": "Final Kamehameha [SD23-04]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-04.webp",
         "Power": null,
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD23",
@@ -193,8 +198,8 @@
         "id": "SD23-05",
         "face": {
             "front": {
-                "name": "Son Goku, Help Has Arrived",
-                "type": "Main_Deck",
+                "name": "Son Goku, Help Has Arrived [SD23-05]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -202,12 +207,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Help Has Arrived",
-        "Type": "BATTLE",
+        "name": "Son Goku, Help Has Arrived [SD23-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-05.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD23",
@@ -226,8 +232,8 @@
         "id": "SD23-06",
         "face": {
             "front": {
-                "name": "Vegeta, Help Has Arrived",
-                "type": "Main_Deck",
+                "name": "Vegeta, Help Has Arrived [SD23-06]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -235,12 +241,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Help Has Arrived",
-        "Type": "BATTLE",
+        "name": "Vegeta, Help Has Arrived [SD23-06]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-06.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD23",
@@ -259,8 +266,8 @@
         "id": "SD23-07",
         "face": {
             "front": {
-                "name": "SSB Vegito, Beyond Shining",
-                "type": "Main_Deck",
+                "name": "SSB Vegito, Beyond Shining [SD23-07]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -268,12 +275,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Vegito, Beyond Shining",
-        "Type": "BATTLE",
+        "name": "SSB Vegito, Beyond Shining [SD23-07]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD23/SD23-07.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD23",

@@ -3,8 +3,8 @@
         "id": "SD22-01",
         "face": {
             "front": {
-                "name": "Vegeta",
-                "type": "Leader",
+                "name": "Vegeta [SD22-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "SS Vegeta, Fighting Instincts",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta",
-        "Type": "LEADER",
+        "name": "Vegeta [SD22-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-01.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD22",
@@ -48,8 +49,8 @@
         "id": "SD22-01_PR",
         "face": {
             "front": {
-                "name": "Vegeta",
-                "type": "Leader",
+                "name": "Vegeta [SD22-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -58,19 +59,20 @@
             },
             "back": {
                 "name": "SS Vegeta, Fighting Instincts",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta",
-        "Type": "LEADER",
+        "name": "Vegeta [SD22-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-01_PR.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD22",
@@ -90,8 +92,8 @@
         "id": "SD22-02",
         "face": {
             "front": {
-                "name": "Prince of Destruction Vegeta, Emotions Unleashed",
-                "type": "Z_Deck",
+                "name": "Prince of Destruction Vegeta, Emotions Unleashed [SD22-02]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "20000",
                 "Energy_cost": null,
@@ -99,12 +101,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Prince of Destruction Vegeta, Emotions Unleashed",
-        "Type": "Z-LEADER",
+        "name": "Prince of Destruction Vegeta, Emotions Unleashed [SD22-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-02.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD22",
@@ -129,8 +132,8 @@
         "id": "SD22-03",
         "face": {
             "front": {
-                "name": "SS2 Son Goku, Overflowing Aura",
-                "type": "Z_Deck",
+                "name": "SS2 Son Goku, Overflowing Aura [SD22-03]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -138,12 +141,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS2 Son Goku, Overflowing Aura",
-        "Type": "Z-BATTLE",
+        "name": "SS2 Son Goku, Overflowing Aura [SD22-03]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-03.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD22",
@@ -164,8 +168,8 @@
         "id": "SD22-04",
         "face": {
             "front": {
-                "name": "Majin Buu, Despair's Revival",
-                "type": "Z_Deck",
+                "name": "Majin Buu, Despair's Revival [SD22-04]",
+                "type": "Z-BATTLE",
                 "cost": "3",
                 "power": "19000",
                 "Energy_cost": "3",
@@ -173,12 +177,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu, Despair's Revival",
-        "Type": "Z-BATTLE",
+        "name": "Majin Buu, Despair's Revival [SD22-04]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-04.webp",
         "Power": "19000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD22",
@@ -202,8 +207,8 @@
         "id": "SD22-05",
         "face": {
             "front": {
-                "name": "SS2 Son Goku, Destined Battle",
-                "type": "Main_Deck",
+                "name": "SS2 Son Goku, Destined Battle [SD22-05]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "19000",
                 "Energy_cost": "4",
@@ -211,12 +216,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS2 Son Goku, Destined Battle",
-        "Type": "BATTLE",
+        "name": "SS2 Son Goku, Destined Battle [SD22-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-05.webp",
         "Power": "19000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD22",
@@ -239,8 +245,8 @@
         "id": "SD22-06",
         "face": {
             "front": {
-                "name": "Prince of Destruction Vegeta, Destined Battle",
-                "type": "Main_Deck",
+                "name": "Prince of Destruction Vegeta, Destined Battle [SD22-06]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -248,12 +254,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Prince of Destruction Vegeta, Destined Battle",
-        "Type": "BATTLE",
+        "name": "Prince of Destruction Vegeta, Destined Battle [SD22-06]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-06.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD22",
@@ -276,8 +283,8 @@
         "id": "SD22-06_PR",
         "face": {
             "front": {
-                "name": "Prince of Destruction Vegeta, Destined Battle",
-                "type": "Main_Deck",
+                "name": "Prince of Destruction Vegeta, Destined Battle [SD22-06]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -285,12 +292,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Prince of Destruction Vegeta, Destined Battle",
-        "Type": "BATTLE",
+        "name": "Prince of Destruction Vegeta, Destined Battle [SD22-06]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-06_PR.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD22",
@@ -313,8 +321,8 @@
         "id": "SD22-07",
         "face": {
             "front": {
-                "name": "Trunks, Rambunctious Son",
-                "type": "Main_Deck",
+                "name": "Trunks, Rambunctious Son [SD22-07]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -322,12 +330,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Trunks, Rambunctious Son",
-        "Type": "BATTLE",
+        "name": "Trunks, Rambunctious Son [SD22-07]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD22/SD22-07.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD22",

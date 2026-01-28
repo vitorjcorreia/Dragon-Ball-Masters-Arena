@@ -3,8 +3,8 @@
         "id": "BT28-001",
         "face": {
             "front": {
-                "name": "Son Gohan",
-                "type": "Leader",
+                "name": "Son Gohan [BT28-001]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Son Gohan, Protecting the Weak",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-001_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan",
-        "Type": "LEADER",
+        "name": "Son Gohan [BT28-001]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-001.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -46,8 +47,8 @@
         "id": "BT28-001_PR",
         "face": {
             "front": {
-                "name": "Son Gohan",
-                "type": "Leader",
+                "name": "Son Gohan [BT28-001]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -56,19 +57,20 @@
             },
             "back": {
                 "name": "Son Gohan, Protecting the Weak",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-001_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan",
-        "Type": "LEADER",
+        "name": "Son Gohan [BT28-001]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-001_PR.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -89,8 +91,8 @@
         "id": "BT28-002",
         "face": {
             "front": {
-                "name": "Dragon Ball",
-                "type": "Leader",
+                "name": "Dragon Ball [BT28-002]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -99,19 +101,20 @@
             },
             "back": {
                 "name": "Porunga, Wish Dragon",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-002_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Dragon Ball",
-        "Type": "LEADER",
+        "name": "Dragon Ball [BT28-002]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-002.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -134,8 +137,8 @@
         "id": "BT28-002_PR",
         "face": {
             "front": {
-                "name": "Dragon Ball",
-                "type": "Leader",
+                "name": "Dragon Ball [BT28-002]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -144,19 +147,20 @@
             },
             "back": {
                 "name": "Porunga, Wish Dragon",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-002_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Dragon Ball",
-        "Type": "LEADER",
+        "name": "Dragon Ball [BT28-002]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-002_PR.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -179,8 +183,8 @@
         "id": "BT28-003",
         "face": {
             "front": {
-                "name": "Frieza, Unrestricted Power",
-                "type": "Z_Deck",
+                "name": "Frieza, Unrestricted Power [BT28-003]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -188,12 +192,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Unrestricted Power",
-        "Type": "Z-BATTLE",
+        "name": "Frieza, Unrestricted Power [BT28-003]",
+        "type": "Z_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-003.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -217,8 +222,8 @@
         "id": "BT28-004",
         "face": {
             "front": {
-                "name": "Frieza's Army Invades",
-                "type": "Z_Deck",
+                "name": "Frieza's Army Invades [BT28-004]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -226,12 +231,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Frieza's Army Invades",
-        "Type": "Z-EXTRA",
+        "name": "Frieza's Army Invades [BT28-004]",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-004.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -247,8 +253,8 @@
         "id": "BT28-005",
         "face": {
             "front": {
-                "name": "Son Goku, Arrival of the Hero",
-                "type": "Main_Deck",
+                "name": "Son Goku, Arrival of the Hero [BT28-005]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "30000",
                 "Energy_cost": "6",
@@ -256,12 +262,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Arrival of the Hero",
-        "Type": "BATTLE",
+        "name": "Son Goku, Arrival of the Hero [BT28-005]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-005.webp",
         "Power": "30000",
         "Color": "Red",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -282,8 +289,8 @@
         "id": "BT28-006",
         "face": {
             "front": {
-                "name": "Son Gohan, Surprise Move",
-                "type": "Main_Deck",
+                "name": "Son Gohan, Surprise Move [BT28-006]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -291,12 +298,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Surprise Move",
-        "Type": "BATTLE",
+        "name": "Son Gohan, Surprise Move [BT28-006]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-006.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -319,8 +327,8 @@
         "id": "BT28-007",
         "face": {
             "front": {
-                "name": "Son Gohan, Hit & Away",
-                "type": "Main_Deck",
+                "name": "Son Gohan, Hit & Away [BT28-007]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -328,12 +336,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Hit & Away",
-        "Type": "BATTLE",
+        "name": "Son Gohan, Hit & Away [BT28-007]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-007.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -356,8 +365,8 @@
         "id": "BT28-008",
         "face": {
             "front": {
-                "name": "Son Gohan, Distraction",
-                "type": "Main_Deck",
+                "name": "Son Gohan, Distraction [BT28-008]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -365,12 +374,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Distraction",
-        "Type": "BATTLE",
+        "name": "Son Gohan, Distraction [BT28-008]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-008.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -393,8 +403,8 @@
         "id": "BT28-009",
         "face": {
             "front": {
-                "name": "Vegeta, Taking Over",
-                "type": "Main_Deck",
+                "name": "Vegeta, Taking Over [BT28-009]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -402,12 +412,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Taking Over",
-        "Type": "BATTLE",
+        "name": "Vegeta, Taking Over [BT28-009]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-009.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -428,8 +439,8 @@
         "id": "BT28-010",
         "face": {
             "front": {
-                "name": "Vegeta, Hit & Away",
-                "type": "Main_Deck",
+                "name": "Vegeta, Hit & Away [BT28-010]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "10000",
                 "Energy_cost": "4",
@@ -437,12 +448,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Hit & Away",
-        "Type": "BATTLE",
+        "name": "Vegeta, Hit & Away [BT28-010]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-010.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -464,8 +476,8 @@
         "id": "BT28-011",
         "face": {
             "front": {
-                "name": "Piccolo, Surging Power",
-                "type": "Main_Deck",
+                "name": "Piccolo, Surging Power [BT28-011]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -473,12 +485,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo, Surging Power",
-        "Type": "BATTLE",
+        "name": "Piccolo, Surging Power [BT28-011]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-011.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -499,8 +512,8 @@
         "id": "BT28-012",
         "face": {
             "front": {
-                "name": "Piccolo, Revival",
-                "type": "Main_Deck",
+                "name": "Piccolo, Revival [BT28-012]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -508,12 +521,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo, Revival",
-        "Type": "BATTLE",
+        "name": "Piccolo, Revival [BT28-012]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-012.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -534,8 +548,8 @@
         "id": "BT28-012_SPR",
         "face": {
             "front": {
-                "name": "Piccolo, Revival",
-                "type": "Main_Deck",
+                "name": "Piccolo, Revival [BT28-012]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -543,12 +557,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo, Revival",
-        "Type": "BATTLE",
+        "name": "Piccolo, Revival [BT28-012]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-012_SPR.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -569,8 +584,8 @@
         "id": "BT28-013",
         "face": {
             "front": {
-                "name": "Krillin, Surprise Move",
-                "type": "Main_Deck",
+                "name": "Krillin, Surprise Move [BT28-013]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -578,12 +593,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Krillin, Surprise Move",
-        "Type": "BATTLE",
+        "name": "Krillin, Surprise Move [BT28-013]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-013.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -605,8 +621,8 @@
         "id": "BT28-014",
         "face": {
             "front": {
-                "name": "Krillin, Diversion",
-                "type": "Main_Deck",
+                "name": "Krillin, Diversion [BT28-014]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -614,12 +630,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Krillin, Diversion",
-        "Type": "BATTLE",
+        "name": "Krillin, Diversion [BT28-014]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-014.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -641,8 +658,8 @@
         "id": "BT28-015",
         "face": {
             "front": {
-                "name": "Krillin, Hit & Away",
-                "type": "Main_Deck",
+                "name": "Krillin, Hit & Away [BT28-015]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -650,12 +667,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Krillin, Hit & Away",
-        "Type": "BATTLE",
+        "name": "Krillin, Hit & Away [BT28-015]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-015.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -676,8 +694,8 @@
         "id": "BT28-016",
         "face": {
             "front": {
-                "name": "Dende, Healing",
-                "type": "Main_Deck",
+                "name": "Dende, Healing [BT28-016]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -685,12 +703,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dende, Healing",
-        "Type": "BATTLE",
+        "name": "Dende, Healing [BT28-016]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-016.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -711,8 +730,8 @@
         "id": "BT28-017",
         "face": {
             "front": {
-                "name": "Nail, Warfare",
-                "type": "Main_Deck",
+                "name": "Nail, Warfare [BT28-017]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -720,12 +739,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Nail, Warfare",
-        "Type": "BATTLE",
+        "name": "Nail, Warfare [BT28-017]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-017.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -745,8 +765,8 @@
         "id": "BT28-018",
         "face": {
             "front": {
-                "name": "Nail, Planetary Guardian",
-                "type": "Main_Deck",
+                "name": "Nail, Planetary Guardian [BT28-018]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -754,12 +774,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Nail, Planetary Guardian",
-        "Type": "BATTLE",
+        "name": "Nail, Planetary Guardian [BT28-018]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-018.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -782,8 +803,8 @@
         "id": "BT28-019",
         "face": {
             "front": {
-                "name": "Guru, Drawing Power",
-                "type": "Main_Deck",
+                "name": "Guru, Drawing Power [BT28-019]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -791,12 +812,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Guru, Drawing Power",
-        "Type": "BATTLE",
+        "name": "Guru, Drawing Power [BT28-019]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-019.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -817,8 +839,8 @@
         "id": "BT28-020",
         "face": {
             "front": {
-                "name": "Frieza, Military Boss",
-                "type": "Main_Deck",
+                "name": "Frieza, Military Boss [BT28-020]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "30000",
                 "Energy_cost": "6",
@@ -826,12 +848,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Military Boss",
-        "Type": "BATTLE",
+        "name": "Frieza, Military Boss [BT28-020]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-020.webp",
         "Power": "30000",
         "Color": "Red",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -855,8 +878,8 @@
         "id": "BT28-021",
         "face": {
             "front": {
-                "name": "Zarbon, Warfare",
-                "type": "Main_Deck",
+                "name": "Zarbon, Warfare [BT28-021]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -864,12 +887,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Zarbon, Warfare",
-        "Type": "BATTLE",
+        "name": "Zarbon, Warfare [BT28-021]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-021.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -892,8 +916,8 @@
         "id": "BT28-022",
         "face": {
             "front": {
-                "name": "Dodoria, Warfare",
-                "type": "Main_Deck",
+                "name": "Dodoria, Warfare [BT28-022]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -901,12 +925,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dodoria, Warfare",
-        "Type": "BATTLE",
+        "name": "Dodoria, Warfare [BT28-022]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-022.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -927,8 +952,8 @@
         "id": "BT28-023",
         "face": {
             "front": {
-                "name": "Scouter Destroyed",
-                "type": "Main_Deck",
+                "name": "Scouter Destroyed [BT28-023]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -936,12 +961,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Scouter Destroyed",
-        "Type": "EXTRA",
+        "name": "Scouter Destroyed [BT28-023]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-023.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -957,8 +983,8 @@
         "id": "BT28-024",
         "face": {
             "front": {
-                "name": "Costume Change",
-                "type": "Main_Deck",
+                "name": "Costume Change [BT28-024]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -966,12 +992,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Costume Change",
-        "Type": "EXTRA",
+        "name": "Costume Change [BT28-024]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-024.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -991,8 +1018,8 @@
         "id": "BT28-025",
         "face": {
             "front": {
-                "name": "Destructo Disk",
-                "type": "Main_Deck",
+                "name": "Destructo Disk [BT28-025]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1000,12 +1027,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Destructo Disk",
-        "Type": "EXTRA",
+        "name": "Destructo Disk [BT28-025]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-025.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1022,8 +1050,8 @@
         "id": "BT28-026",
         "face": {
             "front": {
-                "name": "Namekian Residence",
-                "type": "Main_Deck",
+                "name": "Namekian Residence [BT28-026]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1031,12 +1059,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Namekian Residence",
-        "Type": "EXTRA",
+        "name": "Namekian Residence [BT28-026]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-026.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1054,8 +1083,8 @@
         "id": "BT28-027",
         "face": {
             "front": {
-                "name": "God of Dreams Dragon Ball",
-                "type": "Main_Deck",
+                "name": "God of Dreams Dragon Ball [BT28-027]",
+                "type": "EXTRA",
                 "cost": "0",
                 "power": "",
                 "Energy_cost": "0",
@@ -1063,12 +1092,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "God of Dreams Dragon Ball",
-        "Type": "EXTRA",
+        "name": "God of Dreams Dragon Ball [BT28-027]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-027.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "0",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1086,8 +1116,8 @@
         "id": "BT28-027_SPR",
         "face": {
             "front": {
-                "name": "God of Dreams Dragon Ball",
-                "type": "Main_Deck",
+                "name": "God of Dreams Dragon Ball [BT28-027]",
+                "type": "EXTRA",
                 "cost": "0",
                 "power": "",
                 "Energy_cost": "0",
@@ -1095,12 +1125,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "God of Dreams Dragon Ball",
-        "Type": "EXTRA",
+        "name": "God of Dreams Dragon Ball [BT28-027]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-027_SPR.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "0",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1118,8 +1149,8 @@
         "id": "BT28-028",
         "face": {
             "front": {
-                "name": "Son Goku (Mini)",
-                "type": "Leader",
+                "name": "Son Goku (Mini) [BT28-028]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1128,19 +1159,20 @@
             },
             "back": {
                 "name": "SS Son Goku (Mini), New Adventure",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-028_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku (Mini)",
-        "Type": "LEADER",
+        "name": "Son Goku (Mini) [BT28-028]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-028.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1164,8 +1196,8 @@
         "id": "BT28-028_PR",
         "face": {
             "front": {
-                "name": "Son Goku (Mini)",
-                "type": "Leader",
+                "name": "Son Goku (Mini) [BT28-028]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1174,19 +1206,20 @@
             },
             "back": {
                 "name": "SS Son Goku (Mini), New Adventure",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-028_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku (Mini)",
-        "Type": "LEADER",
+        "name": "Son Goku (Mini) [BT28-028]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-028_PR.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1210,8 +1243,8 @@
         "id": "BT28-029",
         "face": {
             "front": {
-                "name": "Dr. Arinsu",
-                "type": "Leader",
+                "name": "Dr. Arinsu [BT28-029]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1220,19 +1253,20 @@
             },
             "back": {
                 "name": "Dr. Arinsu, Concocting Schemes",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-029_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Arinsu",
-        "Type": "LEADER",
+        "name": "Dr. Arinsu [BT28-029]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-029.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1255,8 +1289,8 @@
         "id": "BT28-029_PR",
         "face": {
             "front": {
-                "name": "Dr. Arinsu",
-                "type": "Leader",
+                "name": "Dr. Arinsu [BT28-029]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1265,19 +1299,20 @@
             },
             "back": {
                 "name": "Dr. Arinsu, Concocting Schemes",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-029_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Arinsu",
-        "Type": "LEADER",
+        "name": "Dr. Arinsu [BT28-029]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-029_PR.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1300,8 +1335,8 @@
         "id": "BT28-030",
         "face": {
             "front": {
-                "name": "King Gomah, Power of the Evil Third Eye",
-                "type": "Z_Deck",
+                "name": "King Gomah, Power of the Evil Third Eye [BT28-030]",
+                "type": "Z-BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -1309,12 +1344,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "King Gomah, Power of the Evil Third Eye",
-        "Type": "Z-BATTLE",
+        "name": "King Gomah, Power of the Evil Third Eye [BT28-030]",
+        "type": "Z_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-030.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1336,8 +1372,8 @@
         "id": "BT28-031",
         "face": {
             "front": {
-                "name": "Supreme Kai, Accompanying",
-                "type": "Main_Deck",
+                "name": "Supreme Kai, Accompanying [BT28-031]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -1345,12 +1381,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Supreme Kai, Accompanying",
-        "Type": "UNISON",
+        "name": "Supreme Kai, Accompanying [BT28-031]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-031.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "X",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1368,8 +1405,8 @@
         "id": "BT28-032",
         "face": {
             "front": {
-                "name": "Glorio, Accompanying",
-                "type": "Main_Deck",
+                "name": "Glorio, Accompanying [BT28-032]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -1377,12 +1414,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Glorio, Accompanying",
-        "Type": "UNISON",
+        "name": "Glorio, Accompanying [BT28-032]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-032.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "X",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -1400,8 +1438,8 @@
         "id": "BT28-033",
         "face": {
             "front": {
-                "name": "SS3 Son Goku (Mini), New Power",
-                "type": "Main_Deck",
+                "name": "SS3 Son Goku (Mini), New Power [BT28-033]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "30000",
                 "Energy_cost": "5",
@@ -1409,12 +1447,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Son Goku (Mini), New Power",
-        "Type": "BATTLE",
+        "name": "SS3 Son Goku (Mini), New Power [BT28-033]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-033.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1441,8 +1480,8 @@
         "id": "BT28-034",
         "face": {
             "front": {
-                "name": "SS3 Vegeta (Mini), New Power",
-                "type": "Main_Deck",
+                "name": "SS3 Vegeta (Mini), New Power [BT28-034]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "30000",
                 "Energy_cost": "5",
@@ -1450,12 +1489,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Vegeta (Mini), New Power",
-        "Type": "BATTLE",
+        "name": "SS3 Vegeta (Mini), New Power [BT28-034]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-034.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1480,8 +1520,8 @@
         "id": "BT28-035",
         "face": {
             "front": {
-                "name": "SS Vegeta (Mini), New World",
-                "type": "Main_Deck",
+                "name": "SS Vegeta (Mini), New World [BT28-035]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -1489,12 +1529,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Vegeta (Mini), New World",
-        "Type": "BATTLE",
+        "name": "SS Vegeta (Mini), New World [BT28-035]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-035.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1516,8 +1557,8 @@
         "id": "BT28-036",
         "face": {
             "front": {
-                "name": "Piccolo (Mini), New World",
-                "type": "Main_Deck",
+                "name": "Piccolo (Mini), New World [BT28-036]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -1525,12 +1566,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo (Mini), New World",
-        "Type": "BATTLE",
+        "name": "Piccolo (Mini), New World [BT28-036]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-036.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1553,8 +1595,8 @@
         "id": "BT28-037",
         "face": {
             "front": {
-                "name": "Bulma (Mini), New World",
-                "type": "Main_Deck",
+                "name": "Bulma (Mini), New World [BT28-037]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -1562,12 +1604,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Bulma (Mini), New World",
-        "Type": "BATTLE",
+        "name": "Bulma (Mini), New World [BT28-037]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-037.webp",
         "Power": "1000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1589,8 +1632,8 @@
         "id": "BT28-038",
         "face": {
             "front": {
-                "name": "Dende (Mini), New World",
-                "type": "Main_Deck",
+                "name": "Dende (Mini), New World [BT28-038]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -1598,12 +1641,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dende (Mini), New World",
-        "Type": "BATTLE",
+        "name": "Dende (Mini), New World [BT28-038]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-038.webp",
         "Power": "1000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1626,8 +1670,8 @@
         "id": "BT28-039",
         "face": {
             "front": {
-                "name": "Panzy, New Comrade",
-                "type": "Main_Deck",
+                "name": "Panzy, New Comrade [BT28-039]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "19000",
                 "Energy_cost": "2",
@@ -1635,12 +1679,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Panzy, New Comrade",
-        "Type": "BATTLE",
+        "name": "Panzy, New Comrade [BT28-039]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-039.webp",
         "Power": "19000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1663,8 +1708,8 @@
         "id": "BT28-039_SPR",
         "face": {
             "front": {
-                "name": "Panzy, New Comrade",
-                "type": "Main_Deck",
+                "name": "Panzy, New Comrade [BT28-039]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "19000",
                 "Energy_cost": "2",
@@ -1672,12 +1717,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Panzy, New Comrade",
-        "Type": "BATTLE",
+        "name": "Panzy, New Comrade [BT28-039]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-039_SPR.webp",
         "Power": "19000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1700,8 +1746,8 @@
         "id": "BT28-040",
         "face": {
             "front": {
-                "name": "Glorio, New Comrade",
-                "type": "Main_Deck",
+                "name": "Glorio, New Comrade [BT28-040]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "19000",
                 "Energy_cost": "3",
@@ -1709,12 +1755,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Glorio, New Comrade",
-        "Type": "BATTLE",
+        "name": "Glorio, New Comrade [BT28-040]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-040.webp",
         "Power": "19000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1738,8 +1785,8 @@
         "id": "BT28-040_SPR",
         "face": {
             "front": {
-                "name": "Glorio, New Comrade",
-                "type": "Main_Deck",
+                "name": "Glorio, New Comrade [BT28-040]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "19000",
                 "Energy_cost": "3",
@@ -1747,12 +1794,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Glorio, New Comrade",
-        "Type": "BATTLE",
+        "name": "Glorio, New Comrade [BT28-040]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-040_SPR.webp",
         "Power": "19000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1776,8 +1824,8 @@
         "id": "BT28-041",
         "face": {
             "front": {
-                "name": "Glorio, Demon World Guide",
-                "type": "Main_Deck",
+                "name": "Glorio, Demon World Guide [BT28-041]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -1785,12 +1833,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Glorio, Demon World Guide",
-        "Type": "BATTLE",
+        "name": "Glorio, Demon World Guide [BT28-041]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-041.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -1811,8 +1860,8 @@
         "id": "BT28-042",
         "face": {
             "front": {
-                "name": "Dr. Arinsu, Science Ambitions",
-                "type": "Main_Deck",
+                "name": "Dr. Arinsu, Science Ambitions [BT28-042]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1820,12 +1869,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Arinsu, Science Ambitions",
-        "Type": "BATTLE",
+        "name": "Dr. Arinsu, Science Ambitions [BT28-042]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-042.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1848,8 +1898,8 @@
         "id": "BT28-043",
         "face": {
             "front": {
-                "name": "Majin Duu, Battle Mode",
-                "type": "Main_Deck",
+                "name": "Majin Duu, Battle Mode [BT28-043]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -1857,12 +1907,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Duu, Battle Mode",
-        "Type": "BATTLE",
+        "name": "Majin Duu, Battle Mode [BT28-043]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-043.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1882,8 +1933,8 @@
         "id": "BT28-044",
         "face": {
             "front": {
-                "name": "Majin Duu, Created by a Witch",
-                "type": "Main_Deck",
+                "name": "Majin Duu, Created by a Witch [BT28-044]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -1891,12 +1942,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Duu, Created by a Witch",
-        "Type": "BATTLE",
+        "name": "Majin Duu, Created by a Witch [BT28-044]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-044.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1920,8 +1972,8 @@
         "id": "BT28-045",
         "face": {
             "front": {
-                "name": "Majin Kuu, Battle Mode",
-                "type": "Main_Deck",
+                "name": "Majin Kuu, Battle Mode [BT28-045]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -1929,12 +1981,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Kuu, Battle Mode",
-        "Type": "BATTLE",
+        "name": "Majin Kuu, Battle Mode [BT28-045]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-045.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1956,8 +2009,8 @@
         "id": "BT28-046",
         "face": {
             "front": {
-                "name": "Majin Kuu, Created by a Witch",
-                "type": "Main_Deck",
+                "name": "Majin Kuu, Created by a Witch [BT28-046]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -1965,12 +2018,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Kuu, Created by a Witch",
-        "Type": "BATTLE",
+        "name": "Majin Kuu, Created by a Witch [BT28-046]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-046.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -1994,8 +2048,8 @@
         "id": "BT28-047",
         "face": {
             "front": {
-                "name": "Marba, Great Witch",
-                "type": "Main_Deck",
+                "name": "Marba, Great Witch [BT28-047]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "30000",
                 "Energy_cost": "3",
@@ -2003,12 +2057,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Marba, Great Witch",
-        "Type": "BATTLE",
+        "name": "Marba, Great Witch [BT28-047]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-047.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2025,8 +2080,8 @@
         "id": "BT28-048",
         "face": {
             "front": {
-                "name": "Tamagami Number One, Protector",
-                "type": "Main_Deck",
+                "name": "Tamagami Number One, Protector [BT28-048]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "30000",
                 "Energy_cost": "6",
@@ -2034,12 +2089,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tamagami Number One, Protector",
-        "Type": "BATTLE",
+        "name": "Tamagami Number One, Protector [BT28-048]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-048.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2061,8 +2117,8 @@
         "id": "BT28-049",
         "face": {
             "front": {
-                "name": "Tamagami Number Two, Protector",
-                "type": "Main_Deck",
+                "name": "Tamagami Number Two, Protector [BT28-049]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "30000",
                 "Energy_cost": "6",
@@ -2070,12 +2126,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tamagami Number Two, Protector",
-        "Type": "BATTLE",
+        "name": "Tamagami Number Two, Protector [BT28-049]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-049.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2096,8 +2153,8 @@
         "id": "BT28-050",
         "face": {
             "front": {
-                "name": "Tamagami Number Three, Protector",
-                "type": "Main_Deck",
+                "name": "Tamagami Number Three, Protector [BT28-050]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "30000",
                 "Energy_cost": "6",
@@ -2105,12 +2162,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tamagami Number Three, Protector",
-        "Type": "BATTLE",
+        "name": "Tamagami Number Three, Protector [BT28-050]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-050.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2131,8 +2189,8 @@
         "id": "BT28-051",
         "face": {
             "front": {
-                "name": "King Gomah, Ruler of the First Demon World",
-                "type": "Main_Deck",
+                "name": "King Gomah, Ruler of the First Demon World [BT28-051]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -2140,12 +2198,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "King Gomah, Ruler of the First Demon World",
-        "Type": "BATTLE",
+        "name": "King Gomah, Ruler of the First Demon World [BT28-051]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-051.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2167,8 +2226,8 @@
         "id": "BT28-051_SPR",
         "face": {
             "front": {
-                "name": "King Gomah, Ruler of the First Demon World",
-                "type": "Main_Deck",
+                "name": "King Gomah, Ruler of the First Demon World [BT28-051]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -2176,12 +2235,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "King Gomah, Ruler of the First Demon World",
-        "Type": "BATTLE",
+        "name": "King Gomah, Ruler of the First Demon World [BT28-051]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-051_SPR.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2203,8 +2263,8 @@
         "id": "BT28-052",
         "face": {
             "front": {
-                "name": "Degesu, Demon King's Right-Hand Man",
-                "type": "Main_Deck",
+                "name": "Degesu, Demon King's Right-Hand Man [BT28-052]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -2212,12 +2272,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Degesu, Demon King's Right-Hand Man",
-        "Type": "BATTLE",
+        "name": "Degesu, Demon King's Right-Hand Man [BT28-052]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-052.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2240,8 +2301,8 @@
         "id": "BT28-053",
         "face": {
             "front": {
-                "name": "Dabura's Spit",
-                "type": "Main_Deck",
+                "name": "Dabura's Spit [BT28-053]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -2249,12 +2310,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dabura's Spit",
-        "Type": "EXTRA",
+        "name": "Dabura's Spit [BT28-053]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-053.webp",
         "Power": "",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2271,8 +2333,8 @@
         "id": "BT28-054",
         "face": {
             "front": {
-                "name": "Hidden Innate Ability",
-                "type": "Main_Deck",
+                "name": "Hidden Innate Ability [BT28-054]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": "",
                 "Energy_cost": "4",
@@ -2280,12 +2342,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Innate Ability",
-        "Type": "EXTRA",
+        "name": "Hidden Innate Ability [BT28-054]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-054.webp",
         "Power": "",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2302,8 +2365,8 @@
         "id": "BT28-055",
         "face": {
             "front": {
-                "name": "Chi-Chi",
-                "type": "Leader",
+                "name": "Chi-Chi [BT28-055]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2312,19 +2375,20 @@
             },
             "back": {
                 "name": "Chi-Chi, Maiden Spirit",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-055_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Chi-Chi",
-        "Type": "LEADER",
+        "name": "Chi-Chi [BT28-055]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-055.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2348,8 +2412,8 @@
         "id": "BT28-055_PR",
         "face": {
             "front": {
-                "name": "Chi-Chi",
-                "type": "Leader",
+                "name": "Chi-Chi [BT28-055]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2358,19 +2422,20 @@
             },
             "back": {
                 "name": "Chi-Chi, Maiden Spirit",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-055_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Chi-Chi",
-        "Type": "LEADER",
+        "name": "Chi-Chi [BT28-055]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-055_PR.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2394,8 +2459,8 @@
         "id": "BT28-056",
         "face": {
             "front": {
-                "name": "Tien Shinhan",
-                "type": "Leader",
+                "name": "Tien Shinhan [BT28-056]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2404,19 +2469,20 @@
             },
             "back": {
                 "name": "Tien Shinhan, Return of the Mysterious Technique",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-056_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan",
-        "Type": "LEADER",
+        "name": "Tien Shinhan [BT28-056]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-056.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2440,8 +2506,8 @@
         "id": "BT28-056_PR",
         "face": {
             "front": {
-                "name": "Tien Shinhan",
-                "type": "Leader",
+                "name": "Tien Shinhan [BT28-056]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2450,19 +2516,20 @@
             },
             "back": {
                 "name": "Tien Shinhan, Return of the Mysterious Technique",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-056_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan",
-        "Type": "LEADER",
+        "name": "Tien Shinhan [BT28-056]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-056_PR.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2486,8 +2553,8 @@
         "id": "BT28-057",
         "face": {
             "front": {
-                "name": "Multi-Form",
-                "type": "Z_Deck",
+                "name": "Multi-Form [BT28-057]",
+                "type": "Z-EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -2495,12 +2562,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Multi-Form",
-        "Type": "Z-EXTRA",
+        "name": "Multi-Form [BT28-057]",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-057.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2516,8 +2584,8 @@
         "id": "BT28-058",
         "face": {
             "front": {
-                "name": "Annin, Keeper of the Furnace of Eight Divisions",
-                "type": "Main_Deck",
+                "name": "Annin, Keeper of the Furnace of Eight Divisions [BT28-058]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -2525,12 +2593,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Annin, Keeper of the Furnace of Eight Divisions",
-        "Type": "UNISON",
+        "name": "Annin, Keeper of the Furnace of Eight Divisions [BT28-058]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-058.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "X",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -2549,8 +2618,8 @@
         "id": "BT28-059",
         "face": {
             "front": {
-                "name": "Son Goku, Sudden Promise",
-                "type": "Main_Deck",
+                "name": "Son Goku, Sudden Promise [BT28-059]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -2558,12 +2627,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Sudden Promise",
-        "Type": "BATTLE",
+        "name": "Son Goku, Sudden Promise [BT28-059]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-059.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2585,8 +2655,8 @@
         "id": "BT28-060",
         "face": {
             "front": {
-                "name": "Chi-Chi, Exchanged Promises",
-                "type": "Main_Deck",
+                "name": "Chi-Chi, Exchanged Promises [BT28-060]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -2594,12 +2664,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chi-Chi, Exchanged Promises",
-        "Type": "BATTLE",
+        "name": "Chi-Chi, Exchanged Promises [BT28-060]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-060.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2620,8 +2691,8 @@
         "id": "BT28-061",
         "face": {
             "front": {
-                "name": "Son Goku, Rematch Start",
-                "type": "Main_Deck",
+                "name": "Son Goku, Rematch Start [BT28-061]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -2629,12 +2700,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Rematch Start",
-        "Type": "BATTLE",
+        "name": "Son Goku, Rematch Start [BT28-061]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-061.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2657,8 +2729,8 @@
         "id": "BT28-062",
         "face": {
             "front": {
-                "name": "Piccolo Jr., Return of the Great Demon King",
-                "type": "Main_Deck",
+                "name": "Piccolo Jr., Return of the Great Demon King [BT28-062]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2666,12 +2738,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo Jr., Return of the Great Demon King",
-        "Type": "BATTLE",
+        "name": "Piccolo Jr., Return of the Great Demon King [BT28-062]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-062.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2694,8 +2767,8 @@
         "id": "BT28-063",
         "face": {
             "front": {
-                "name": "Tien Shinhan, Another Tough Battle",
-                "type": "Main_Deck",
+                "name": "Tien Shinhan, Another Tough Battle [BT28-063]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -2703,12 +2776,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan, Another Tough Battle",
-        "Type": "BATTLE",
+        "name": "Tien Shinhan, Another Tough Battle [BT28-063]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-063.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2732,8 +2806,8 @@
         "id": "BT28-064",
         "face": {
             "front": {
-                "name": "Tien Shinhan, Fast Fighting",
-                "type": "Main_Deck",
+                "name": "Tien Shinhan, Fast Fighting [BT28-064]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2741,12 +2815,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan, Fast Fighting",
-        "Type": "BATTLE",
+        "name": "Tien Shinhan, Fast Fighting [BT28-064]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-064.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2768,8 +2843,8 @@
         "id": "BT28-065",
         "face": {
             "front": {
-                "name": "Tien Shinhan, Artful Fighting Technique",
-                "type": "Main_Deck",
+                "name": "Tien Shinhan, Artful Fighting Technique [BT28-065]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2777,12 +2852,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan, Artful Fighting Technique",
-        "Type": "BATTLE",
+        "name": "Tien Shinhan, Artful Fighting Technique [BT28-065]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-065.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2806,8 +2882,8 @@
         "id": "BT28-066",
         "face": {
             "front": {
-                "name": "Tien Shinhan, Unlimited Attack",
-                "type": "Main_Deck",
+                "name": "Tien Shinhan, Unlimited Attack [BT28-066]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2815,12 +2891,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan, Unlimited Attack",
-        "Type": "BATTLE",
+        "name": "Tien Shinhan, Unlimited Attack [BT28-066]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-066.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2842,8 +2919,8 @@
         "id": "BT28-067",
         "face": {
             "front": {
-                "name": "Chiaotzu, Bonds Between Students",
-                "type": "Main_Deck",
+                "name": "Chiaotzu, Bonds Between Students [BT28-067]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -2851,12 +2928,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chiaotzu, Bonds Between Students",
-        "Type": "BATTLE",
+        "name": "Chiaotzu, Bonds Between Students [BT28-067]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-067.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2876,8 +2954,8 @@
         "id": "BT28-068",
         "face": {
             "front": {
-                "name": "Chi-Chi, Unbreakable Spirit",
-                "type": "Main_Deck",
+                "name": "Chi-Chi, Unbreakable Spirit [BT28-068]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2885,12 +2963,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chi-Chi, Unbreakable Spirit",
-        "Type": "BATTLE",
+        "name": "Chi-Chi, Unbreakable Spirit [BT28-068]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-068.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2915,8 +2994,8 @@
         "id": "BT28-069",
         "face": {
             "front": {
-                "name": "Chi-Chi, Long-Awaited Reunion",
-                "type": "Main_Deck",
+                "name": "Chi-Chi, Long-Awaited Reunion [BT28-069]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -2924,12 +3003,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chi-Chi, Long-Awaited Reunion",
-        "Type": "BATTLE",
+        "name": "Chi-Chi, Long-Awaited Reunion [BT28-069]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-069.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2955,8 +3035,8 @@
         "id": "BT28-070",
         "face": {
             "front": {
-                "name": "Chi-Chi, Magnificent Fighting",
-                "type": "Main_Deck",
+                "name": "Chi-Chi, Magnificent Fighting [BT28-070]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -2964,12 +3044,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chi-Chi, Magnificent Fighting",
-        "Type": "BATTLE",
+        "name": "Chi-Chi, Magnificent Fighting [BT28-070]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-070.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -2994,8 +3075,8 @@
         "id": "BT28-071",
         "face": {
             "front": {
-                "name": "Chi-Chi, Anonymous by Request",
-                "type": "Main_Deck",
+                "name": "Chi-Chi, Anonymous by Request [BT28-071]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "5000",
                 "Energy_cost": "3",
@@ -3003,12 +3084,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chi-Chi, Anonymous by Request",
-        "Type": "BATTLE",
+        "name": "Chi-Chi, Anonymous by Request [BT28-071]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-071.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3033,8 +3115,8 @@
         "id": "BT28-072",
         "face": {
             "front": {
-                "name": "Launch, Supporting a Heated Battle",
-                "type": "Main_Deck",
+                "name": "Launch, Supporting a Heated Battle [BT28-072]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -3042,12 +3124,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Launch, Supporting a Heated Battle",
-        "Type": "BATTLE",
+        "name": "Launch, Supporting a Heated Battle [BT28-072]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-072.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -3068,8 +3151,8 @@
         "id": "BT28-073",
         "face": {
             "front": {
-                "name": "Mercenary Tao, Mechanized Obsession",
-                "type": "Main_Deck",
+                "name": "Mercenary Tao, Mechanized Obsession [BT28-073]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -3077,12 +3160,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mercenary Tao, Mechanized Obsession",
-        "Type": "BATTLE",
+        "name": "Mercenary Tao, Mechanized Obsession [BT28-073]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-073.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3105,8 +3189,8 @@
         "id": "BT28-074",
         "face": {
             "front": {
-                "name": "Together on the Nimbus",
-                "type": "Main_Deck",
+                "name": "Together on the Nimbus [BT28-074]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3114,12 +3198,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Together on the Nimbus",
-        "Type": "EXTRA",
+        "name": "Together on the Nimbus [BT28-074]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-074.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3134,8 +3219,8 @@
         "id": "BT28-074_SPR",
         "face": {
             "front": {
-                "name": "Together on the Nimbus",
-                "type": "Main_Deck",
+                "name": "Together on the Nimbus [BT28-074]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3143,12 +3228,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Together on the Nimbus",
-        "Type": "EXTRA",
+        "name": "Together on the Nimbus [BT28-074]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-074_SPR.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3163,8 +3249,8 @@
         "id": "BT28-075",
         "face": {
             "front": {
-                "name": "World Tournament - Reunion of Fate",
-                "type": "Main_Deck",
+                "name": "World Tournament - Reunion of Fate [BT28-075]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3172,12 +3258,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "World Tournament - Reunion of Fate",
-        "Type": "EXTRA",
+        "name": "World Tournament - Reunion of Fate [BT28-075]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-075.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3197,8 +3284,8 @@
         "id": "BT28-076",
         "face": {
             "front": {
-                "name": "Kiai Cancel",
-                "type": "Main_Deck",
+                "name": "Kiai Cancel [BT28-076]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3206,12 +3293,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Kiai Cancel",
-        "Type": "EXTRA",
+        "name": "Kiai Cancel [BT28-076]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-076.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3230,8 +3318,8 @@
         "id": "BT28-076_SPR",
         "face": {
             "front": {
-                "name": "Kiai Cancel",
-                "type": "Main_Deck",
+                "name": "Kiai Cancel [BT28-076]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3239,12 +3327,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Kiai Cancel",
-        "Type": "EXTRA",
+        "name": "Kiai Cancel [BT28-076]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-076_SPR.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3263,8 +3352,8 @@
         "id": "BT28-077",
         "face": {
             "front": {
-                "name": "Mystery Ray",
-                "type": "Main_Deck",
+                "name": "Mystery Ray [BT28-077]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3272,12 +3361,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mystery Ray",
-        "Type": "EXTRA",
+        "name": "Mystery Ray [BT28-077]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-077.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3295,8 +3385,8 @@
         "id": "BT28-078",
         "face": {
             "front": {
-                "name": "Son Gohan",
-                "type": "Leader",
+                "name": "Son Gohan [BT28-078]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -3305,19 +3395,20 @@
             },
             "back": {
                 "name": "Great Saiyama, Love of Justice",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-078_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan",
-        "Type": "LEADER",
+        "name": "Son Gohan [BT28-078]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-078.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3342,8 +3433,8 @@
         "id": "BT28-078_PR",
         "face": {
             "front": {
-                "name": "Son Gohan",
-                "type": "Leader",
+                "name": "Son Gohan [BT28-078]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -3352,19 +3443,20 @@
             },
             "back": {
                 "name": "Great Saiyama, Love of Justice",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-078_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan",
-        "Type": "LEADER",
+        "name": "Son Gohan [BT28-078]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-078_PR.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3389,8 +3481,8 @@
         "id": "BT28-079",
         "face": {
             "front": {
-                "name": "Vegito",
-                "type": "Leader",
+                "name": "Vegito [BT28-079]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -3399,19 +3491,20 @@
             },
             "back": {
                 "name": "SS Vegito, Transcendent Rage",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-079_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegito",
-        "Type": "LEADER",
+        "name": "Vegito [BT28-079]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-079.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3436,8 +3529,8 @@
         "id": "BT28-079_PR",
         "face": {
             "front": {
-                "name": "Vegito",
-                "type": "Leader",
+                "name": "Vegito [BT28-079]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -3446,19 +3539,20 @@
             },
             "back": {
                 "name": "SS Vegito, Transcendent Rage",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-079_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegito",
-        "Type": "LEADER",
+        "name": "Vegito [BT28-079]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-079_PR.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3483,8 +3577,8 @@
         "id": "BT28-080",
         "face": {
             "front": {
-                "name": "Videl, Ki Training",
-                "type": "Z_Deck",
+                "name": "Videl, Ki Training [BT28-080]",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "5000",
                 "Energy_cost": "X",
@@ -3492,12 +3586,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Videl, Ki Training",
-        "Type": "Z-UNISON",
+        "name": "Videl, Ki Training [BT28-080]",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-080.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "X",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3515,8 +3610,8 @@
         "id": "BT28-081",
         "face": {
             "front": {
-                "name": "Son Gohan, Ki Training",
-                "type": "Z_Deck",
+                "name": "Son Gohan, Ki Training [BT28-081]",
+                "type": "Z-BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -3524,12 +3619,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Ki Training",
-        "Type": "Z-BATTLE",
+        "name": "Son Gohan, Ki Training [BT28-081]",
+        "type": "Z_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-081.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3554,8 +3650,8 @@
         "id": "BT28-082",
         "face": {
             "front": {
-                "name": "SS Gogeta, Transcendent Rage",
-                "type": "Main_Deck",
+                "name": "SS Gogeta, Transcendent Rage [BT28-082]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -3563,12 +3659,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Gogeta, Transcendent Rage",
-        "Type": "UNISON",
+        "name": "SS Gogeta, Transcendent Rage [BT28-082]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-082.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "X",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -3587,8 +3684,8 @@
         "id": "BT28-083",
         "face": {
             "front": {
-                "name": "SS Great Saiyaman, Fury Explosion",
-                "type": "Main_Deck",
+                "name": "SS Great Saiyaman, Fury Explosion [BT28-083]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -3596,12 +3693,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Great Saiyaman, Fury Explosion",
-        "Type": "BATTLE",
+        "name": "SS Great Saiyaman, Fury Explosion [BT28-083]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-083.webp",
         "Power": "30000",
         "Color": "Yellow",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3627,8 +3725,8 @@
         "id": "BT28-083_SPR",
         "face": {
             "front": {
-                "name": "SS Great Saiyaman, Fury Explosion",
-                "type": "Main_Deck",
+                "name": "SS Great Saiyaman, Fury Explosion [BT28-083]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -3636,12 +3734,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Great Saiyaman, Fury Explosion",
-        "Type": "BATTLE",
+        "name": "SS Great Saiyaman, Fury Explosion [BT28-083]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-083_SPR.webp",
         "Power": "30000",
         "Color": "Yellow",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3667,8 +3766,8 @@
         "id": "BT28-084",
         "face": {
             "front": {
-                "name": "Great Saiyaman, Servant of Peace",
-                "type": "Main_Deck",
+                "name": "Great Saiyaman, Servant of Peace [BT28-084]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3676,12 +3775,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Great Saiyaman, Servant of Peace",
-        "Type": "BATTLE",
+        "name": "Great Saiyaman, Servant of Peace [BT28-084]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-084.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3704,8 +3804,8 @@
         "id": "BT28-085",
         "face": {
             "front": {
-                "name": "Great Saiyaman, Passion for Peace",
-                "type": "Main_Deck",
+                "name": "Great Saiyaman, Passion for Peace [BT28-085]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3713,12 +3813,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Great Saiyaman, Passion for Peace",
-        "Type": "BATTLE",
+        "name": "Great Saiyaman, Passion for Peace [BT28-085]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-085.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3741,8 +3842,8 @@
         "id": "BT28-086",
         "face": {
             "front": {
-                "name": "Son Gohan, Springtime of Youth",
-                "type": "Main_Deck",
+                "name": "Son Gohan, Springtime of Youth [BT28-086]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -3750,12 +3851,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Springtime of Youth",
-        "Type": "BATTLE",
+        "name": "Son Gohan, Springtime of Youth [BT28-086]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-086.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3778,8 +3880,8 @@
         "id": "BT28-087",
         "face": {
             "front": {
-                "name": "Son Gohan, School Life",
-                "type": "Main_Deck",
+                "name": "Son Gohan, School Life [BT28-087]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -3787,12 +3889,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, School Life",
-        "Type": "BATTLE",
+        "name": "Son Gohan, School Life [BT28-087]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-087.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3815,8 +3918,8 @@
         "id": "BT28-088",
         "face": {
             "front": {
-                "name": "Bulma, Dependable Genius",
-                "type": "Main_Deck",
+                "name": "Bulma, Dependable Genius [BT28-088]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -3824,12 +3927,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Bulma, Dependable Genius",
-        "Type": "BATTLE",
+        "name": "Bulma, Dependable Genius [BT28-088]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-088.webp",
         "Power": "1000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3850,8 +3954,8 @@
         "id": "BT28-089",
         "face": {
             "front": {
-                "name": "Videl, Burning Justice",
-                "type": "Main_Deck",
+                "name": "Videl, Burning Justice [BT28-089]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -3859,12 +3963,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Videl, Burning Justice",
-        "Type": "BATTLE",
+        "name": "Videl, Burning Justice [BT28-089]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-089.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3885,8 +3990,8 @@
         "id": "BT28-090",
         "face": {
             "front": {
-                "name": "Videl, Mesmerizing Fight",
-                "type": "Main_Deck",
+                "name": "Videl, Mesmerizing Fight [BT28-090]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -3894,12 +3999,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Videl, Mesmerizing Fight",
-        "Type": "BATTLE",
+        "name": "Videl, Mesmerizing Fight [BT28-090]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-090.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -3919,8 +4025,8 @@
         "id": "BT28-091",
         "face": {
             "front": {
-                "name": "Videl, Classmate",
-                "type": "Main_Deck",
+                "name": "Videl, Classmate [BT28-091]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -3928,12 +4034,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Videl, Classmate",
-        "Type": "BATTLE",
+        "name": "Videl, Classmate [BT28-091]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-091.webp",
         "Power": "4000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3954,8 +4061,8 @@
         "id": "BT28-092",
         "face": {
             "front": {
-                "name": "SS Son Goku, Challenging a Majin",
-                "type": "Main_Deck",
+                "name": "SS Son Goku, Challenging a Majin [BT28-092]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -3963,12 +4070,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku, Challenging a Majin",
-        "Type": "BATTLE",
+        "name": "SS Son Goku, Challenging a Majin [BT28-092]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-092.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -3989,8 +4097,8 @@
         "id": "BT28-093",
         "face": {
             "front": {
-                "name": "Son Goku, Can't Wait to Fight",
-                "type": "Main_Deck",
+                "name": "Son Goku, Can't Wait to Fight [BT28-093]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -3998,12 +4106,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Can't Wait to Fight",
-        "Type": "BATTLE",
+        "name": "Son Goku, Can't Wait to Fight [BT28-093]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-093.webp",
         "Power": "1000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4022,8 +4131,8 @@
         "id": "BT28-094",
         "face": {
             "front": {
-                "name": "SS Son Goku & SS Vegeta, Acknowledging Strengths",
-                "type": "Main_Deck",
+                "name": "SS Son Goku & SS Vegeta, Acknowledging Strengths [BT28-094]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -4031,12 +4140,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku & SS Vegeta, Acknowledging Strengths",
-        "Type": "BATTLE",
+        "name": "SS Son Goku & SS Vegeta, Acknowledging Strengths [BT28-094]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-094.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4059,8 +4169,8 @@
         "id": "BT28-094_SPR",
         "face": {
             "front": {
-                "name": "SS Son Goku & SS Vegeta, Acknowledging Strengths",
-                "type": "Main_Deck",
+                "name": "SS Son Goku & SS Vegeta, Acknowledging Strengths [BT28-094]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -4068,12 +4178,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku & SS Vegeta, Acknowledging Strengths",
-        "Type": "BATTLE",
+        "name": "SS Son Goku & SS Vegeta, Acknowledging Strengths [BT28-094]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-094_SPR.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4096,8 +4207,8 @@
         "id": "BT28-095",
         "face": {
             "front": {
-                "name": "SS Vegeta, Challenging a Majin",
-                "type": "Main_Deck",
+                "name": "SS Vegeta, Challenging a Majin [BT28-095]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4105,12 +4216,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Vegeta, Challenging a Majin",
-        "Type": "BATTLE",
+        "name": "SS Vegeta, Challenging a Majin [BT28-095]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-095.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4131,8 +4243,8 @@
         "id": "BT28-096",
         "face": {
             "front": {
-                "name": "Vegeta, Can't Wait to Fight",
-                "type": "Main_Deck",
+                "name": "Vegeta, Can't Wait to Fight [BT28-096]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -4140,12 +4252,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Can't Wait to Fight",
-        "Type": "BATTLE",
+        "name": "Vegeta, Can't Wait to Fight [BT28-096]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-096.webp",
         "Power": "1000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4164,8 +4277,8 @@
         "id": "BT28-097",
         "face": {
             "front": {
-                "name": "SS Vegito, Strongest Fighter in History",
-                "type": "Main_Deck",
+                "name": "SS Vegito, Strongest Fighter in History [BT28-097]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -4173,12 +4286,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Vegito, Strongest Fighter in History",
-        "Type": "BATTLE",
+        "name": "SS Vegito, Strongest Fighter in History [BT28-097]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-097.webp",
         "Power": "30000",
         "Color": "Yellow",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4203,8 +4317,8 @@
         "id": "BT28-097_SPR",
         "face": {
             "front": {
-                "name": "SS Vegito, Strongest Fighter in History",
-                "type": "Main_Deck",
+                "name": "SS Vegito, Strongest Fighter in History [BT28-097]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -4212,12 +4326,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Vegito, Strongest Fighter in History",
-        "Type": "BATTLE",
+        "name": "SS Vegito, Strongest Fighter in History [BT28-097]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-097_SPR.webp",
         "Power": "30000",
         "Color": "Yellow",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4242,8 +4357,8 @@
         "id": "BT28-098",
         "face": {
             "front": {
-                "name": "SS Vegito, Pure Potara Warrior",
-                "type": "Main_Deck",
+                "name": "SS Vegito, Pure Potara Warrior [BT28-098]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -4251,12 +4366,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Vegito, Pure Potara Warrior",
-        "Type": "BATTLE",
+        "name": "SS Vegito, Pure Potara Warrior [BT28-098]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-098.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4279,8 +4395,8 @@
         "id": "BT28-099",
         "face": {
             "front": {
-                "name": "Vegito, Fighting Spirit Rush",
-                "type": "Main_Deck",
+                "name": "Vegito, Fighting Spirit Rush [BT28-099]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "15000",
                 "Energy_cost": "5",
@@ -4288,12 +4404,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegito, Fighting Spirit Rush",
-        "Type": "BATTLE",
+        "name": "Vegito, Fighting Spirit Rush [BT28-099]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-099.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4318,8 +4435,8 @@
         "id": "BT28-100",
         "face": {
             "front": {
-                "name": "Vegito, Strongest Coffee-Flavored Fighter",
-                "type": "Main_Deck",
+                "name": "Vegito, Strongest Coffee-Flavored Fighter [BT28-100]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -4327,12 +4444,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegito, Strongest Coffee-Flavored Fighter",
-        "Type": "BATTLE",
+        "name": "Vegito, Strongest Coffee-Flavored Fighter [BT28-100]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-100.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4357,8 +4475,8 @@
         "id": "BT28-101",
         "face": {
             "front": {
-                "name": "Majin Buu, Mistake",
-                "type": "Main_Deck",
+                "name": "Majin Buu, Mistake [BT28-101]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "10000",
                 "Energy_cost": "4",
@@ -4366,12 +4484,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu, Mistake",
-        "Type": "BATTLE",
+        "name": "Majin Buu, Mistake [BT28-101]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-101.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4392,8 +4511,8 @@
         "id": "BT28-102",
         "face": {
             "front": {
-                "name": "Stop Laughing!",
-                "type": "Main_Deck",
+                "name": "Stop Laughing! [BT28-102]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4401,12 +4520,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Stop Laughing!",
-        "Type": "EXTRA",
+        "name": "Stop Laughing! [BT28-102]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-102.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4423,8 +4543,8 @@
         "id": "BT28-103",
         "face": {
             "front": {
-                "name": "Stop You Fiend!",
-                "type": "Main_Deck",
+                "name": "Stop You Fiend! [BT28-103]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4432,12 +4552,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Stop You Fiend!",
-        "Type": "EXTRA",
+        "name": "Stop You Fiend! [BT28-103]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-103.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4454,8 +4575,8 @@
         "id": "BT28-104",
         "face": {
             "front": {
-                "name": "Strongest Candy in the World",
-                "type": "Main_Deck",
+                "name": "Strongest Candy in the World [BT28-104]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4463,12 +4584,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Strongest Candy in the World",
-        "Type": "EXTRA",
+        "name": "Strongest Candy in the World [BT28-104]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-104.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4487,8 +4609,8 @@
         "id": "BT28-105",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [BT28-105]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4497,19 +4619,20 @@
             },
             "back": {
                 "name": "SSG Son Goku, Crimson Power",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-105_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [BT28-105]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-105.webp",
         "Power": "10000",
         "Color": "White",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4532,8 +4655,8 @@
         "id": "BT28-105_PR",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [BT28-105]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4542,19 +4665,20 @@
             },
             "back": {
                 "name": "SSG Son Goku, Crimson Power",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-105_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [BT28-105]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-105_PR.webp",
         "Power": "10000",
         "Color": "White",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4577,8 +4701,8 @@
         "id": "BT28-106",
         "face": {
             "front": {
-                "name": "Belmod",
-                "type": "Leader",
+                "name": "Belmod [BT28-106]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4587,19 +4711,20 @@
             },
             "back": {
                 "name": "Belmod, God of Destruction",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-106_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Belmod",
-        "Type": "LEADER",
+        "name": "Belmod [BT28-106]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-106.webp",
         "Power": "10000",
         "Color": "White",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4623,8 +4748,8 @@
         "id": "BT28-106_PR",
         "face": {
             "front": {
-                "name": "Belmod",
-                "type": "Leader",
+                "name": "Belmod [BT28-106]",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4633,19 +4758,20 @@
             },
             "back": {
                 "name": "Belmod, God of Destruction",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-106_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Belmod",
-        "Type": "LEADER",
+        "name": "Belmod [BT28-106]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-106_PR.webp",
         "Power": "10000",
         "Color": "White",
+        "cost": "",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4669,8 +4795,8 @@
         "id": "BT28-107",
         "face": {
             "front": {
-                "name": "Toppo, Fierce Foe",
-                "type": "Z_Deck",
+                "name": "Toppo, Fierce Foe [BT28-107]",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "20000",
                 "Energy_cost": "X",
@@ -4678,12 +4804,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Toppo, Fierce Foe",
-        "Type": "Z-UNISON",
+        "name": "Toppo, Fierce Foe [BT28-107]",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-107.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "X",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4703,8 +4830,8 @@
         "id": "BT28-108",
         "face": {
             "front": {
-                "name": "Son Goku, Pulsing New Power",
-                "type": "Z_Deck",
+                "name": "Son Goku, Pulsing New Power [BT28-108]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -4712,12 +4839,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Pulsing New Power",
-        "Type": "Z-BATTLE",
+        "name": "Son Goku, Pulsing New Power [BT28-108]",
+        "type": "Z_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-108.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "2",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4739,8 +4867,8 @@
         "id": "BT28-109",
         "face": {
             "front": {
-                "name": "Jiren, Immense Being",
-                "type": "Z_Deck",
+                "name": "Jiren, Immense Being [BT28-109]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -4748,12 +4876,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Jiren, Immense Being",
-        "Type": "Z-BATTLE",
+        "name": "Jiren, Immense Being [BT28-109]",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-109.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "2",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4777,8 +4906,8 @@
         "id": "BT28-110",
         "face": {
             "front": {
-                "name": "Transcendent Limit Break",
-                "type": "Z_Deck",
+                "name": "Transcendent Limit Break [BT28-110]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4786,12 +4915,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Transcendent Limit Break",
-        "Type": "Z-EXTRA",
+        "name": "Transcendent Limit Break [BT28-110]",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-110.webp",
         "Power": "",
         "Color": "White",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4806,8 +4936,8 @@
         "id": "BT28-111",
         "face": {
             "front": {
-                "name": "Marcarita, Support",
-                "type": "Main_Deck",
+                "name": "Marcarita, Support [BT28-111]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -4815,12 +4945,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Marcarita, Support",
-        "Type": "UNISON",
+        "name": "Marcarita, Support [BT28-111]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-111.webp",
         "Power": "15000",
         "Color": "White",
+        "cost": "X",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -4838,8 +4969,8 @@
         "id": "BT28-112",
         "face": {
             "front": {
-                "name": "SSB Son Goku, Power Through Evolution",
-                "type": "Main_Deck",
+                "name": "SSB Son Goku, Power Through Evolution [BT28-112]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4847,12 +4978,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Son Goku, Power Through Evolution",
-        "Type": "BATTLE",
+        "name": "SSB Son Goku, Power Through Evolution [BT28-112]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-112.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4874,8 +5006,8 @@
         "id": "BT28-112_SPR",
         "face": {
             "front": {
-                "name": "SSB Son Goku, Power Through Evolution",
-                "type": "Main_Deck",
+                "name": "SSB Son Goku, Power Through Evolution [BT28-112]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4883,12 +5015,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Son Goku, Power Through Evolution",
-        "Type": "BATTLE",
+        "name": "SSB Son Goku, Power Through Evolution [BT28-112]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-112_SPR.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4910,8 +5043,8 @@
         "id": "BT28-113",
         "face": {
             "front": {
-                "name": "Son Gohan, Overwhelming Sense of Justice",
-                "type": "Main_Deck",
+                "name": "Son Gohan, Overwhelming Sense of Justice [BT28-113]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -4919,12 +5052,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Overwhelming Sense of Justice",
-        "Type": "BATTLE",
+        "name": "Son Gohan, Overwhelming Sense of Justice [BT28-113]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-113.webp",
         "Power": "15000",
         "Color": "White",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4947,8 +5081,8 @@
         "id": "BT28-114",
         "face": {
             "front": {
-                "name": "SSB Vegeta, New Evolution",
-                "type": "Main_Deck",
+                "name": "SSB Vegeta, New Evolution [BT28-114]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4956,12 +5090,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Vegeta, New Evolution",
-        "Type": "BATTLE",
+        "name": "SSB Vegeta, New Evolution [BT28-114]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-114.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -4985,8 +5120,8 @@
         "id": "BT28-115",
         "face": {
             "front": {
-                "name": "Piccolo, Brilliant Strategy",
-                "type": "Main_Deck",
+                "name": "Piccolo, Brilliant Strategy [BT28-115]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4994,12 +5129,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo, Brilliant Strategy",
-        "Type": "BATTLE",
+        "name": "Piccolo, Brilliant Strategy [BT28-115]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-115.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5022,8 +5158,8 @@
         "id": "BT28-116",
         "face": {
             "front": {
-                "name": "Krillin, Acknowledged Abilities",
-                "type": "Main_Deck",
+                "name": "Krillin, Acknowledged Abilities [BT28-116]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5031,12 +5167,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Krillin, Acknowledged Abilities",
-        "Type": "BATTLE",
+        "name": "Krillin, Acknowledged Abilities [BT28-116]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-116.webp",
         "Power": "15000",
         "Color": "White",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5059,8 +5196,8 @@
         "id": "BT28-117",
         "face": {
             "front": {
-                "name": "Tien Shinhan, Versatile Techniques",
-                "type": "Main_Deck",
+                "name": "Tien Shinhan, Versatile Techniques [BT28-117]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -5068,12 +5205,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan, Versatile Techniques",
-        "Type": "BATTLE",
+        "name": "Tien Shinhan, Versatile Techniques [BT28-117]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-117.webp",
         "Power": "4000",
         "Color": "White",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5093,8 +5231,8 @@
         "id": "BT28-118",
         "face": {
             "front": {
-                "name": "Master Roshi, Elderly Achievement",
-                "type": "Main_Deck",
+                "name": "Master Roshi, Elderly Achievement [BT28-118]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -5102,12 +5240,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Master Roshi, Elderly Achievement",
-        "Type": "BATTLE",
+        "name": "Master Roshi, Elderly Achievement [BT28-118]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-118.webp",
         "Power": "4000",
         "Color": "White",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5127,8 +5266,8 @@
         "id": "BT28-119",
         "face": {
             "front": {
-                "name": "Android 18, Care for Family",
-                "type": "Main_Deck",
+                "name": "Android 18, Care for Family [BT28-119]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5136,12 +5275,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Care for Family",
-        "Type": "BATTLE",
+        "name": "Android 18, Care for Family [BT28-119]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-119.webp",
         "Power": "15000",
         "Color": "White",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5164,8 +5304,8 @@
         "id": "BT28-120",
         "face": {
             "front": {
-                "name": "Android 18",
-                "type": "Main_Deck",
+                "name": "Android 18 [BT28-120]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -5173,12 +5313,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18",
-        "Type": "BATTLE",
+        "name": "Android 18 [BT28-120]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-120.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5196,8 +5337,8 @@
         "id": "BT28-121",
         "face": {
             "front": {
-                "name": "Android 17, Teaming Up to Protect the Earth",
-                "type": "Main_Deck",
+                "name": "Android 17, Teaming Up to Protect the Earth [BT28-121]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -5205,12 +5346,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Teaming Up to Protect the Earth",
-        "Type": "BATTLE",
+        "name": "Android 17, Teaming Up to Protect the Earth [BT28-121]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-121.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5233,8 +5375,8 @@
         "id": "BT28-122",
         "face": {
             "front": {
-                "name": "Android 17",
-                "type": "Main_Deck",
+                "name": "Android 17 [BT28-122]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -5242,12 +5384,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17",
-        "Type": "BATTLE",
+        "name": "Android 17 [BT28-122]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-122.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5265,8 +5408,8 @@
         "id": "BT28-123",
         "face": {
             "front": {
-                "name": "Frieza, Unexpected Ally",
-                "type": "Main_Deck",
+                "name": "Frieza, Unexpected Ally [BT28-123]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -5274,12 +5417,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Unexpected Ally",
-        "Type": "BATTLE",
+        "name": "Frieza, Unexpected Ally [BT28-123]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-123.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5301,8 +5445,8 @@
         "id": "BT28-124",
         "face": {
             "front": {
-                "name": "Beerus, Godly Power",
-                "type": "Main_Deck",
+                "name": "Beerus, Godly Power [BT28-124]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -5310,12 +5454,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Beerus, Godly Power",
-        "Type": "BATTLE",
+        "name": "Beerus, Godly Power [BT28-124]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-124.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "7",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5341,8 +5486,8 @@
         "id": "BT28-125",
         "face": {
             "front": {
-                "name": "Zen-Oh, Apex of the Universe",
-                "type": "Main_Deck",
+                "name": "Zen-Oh, Apex of the Universe [BT28-125]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -5350,12 +5495,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Zen-Oh, Apex of the Universe",
-        "Type": "BATTLE",
+        "name": "Zen-Oh, Apex of the Universe [BT28-125]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-125.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5377,8 +5523,8 @@
         "id": "BT28-125_SPR",
         "face": {
             "front": {
-                "name": "Zen-Oh, Apex of the Universe",
-                "type": "Main_Deck",
+                "name": "Zen-Oh, Apex of the Universe [BT28-125]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -5386,12 +5532,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Zen-Oh, Apex of the Universe",
-        "Type": "BATTLE",
+        "name": "Zen-Oh, Apex of the Universe [BT28-125]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-125_SPR.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5413,8 +5560,8 @@
         "id": "BT28-126",
         "face": {
             "front": {
-                "name": "Iwne, Godly Power",
-                "type": "Main_Deck",
+                "name": "Iwne, Godly Power [BT28-126]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -5422,12 +5569,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Iwne, Godly Power",
-        "Type": "BATTLE",
+        "name": "Iwne, Godly Power [BT28-126]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-126.webp",
         "Power": "4000",
         "Color": "White",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5449,8 +5597,8 @@
         "id": "BT28-127",
         "face": {
             "front": {
-                "name": "Heles, Godly Power",
-                "type": "Main_Deck",
+                "name": "Heles, Godly Power [BT28-127]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -5458,12 +5606,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Heles, Godly Power",
-        "Type": "BATTLE",
+        "name": "Heles, Godly Power [BT28-127]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-127.webp",
         "Power": "15000",
         "Color": "White",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -5484,8 +5633,8 @@
         "id": "BT28-128",
         "face": {
             "front": {
-                "name": "Mosco, Godly Power",
-                "type": "Main_Deck",
+                "name": "Mosco, Godly Power [BT28-128]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5493,12 +5642,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mosco, Godly Power",
-        "Type": "BATTLE",
+        "name": "Mosco, Godly Power [BT28-128]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-128.webp",
         "Power": "15000",
         "Color": "White",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5520,8 +5670,8 @@
         "id": "BT28-129",
         "face": {
             "front": {
-                "name": "Quitela, Godly Power",
-                "type": "Main_Deck",
+                "name": "Quitela, Godly Power [BT28-129]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -5529,12 +5679,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Quitela, Godly Power",
-        "Type": "BATTLE",
+        "name": "Quitela, Godly Power [BT28-129]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-129.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5556,8 +5707,8 @@
         "id": "BT28-130",
         "face": {
             "front": {
-                "name": "Arack, Godly Power",
-                "type": "Main_Deck",
+                "name": "Arack, Godly Power [BT28-130]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -5565,12 +5716,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Arack, Godly Power",
-        "Type": "BATTLE",
+        "name": "Arack, Godly Power [BT28-130]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-130.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5593,8 +5745,8 @@
         "id": "BT28-131",
         "face": {
             "front": {
-                "name": "Champa, Godly Power",
-                "type": "Main_Deck",
+                "name": "Champa, Godly Power [BT28-131]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "30000",
                 "Energy_cost": "6",
@@ -5602,12 +5754,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Champa, Godly Power",
-        "Type": "BATTLE",
+        "name": "Champa, Godly Power [BT28-131]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-131.webp",
         "Power": "30000",
         "Color": "White",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5632,8 +5785,8 @@
         "id": "BT28-132",
         "face": {
             "front": {
-                "name": "Liquiir, Godly Power",
-                "type": "Main_Deck",
+                "name": "Liquiir, Godly Power [BT28-132]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "20000",
                 "Energy_cost": "8",
@@ -5641,12 +5794,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Liquiir, Godly Power",
-        "Type": "BATTLE",
+        "name": "Liquiir, Godly Power [BT28-132]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-132.webp",
         "Power": "20000",
         "Color": "White",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5668,8 +5822,8 @@
         "id": "BT28-133",
         "face": {
             "front": {
-                "name": "Sidra, Godly Power",
-                "type": "Main_Deck",
+                "name": "Sidra, Godly Power [BT28-133]",
+                "type": "BATTLE",
                 "cost": "9",
                 "power": "25000",
                 "Energy_cost": "9",
@@ -5677,12 +5831,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Sidra, Godly Power",
-        "Type": "BATTLE",
+        "name": "Sidra, Godly Power [BT28-133]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-133.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "9",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5704,8 +5859,8 @@
         "id": "BT28-134",
         "face": {
             "front": {
-                "name": "Rumsshi, Godly Power",
-                "type": "Main_Deck",
+                "name": "Rumsshi, Godly Power [BT28-134]",
+                "type": "BATTLE",
                 "cost": "10",
                 "power": "30000",
                 "Energy_cost": "10",
@@ -5713,12 +5868,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rumsshi, Godly Power",
-        "Type": "BATTLE",
+        "name": "Rumsshi, Godly Power [BT28-134]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-134.webp",
         "Power": "30000",
         "Color": "White",
+        "cost": "10",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5741,8 +5897,8 @@
         "id": "BT28-135",
         "face": {
             "front": {
-                "name": "Belmod, Godly Power",
-                "type": "Main_Deck",
+                "name": "Belmod, Godly Power [BT28-135]",
+                "type": "BATTLE",
                 "cost": "11",
                 "power": "25000",
                 "Energy_cost": "11",
@@ -5750,12 +5906,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Belmod, Godly Power",
-        "Type": "BATTLE",
+        "name": "Belmod, Godly Power [BT28-135]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-135.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "11",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5776,8 +5933,8 @@
         "id": "BT28-135_SPR",
         "face": {
             "front": {
-                "name": "Belmod, Godly Power",
-                "type": "Main_Deck",
+                "name": "Belmod, Godly Power [BT28-135]",
+                "type": "BATTLE",
                 "cost": "11",
                 "power": "25000",
                 "Energy_cost": "11",
@@ -5785,12 +5942,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Belmod, Godly Power",
-        "Type": "BATTLE",
+        "name": "Belmod, Godly Power [BT28-135]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-135_SPR.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "11",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5811,8 +5969,8 @@
         "id": "BT28-136",
         "face": {
             "front": {
-                "name": "Geene, Godly Power",
-                "type": "Main_Deck",
+                "name": "Geene, Godly Power [BT28-136]",
+                "type": "BATTLE",
                 "cost": "12",
                 "power": "25000",
                 "Energy_cost": "12",
@@ -5820,12 +5978,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Geene, Godly Power",
-        "Type": "BATTLE",
+        "name": "Geene, Godly Power [BT28-136]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-136.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "12",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5850,8 +6009,8 @@
         "id": "BT28-137",
         "face": {
             "front": {
-                "name": "Overture to Disaster",
-                "type": "Main_Deck",
+                "name": "Overture to Disaster [BT28-137]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -5859,12 +6018,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Overture to Disaster",
-        "Type": "EXTRA",
+        "name": "Overture to Disaster [BT28-137]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-137.webp",
         "Power": "",
         "Color": "White",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -5879,8 +6039,8 @@
         "id": "BT28-138",
         "face": {
             "front": {
-                "name": "Battles of the Gods of Destruction",
-                "type": "Main_Deck",
+                "name": "Battles of the Gods of Destruction [BT28-138]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -5888,12 +6048,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Battles of the Gods of Destruction",
-        "Type": "EXTRA",
+        "name": "Battles of the Gods of Destruction [BT28-138]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-138.webp",
         "Power": "",
         "Color": "White",
+        "cost": "1",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -5910,8 +6071,8 @@
         "id": "BT28-139",
         "face": {
             "front": {
-                "name": "Breakthrough",
-                "type": "Main_Deck",
+                "name": "Breakthrough [BT28-139]",
+                "type": "EXTRA",
                 "cost": "3",
                 "power": "",
                 "Energy_cost": "3",
@@ -5919,12 +6080,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Breakthrough",
-        "Type": "EXTRA",
+        "name": "Breakthrough [BT28-139]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-139.webp",
         "Power": "",
         "Color": "White",
+        "cost": "3",
         "Combo_cost": "",
         "Combo_power": "",
         "Series": "BT28",
@@ -5939,8 +6101,8 @@
         "id": "BT28-140",
         "face": {
             "front": {
-                "name": "Son Goku, Battle for the Best Under the Heavens",
-                "type": "Main_Deck",
+                "name": "Son Goku, Battle for the Best Under the Heavens [BT28-140]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "25000",
                 "Energy_cost": "8",
@@ -5948,12 +6110,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Battle for the Best Under the Heavens",
-        "Type": "BATTLE",
+        "name": "Son Goku, Battle for the Best Under the Heavens [BT28-140]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-140.webp",
         "Power": "25000",
         "Color": "Red/Green",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -5977,8 +6140,8 @@
         "id": "BT28-140_SPR",
         "face": {
             "front": {
-                "name": "Son Goku, Battle for the Best Under the Heavens",
-                "type": "Main_Deck",
+                "name": "Son Goku, Battle for the Best Under the Heavens [BT28-140]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "25000",
                 "Energy_cost": "8",
@@ -5986,12 +6149,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Battle for the Best Under the Heavens",
-        "Type": "BATTLE",
+        "name": "Son Goku, Battle for the Best Under the Heavens [BT28-140]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-140_SPR.webp",
         "Power": "25000",
         "Color": "Red/Green",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6015,8 +6179,8 @@
         "id": "BT28-141",
         "face": {
             "front": {
-                "name": "Son Goku, Forgotten Promise",
-                "type": "Main_Deck",
+                "name": "Son Goku, Forgotten Promise [BT28-141]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -6024,12 +6188,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Forgotten Promise",
-        "Type": "BATTLE",
+        "name": "Son Goku, Forgotten Promise [BT28-141]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-141.webp",
         "Power": "15000",
         "Color": "Red/Green",
+        "cost": "3",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6053,8 +6218,8 @@
         "id": "BT28-142",
         "face": {
             "front": {
-                "name": "Son Goku, Stupid",
-                "type": "Main_Deck",
+                "name": "Son Goku, Stupid [BT28-142]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -6062,12 +6227,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Stupid",
-        "Type": "BATTLE",
+        "name": "Son Goku, Stupid [BT28-142]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-142.webp",
         "Power": "15000",
         "Color": "Red/Green",
+        "cost": "3",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6091,8 +6257,8 @@
         "id": "BT28-143",
         "face": {
             "front": {
-                "name": "Frieza VS SS Son Goku",
-                "type": "Main_Deck",
+                "name": "Frieza VS SS Son Goku [BT28-143]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -6100,12 +6266,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza VS SS Son Goku",
-        "Type": "BATTLE",
+        "name": "Frieza VS SS Son Goku [BT28-143]",
+        "type": "Main_Deck",
         "Rarity": "Concept Rare[CR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-143.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6130,8 +6297,8 @@
         "id": "BT28-144",
         "face": {
             "front": {
-                "name": "SS4 Son Goku (Mini) VS King Gomah",
-                "type": "Main_Deck",
+                "name": "SS4 Son Goku (Mini) VS King Gomah [BT28-144]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "25000",
                 "Energy_cost": "4",
@@ -6139,12 +6306,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku (Mini) VS King Gomah",
-        "Type": "BATTLE",
+        "name": "SS4 Son Goku (Mini) VS King Gomah [BT28-144]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-144.webp",
         "Power": "25000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6170,8 +6338,8 @@
         "id": "BT28-145",
         "face": {
             "front": {
-                "name": "Tien Shinhan VS Son Goku",
-                "type": "Main_Deck",
+                "name": "Tien Shinhan VS Son Goku [BT28-145]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "25000",
                 "Energy_cost": "4",
@@ -6179,12 +6347,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan VS Son Goku",
-        "Type": "BATTLE",
+        "name": "Tien Shinhan VS Son Goku [BT28-145]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-145.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6209,8 +6378,8 @@
         "id": "BT28-146",
         "face": {
             "front": {
-                "name": "Majin Buu VS Son Goku",
-                "type": "Main_Deck",
+                "name": "Majin Buu VS Son Goku [BT28-146]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "25000",
                 "Energy_cost": "4",
@@ -6218,12 +6387,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu VS Son Goku",
-        "Type": "BATTLE",
+        "name": "Majin Buu VS Son Goku [BT28-146]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-146.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6248,8 +6418,8 @@
         "id": "BT28-147",
         "face": {
             "front": {
-                "name": "Jiren VS Son Goku",
-                "type": "Main_Deck",
+                "name": "Jiren VS Son Goku [BT28-147]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "25000",
                 "Energy_cost": "4",
@@ -6257,12 +6427,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Jiren VS Son Goku",
-        "Type": "BATTLE",
+        "name": "Jiren VS Son Goku [BT28-147]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-147.webp",
         "Power": "25000",
         "Color": "White",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT28",
@@ -6288,8 +6459,8 @@
         "id": "BT28-148",
         "face": {
             "front": {
-                "name": "SS4 Son Goku (Mini), Comeback Power",
-                "type": "Main_Deck",
+                "name": "SS4 Son Goku (Mini), Comeback Power [BT28-148]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -6297,12 +6468,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku (Mini), Comeback Power",
-        "Type": "BATTLE",
+        "name": "SS4 Son Goku (Mini), Comeback Power [BT28-148]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-148.webp",
         "Power": "40000",
         "Color": "Blue",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -6328,8 +6500,8 @@
         "id": "BT28-148_GDR",
         "face": {
             "front": {
-                "name": "SS4 Son Goku (Mini), Comeback Power",
-                "type": "Main_Deck",
+                "name": "SS4 Son Goku (Mini), Comeback Power [BT28-148]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -6337,12 +6509,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku (Mini), Comeback Power",
-        "Type": "BATTLE",
+        "name": "SS4 Son Goku (Mini), Comeback Power [BT28-148]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-148_GDR.webp",
         "Power": "40000",
         "Color": "Blue",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -6368,8 +6541,8 @@
         "id": "BT28-149",
         "face": {
             "front": {
-                "name": "Prince of Destruction Vegeta, Prideful Psyche",
-                "type": "Main_Deck",
+                "name": "Prince of Destruction Vegeta, Prideful Psyche [BT28-149]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -6377,12 +6550,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Prince of Destruction Vegeta, Prideful Psyche",
-        "Type": "BATTLE",
+        "name": "Prince of Destruction Vegeta, Prideful Psyche [BT28-149]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-149.webp",
         "Power": "40000",
         "Color": "Yellow",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT28",
@@ -6405,8 +6579,8 @@
         "id": "BT28-150",
         "face": {
             "front": {
-                "name": "Beerus, Incarnation of Destruction",
-                "type": "Main_Deck",
+                "name": "Beerus, Incarnation of Destruction [BT28-150]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -6414,12 +6588,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Beerus, Incarnation of Destruction",
-        "Type": "BATTLE",
+        "name": "Beerus, Incarnation of Destruction [BT28-150]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT28/BT28-150.webp",
         "Power": "40000",
         "Color": "White",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT28",

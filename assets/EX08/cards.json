@@ -3,8 +3,8 @@
         "id": "EX08-01",
         "face": {
             "front": {
-                "name": "Son Goten, Strong of Heart",
-                "type": "Main_Deck",
+                "name": "Son Goten, Strong of Heart [EX08-01]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -12,12 +12,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goten, Strong of Heart",
-        "Type": "BATTLE",
+        "name": "Son Goten, Strong of Heart [EX08-01]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX08/EX08-01.webp",
         "Power": "15000",
         "Color": "Red/Green",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX08",
@@ -39,8 +40,8 @@
         "id": "EX08-02",
         "face": {
             "front": {
-                "name": "Meticulous Scheming",
-                "type": "Main_Deck",
+                "name": "Meticulous Scheming [EX08-02]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -48,12 +49,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Meticulous Scheming",
-        "Type": "EXTRA",
+        "name": "Meticulous Scheming [EX08-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX08/EX08-02.webp",
         "Power": "",
         "Color": "Blue/Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX08",
@@ -69,8 +71,8 @@
         "id": "EX08-03",
         "face": {
             "front": {
-                "name": "Super Baby 2, the Malicious Tyrant",
-                "type": "Main_Deck",
+                "name": "Super Baby 2, the Malicious Tyrant [EX08-03]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -78,12 +80,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super Baby 2, the Malicious Tyrant",
-        "Type": "BATTLE",
+        "name": "Super Baby 2, the Malicious Tyrant [EX08-03]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX08/EX08-03.webp",
         "Power": "20000",
         "Color": "Red/Yellow",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX08",
@@ -105,8 +108,8 @@
         "id": "EX08-04",
         "face": {
             "front": {
-                "name": "SS Gogeta, All-Out Assault",
-                "type": "Main_Deck",
+                "name": "SS Gogeta, All-Out Assault [EX08-04]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -114,12 +117,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Gogeta, All-Out Assault",
-        "Type": "BATTLE",
+        "name": "SS Gogeta, All-Out Assault [EX08-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX08/EX08-04.webp",
         "Power": "25000",
         "Color": "Red/Blue",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX08",
@@ -141,8 +145,8 @@
         "id": "EX08-05",
         "face": {
             "front": {
-                "name": "Combination Attack",
-                "type": "Main_Deck",
+                "name": "Combination Attack [EX08-05]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -150,12 +154,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Combination Attack",
-        "Type": "EXTRA",
+        "name": "Combination Attack [EX08-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX08/EX08-05.webp",
         "Power": "",
         "Color": "Red/Blue",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX08",
@@ -171,8 +176,8 @@
         "id": "EX08-06",
         "face": {
             "front": {
-                "name": "SS Broly, All-Out Assault",
-                "type": "Main_Deck",
+                "name": "SS Broly, All-Out Assault [EX08-06]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -180,12 +185,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Broly, All-Out Assault",
-        "Type": "BATTLE",
+        "name": "SS Broly, All-Out Assault [EX08-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX08/EX08-06.webp",
         "Power": "25000",
         "Color": "Green/Yellow",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX08",
@@ -207,8 +213,8 @@
         "id": "EX08-07",
         "face": {
             "front": {
-                "name": "Wailing Spirit",
-                "type": "Main_Deck",
+                "name": "Wailing Spirit [EX08-07]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -216,12 +222,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Wailing Spirit",
-        "Type": "EXTRA",
+        "name": "Wailing Spirit [EX08-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX08/EX08-07.webp",
         "Power": "",
         "Color": "Green/Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX08",

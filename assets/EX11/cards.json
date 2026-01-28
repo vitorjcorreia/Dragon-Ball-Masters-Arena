@@ -3,8 +3,8 @@
         "id": "EX11-01",
         "face": {
             "front": {
-                "name": "Vegeta",
-                "type": "Leader",
+                "name": "Vegeta [EX11-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Vegeta, Candidate of Destruction",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta",
-        "Type": "LEADER",
+        "name": "Vegeta [EX11-01]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX11",
@@ -48,8 +49,8 @@
         "id": "EX11-02",
         "face": {
             "front": {
-                "name": "Gotenks, Unison of Rage",
-                "type": "Main_Deck",
+                "name": "Gotenks, Unison of Rage [EX11-02]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gotenks, Unison of Rage",
-        "Type": "UNISON",
+        "name": "Gotenks, Unison of Rage [EX11-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-02.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX11",
@@ -80,8 +82,8 @@
         "id": "EX11-03",
         "face": {
             "front": {
-                "name": "Whis, Destruction's Conductor",
-                "type": "Main_Deck",
+                "name": "Whis, Destruction's Conductor [EX11-03]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "5000",
                 "Energy_cost": "3",
@@ -89,12 +91,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Whis, Destruction's Conductor",
-        "Type": "BATTLE",
+        "name": "Whis, Destruction's Conductor [EX11-03]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-03.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX11",
@@ -115,8 +118,8 @@
         "id": "EX11-04",
         "face": {
             "front": {
-                "name": "Beerus, Wrath of the Gods",
-                "type": "Main_Deck",
+                "name": "Beerus, Wrath of the Gods [EX11-04]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -124,12 +127,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Beerus, Wrath of the Gods",
-        "Type": "BATTLE",
+        "name": "Beerus, Wrath of the Gods [EX11-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-04.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX11",
@@ -151,8 +155,8 @@
         "id": "EX11-05",
         "face": {
             "front": {
-                "name": "Android 17, High Alert",
-                "type": "Main_Deck",
+                "name": "Android 17, High Alert [EX11-05]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -160,12 +164,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, High Alert",
-        "Type": "BATTLE",
+        "name": "Android 17, High Alert [EX11-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-05.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX11",
@@ -187,8 +192,8 @@
         "id": "EX11-06",
         "face": {
             "front": {
-                "name": "Frieza, Fair-Weather Fiend",
-                "type": "Main_Deck",
+                "name": "Frieza, Fair-Weather Fiend [EX11-06]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -196,12 +201,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Fair-Weather Fiend",
-        "Type": "BATTLE",
+        "name": "Frieza, Fair-Weather Fiend [EX11-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-06.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX11",
@@ -226,8 +232,8 @@
         "id": "EX11-07",
         "face": {
             "front": {
-                "name": "Omen of Awakening",
-                "type": "Main_Deck",
+                "name": "Omen of Awakening [EX11-07]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -235,12 +241,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Omen of Awakening",
-        "Type": "EXTRA",
+        "name": "Omen of Awakening [EX11-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX11/EX11-07.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX11",

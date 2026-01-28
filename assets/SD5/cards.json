@@ -3,8 +3,8 @@
         "id": "SD5-01",
         "face": {
             "front": {
-                "name": "Golden Great Ape Son Goku",
-                "type": "Leader",
+                "name": "Golden Great Ape Son Goku [SD5-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Long Odds SS4 Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD5/SD5-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Golden Great Ape Son Goku",
-        "Type": "LEADER",
+        "name": "Golden Great Ape Son Goku [SD5-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD5/SD5-01.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD5",
@@ -48,8 +49,8 @@
         "id": "SD5-02",
         "face": {
             "front": {
-                "name": "Power Charge Bardock",
-                "type": "Main_Deck",
+                "name": "Power Charge Bardock [SD5-02]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Power Charge Bardock",
-        "Type": "BATTLE",
+        "name": "Power Charge Bardock [SD5-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD5/SD5-02.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD5",
@@ -82,8 +84,8 @@
         "id": "SD5-03",
         "face": {
             "front": {
-                "name": "SSB Son Goku, at the Apex",
-                "type": "Main_Deck",
+                "name": "SSB Son Goku, at the Apex [SD5-03]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -91,12 +93,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Son Goku, at the Apex",
-        "Type": "BATTLE",
+        "name": "SSB Son Goku, at the Apex [SD5-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD5/SD5-03.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD5",
@@ -118,8 +121,8 @@
         "id": "SD5-04",
         "face": {
             "front": {
-                "name": "Reborn Might SS4 Son Goku",
-                "type": "Main_Deck",
+                "name": "Reborn Might SS4 Son Goku [SD5-04]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -127,12 +130,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Reborn Might SS4 Son Goku",
-        "Type": "BATTLE",
+        "name": "Reborn Might SS4 Son Goku [SD5-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD5/SD5-04.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD5",
@@ -154,8 +158,8 @@
         "id": "SD5-05",
         "face": {
             "front": {
-                "name": "Ultimate Potential SS2 Son Gohan",
-                "type": "Main_Deck",
+                "name": "Ultimate Potential SS2 Son Gohan [SD5-05]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -163,12 +167,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ultimate Potential SS2 Son Gohan",
-        "Type": "BATTLE",
+        "name": "Ultimate Potential SS2 Son Gohan [SD5-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD5/SD5-05.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD5",

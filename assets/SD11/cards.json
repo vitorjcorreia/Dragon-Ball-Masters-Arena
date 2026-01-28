@@ -3,8 +3,8 @@
         "id": "SD11-01",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [SD11-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Ultra Instinct Son Goku, Hero of Universe 7",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD11/SD11-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [SD11-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD11/SD11-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD11",
@@ -48,8 +49,8 @@
         "id": "SD11-02",
         "face": {
             "front": {
-                "name": "Friendly Rival Frieza",
-                "type": "Main_Deck",
+                "name": "Friendly Rival Frieza [SD11-02]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Friendly Rival Frieza",
-        "Type": "BATTLE",
+        "name": "Friendly Rival Frieza [SD11-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD11/SD11-02.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD11",
@@ -82,8 +84,8 @@
         "id": "SD11-03",
         "face": {
             "front": {
-                "name": "Ultra Instinct Son Goku, Universal Impulse",
-                "type": "Main_Deck",
+                "name": "Ultra Instinct Son Goku, Universal Impulse [SD11-03]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "16000",
                 "Energy_cost": "2",
@@ -91,12 +93,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ultra Instinct Son Goku, Universal Impulse",
-        "Type": "BATTLE",
+        "name": "Ultra Instinct Son Goku, Universal Impulse [SD11-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD11/SD11-03.webp",
         "Power": "16000",
         "Color": "Red/Blue",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD11",
@@ -117,8 +120,8 @@
         "id": "SD11-04",
         "face": {
             "front": {
-                "name": "SSB Vegeta, Steadfast Ally",
-                "type": "Main_Deck",
+                "name": "SSB Vegeta, Steadfast Ally [SD11-04]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -126,12 +129,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Vegeta, Steadfast Ally",
-        "Type": "BATTLE",
+        "name": "SSB Vegeta, Steadfast Ally [SD11-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD11/SD11-04.webp",
         "Power": "25000",
         "Color": "Red/Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD11",
@@ -153,8 +157,8 @@
         "id": "SD11-05",
         "face": {
             "front": {
-                "name": "We're in This Together!",
-                "type": "Main_Deck",
+                "name": "We're in This Together! [SD11-05]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": "",
                 "Energy_cost": "4",
@@ -162,12 +166,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "We're in This Together!",
-        "Type": "EXTRA",
+        "name": "We're in This Together! [SD11-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD11/SD11-05.webp",
         "Power": "",
         "Color": "Red/Blue",
+        "cost": "4",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD11",

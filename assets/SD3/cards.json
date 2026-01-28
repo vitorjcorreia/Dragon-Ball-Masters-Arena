@@ -3,8 +3,8 @@
         "id": "SD3-01",
         "face": {
             "front": {
-                "name": "The Masked Saiyan",
-                "type": "Leader",
+                "name": "The Masked Saiyan [SD3-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Bardock, Unbound by Darkness",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD3/SD3-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "The Masked Saiyan",
-        "Type": "LEADER",
+        "name": "The Masked Saiyan [SD3-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD3/SD3-01.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD3",
@@ -48,8 +49,8 @@
         "id": "SD3-02",
         "face": {
             "front": {
-                "name": "Killer Sword Trunks",
-                "type": "Main_Deck",
+                "name": "Killer Sword Trunks [SD3-02]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Killer Sword Trunks",
-        "Type": "BATTLE",
+        "name": "Killer Sword Trunks [SD3-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD3/SD3-02.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD3",
@@ -84,8 +86,8 @@
         "id": "SD3-03",
         "face": {
             "front": {
-                "name": "Quick blade Trunks",
-                "type": "Main_Deck",
+                "name": "Quick blade Trunks [SD3-03]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -93,12 +95,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Quick blade Trunks",
-        "Type": "BATTLE",
+        "name": "Quick blade Trunks [SD3-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD3/SD3-03.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD3",
@@ -119,8 +122,8 @@
         "id": "SD3-04",
         "face": {
             "front": {
-                "name": "Encroaching Threat Masked Saiyan",
-                "type": "Main_Deck",
+                "name": "Encroaching Threat Masked Saiyan [SD3-04]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -128,12 +131,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Encroaching Threat Masked Saiyan",
-        "Type": "BATTLE",
+        "name": "Encroaching Threat Masked Saiyan [SD3-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD3/SD3-04.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD3",
@@ -152,8 +156,8 @@
         "id": "SD3-05",
         "face": {
             "front": {
-                "name": "Power Aura Mira",
-                "type": "Main_Deck",
+                "name": "Power Aura Mira [SD3-05]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -161,12 +165,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Power Aura Mira",
-        "Type": "BATTLE",
+        "name": "Power Aura Mira [SD3-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD3/SD3-05.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD3",

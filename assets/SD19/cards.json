@@ -3,8 +3,8 @@
         "id": "SD19-01",
         "face": {
             "front": {
-                "name": "Gotenks",
-                "type": "Leader",
+                "name": "Gotenks [SD19-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "SS3 Gotenks, Extravagant Assault Returns",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Gotenks",
-        "Type": "LEADER",
+        "name": "Gotenks [SD19-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-01.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD19",
@@ -49,8 +50,8 @@
         "id": "SD19-02",
         "face": {
             "front": {
-                "name": "SS3 Gotenks, Warrior's Growth",
-                "type": "Z_Deck",
+                "name": "SS3 Gotenks, Warrior's Growth [SD19-02]",
+                "type": "Z-LEADER",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -58,12 +59,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Gotenks, Warrior's Growth",
-        "Type": "Z-LEADER",
+        "name": "SS3 Gotenks, Warrior's Growth [SD19-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-02.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD19",
@@ -89,8 +91,8 @@
         "id": "SD19-02_PR",
         "face": {
             "front": {
-                "name": "SS3 Gotenks, Warrior's Growth",
-                "type": "Z_Deck",
+                "name": "SS3 Gotenks, Warrior's Growth [SD19-02]",
+                "type": "Z-LEADER",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -98,12 +100,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Gotenks, Warrior's Growth",
-        "Type": "Z-LEADER",
+        "name": "SS3 Gotenks, Warrior's Growth [SD19-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-02_PR.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD19",
@@ -129,8 +132,8 @@
         "id": "SD19-02_PR2",
         "face": {
             "front": {
-                "name": "SS3 Gotenks, Warrior's Growth",
-                "type": "Z_Deck",
+                "name": "SS3 Gotenks, Warrior's Growth [SD19-02]",
+                "type": "Z-LEADER",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -138,12 +141,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Gotenks, Warrior's Growth",
-        "Type": "Z-LEADER",
+        "name": "SS3 Gotenks, Warrior's Growth [SD19-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-02_PR2.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD19",
@@ -169,8 +173,8 @@
         "id": "SD19-03",
         "face": {
             "front": {
-                "name": "SS3 Gogeta, Carefree Combatant ",
-                "type": "Main_Deck",
+                "name": "SS3 Gogeta, Carefree Combatant  [SD19-03]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -178,12 +182,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Gogeta, Carefree Combatant ",
-        "Type": "UNISON",
+        "name": "SS3 Gogeta, Carefree Combatant  [SD19-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-03.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "X",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD19",
@@ -205,8 +210,8 @@
         "id": "SD19-04",
         "face": {
             "front": {
-                "name": "SS3 Gotenks, Ultimate Rookie",
-                "type": "Main_Deck",
+                "name": "SS3 Gotenks, Ultimate Rookie [SD19-04]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -214,12 +219,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Gotenks, Ultimate Rookie",
-        "Type": "BATTLE",
+        "name": "SS3 Gotenks, Ultimate Rookie [SD19-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-04.webp",
         "Power": "30000",
         "Color": "Green",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD19",
@@ -245,8 +251,8 @@
         "id": "SD19-04_PR",
         "face": {
             "front": {
-                "name": "SS3 Gotenks, Ultimate Rookie",
-                "type": "Main_Deck",
+                "name": "SS3 Gotenks, Ultimate Rookie [SD19-04]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -254,12 +260,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Gotenks, Ultimate Rookie",
-        "Type": "BATTLE",
+        "name": "SS3 Gotenks, Ultimate Rookie [SD19-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-04_PR.webp",
         "Power": "30000",
         "Color": "Green",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD19",
@@ -285,8 +292,8 @@
         "id": "SD19-05",
         "face": {
             "front": {
-                "name": "Gotenks, Fusion Confusion",
-                "type": "Main_Deck",
+                "name": "Gotenks, Fusion Confusion [SD19-05]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -294,12 +301,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gotenks, Fusion Confusion",
-        "Type": "BATTLE",
+        "name": "Gotenks, Fusion Confusion [SD19-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD19/SD19-05.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD19",

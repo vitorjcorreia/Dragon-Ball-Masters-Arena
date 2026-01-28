@@ -3,8 +3,8 @@
         "id": "SD9-01",
         "face": {
             "front": {
-                "name": "King Vegeta",
-                "type": "Leader",
+                "name": "King Vegeta [SD9-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "King Vegeta, Leader of the Saiyans",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD9/SD9-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "King Vegeta",
-        "Type": "LEADER",
+        "name": "King Vegeta [SD9-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD9/SD9-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD9",
@@ -48,8 +49,8 @@
         "id": "SD9-02",
         "face": {
             "front": {
-                "name": "Raditz, Earth Invader",
-                "type": "Main_Deck",
+                "name": "Raditz, Earth Invader [SD9-02]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Raditz, Earth Invader",
-        "Type": "BATTLE",
+        "name": "Raditz, Earth Invader [SD9-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD9/SD9-02.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD9",
@@ -81,8 +83,8 @@
         "id": "SD9-03",
         "face": {
             "front": {
-                "name": "Vegeta, Royal Prince",
-                "type": "Main_Deck",
+                "name": "Vegeta, Royal Prince [SD9-03]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -90,12 +92,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Royal Prince",
-        "Type": "BATTLE",
+        "name": "Vegeta, Royal Prince [SD9-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD9/SD9-03.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD9",
@@ -116,8 +119,8 @@
         "id": "SD9-04",
         "face": {
             "front": {
-                "name": "Fated Kaio-Ken Son Goku",
-                "type": "Main_Deck",
+                "name": "Fated Kaio-Ken Son Goku [SD9-04]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -125,12 +128,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fated Kaio-Ken Son Goku",
-        "Type": "BATTLE",
+        "name": "Fated Kaio-Ken Son Goku [SD9-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD9/SD9-04.webp",
         "Power": "20000",
         "Color": "Red/Green",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD9",
@@ -155,8 +159,8 @@
         "id": "SD9-05",
         "face": {
             "front": {
-                "name": "King Vegeta's Dynasty",
-                "type": "Main_Deck",
+                "name": "King Vegeta's Dynasty [SD9-05]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -164,12 +168,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "King Vegeta's Dynasty",
-        "Type": "EXTRA",
+        "name": "King Vegeta's Dynasty [SD9-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD9/SD9-05.webp",
         "Power": "",
         "Color": "Red/Green",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD9",

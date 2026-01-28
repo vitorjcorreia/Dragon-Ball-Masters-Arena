@@ -3,8 +3,8 @@
         "id": "SD17-01",
         "face": {
             "front": {
-                "name": "Pan",
-                "type": "Leader",
+                "name": "Pan [SD17-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Pan, Ready to Fight Returns",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Pan",
-        "Type": "LEADER",
+        "name": "Pan [SD17-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -48,8 +49,8 @@
         "id": "SD17-01_PR",
         "face": {
             "front": {
-                "name": "Pan",
-                "type": "Leader",
+                "name": "Pan [SD17-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -58,19 +59,20 @@
             },
             "back": {
                 "name": "Pan, Ready to Fight Returns",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Pan",
-        "Type": "LEADER",
+        "name": "Pan [SD17-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-01_PR.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -92,8 +94,8 @@
         "id": "SD17-02",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z_Deck",
+                "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -101,12 +103,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Defender of Life",
-        "Type": "Z-BATTLE",
+        "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-02.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -131,8 +134,8 @@
         "id": "SD17-02_PR",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z_Deck",
+                "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -140,12 +143,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Defender of Life",
-        "Type": "Z-BATTLE",
+        "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-02_PR.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -170,8 +174,8 @@
         "id": "SD17-02_PR2",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z_Deck",
+                "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -179,12 +183,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Defender of Life",
-        "Type": "Z-BATTLE",
+        "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-02_PR2.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -209,8 +214,8 @@
         "id": "SD17-02_PR3",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z_Deck",
+                "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -218,12 +223,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Defender of Life",
-        "Type": "Z-BATTLE",
+        "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-02_PR3.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -248,8 +254,8 @@
         "id": "SD17-02_PR4",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z_Deck",
+                "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -257,12 +263,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Defender of Life",
-        "Type": "Z-BATTLE",
+        "name": "SS4 Son Goku, Defender of Life [SD17-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-02_PR4.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -287,8 +294,8 @@
         "id": "SD17-03",
         "face": {
             "front": {
-                "name": "Son Gohan, the Awakened",
-                "type": "Main_Deck",
+                "name": "Son Gohan, the Awakened [SD17-03]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -296,12 +303,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, the Awakened",
-        "Type": "UNISON",
+        "name": "Son Gohan, the Awakened [SD17-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-03.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "X",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD17",
@@ -321,8 +329,8 @@
         "id": "SD17-04",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Senses Returned",
-                "type": "Main_Deck",
+                "name": "SS4 Son Goku, Senses Returned [SD17-04]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -330,12 +338,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Senses Returned",
-        "Type": "BATTLE",
+        "name": "SS4 Son Goku, Senses Returned [SD17-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-04.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD17",
@@ -359,8 +368,8 @@
         "id": "SD17-05",
         "face": {
             "front": {
-                "name": "Pan, Wisher of Miracles",
-                "type": "Main_Deck",
+                "name": "Pan, Wisher of Miracles [SD17-05]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -368,12 +377,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan, Wisher of Miracles",
-        "Type": "BATTLE",
+        "name": "Pan, Wisher of Miracles [SD17-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD17/SD17-05.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD17",

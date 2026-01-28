@@ -3,8 +3,8 @@
         "id": "SD14-01",
         "face": {
             "front": {
-                "name": "Vegeta : Xeno & Trunks : Xeno",
-                "type": "Leader",
+                "name": "Vegeta : Xeno & Trunks : Xeno [SD14-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Vegeks, the Unsung Fusion Hero",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta : Xeno & Trunks : Xeno",
-        "Type": "LEADER",
+        "name": "Vegeta : Xeno & Trunks : Xeno [SD14-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-01.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD14",
@@ -52,8 +53,8 @@
         "id": "SD14-02",
         "face": {
             "front": {
-                "name": "SS Gotenks, Fusion of Friendship",
-                "type": "Main_Deck",
+                "name": "SS Gotenks, Fusion of Friendship [SD14-02]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "5000",
                 "Energy_cost": null,
@@ -61,12 +62,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Gotenks, Fusion of Friendship",
-        "Type": "UNISON",
+        "name": "SS Gotenks, Fusion of Friendship [SD14-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-02.webp",
         "Power": "5000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD14",
@@ -85,8 +87,8 @@
         "id": "SD14-03",
         "face": {
             "front": {
-                "name": "Time Agent Vegeta",
-                "type": "Main_Deck",
+                "name": "Time Agent Vegeta [SD14-03]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "19000",
                 "Energy_cost": "4",
@@ -94,12 +96,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Time Agent Vegeta",
-        "Type": "BATTLE",
+        "name": "Time Agent Vegeta [SD14-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-03.webp",
         "Power": "19000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD14",
@@ -122,8 +125,8 @@
         "id": "SD14-04",
         "face": {
             "front": {
-                "name": "Time Agent Trunks",
-                "type": "Main_Deck",
+                "name": "Time Agent Trunks [SD14-04]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "4000",
                 "Energy_cost": "3",
@@ -131,12 +134,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Time Agent Trunks",
-        "Type": "BATTLE",
+        "name": "Time Agent Trunks [SD14-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-04.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD14",
@@ -158,8 +162,8 @@
         "id": "SD14-05",
         "face": {
             "front": {
-                "name": "Supreme Kai of Time, Guardian of Spacetime",
-                "type": "Main_Deck",
+                "name": "Supreme Kai of Time, Guardian of Spacetime [SD14-05]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -167,12 +171,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Supreme Kai of Time, Guardian of Spacetime",
-        "Type": "BATTLE",
+        "name": "Supreme Kai of Time, Guardian of Spacetime [SD14-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-05.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD14",
@@ -191,8 +196,8 @@
         "id": "SD14-05_PR",
         "face": {
             "front": {
-                "name": "Supreme Kai of Time, Guardian of Spacetime",
-                "type": "Main_Deck",
+                "name": "Supreme Kai of Time, Guardian of Spacetime [SD14-05]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -200,12 +205,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Supreme Kai of Time, Guardian of Spacetime",
-        "Type": "BATTLE",
+        "name": "Supreme Kai of Time, Guardian of Spacetime [SD14-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-05_PR.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD14",
@@ -224,8 +230,8 @@
         "id": "SD14-05_PR2",
         "face": {
             "front": {
-                "name": "Supreme Kai of Time, Guardian of Spacetime",
-                "type": "Main_Deck",
+                "name": "Supreme Kai of Time, Guardian of Spacetime [SD14-05]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -233,12 +239,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Supreme Kai of Time, Guardian of Spacetime",
-        "Type": "BATTLE",
+        "name": "Supreme Kai of Time, Guardian of Spacetime [SD14-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD14/SD14-05_PR2.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD14",

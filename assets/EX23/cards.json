@@ -3,8 +3,8 @@
         "id": "EX23-01",
         "face": {
             "front": {
-                "name": "Golden Cooler, Revenging Final Form",
-                "type": "Z_Deck",
+                "name": "Golden Cooler, Revenging Final Form [EX23-01]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -12,12 +12,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Golden Cooler, Revenging Final Form",
-        "Type": "Z-LEADER",
+        "name": "Golden Cooler, Revenging Final Form [EX23-01]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-01.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -39,8 +40,8 @@
         "id": "EX23-02",
         "face": {
             "front": {
-                "name": "Jiren, Righteous Pride Trooper",
-                "type": "Z_Deck",
+                "name": "Jiren, Righteous Pride Trooper [EX23-02]",
+                "type": "Z-BATTLE",
                 "cost": "3",
                 "power": "19000",
                 "Energy_cost": "3",
@@ -48,12 +49,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Jiren, Righteous Pride Trooper",
-        "Type": "Z-BATTLE",
+        "name": "Jiren, Righteous Pride Trooper [EX23-02]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-02.webp",
         "Power": "19000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -76,8 +78,8 @@
         "id": "EX23-03",
         "face": {
             "front": {
-                "name": "10x Kamehameha, Mighty Blast",
-                "type": "Z_Deck",
+                "name": "10x Kamehameha, Mighty Blast [EX23-03]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -85,12 +87,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "10x Kamehameha, Mighty Blast",
-        "Type": "Z-EXTRA",
+        "name": "10x Kamehameha, Mighty Blast [EX23-03]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-03.webp",
         "Power": null,
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -105,8 +108,8 @@
         "id": "EX23-04",
         "face": {
             "front": {
-                "name": "Frieza, True Form and Power",
-                "type": "Main_Deck",
+                "name": "Frieza, True Form and Power [EX23-04]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -114,12 +117,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, True Form and Power",
-        "Type": "BATTLE",
+        "name": "Frieza, True Form and Power [EX23-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-04.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -141,8 +145,8 @@
         "id": "EX23-05",
         "face": {
             "front": {
-                "name": "Son Goku, Unmatched by the Gods",
-                "type": "Main_Deck",
+                "name": "Son Goku, Unmatched by the Gods [EX23-05]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -150,12 +154,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Unmatched by the Gods",
-        "Type": "BATTLE",
+        "name": "Son Goku, Unmatched by the Gods [EX23-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-05.webp",
         "Power": "30000",
         "Color": "Red",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -180,8 +185,8 @@
         "id": "EX23-06",
         "face": {
             "front": {
-                "name": "Android 18, Temporary Partner",
-                "type": "Main_Deck",
+                "name": "Android 18, Temporary Partner [EX23-06]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -189,12 +194,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Temporary Partner",
-        "Type": "BATTLE",
+        "name": "Android 18, Temporary Partner [EX23-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-06.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "1000",
         "Series": "EX23",
@@ -215,8 +221,8 @@
         "id": "EX23-07",
         "face": {
             "front": {
-                "name": "Android 17, Temporary Partner",
-                "type": "Main_Deck",
+                "name": "Android 17, Temporary Partner [EX23-07]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -224,12 +230,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Temporary Partner",
-        "Type": "BATTLE",
+        "name": "Android 17, Temporary Partner [EX23-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-07.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -252,8 +259,8 @@
         "id": "EX23-08",
         "face": {
             "front": {
-                "name": "Dyspo, Sonic Dimension",
-                "type": "Main_Deck",
+                "name": "Dyspo, Sonic Dimension [EX23-08]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -261,12 +268,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dyspo, Sonic Dimension",
-        "Type": "BATTLE",
+        "name": "Dyspo, Sonic Dimension [EX23-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-08.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -290,8 +298,8 @@
         "id": "EX23-09",
         "face": {
             "front": {
-                "name": "Pan, Grandfather's Strength",
-                "type": "Main_Deck",
+                "name": "Pan, Grandfather's Strength [EX23-09]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -299,12 +307,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan, Grandfather's Strength",
-        "Type": "BATTLE",
+        "name": "Pan, Grandfather's Strength [EX23-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-09.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -326,8 +335,8 @@
         "id": "EX23-09_PR",
         "face": {
             "front": {
-                "name": "Pan, Grandfather's Strength",
-                "type": "Main_Deck",
+                "name": "Pan, Grandfather's Strength [EX23-09]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -335,12 +344,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan, Grandfather's Strength",
-        "Type": "BATTLE",
+        "name": "Pan, Grandfather's Strength [EX23-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-09_PR.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -362,8 +372,8 @@
         "id": "EX23-10",
         "face": {
             "front": {
-                "name": "SSB Gogeta, Miraculous Strongest Warrior",
-                "type": "Z_Deck",
+                "name": "SSB Gogeta, Miraculous Strongest Warrior [EX23-10]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -371,12 +381,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Gogeta, Miraculous Strongest Warrior",
-        "Type": "Z-LEADER",
+        "name": "SSB Gogeta, Miraculous Strongest Warrior [EX23-10]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-10.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -400,8 +411,8 @@
         "id": "EX23-11",
         "face": {
             "front": {
-                "name": "Son Goku & Vegeta, Pre-Fusion Warriors",
-                "type": "Z_Deck",
+                "name": "Son Goku & Vegeta, Pre-Fusion Warriors [EX23-11]",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -409,12 +420,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku & Vegeta, Pre-Fusion Warriors",
-        "Type": "Z-BATTLE",
+        "name": "Son Goku & Vegeta, Pre-Fusion Warriors [EX23-11]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-11.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -437,8 +449,8 @@
         "id": "EX23-12",
         "face": {
             "front": {
-                "name": "Black Kamehameha, Mighty Blast",
-                "type": "Z_Deck",
+                "name": "Black Kamehameha, Mighty Blast [EX23-12]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -446,12 +458,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Black Kamehameha, Mighty Blast",
-        "Type": "Z-EXTRA",
+        "name": "Black Kamehameha, Mighty Blast [EX23-12]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-12.webp",
         "Power": null,
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -467,8 +480,8 @@
         "id": "EX23-13",
         "face": {
             "front": {
-                "name": "SS Son Goku, Another World Technique",
-                "type": "Main_Deck",
+                "name": "SS Son Goku, Another World Technique [EX23-13]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -476,12 +489,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku, Another World Technique",
-        "Type": "BATTLE",
+        "name": "SS Son Goku, Another World Technique [EX23-13]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-13.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -504,8 +518,8 @@
         "id": "EX23-14",
         "face": {
             "front": {
-                "name": "Paikuhan, Another World Technique",
-                "type": "Main_Deck",
+                "name": "Paikuhan, Another World Technique [EX23-14]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "5000",
                 "Energy_cost": "3",
@@ -513,12 +527,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Paikuhan, Another World Technique",
-        "Type": "BATTLE",
+        "name": "Paikuhan, Another World Technique [EX23-14]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-14.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -540,8 +555,8 @@
         "id": "EX23-15",
         "face": {
             "front": {
-                "name": "SS Gogeta, Birth of the Strongest Warrior",
-                "type": "Main_Deck",
+                "name": "SS Gogeta, Birth of the Strongest Warrior [EX23-15]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -549,12 +564,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Gogeta, Birth of the Strongest Warrior",
-        "Type": "BATTLE",
+        "name": "SS Gogeta, Birth of the Strongest Warrior [EX23-15]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-15.webp",
         "Power": "25000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -579,8 +595,8 @@
         "id": "EX23-16",
         "face": {
             "front": {
-                "name": "SSB Vegito, Enveloped in Fighting Spirit",
-                "type": "Main_Deck",
+                "name": "SSB Vegito, Enveloped in Fighting Spirit [EX23-16]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -588,12 +604,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Vegito, Enveloped in Fighting Spirit",
-        "Type": "BATTLE",
+        "name": "SSB Vegito, Enveloped in Fighting Spirit [EX23-16]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-16.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -617,8 +634,8 @@
         "id": "EX23-17",
         "face": {
             "front": {
-                "name": "SS Trunks, Sword Connecting the Future",
-                "type": "Main_Deck",
+                "name": "SS Trunks, Sword Connecting the Future [EX23-17]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -626,12 +643,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Trunks, Sword Connecting the Future",
-        "Type": "BATTLE",
+        "name": "SS Trunks, Sword Connecting the Future [EX23-17]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-17.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -654,8 +672,8 @@
         "id": "EX23-18",
         "face": {
             "front": {
-                "name": "Mai, Bearer of Hope",
-                "type": "Main_Deck",
+                "name": "Mai, Bearer of Hope [EX23-18]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -663,12 +681,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mai, Bearer of Hope",
-        "Type": "BATTLE",
+        "name": "Mai, Bearer of Hope [EX23-18]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-18.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -689,8 +708,8 @@
         "id": "EX23-19",
         "face": {
             "front": {
-                "name": "Turles, Fiercer Rampage",
-                "type": "Z_Deck",
+                "name": "Turles, Fiercer Rampage [EX23-19]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -698,12 +717,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Turles, Fiercer Rampage",
-        "Type": "Z-LEADER",
+        "name": "Turles, Fiercer Rampage [EX23-19]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-19.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -729,8 +749,8 @@
         "id": "EX23-20",
         "face": {
             "front": {
-                "name": "Pan, Believing in Her Grandfather",
-                "type": "Z_Deck",
+                "name": "Pan, Believing in Her Grandfather [EX23-20]",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -738,12 +758,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan, Believing in Her Grandfather",
-        "Type": "Z-BATTLE",
+        "name": "Pan, Believing in Her Grandfather [EX23-20]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-20.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -766,8 +787,8 @@
         "id": "EX23-21",
         "face": {
             "front": {
-                "name": "Limit Ultra Kamehameha, Mighty Blast",
-                "type": "Z_Deck",
+                "name": "Limit Ultra Kamehameha, Mighty Blast [EX23-21]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -775,12 +796,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Limit Ultra Kamehameha, Mighty Blast",
-        "Type": "Z-EXTRA",
+        "name": "Limit Ultra Kamehameha, Mighty Blast [EX23-21]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-21.webp",
         "Power": null,
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -795,8 +817,8 @@
         "id": "EX23-22",
         "face": {
             "front": {
-                "name": "Turles, Meteor Burst",
-                "type": "Main_Deck",
+                "name": "Turles, Meteor Burst [EX23-22]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -804,12 +826,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Turles, Meteor Burst",
-        "Type": "BATTLE",
+        "name": "Turles, Meteor Burst [EX23-22]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-22.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -831,8 +854,8 @@
         "id": "EX23-23",
         "face": {
             "front": {
-                "name": "Cacao, Strongest Crusher in the Universe",
-                "type": "Main_Deck",
+                "name": "Cacao, Strongest Crusher in the Universe [EX23-23]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -840,12 +863,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cacao, Strongest Crusher in the Universe",
-        "Type": "BATTLE",
+        "name": "Cacao, Strongest Crusher in the Universe [EX23-23]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-23.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "3000",
         "Series": "EX23",
@@ -866,8 +890,8 @@
         "id": "EX23-24",
         "face": {
             "front": {
-                "name": "Son Goku, a Sign of Strength",
-                "type": "Main_Deck",
+                "name": "Son Goku, a Sign of Strength [EX23-24]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -875,12 +899,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, a Sign of Strength",
-        "Type": "BATTLE",
+        "name": "Son Goku, a Sign of Strength [EX23-24]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-24.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -902,8 +927,8 @@
         "id": "EX23-25",
         "face": {
             "front": {
-                "name": "Super 17, Wicked Hell Machine",
-                "type": "Main_Deck",
+                "name": "Super 17, Wicked Hell Machine [EX23-25]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -911,12 +936,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super 17, Wicked Hell Machine",
-        "Type": "BATTLE",
+        "name": "Super 17, Wicked Hell Machine [EX23-25]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-25.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -939,8 +965,8 @@
         "id": "EX23-26",
         "face": {
             "front": {
-                "name": "Hell Fighter 17, Desired Fusion",
-                "type": "Main_Deck",
+                "name": "Hell Fighter 17, Desired Fusion [EX23-26]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "10000",
                 "Energy_cost": "4",
@@ -948,12 +974,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hell Fighter 17, Desired Fusion",
-        "Type": "BATTLE",
+        "name": "Hell Fighter 17, Desired Fusion [EX23-26]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-26.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -979,8 +1006,8 @@
         "id": "EX23-27",
         "face": {
             "front": {
-                "name": "Android 17, Forced Fusions",
-                "type": "Main_Deck",
+                "name": "Android 17, Forced Fusions [EX23-27]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -988,12 +1015,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Forced Fusions",
-        "Type": "BATTLE",
+        "name": "Android 17, Forced Fusions [EX23-27]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-27.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1013,8 +1041,8 @@
         "id": "EX23-28",
         "face": {
             "front": {
-                "name": "Omega Shenron, Collected Minus Energy",
-                "type": "Z_Deck",
+                "name": "Omega Shenron, Collected Minus Energy [EX23-28]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "20000",
                 "Energy_cost": null,
@@ -1022,12 +1050,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Omega Shenron, Collected Minus Energy",
-        "Type": "Z-LEADER",
+        "name": "Omega Shenron, Collected Minus Energy [EX23-28]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-28.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -1050,8 +1079,8 @@
         "id": "EX23-29",
         "face": {
             "front": {
-                "name": "Son Gohan, Rookie Support",
-                "type": "Z_Deck",
+                "name": "Son Gohan, Rookie Support [EX23-29]",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -1059,12 +1088,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Rookie Support",
-        "Type": "Z-BATTLE",
+        "name": "Son Gohan, Rookie Support [EX23-29]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-29.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -1087,8 +1117,8 @@
         "id": "EX23-30",
         "face": {
             "front": {
-                "name": "20x Kaio-ken Kamehameha, Mighty Blast",
-                "type": "Z_Deck",
+                "name": "20x Kaio-ken Kamehameha, Mighty Blast [EX23-30]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -1096,12 +1126,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "20x Kaio-ken Kamehameha, Mighty Blast",
-        "Type": "Z-EXTRA",
+        "name": "20x Kaio-ken Kamehameha, Mighty Blast [EX23-30]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-30.webp",
         "Power": null,
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -1117,8 +1148,8 @@
         "id": "EX23-31",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Dragon Fist Strategy",
-                "type": "Main_Deck",
+                "name": "SS4 Son Goku, Dragon Fist Strategy [EX23-31]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -1126,12 +1157,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Dragon Fist Strategy",
-        "Type": "BATTLE",
+        "name": "SS4 Son Goku, Dragon Fist Strategy [EX23-31]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-31.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1153,8 +1185,8 @@
         "id": "EX23-32",
         "face": {
             "front": {
-                "name": "Trunks, Fighting Support",
-                "type": "Main_Deck",
+                "name": "Trunks, Fighting Support [EX23-32]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1162,12 +1194,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Trunks, Fighting Support",
-        "Type": "BATTLE",
+        "name": "Trunks, Fighting Support [EX23-32]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-32.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1191,8 +1224,8 @@
         "id": "EX23-33",
         "face": {
             "front": {
-                "name": "Son Goten & Trunks, Classic Boy Team-up",
-                "type": "Main_Deck",
+                "name": "Son Goten & Trunks, Classic Boy Team-up [EX23-33]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1200,12 +1233,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goten & Trunks, Classic Boy Team-up",
-        "Type": "BATTLE",
+        "name": "Son Goten & Trunks, Classic Boy Team-up [EX23-33]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-33.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1228,8 +1262,8 @@
         "id": "EX23-34",
         "face": {
             "front": {
-                "name": "Nuova Shenron, Military Spirit",
-                "type": "Main_Deck",
+                "name": "Nuova Shenron, Military Spirit [EX23-34]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -1237,12 +1271,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Nuova Shenron, Military Spirit",
-        "Type": "BATTLE",
+        "name": "Nuova Shenron, Military Spirit [EX23-34]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-34.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1266,8 +1301,8 @@
         "id": "EX23-35",
         "face": {
             "front": {
-                "name": "Oceanus Shenron, Spin Technique",
-                "type": "Main_Deck",
+                "name": "Oceanus Shenron, Spin Technique [EX23-35]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -1275,12 +1310,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Oceanus Shenron, Spin Technique",
-        "Type": "BATTLE",
+        "name": "Oceanus Shenron, Spin Technique [EX23-35]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-35.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1303,8 +1339,8 @@
         "id": "EX23-36",
         "face": {
             "front": {
-                "name": "SS3 Gotenks, Overwhelming Power",
-                "type": "Main_Deck",
+                "name": "SS3 Gotenks, Overwhelming Power [EX23-36]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -1312,12 +1348,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Gotenks, Overwhelming Power",
-        "Type": "BATTLE",
+        "name": "SS3 Gotenks, Overwhelming Power [EX23-36]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-36.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1341,8 +1378,8 @@
         "id": "EX23-37",
         "face": {
             "front": {
-                "name": "Dark King Mechikabura, Time Power Revival",
-                "type": "Z_Deck",
+                "name": "Dark King Mechikabura, Time Power Revival [EX23-37]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "20000",
                 "Energy_cost": null,
@@ -1350,12 +1387,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dark King Mechikabura, Time Power Revival",
-        "Type": "Z-LEADER",
+        "name": "Dark King Mechikabura, Time Power Revival [EX23-37]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-37.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -1378,8 +1416,8 @@
         "id": "EX23-38",
         "face": {
             "front": {
-                "name": "First Kamehameha, Mighty Blast",
-                "type": "Z_Deck",
+                "name": "First Kamehameha, Mighty Blast [EX23-38]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -1387,12 +1425,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "First Kamehameha, Mighty Blast",
-        "Type": "Z-EXTRA",
+        "name": "First Kamehameha, Mighty Blast [EX23-38]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-38.webp",
         "Power": null,
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -1407,8 +1446,8 @@
         "id": "EX23-39",
         "face": {
             "front": {
-                "name": "Demigra, Tokitoki in Hand",
-                "type": "Main_Deck",
+                "name": "Demigra, Tokitoki in Hand [EX23-39]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "5000",
                 "Energy_cost": "3",
@@ -1416,12 +1455,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Demigra, Tokitoki in Hand",
-        "Type": "BATTLE",
+        "name": "Demigra, Tokitoki in Hand [EX23-39]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-39.webp",
         "Power": "5000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1445,8 +1485,8 @@
         "id": "EX23-40",
         "face": {
             "front": {
-                "name": "Demon God Putine & Demon God Gravy, Henchmen Strength",
-                "type": "Main_Deck",
+                "name": "Demon God Putine & Demon God Gravy, Henchmen Strength [EX23-40]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1454,12 +1494,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Demon God Putine & Demon God Gravy, Henchmen Strength",
-        "Type": "BATTLE",
+        "name": "Demon God Putine & Demon God Gravy, Henchmen Strength [EX23-40]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-40.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1481,8 +1522,8 @@
         "id": "EX23-41",
         "face": {
             "front": {
-                "name": "Demon God Shroom, Dark Royalty",
-                "type": "Main_Deck",
+                "name": "Demon God Shroom, Dark Royalty [EX23-41]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1490,12 +1531,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Demon God Shroom, Dark Royalty",
-        "Type": "BATTLE",
+        "name": "Demon God Shroom, Dark Royalty [EX23-41]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-41.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1518,8 +1560,8 @@
         "id": "EX23-42",
         "face": {
             "front": {
-                "name": "Transcended Shroom & Transcended Salsa, Strategy for the Ultimate Form",
-                "type": "Main_Deck",
+                "name": "Transcended Shroom & Transcended Salsa, Strategy for the Ultimate Form [EX23-42]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -1527,12 +1569,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Transcended Shroom & Transcended Salsa, Strategy for the Ultimate Form",
-        "Type": "BATTLE",
+        "name": "Transcended Shroom & Transcended Salsa, Strategy for the Ultimate Form [EX23-42]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-42.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1556,8 +1599,8 @@
         "id": "EX23-43",
         "face": {
             "front": {
-                "name": "Demon God Salsa, Dark Royalty",
-                "type": "Main_Deck",
+                "name": "Demon God Salsa, Dark Royalty [EX23-43]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1565,12 +1608,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Demon God Salsa, Dark Royalty",
-        "Type": "BATTLE",
+        "name": "Demon God Salsa, Dark Royalty [EX23-43]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-43.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1593,8 +1637,8 @@
         "id": "EX23-44",
         "face": {
             "front": {
-                "name": "Dark King Mechikabura, Demon Realm Invasion",
-                "type": "Main_Deck",
+                "name": "Dark King Mechikabura, Demon Realm Invasion [EX23-44]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -1602,12 +1646,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dark King Mechikabura, Demon Realm Invasion",
-        "Type": "BATTLE",
+        "name": "Dark King Mechikabura, Demon Realm Invasion [EX23-44]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-44.webp",
         "Power": "30000",
         "Color": "Black",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1632,8 +1677,8 @@
         "id": "EX23-45",
         "face": {
             "front": {
-                "name": "SS4 Son Goku & SS4 Vegeta, Radiant Fusion",
-                "type": "Z_Deck",
+                "name": "SS4 Son Goku & SS4 Vegeta, Radiant Fusion [EX23-45]",
+                "type": "Z-BATTLE",
                 "cost": "3",
                 "power": "16000",
                 "Energy_cost": "3",
@@ -1641,12 +1686,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku & SS4 Vegeta, Radiant Fusion",
-        "Type": "Z-BATTLE",
+        "name": "SS4 Son Goku & SS4 Vegeta, Radiant Fusion [EX23-45]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-45.webp",
         "Power": "16000",
         "Color": "Green/Black",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX23",
@@ -1671,8 +1717,8 @@
         "id": "EX23-46",
         "face": {
             "front": {
-                "name": "Android 16, Determined Moment",
-                "type": "Main_Deck",
+                "name": "Android 16, Determined Moment [EX23-46]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -1680,12 +1726,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16, Determined Moment",
-        "Type": "BATTLE",
+        "name": "Android 16, Determined Moment [EX23-46]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-46.webp",
         "Power": "25000",
         "Color": "Blue/Green",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX23",
@@ -1709,8 +1756,8 @@
         "id": "EX23-47",
         "face": {
             "front": {
-                "name": "Android 16, a Determined Choice",
-                "type": "Main_Deck",
+                "name": "Android 16, a Determined Choice [EX23-47]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1718,12 +1765,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16, a Determined Choice",
-        "Type": "BATTLE",
+        "name": "Android 16, a Determined Choice [EX23-47]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-47.webp",
         "Power": "20000",
         "Color": "Blue/Green",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1747,8 +1795,8 @@
         "id": "EX23-48",
         "face": {
             "front": {
-                "name": "Cooler, Vengeful Final Form",
-                "type": "Main_Deck",
+                "name": "Cooler, Vengeful Final Form [EX23-48]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -1756,12 +1804,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cooler, Vengeful Final Form",
-        "Type": "BATTLE",
+        "name": "Cooler, Vengeful Final Form [EX23-48]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-48.webp",
         "Power": "25000",
         "Color": "Red/Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX23",
@@ -1787,8 +1836,8 @@
         "id": "EX23-49",
         "face": {
             "front": {
-                "name": "SS4 Bardock, Prismatic Radiance",
-                "type": "Main_Deck",
+                "name": "SS4 Bardock, Prismatic Radiance [EX23-49]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "16000",
                 "Energy_cost": "2",
@@ -1796,12 +1845,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Bardock, Prismatic Radiance",
-        "Type": "BATTLE",
+        "name": "SS4 Bardock, Prismatic Radiance [EX23-49]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-49.webp",
         "Power": "16000",
         "Color": "Red/Black",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1824,8 +1874,8 @@
         "id": "EX23-50",
         "face": {
             "front": {
-                "name": "SS4 Vegeta, Prismatic Radiance",
-                "type": "Main_Deck",
+                "name": "SS4 Vegeta, Prismatic Radiance [EX23-50]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "16000",
                 "Energy_cost": "2",
@@ -1833,12 +1883,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Vegeta, Prismatic Radiance",
-        "Type": "BATTLE",
+        "name": "SS4 Vegeta, Prismatic Radiance [EX23-50]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-50.webp",
         "Power": "16000",
         "Color": "Blue/Black",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1860,8 +1911,8 @@
         "id": "EX23-51",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Prismatic Radiance",
-                "type": "Main_Deck",
+                "name": "SS4 Son Goku, Prismatic Radiance [EX23-51]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "16000",
                 "Energy_cost": "2",
@@ -1869,12 +1920,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Prismatic Radiance",
-        "Type": "BATTLE",
+        "name": "SS4 Son Goku, Prismatic Radiance [EX23-51]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-51.webp",
         "Power": "16000",
         "Color": "Yellow/Black",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EX23",
@@ -1897,8 +1949,8 @@
         "id": "EX23-52",
         "face": {
             "front": {
-                "name": "Son Goku, Final Spirit Bomb",
-                "type": "Main_Deck",
+                "name": "Son Goku, Final Spirit Bomb [EX23-52]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -1906,12 +1958,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Final Spirit Bomb",
-        "Type": "BATTLE",
+        "name": "Son Goku, Final Spirit Bomb [EX23-52]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-52.webp",
         "Power": "40000",
         "Color": "Black",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX23",
@@ -1933,8 +1986,8 @@
         "id": "EX23-52_PR",
         "face": {
             "front": {
-                "name": "Son Goku, Final Spirit Bomb",
-                "type": "Main_Deck",
+                "name": "Son Goku, Final Spirit Bomb [EX23-52]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -1942,12 +1995,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Final Spirit Bomb",
-        "Type": "BATTLE",
+        "name": "Son Goku, Final Spirit Bomb [EX23-52]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX23/EX23-52_PR.webp",
         "Power": "40000",
         "Color": "Black",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX23",

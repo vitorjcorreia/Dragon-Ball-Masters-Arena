@@ -3,8 +3,8 @@
         "id": "EX20-01",
         "face": {
             "front": {
-                "name": "Cell",
-                "type": "Leader",
+                "name": "Cell [EX20-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Cell, Return of the Ultimate Lifeform",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Cell",
-        "Type": "LEADER",
+        "name": "Cell [EX20-01]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-01.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX20",
@@ -48,8 +49,8 @@
         "id": "EX20-01_PR",
         "face": {
             "front": {
-                "name": "Cell",
-                "type": "Leader",
+                "name": "Cell [EX20-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -58,19 +59,20 @@
             },
             "back": {
                 "name": "Cell, Return of the Ultimate Lifeform",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Cell",
-        "Type": "LEADER",
+        "name": "Cell [EX20-01]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-01_PR.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX20",
@@ -91,8 +93,8 @@
         "id": "EX20-02",
         "face": {
             "front": {
-                "name": "Dr. Gero, Evil's Activation",
-                "type": "Main_Deck",
+                "name": "Dr. Gero, Evil's Activation [EX20-02]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "5000",
                 "Energy_cost": "X",
@@ -100,12 +102,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Gero, Evil's Activation",
-        "Type": "UNISON",
+        "name": "Dr. Gero, Evil's Activation [EX20-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-02.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "X",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX20",
@@ -122,8 +125,8 @@
         "id": "EX20-03",
         "face": {
             "front": {
-                "name": "Android 17, Absorption Imminent",
-                "type": "Main_Deck",
+                "name": "Android 17, Absorption Imminent [EX20-03]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -131,12 +134,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Absorption Imminent",
-        "Type": "BATTLE",
+        "name": "Android 17, Absorption Imminent [EX20-03]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-03.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX20",
@@ -156,8 +160,8 @@
         "id": "EX20-04",
         "face": {
             "front": {
-                "name": "Android 17 & Android 18, Absorption Imminent",
-                "type": "Main_Deck",
+                "name": "Android 17 & Android 18, Absorption Imminent [EX20-04]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -165,12 +169,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17 & Android 18, Absorption Imminent",
-        "Type": "BATTLE",
+        "name": "Android 17 & Android 18, Absorption Imminent [EX20-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-04.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX20",
@@ -194,8 +199,8 @@
         "id": "EX20-05",
         "face": {
             "front": {
-                "name": "Android 18, Absorption Imminent",
-                "type": "Main_Deck",
+                "name": "Android 18, Absorption Imminent [EX20-05]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -203,12 +208,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Absorption Imminent",
-        "Type": "BATTLE",
+        "name": "Android 18, Absorption Imminent [EX20-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-05.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX20",
@@ -228,8 +234,8 @@
         "id": "EX20-06",
         "face": {
             "front": {
-                "name": "Cell, Startling Assimilation",
-                "type": "Main_Deck",
+                "name": "Cell, Startling Assimilation [EX20-06]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -237,12 +243,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Startling Assimilation",
-        "Type": "BATTLE",
+        "name": "Cell, Startling Assimilation [EX20-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-06.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX20",
@@ -264,8 +271,8 @@
         "id": "EX20-07",
         "face": {
             "front": {
-                "name": "Cell, Absorption Onslaught",
-                "type": "Main_Deck",
+                "name": "Cell, Absorption Onslaught [EX20-07]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -273,12 +280,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Absorption Onslaught",
-        "Type": "BATTLE",
+        "name": "Cell, Absorption Onslaught [EX20-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-07.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX20",
@@ -300,8 +308,8 @@
         "id": "EX20-08",
         "face": {
             "front": {
-                "name": "Wretched Regeneration",
-                "type": "Main_Deck",
+                "name": "Wretched Regeneration [EX20-08]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -309,12 +317,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Wretched Regeneration",
-        "Type": "EXTRA",
+        "name": "Wretched Regeneration [EX20-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-08.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX20",
@@ -330,8 +339,8 @@
         "id": "EX20-09",
         "face": {
             "front": {
-                "name": "Cell, Unending Torrent",
-                "type": "Main_Deck",
+                "name": "Cell, Unending Torrent [EX20-09]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "20000",
                 "Energy_cost": "8",
@@ -339,12 +348,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Unending Torrent",
-        "Type": "BATTLE",
+        "name": "Cell, Unending Torrent [EX20-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-09.webp",
         "Power": "20000",
         "Color": "Green/Yellow",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX20",
@@ -368,8 +378,8 @@
         "id": "EX20-10",
         "face": {
             "front": {
-                "name": "Cell, Dawn of Despair",
-                "type": "Main_Deck",
+                "name": "Cell, Dawn of Despair [EX20-10]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "16000",
                 "Energy_cost": "4",
@@ -377,12 +387,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Dawn of Despair",
-        "Type": "BATTLE",
+        "name": "Cell, Dawn of Despair [EX20-10]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX20/EX20-10.webp",
         "Power": "16000",
         "Color": "Green/Yellow",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX20",

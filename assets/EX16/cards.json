@@ -3,8 +3,8 @@
         "id": "EX16-01",
         "face": {
             "front": {
-                "name": "Towa",
-                "type": "Leader",
+                "name": "Towa [EX16-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Towa & Mechikabura, Dark Conjurers",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Towa",
-        "Type": "LEADER",
+        "name": "Towa [EX16-01]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-01.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX16",
@@ -48,8 +49,8 @@
         "id": "EX16-02",
         "face": {
             "front": {
-                "name": "Dark Shenron, Tyrannical Savior",
-                "type": "Main_Deck",
+                "name": "Dark Shenron, Tyrannical Savior [EX16-02]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "16000",
                 "Energy_cost": null,
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dark Shenron, Tyrannical Savior",
-        "Type": "UNISON",
+        "name": "Dark Shenron, Tyrannical Savior [EX16-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-02.webp",
         "Power": "16000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX16",
@@ -81,8 +83,8 @@
         "id": "EX16-03",
         "face": {
             "front": {
-                "name": "Dark Broly, Unbridled Destruction",
-                "type": "Main_Deck",
+                "name": "Dark Broly, Unbridled Destruction [EX16-03]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "30000",
                 "Energy_cost": "7",
@@ -90,12 +92,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dark Broly, Unbridled Destruction",
-        "Type": "BATTLE",
+        "name": "Dark Broly, Unbridled Destruction [EX16-03]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-03.webp",
         "Power": "30000",
         "Color": "Red",
+        "cost": "7",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX16",
@@ -118,8 +121,8 @@
         "id": "EX16-04",
         "face": {
             "front": {
-                "name": "Dark Broly, the Shadow Warrior",
-                "type": "Main_Deck",
+                "name": "Dark Broly, the Shadow Warrior [EX16-04]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -127,12 +130,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dark Broly, the Shadow Warrior",
-        "Type": "BATTLE",
+        "name": "Dark Broly, the Shadow Warrior [EX16-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-04.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX16",
@@ -152,8 +156,8 @@
         "id": "EX16-05",
         "face": {
             "front": {
-                "name": "Janemba, the Shadow Warrior",
-                "type": "Main_Deck",
+                "name": "Janemba, the Shadow Warrior [EX16-05]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -161,12 +165,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Janemba, the Shadow Warrior",
-        "Type": "BATTLE",
+        "name": "Janemba, the Shadow Warrior [EX16-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-05.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX16",
@@ -185,8 +190,8 @@
         "id": "EX16-06",
         "face": {
             "front": {
-                "name": "Frieza, the Shadow Warrior",
-                "type": "Main_Deck",
+                "name": "Frieza, the Shadow Warrior [EX16-06]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -194,12 +199,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, the Shadow Warrior",
-        "Type": "BATTLE",
+        "name": "Frieza, the Shadow Warrior [EX16-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-06.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX16",
@@ -222,8 +228,8 @@
         "id": "EX16-07",
         "face": {
             "front": {
-                "name": "Majin Buu, the Shadow Warrior",
-                "type": "Main_Deck",
+                "name": "Majin Buu, the Shadow Warrior [EX16-07]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -231,12 +237,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu, the Shadow Warrior",
-        "Type": "BATTLE",
+        "name": "Majin Buu, the Shadow Warrior [EX16-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-07.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX16",
@@ -258,8 +265,8 @@
         "id": "EX16-08",
         "face": {
             "front": {
-                "name": "Lord Slug, the Shadow Warrior",
-                "type": "Main_Deck",
+                "name": "Lord Slug, the Shadow Warrior [EX16-08]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -267,12 +274,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Lord Slug, the Shadow Warrior",
-        "Type": "BATTLE",
+        "name": "Lord Slug, the Shadow Warrior [EX16-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-08.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX16",
@@ -294,8 +302,8 @@
         "id": "EX16-09",
         "face": {
             "front": {
-                "name": "Dark Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Dark Dragon Balls [EX16-09]",
+                "type": "EXTRA",
                 "cost": "0",
                 "power": "",
                 "Energy_cost": "0",
@@ -303,12 +311,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dark Dragon Balls",
-        "Type": "EXTRA",
+        "name": "Dark Dragon Balls [EX16-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-09.webp",
         "Power": "",
         "Color": "Black",
+        "cost": "0",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX16",
@@ -324,8 +333,8 @@
         "id": "EX16-10",
         "face": {
             "front": {
-                "name": "Lord Slug, Unbridled Might",
-                "type": "Main_Deck",
+                "name": "Lord Slug, Unbridled Might [EX16-10]",
+                "type": "BATTLE",
                 "cost": "9",
                 "power": "25000",
                 "Energy_cost": "9",
@@ -333,12 +342,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Lord Slug, Unbridled Might",
-        "Type": "BATTLE",
+        "name": "Lord Slug, Unbridled Might [EX16-10]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX16/EX16-10.webp",
         "Power": "25000",
         "Color": "Green/Yellow",
+        "cost": "9",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX16",

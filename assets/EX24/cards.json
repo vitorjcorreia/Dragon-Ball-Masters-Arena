@@ -3,8 +3,8 @@
         "id": "EX24-01",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [EX24-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Son Goku, Story of a Forming Wish",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [EX24-01]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -49,8 +50,8 @@
         "id": "EX24-01_PR",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [EX24-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -59,19 +60,20 @@
             },
             "back": {
                 "name": "Son Goku, Story of a Forming Wish",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [EX24-01]",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-01_PR.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -95,8 +97,8 @@
         "id": "EX24-02",
         "face": {
             "front": {
-                "name": "Son Goku, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Son Goku, Guided by the Dragon Balls [EX24-02]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -104,12 +106,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Son Goku, Guided by the Dragon Balls [EX24-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-02.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -133,8 +136,8 @@
         "id": "EX24-03",
         "face": {
             "front": {
-                "name": "Pilaf, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Pilaf, Guided by the Dragon Balls [EX24-03]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -142,12 +145,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pilaf, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Pilaf, Guided by the Dragon Balls [EX24-03]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-03.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -169,8 +173,8 @@
         "id": "EX24-04",
         "face": {
             "front": {
-                "name": "SS Son Goku, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "SS Son Goku, Guided by the Dragon Balls [EX24-04]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -178,12 +182,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "SS Son Goku, Guided by the Dragon Balls [EX24-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-04.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -209,8 +214,8 @@
         "id": "EX24-05",
         "face": {
             "front": {
-                "name": "Frieza, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Frieza, Guided by the Dragon Balls [EX24-05]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -218,12 +223,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Frieza, Guided by the Dragon Balls [EX24-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-05.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -247,8 +253,8 @@
         "id": "EX24-06",
         "face": {
             "front": {
-                "name": "Android 18, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Android 18, Guided by the Dragon Balls [EX24-06]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -256,12 +262,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Android 18, Guided by the Dragon Balls [EX24-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-06.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -285,8 +292,8 @@
         "id": "EX24-07",
         "face": {
             "front": {
-                "name": "Great Ape Son Goku, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Great Ape Son Goku, Guided by the Dragon Balls [EX24-07]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -294,12 +301,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Great Ape Son Goku, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Great Ape Son Goku, Guided by the Dragon Balls [EX24-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-07.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -323,8 +331,8 @@
         "id": "EX24-08",
         "face": {
             "front": {
-                "name": "Oolong, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Oolong, Guided by the Dragon Balls [EX24-08]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -332,12 +340,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Oolong, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Oolong, Guided by the Dragon Balls [EX24-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-08.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -359,8 +368,8 @@
         "id": "EX24-09",
         "face": {
             "front": {
-                "name": "Zamasu, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Zamasu, Guided by the Dragon Balls [EX24-09]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -368,12 +377,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Zamasu, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Zamasu, Guided by the Dragon Balls [EX24-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-09.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -397,8 +407,8 @@
         "id": "EX24-10",
         "face": {
             "front": {
-                "name": "Goku Black, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Goku Black, Guided by the Dragon Balls [EX24-10]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -406,12 +416,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Goku Black, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Goku Black, Guided by the Dragon Balls [EX24-10]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-10.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -436,8 +447,8 @@
         "id": "EX24-11",
         "face": {
             "front": {
-                "name": "Android 17, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Android 17, Guided by the Dragon Balls [EX24-11]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -445,12 +456,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Android 17, Guided by the Dragon Balls [EX24-11]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-11.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -475,8 +487,8 @@
         "id": "EX24-12",
         "face": {
             "front": {
-                "name": "SS Broly, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "SS Broly, Guided by the Dragon Balls [EX24-12]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "35000",
                 "Energy_cost": "7",
@@ -484,12 +496,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Broly, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "SS Broly, Guided by the Dragon Balls [EX24-12]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-12.webp",
         "Power": "35000",
         "Color": "Black",
+        "cost": "7",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -514,8 +527,8 @@
         "id": "EX24-13",
         "face": {
             "front": {
-                "name": "Cheelai, Guided by the Dragon Balls",
-                "type": "Main_Deck",
+                "name": "Cheelai, Guided by the Dragon Balls [EX24-13]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -523,12 +536,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cheelai, Guided by the Dragon Balls",
-        "Type": "BATTLE",
+        "name": "Cheelai, Guided by the Dragon Balls [EX24-13]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-13.webp",
         "Power": "4000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -550,8 +564,8 @@
         "id": "EX24-14",
         "face": {
             "front": {
-                "name": "Pan, Miracle to Save the Universe",
-                "type": "Z_Deck",
+                "name": "Pan, Miracle to Save the Universe [EX24-14]",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -559,12 +573,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan, Miracle to Save the Universe",
-        "Type": "Z-BATTLE",
+        "name": "Pan, Miracle to Save the Universe [EX24-14]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-14.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -587,8 +602,8 @@
         "id": "EX24-15",
         "face": {
             "front": {
-                "name": "Core Absorption",
-                "type": "Z_Deck",
+                "name": "Core Absorption [EX24-15]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "0",
                 "Energy_cost": "1",
@@ -596,12 +611,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Core Absorption",
-        "Type": "Z-EXTRA",
+        "name": "Core Absorption [EX24-15]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-15.webp",
         "Power": "0",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -617,8 +633,8 @@
         "id": "EX24-16",
         "face": {
             "front": {
-                "name": "Android 13, Unleashed Power",
-                "type": "Main_Deck",
+                "name": "Android 13, Unleashed Power [EX24-16]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "15000",
                 "Energy_cost": "7",
@@ -626,12 +642,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 13, Unleashed Power",
-        "Type": "BATTLE",
+        "name": "Android 13, Unleashed Power [EX24-16]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-16.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "7",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -653,8 +670,8 @@
         "id": "EX24-17",
         "face": {
             "front": {
-                "name": "Android 14 & Android 15, Cool-Headed Advance Guard",
-                "type": "Main_Deck",
+                "name": "Android 14 & Android 15, Cool-Headed Advance Guard [EX24-17]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -662,12 +679,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 14 & Android 15, Cool-Headed Advance Guard",
-        "Type": "BATTLE",
+        "name": "Android 14 & Android 15, Cool-Headed Advance Guard [EX24-17]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-17.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -689,8 +707,8 @@
         "id": "EX24-18",
         "face": {
             "front": {
-                "name": "SS4 Son Goku, Power of Family Bonds",
-                "type": "Main_Deck",
+                "name": "SS4 Son Goku, Power of Family Bonds [EX24-18]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -698,12 +716,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS4 Son Goku, Power of Family Bonds",
-        "Type": "BATTLE",
+        "name": "SS4 Son Goku, Power of Family Bonds [EX24-18]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-18.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -726,8 +745,8 @@
         "id": "EX24-19",
         "face": {
             "front": {
-                "name": "Pan, Fighting Tomboy",
-                "type": "Main_Deck",
+                "name": "Pan, Fighting Tomboy [EX24-19]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -735,12 +754,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan, Fighting Tomboy",
-        "Type": "BATTLE",
+        "name": "Pan, Fighting Tomboy [EX24-19]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-19.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -764,8 +784,8 @@
         "id": "EX24-20",
         "face": {
             "front": {
-                "name": "Son Gohan, Apex of Rage",
-                "type": "Z_Deck",
+                "name": "Son Gohan, Apex of Rage [EX24-20]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "20000",
                 "Energy_cost": null,
@@ -773,12 +793,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Apex of Rage",
-        "Type": "Z-LEADER",
+        "name": "Son Gohan, Apex of Rage [EX24-20]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-20.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -801,8 +822,8 @@
         "id": "EX24-21",
         "face": {
             "front": {
-                "name": "Janemba, Endless Copies",
-                "type": "Z_Deck",
+                "name": "Janemba, Endless Copies [EX24-21]",
+                "type": "Z-UNISON",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -810,12 +831,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Janemba, Endless Copies",
-        "Type": "Z-UNISON",
+        "name": "Janemba, Endless Copies [EX24-21]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-21.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -833,8 +855,8 @@
         "id": "EX24-22",
         "face": {
             "front": {
-                "name": "Janemba, Rising Power",
-                "type": "Main_Deck",
+                "name": "Janemba, Rising Power [EX24-22]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "19000",
                 "Energy_cost": "6",
@@ -842,12 +864,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Janemba, Rising Power",
-        "Type": "BATTLE",
+        "name": "Janemba, Rising Power [EX24-22]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-22.webp",
         "Power": "19000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -868,8 +891,8 @@
         "id": "EX24-23",
         "face": {
             "front": {
-                "name": "Janemba, Transformation Premonition",
-                "type": "Main_Deck",
+                "name": "Janemba, Transformation Premonition [EX24-23]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -877,12 +900,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Janemba, Transformation Premonition",
-        "Type": "BATTLE",
+        "name": "Janemba, Transformation Premonition [EX24-23]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-23.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -905,8 +929,8 @@
         "id": "EX24-24",
         "face": {
             "front": {
-                "name": "Piccolo, Shining Orange Strength",
-                "type": "Main_Deck",
+                "name": "Piccolo, Shining Orange Strength [EX24-24]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -914,12 +938,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo, Shining Orange Strength",
-        "Type": "BATTLE",
+        "name": "Piccolo, Shining Orange Strength [EX24-24]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-24.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -943,8 +968,8 @@
         "id": "EX24-25",
         "face": {
             "front": {
-                "name": "Gamma 1 & Gamma 2, Stand-Up Heroes",
-                "type": "Main_Deck",
+                "name": "Gamma 1 & Gamma 2, Stand-Up Heroes [EX24-25]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -952,12 +977,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gamma 1 & Gamma 2, Stand-Up Heroes",
-        "Type": "BATTLE",
+        "name": "Gamma 1 & Gamma 2, Stand-Up Heroes [EX24-25]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-25.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -984,8 +1010,8 @@
         "id": "EX24-26",
         "face": {
             "front": {
-                "name": "SS Son Goku, Help From Above",
-                "type": "Z_Deck",
+                "name": "SS Son Goku, Help From Above [EX24-26]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "4000",
                 "Energy_cost": "2",
@@ -993,12 +1019,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku, Help From Above",
-        "Type": "Z-BATTLE",
+        "name": "SS Son Goku, Help From Above [EX24-26]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-26.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -1020,8 +1047,8 @@
         "id": "EX24-27",
         "face": {
             "front": {
-                "name": "King Cold Comes",
-                "type": "Z_Deck",
+                "name": "King Cold Comes [EX24-27]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "0",
                 "Energy_cost": "1",
@@ -1029,12 +1056,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "King Cold Comes",
-        "Type": "Z-EXTRA",
+        "name": "King Cold Comes [EX24-27]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-27.webp",
         "Power": "0",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -1053,8 +1081,8 @@
         "id": "EX24-28",
         "face": {
             "front": {
-                "name": "SS Son Gohan, Brotherly Combination",
-                "type": "Main_Deck",
+                "name": "SS Son Gohan, Brotherly Combination [EX24-28]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "10000",
                 "Energy_cost": "4",
@@ -1062,12 +1090,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Gohan, Brotherly Combination",
-        "Type": "BATTLE",
+        "name": "SS Son Gohan, Brotherly Combination [EX24-28]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-28.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1091,8 +1120,8 @@
         "id": "EX24-29",
         "face": {
             "front": {
-                "name": "SS Son Goten, Brotherly Combination",
-                "type": "Main_Deck",
+                "name": "SS Son Goten, Brotherly Combination [EX24-29]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -1100,12 +1129,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goten, Brotherly Combination",
-        "Type": "BATTLE",
+        "name": "SS Son Goten, Brotherly Combination [EX24-29]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-29.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "6",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1128,8 +1158,8 @@
         "id": "EX24-30",
         "face": {
             "front": {
-                "name": "Frieza, Steadfast Emperor",
-                "type": "Main_Deck",
+                "name": "Frieza, Steadfast Emperor [EX24-30]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -1137,12 +1167,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Steadfast Emperor",
-        "Type": "BATTLE",
+        "name": "Frieza, Steadfast Emperor [EX24-30]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-30.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1167,8 +1198,8 @@
         "id": "EX24-31",
         "face": {
             "front": {
-                "name": "Frieza, Tiny Aggressor",
-                "type": "Main_Deck",
+                "name": "Frieza, Tiny Aggressor [EX24-31]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "19000",
                 "Energy_cost": "5",
@@ -1176,12 +1207,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Tiny Aggressor",
-        "Type": "BATTLE",
+        "name": "Frieza, Tiny Aggressor [EX24-31]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-31.webp",
         "Power": "19000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1208,8 +1240,8 @@
         "id": "EX24-32",
         "face": {
             "front": {
-                "name": "Trunks, Inherited Will",
-                "type": "Z_Deck",
+                "name": "Trunks, Inherited Will [EX24-32]",
+                "type": "Z-UNISON",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -1217,12 +1249,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Trunks, Inherited Will",
-        "Type": "Z-UNISON",
+        "name": "Trunks, Inherited Will [EX24-32]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-32.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -1239,8 +1272,8 @@
         "id": "EX24-33",
         "face": {
             "front": {
-                "name": "Irreconcilable",
-                "type": "Z_Deck",
+                "name": "Irreconcilable [EX24-33]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "0",
                 "Energy_cost": "1",
@@ -1248,12 +1281,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Irreconcilable",
-        "Type": "Z-EXTRA",
+        "name": "Irreconcilable [EX24-33]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-33.webp",
         "Power": "0",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -1271,8 +1305,8 @@
         "id": "EX24-34",
         "face": {
             "front": {
-                "name": "Bardock, Direct Combat",
-                "type": "Main_Deck",
+                "name": "Bardock, Direct Combat [EX24-34]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1280,12 +1314,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Bardock, Direct Combat",
-        "Type": "BATTLE",
+        "name": "Bardock, Direct Combat [EX24-34]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-34.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1308,8 +1343,8 @@
         "id": "EX24-35",
         "face": {
             "front": {
-                "name": "Tora, Entrusted Saiyan Pride",
-                "type": "Main_Deck",
+                "name": "Tora, Entrusted Saiyan Pride [EX24-35]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -1317,12 +1352,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tora, Entrusted Saiyan Pride",
-        "Type": "BATTLE",
+        "name": "Tora, Entrusted Saiyan Pride [EX24-35]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-35.webp",
         "Power": "1000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1345,8 +1381,8 @@
         "id": "EX24-36",
         "face": {
             "front": {
-                "name": "SS Son Goku, Tactful Combat",
-                "type": "Main_Deck",
+                "name": "SS Son Goku, Tactful Combat [EX24-36]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1354,12 +1390,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku, Tactful Combat",
-        "Type": "BATTLE",
+        "name": "SS Son Goku, Tactful Combat [EX24-36]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-36.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1380,8 +1417,8 @@
         "id": "EX24-37",
         "face": {
             "front": {
-                "name": "Prince of Destruction Vegeta, Full Control of Majin Power",
-                "type": "Main_Deck",
+                "name": "Prince of Destruction Vegeta, Full Control of Majin Power [EX24-37]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "25000",
                 "Energy_cost": "8",
@@ -1389,12 +1426,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Prince of Destruction Vegeta, Full Control of Majin Power",
-        "Type": "BATTLE",
+        "name": "Prince of Destruction Vegeta, Full Control of Majin Power [EX24-37]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-37.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1419,8 +1457,8 @@
         "id": "EX24-38",
         "face": {
             "front": {
-                "name": "Demon God Towa, Greater Chaos",
-                "type": "Z_Deck",
+                "name": "Demon God Towa, Greater Chaos [EX24-38]",
+                "type": "Z-LEADER",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -1428,12 +1466,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Demon God Towa, Greater Chaos",
-        "Type": "Z-LEADER",
+        "name": "Demon God Towa, Greater Chaos [EX24-38]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-38.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -1456,8 +1495,8 @@
         "id": "EX24-39",
         "face": {
             "front": {
-                "name": "Manifestation Frenzy",
-                "type": "Z_Deck",
+                "name": "Manifestation Frenzy [EX24-39]",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "0",
                 "Energy_cost": "1",
@@ -1465,12 +1504,13 @@
                 "isHorizontal": true
             }
         },
-        "Name": "Manifestation Frenzy",
-        "Type": "Z-EXTRA",
+        "name": "Manifestation Frenzy [EX24-39]",
+        "type": "Z_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-39.webp",
         "Power": "0",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX24",
@@ -1488,8 +1528,8 @@
         "id": "EX24-40",
         "face": {
             "front": {
-                "name": "Mira, Limitless Power",
-                "type": "Main_Deck",
+                "name": "Mira, Limitless Power [EX24-40]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -1497,12 +1537,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mira, Limitless Power",
-        "Type": "BATTLE",
+        "name": "Mira, Limitless Power [EX24-40]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-40.webp",
         "Power": "25000",
         "Color": "Black",
+        "cost": "7",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1525,8 +1566,8 @@
         "id": "EX24-41",
         "face": {
             "front": {
-                "name": "Mira, Dark Empire Technology",
-                "type": "Main_Deck",
+                "name": "Mira, Dark Empire Technology [EX24-41]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -1534,12 +1575,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mira, Dark Empire Technology",
-        "Type": "BATTLE",
+        "name": "Mira, Dark Empire Technology [EX24-41]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-41.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1560,8 +1602,8 @@
         "id": "EX24-42",
         "face": {
             "front": {
-                "name": "Great Ape Cumber, Gigantic Combatant",
-                "type": "Main_Deck",
+                "name": "Great Ape Cumber, Gigantic Combatant [EX24-42]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -1569,12 +1611,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Great Ape Cumber, Gigantic Combatant",
-        "Type": "BATTLE",
+        "name": "Great Ape Cumber, Gigantic Combatant [EX24-42]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-42.webp",
         "Power": "30000",
         "Color": "Black",
+        "cost": "8",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",
@@ -1597,8 +1640,8 @@
         "id": "EX24-43",
         "face": {
             "front": {
-                "name": "Cumber, Becoming the Strongest",
-                "type": "Main_Deck",
+                "name": "Cumber, Becoming the Strongest [EX24-43]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -1606,12 +1649,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cumber, Becoming the Strongest",
-        "Type": "BATTLE",
+        "name": "Cumber, Becoming the Strongest [EX24-43]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX24/EX24-43.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX24",

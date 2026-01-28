@@ -3,8 +3,8 @@
         "id": "SD12-01",
         "face": {
             "front": {
-                "name": "Vegito",
-                "type": "Leader",
+                "name": "Vegito [SD12-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "SSB Vegito, Godhood Transcended",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD12/SD12-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegito",
-        "Type": "LEADER",
+        "name": "Vegito [SD12-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD12/SD12-01.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD12",
@@ -48,8 +49,8 @@
         "id": "SD12-02",
         "face": {
             "front": {
-                "name": "Gogeta, Pursuit of Power",
-                "type": "Main_Deck",
+                "name": "Gogeta, Pursuit of Power [SD12-02]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gogeta, Pursuit of Power",
-        "Type": "UNISON",
+        "name": "Gogeta, Pursuit of Power [SD12-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD12/SD12-02.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD12",
@@ -81,8 +83,8 @@
         "id": "SD12-03",
         "face": {
             "front": {
-                "name": "SSB Son Goku, Tenacious Warrior",
-                "type": "Main_Deck",
+                "name": "SSB Son Goku, Tenacious Warrior [SD12-03]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -90,12 +92,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Son Goku, Tenacious Warrior",
-        "Type": "BATTLE",
+        "name": "SSB Son Goku, Tenacious Warrior [SD12-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD12/SD12-03.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD12",
@@ -114,8 +117,8 @@
         "id": "SD12-04",
         "face": {
             "front": {
-                "name": "SSB Vegeta, Heroic Warrior",
-                "type": "Main_Deck",
+                "name": "SSB Vegeta, Heroic Warrior [SD12-04]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -123,12 +126,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SSB Vegeta, Heroic Warrior",
-        "Type": "BATTLE",
+        "name": "SSB Vegeta, Heroic Warrior [SD12-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD12/SD12-04.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD12",
@@ -149,8 +153,8 @@
         "id": "SD12-05",
         "face": {
             "front": {
-                "name": "SS Trunks, Architect of Peace",
-                "type": "Main_Deck",
+                "name": "SS Trunks, Architect of Peace [SD12-05]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -158,12 +162,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Trunks, Architect of Peace",
-        "Type": "BATTLE",
+        "name": "SS Trunks, Architect of Peace [SD12-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD12/SD12-05.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD12",

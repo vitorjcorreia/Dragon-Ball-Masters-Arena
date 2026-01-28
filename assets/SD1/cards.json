@@ -3,8 +3,8 @@
         "id": "SD1-01",
         "face": {
             "front": {
-                "name": "Super Saiyan God Son Goku",
-                "type": "Leader",
+                "name": "Super Saiyan God Son Goku [SD1-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "SSGSS Son Goku, The Soul Striker",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD1/SD1-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Super Saiyan God Son Goku",
-        "Type": "LEADER",
+        "name": "Super Saiyan God Son Goku [SD1-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD1/SD1-01.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD1",
@@ -46,8 +47,8 @@
         "id": "SD1-02",
         "face": {
             "front": {
-                "name": "God Rush Son Goku",
-                "type": "Main_Deck",
+                "name": "God Rush Son Goku [SD1-02]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -55,12 +56,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "God Rush Son Goku",
-        "Type": "BATTLE",
+        "name": "God Rush Son Goku [SD1-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD1/SD1-02.webp",
         "Power": "25000",
         "Color": "Blue",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD1",
@@ -82,8 +84,8 @@
         "id": "SD1-03",
         "face": {
             "front": {
-                "name": "SS3 Son Goku, Maximum Energy",
-                "type": "Main_Deck",
+                "name": "SS3 Son Goku, Maximum Energy [SD1-03]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -91,12 +93,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Son Goku, Maximum Energy",
-        "Type": "BATTLE",
+        "name": "SS3 Son Goku, Maximum Energy [SD1-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD1/SD1-03.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD1",
@@ -118,8 +121,8 @@
         "id": "SD1-04",
         "face": {
             "front": {
-                "name": "Rapid Spirit Ball Son Goku",
-                "type": "Main_Deck",
+                "name": "Rapid Spirit Ball Son Goku [SD1-04]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -127,12 +130,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rapid Spirit Ball Son Goku",
-        "Type": "BATTLE",
+        "name": "Rapid Spirit Ball Son Goku [SD1-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD1/SD1-04.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD1",
@@ -152,8 +156,8 @@
         "id": "SD1-05",
         "face": {
             "front": {
-                "name": "Vegeta, Prince of Speed",
-                "type": "Main_Deck",
+                "name": "Vegeta, Prince of Speed [SD1-05]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -161,12 +165,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Prince of Speed",
-        "Type": "BATTLE",
+        "name": "Vegeta, Prince of Speed [SD1-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD1/SD1-05.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD1",

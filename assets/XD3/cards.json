@@ -3,8 +3,8 @@
         "id": "XD3-01",
         "face": {
             "front": {
-                "name": "Cell",
-                "type": "Leader",
+                "name": "Cell [XD3-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Cell & Cell Jr., Endless Supremity",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Cell",
-        "Type": "LEADER",
+        "name": "Cell [XD3-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-01.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "XD3",
@@ -48,8 +49,8 @@
         "id": "XD3-02",
         "face": {
             "front": {
-                "name": "Cell, Genetic Consumption",
-                "type": "Main_Deck",
+                "name": "Cell, Genetic Consumption [XD3-02]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Genetic Consumption",
-        "Type": "BATTLE",
+        "name": "Cell, Genetic Consumption [XD3-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-02.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -81,8 +83,8 @@
         "id": "XD3-02_PR",
         "face": {
             "front": {
-                "name": "Cell, Genetic Consumption",
-                "type": "Main_Deck",
+                "name": "Cell, Genetic Consumption [XD3-02]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -90,12 +92,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Genetic Consumption",
-        "Type": "BATTLE",
+        "name": "Cell, Genetic Consumption [XD3-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-02_PR.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -114,8 +117,8 @@
         "id": "XD3-03",
         "face": {
             "front": {
-                "name": "Android 18, Imminent Danger",
-                "type": "Main_Deck",
+                "name": "Android 18, Imminent Danger [XD3-03]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -123,12 +126,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Imminent Danger",
-        "Type": "BATTLE",
+        "name": "Android 18, Imminent Danger [XD3-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-03.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -147,8 +151,8 @@
         "id": "XD3-04",
         "face": {
             "front": {
-                "name": "Android 17, Impending Crisis",
-                "type": "Main_Deck",
+                "name": "Android 17, Impending Crisis [XD3-04]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -156,12 +160,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Impending Crisis",
-        "Type": "BATTLE",
+        "name": "Android 17, Impending Crisis [XD3-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-04.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -181,8 +186,8 @@
         "id": "XD3-04_PR",
         "face": {
             "front": {
-                "name": "Android 17, Impending Crisis",
-                "type": "Main_Deck",
+                "name": "Android 17, Impending Crisis [XD3-04]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -190,12 +195,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Impending Crisis",
-        "Type": "BATTLE",
+        "name": "Android 17, Impending Crisis [XD3-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-04_PR.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -215,8 +221,8 @@
         "id": "XD3-04_PR2",
         "face": {
             "front": {
-                "name": "Android 17, Impending Crisis",
-                "type": "Main_Deck",
+                "name": "Android 17, Impending Crisis [XD3-04]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -224,12 +230,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Impending Crisis",
-        "Type": "BATTLE",
+        "name": "Android 17, Impending Crisis [XD3-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-04_PR2.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -249,8 +256,8 @@
         "id": "XD3-05",
         "face": {
             "front": {
-                "name": "SS Son Goku, Valiant Breakthrough",
-                "type": "Main_Deck",
+                "name": "SS Son Goku, Valiant Breakthrough [XD3-05]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -258,12 +265,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Son Goku, Valiant Breakthrough",
-        "Type": "BATTLE",
+        "name": "SS Son Goku, Valiant Breakthrough [XD3-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-05.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -283,8 +291,8 @@
         "id": "XD3-06",
         "face": {
             "front": {
-                "name": "SS Vegeta, Begrudging Support",
-                "type": "Main_Deck",
+                "name": "SS Vegeta, Begrudging Support [XD3-06]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -292,12 +300,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Vegeta, Begrudging Support",
-        "Type": "BATTLE",
+        "name": "SS Vegeta, Begrudging Support [XD3-06]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-06.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD3",
@@ -316,8 +325,8 @@
         "id": "XD3-07",
         "face": {
             "front": {
-                "name": "Pernicious Progeny",
-                "type": "Main_Deck",
+                "name": "Pernicious Progeny [XD3-07]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -325,12 +334,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pernicious Progeny",
-        "Type": "EXTRA",
+        "name": "Pernicious Progeny [XD3-07]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-07.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "XD3",
@@ -346,8 +356,8 @@
         "id": "XD3-08",
         "face": {
             "front": {
-                "name": "SS2 Son Gohan, Wounded Victor",
-                "type": "Main_Deck",
+                "name": "SS2 Son Gohan, Wounded Victor [XD3-08]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -355,12 +365,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS2 Son Gohan, Wounded Victor",
-        "Type": "BATTLE",
+        "name": "SS2 Son Gohan, Wounded Victor [XD3-08]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-08.webp",
         "Power": "30000",
         "Color": "Green/Yellow",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "XD3",
@@ -384,8 +395,8 @@
         "id": "XD3-09",
         "face": {
             "front": {
-                "name": "Cell, Perfection Misspent",
-                "type": "Main_Deck",
+                "name": "Cell, Perfection Misspent [XD3-09]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "20000",
                 "Energy_cost": "8",
@@ -393,12 +404,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Perfection Misspent",
-        "Type": "BATTLE",
+        "name": "Cell, Perfection Misspent [XD3-09]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-09.webp",
         "Power": "20000",
         "Color": "Green/Yellow",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "XD3",
@@ -418,8 +430,8 @@
         "id": "XD3-09_PR",
         "face": {
             "front": {
-                "name": "Cell, Perfection Misspent",
-                "type": "Main_Deck",
+                "name": "Cell, Perfection Misspent [XD3-09]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "20000",
                 "Energy_cost": "8",
@@ -427,12 +439,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Perfection Misspent",
-        "Type": "BATTLE",
+        "name": "Cell, Perfection Misspent [XD3-09]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-09_PR.webp",
         "Power": "20000",
         "Color": "Green/Yellow",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "XD3",
@@ -452,8 +465,8 @@
         "id": "XD3-10",
         "face": {
             "front": {
-                "name": "Cell, Perfection Reclaimed",
-                "type": "Main_Deck",
+                "name": "Cell, Perfection Reclaimed [XD3-10]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -461,12 +474,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Perfection Reclaimed",
-        "Type": "BATTLE",
+        "name": "Cell, Perfection Reclaimed [XD3-10]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-10.webp",
         "Power": "15000",
         "Color": "Green/Yellow",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "XD3",
@@ -487,8 +501,8 @@
         "id": "XD3-10_PR",
         "face": {
             "front": {
-                "name": "Cell, Perfection Reclaimed",
-                "type": "Main_Deck",
+                "name": "Cell, Perfection Reclaimed [XD3-10]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -496,12 +510,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cell, Perfection Reclaimed",
-        "Type": "BATTLE",
+        "name": "Cell, Perfection Reclaimed [XD3-10]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD3/XD3-10_PR.webp",
         "Power": "15000",
         "Color": "Green/Yellow",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "XD3",

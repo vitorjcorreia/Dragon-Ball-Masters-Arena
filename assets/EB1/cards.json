@@ -3,8 +3,8 @@
         "id": "EB1-01",
         "face": {
             "front": {
-                "name": "Nappa",
-                "type": "Leader",
+                "name": "Nappa [EB1-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Nappa & Saibaimen, the First Invaders",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Nappa",
-        "Type": "LEADER",
+        "name": "Nappa [EB1-01]",
+        "type": "Leader",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -47,8 +48,8 @@
         "id": "EB1-02",
         "face": {
             "front": {
-                "name": "Yamcha, Wolf Fang Pitching Fistball",
-                "type": "Main_Deck",
+                "name": "Yamcha, Wolf Fang Pitching Fistball [EB1-02]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "9000",
                 "Energy_cost": null,
@@ -56,12 +57,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Yamcha, Wolf Fang Pitching Fistball",
-        "Type": "UNISON",
+        "name": "Yamcha, Wolf Fang Pitching Fistball [EB1-02]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-02.webp",
         "Power": "9000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -80,8 +82,8 @@
         "id": "EB1-03",
         "face": {
             "front": {
-                "name": "Launch, Inspiring Support",
-                "type": "Main_Deck",
+                "name": "Launch, Inspiring Support [EB1-03]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -89,12 +91,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Launch, Inspiring Support",
-        "Type": "BATTLE",
+        "name": "Launch, Inspiring Support [EB1-03]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-03.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -116,8 +119,8 @@
         "id": "EB1-04",
         "face": {
             "front": {
-                "name": "Vegeta, the Executioner",
-                "type": "Main_Deck",
+                "name": "Vegeta, the Executioner [EB1-04]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -125,12 +128,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, the Executioner",
-        "Type": "BATTLE",
+        "name": "Vegeta, the Executioner [EB1-04]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-04.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -151,8 +155,8 @@
         "id": "EB1-05",
         "face": {
             "front": {
-                "name": "Nappa, Testing the Opposition",
-                "type": "Main_Deck",
+                "name": "Nappa, Testing the Opposition [EB1-05]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -160,12 +164,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Nappa, Testing the Opposition",
-        "Type": "BATTLE",
+        "name": "Nappa, Testing the Opposition [EB1-05]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-05.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -186,8 +191,8 @@
         "id": "EB1-06",
         "face": {
             "front": {
-                "name": "Saibaiman, Infinite Assault",
-                "type": "Main_Deck",
+                "name": "Saibaiman, Infinite Assault [EB1-06]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -195,12 +200,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Saibaiman, Infinite Assault",
-        "Type": "BATTLE",
+        "name": "Saibaiman, Infinite Assault [EB1-06]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-06.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -220,8 +226,8 @@
         "id": "EB1-07",
         "face": {
             "front": {
-                "name": "Vegeta, Royal Evolution",
-                "type": "Main_Deck",
+                "name": "Vegeta, Royal Evolution [EB1-07]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -229,12 +235,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Royal Evolution",
-        "Type": "BATTLE",
+        "name": "Vegeta, Royal Evolution [EB1-07]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-07.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -255,8 +262,8 @@
         "id": "EB1-07_PR",
         "face": {
             "front": {
-                "name": "Vegeta, Royal Evolution",
-                "type": "Main_Deck",
+                "name": "Vegeta, Royal Evolution [EB1-07]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -264,12 +271,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Royal Evolution",
-        "Type": "BATTLE",
+        "name": "Vegeta, Royal Evolution [EB1-07]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-07_PR.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -290,8 +298,8 @@
         "id": "EB1-07_PR2",
         "face": {
             "front": {
-                "name": "Vegeta, Royal Evolution",
-                "type": "Main_Deck",
+                "name": "Vegeta, Royal Evolution [EB1-07]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -299,12 +307,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Royal Evolution",
-        "Type": "BATTLE",
+        "name": "Vegeta, Royal Evolution [EB1-07]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-07_PR2.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -325,8 +334,8 @@
         "id": "EB1-08",
         "face": {
             "front": {
-                "name": "Golden Frieza, the Perished",
-                "type": "Main_Deck",
+                "name": "Golden Frieza, the Perished [EB1-08]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -334,12 +343,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Golden Frieza, the Perished",
-        "Type": "BATTLE",
+        "name": "Golden Frieza, the Perished [EB1-08]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-08.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -360,8 +370,8 @@
         "id": "EB1-09",
         "face": {
             "front": {
-                "name": "Vegeta the 3rd, Lineage's Beginning",
-                "type": "Main_Deck",
+                "name": "Vegeta the 3rd, Lineage's Beginning [EB1-09]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -369,12 +379,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta the 3rd, Lineage's Beginning",
-        "Type": "BATTLE",
+        "name": "Vegeta the 3rd, Lineage's Beginning [EB1-09]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-09.webp",
         "Power": "4000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -398,8 +409,8 @@
         "id": "EB1-10",
         "face": {
             "front": {
-                "name": "Unexpected Casualties",
-                "type": "Main_Deck",
+                "name": "Unexpected Casualties [EB1-10]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -407,12 +418,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unexpected Casualties",
-        "Type": "EXTRA",
+        "name": "Unexpected Casualties [EB1-10]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-10.webp",
         "Power": null,
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -428,8 +440,8 @@
         "id": "EB1-11",
         "face": {
             "front": {
-                "name": "Testing the Opposition",
-                "type": "Main_Deck",
+                "name": "Testing the Opposition [EB1-11]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -437,12 +449,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Testing the Opposition",
-        "Type": "EXTRA",
+        "name": "Testing the Opposition [EB1-11]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-11.webp",
         "Power": null,
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -460,8 +473,8 @@
         "id": "EB1-12",
         "face": {
             "front": {
-                "name": "Android 16",
-                "type": "Leader",
+                "name": "Android 16 [EB1-12]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -470,19 +483,20 @@
             },
             "back": {
                 "name": "Android 16, Bottomless Inferno",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-12_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16",
-        "Type": "LEADER",
+        "name": "Android 16 [EB1-12]",
+        "type": "Leader",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-12.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -507,8 +521,8 @@
         "id": "EB1-13",
         "face": {
             "front": {
-                "name": "Super Android 13, Neverending Bloodlust",
-                "type": "Main_Deck",
+                "name": "Super Android 13, Neverending Bloodlust [EB1-13]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "14000",
                 "Energy_cost": null,
@@ -516,12 +530,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super Android 13, Neverending Bloodlust",
-        "Type": "UNISON",
+        "name": "Super Android 13, Neverending Bloodlust [EB1-13]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-13.webp",
         "Power": "14000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -540,8 +555,8 @@
         "id": "EB1-13_PR",
         "face": {
             "front": {
-                "name": "Super Android 13, Neverending Bloodlust",
-                "type": "Main_Deck",
+                "name": "Super Android 13, Neverending Bloodlust [EB1-13]",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "14000",
                 "Energy_cost": "X",
@@ -549,12 +564,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super Android 13, Neverending Bloodlust",
-        "Type": "UNISON",
+        "name": "Super Android 13, Neverending Bloodlust [EB1-13]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-13_PR.webp",
         "Power": "14000",
         "Color": "Blue",
+        "cost": "X",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -573,8 +589,8 @@
         "id": "EB1-14",
         "face": {
             "front": {
-                "name": "Tora, Keeper of the Red Armband",
-                "type": "Main_Deck",
+                "name": "Tora, Keeper of the Red Armband [EB1-14]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -582,12 +598,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tora, Keeper of the Red Armband",
-        "Type": "BATTLE",
+        "name": "Tora, Keeper of the Red Armband [EB1-14]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-14.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -608,8 +625,8 @@
         "id": "EB1-15",
         "face": {
             "front": {
-                "name": "Majin Buu, Revitalizing Absorption",
-                "type": "Main_Deck",
+                "name": "Majin Buu, Revitalizing Absorption [EB1-15]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -617,12 +634,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu, Revitalizing Absorption",
-        "Type": "BATTLE",
+        "name": "Majin Buu, Revitalizing Absorption [EB1-15]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-15.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -642,8 +660,8 @@
         "id": "EB1-16",
         "face": {
             "front": {
-                "name": "Majin Buu, Tide-Turning Absorption",
-                "type": "Main_Deck",
+                "name": "Majin Buu, Tide-Turning Absorption [EB1-16]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "9000",
                 "Energy_cost": "3",
@@ -651,12 +669,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu, Tide-Turning Absorption",
-        "Type": "BATTLE",
+        "name": "Majin Buu, Tide-Turning Absorption [EB1-16]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-16.webp",
         "Power": "9000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -676,8 +695,8 @@
         "id": "EB1-17",
         "face": {
             "front": {
-                "name": "Bergamo, Unstoppable Colossus",
-                "type": "Main_Deck",
+                "name": "Bergamo, Unstoppable Colossus [EB1-17]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -685,12 +704,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Bergamo, Unstoppable Colossus",
-        "Type": "BATTLE",
+        "name": "Bergamo, Unstoppable Colossus [EB1-17]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-17.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -712,8 +732,8 @@
         "id": "EB1-18",
         "face": {
             "front": {
-                "name": "Gine, Heroic Support",
-                "type": "Main_Deck",
+                "name": "Gine, Heroic Support [EB1-18]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -721,12 +741,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gine, Heroic Support",
-        "Type": "BATTLE",
+        "name": "Gine, Heroic Support [EB1-18]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-18.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "1000",
         "Series": "EB1",
@@ -748,8 +769,8 @@
         "id": "EB1-19",
         "face": {
             "front": {
-                "name": "Android 17, Restrained Support",
-                "type": "Main_Deck",
+                "name": "Android 17, Restrained Support [EB1-19]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -757,12 +778,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17, Restrained Support",
-        "Type": "BATTLE",
+        "name": "Android 17, Restrained Support [EB1-19]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-19.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -782,8 +804,8 @@
         "id": "EB1-20",
         "face": {
             "front": {
-                "name": "Android 18, Let the Battle Begin",
-                "type": "Main_Deck",
+                "name": "Android 18, Let the Battle Begin [EB1-20]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -791,12 +813,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Let the Battle Begin",
-        "Type": "BATTLE",
+        "name": "Android 18, Let the Battle Begin [EB1-20]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-20.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -818,8 +841,8 @@
         "id": "EB1-20_PR",
         "face": {
             "front": {
-                "name": "Android 18, Let the Battle Begin",
-                "type": "Main_Deck",
+                "name": "Android 18, Let the Battle Begin [EB1-20]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -827,12 +850,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Let the Battle Begin",
-        "Type": "BATTLE",
+        "name": "Android 18, Let the Battle Begin [EB1-20]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-20_PR.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -854,8 +878,8 @@
         "id": "EB1-21",
         "face": {
             "front": {
-                "name": "Android 16, For His Mother",
-                "type": "Main_Deck",
+                "name": "Android 16, For His Mother [EB1-21]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -863,12 +887,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16, For His Mother",
-        "Type": "BATTLE",
+        "name": "Android 16, For His Mother [EB1-21]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-21.webp",
         "Power": "4000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -891,8 +916,8 @@
         "id": "EB1-22",
         "face": {
             "front": {
-                "name": "Chilled's Army Reinforcements",
-                "type": "Main_Deck",
+                "name": "Chilled's Army Reinforcements [EB1-22]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -900,12 +925,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chilled's Army Reinforcements",
-        "Type": "EXTRA",
+        "name": "Chilled's Army Reinforcements [EB1-22]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-22.webp",
         "Power": null,
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -923,8 +949,8 @@
         "id": "EB1-22_PR",
         "face": {
             "front": {
-                "name": "Chilled's Army Reinforcements",
-                "type": "Main_Deck",
+                "name": "Chilled's Army Reinforcements [EB1-22]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -932,12 +958,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chilled's Army Reinforcements",
-        "Type": "EXTRA",
+        "name": "Chilled's Army Reinforcements [EB1-22]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-22_PR.webp",
         "Power": null,
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -955,8 +982,8 @@
         "id": "EB1-23",
         "face": {
             "front": {
-                "name": "Assault of the Great Apes",
-                "type": "Main_Deck",
+                "name": "Assault of the Great Apes [EB1-23]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": null,
                 "Energy_cost": "4",
@@ -964,12 +991,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Assault of the Great Apes",
-        "Type": "EXTRA",
+        "name": "Assault of the Great Apes [EB1-23]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-23.webp",
         "Power": null,
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -984,8 +1012,8 @@
         "id": "EB1-24",
         "face": {
             "front": {
-                "name": "Tien Shinhan",
-                "type": "Leader",
+                "name": "Tien Shinhan [EB1-24]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -994,19 +1022,20 @@
             },
             "back": {
                 "name": "Tien Shinhan, Mysterious Technique",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-24_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan",
-        "Type": "LEADER",
+        "name": "Tien Shinhan [EB1-24]",
+        "type": "Leader",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-24.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1029,8 +1058,8 @@
         "id": "EB1-25",
         "face": {
             "front": {
-                "name": "Launch, the Wild One",
-                "type": "Main_Deck",
+                "name": "Launch, the Wild One [EB1-25]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "15000",
                 "Energy_cost": null,
@@ -1038,12 +1067,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Launch, the Wild One",
-        "Type": "UNISON",
+        "name": "Launch, the Wild One [EB1-25]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-25.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1060,8 +1090,8 @@
         "id": "EB1-26",
         "face": {
             "front": {
-                "name": "Son Goku, the Long-Awaited Rematch",
-                "type": "Main_Deck",
+                "name": "Son Goku, the Long-Awaited Rematch [EB1-26]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1069,12 +1099,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, the Long-Awaited Rematch",
-        "Type": "BATTLE",
+        "name": "Son Goku, the Long-Awaited Rematch [EB1-26]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-26.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1098,8 +1129,8 @@
         "id": "EB1-27",
         "face": {
             "front": {
-                "name": "Tien Shinhan, the Long-Awaited Rematch",
-                "type": "Main_Deck",
+                "name": "Tien Shinhan, the Long-Awaited Rematch [EB1-27]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -1107,12 +1138,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Tien Shinhan, the Long-Awaited Rematch",
-        "Type": "BATTLE",
+        "name": "Tien Shinhan, the Long-Awaited Rematch [EB1-27]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-27.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1136,8 +1168,8 @@
         "id": "EB1-28",
         "face": {
             "front": {
-                "name": "Chiaotzu, Unwanted Reunion",
-                "type": "Main_Deck",
+                "name": "Chiaotzu, Unwanted Reunion [EB1-28]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -1145,12 +1177,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chiaotzu, Unwanted Reunion",
-        "Type": "BATTLE",
+        "name": "Chiaotzu, Unwanted Reunion [EB1-28]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-28.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1171,8 +1204,8 @@
         "id": "EB1-29",
         "face": {
             "front": {
-                "name": "Mercenary Tao, Overflowing Confidence",
-                "type": "Main_Deck",
+                "name": "Mercenary Tao, Overflowing Confidence [EB1-29]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1180,12 +1213,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mercenary Tao, Overflowing Confidence",
-        "Type": "BATTLE",
+        "name": "Mercenary Tao, Overflowing Confidence [EB1-29]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-29.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1206,8 +1240,8 @@
         "id": "EB1-30",
         "face": {
             "front": {
-                "name": "Broly, the Swift Berserker",
-                "type": "Main_Deck",
+                "name": "Broly, the Swift Berserker [EB1-30]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1215,12 +1249,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Broly, the Swift Berserker",
-        "Type": "BATTLE",
+        "name": "Broly, the Swift Berserker [EB1-30]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-30.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1242,8 +1277,8 @@
         "id": "EB1-31",
         "face": {
             "front": {
-                "name": "Broly, the Tamed Beast",
-                "type": "Main_Deck",
+                "name": "Broly, the Tamed Beast [EB1-31]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -1251,12 +1286,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Broly, the Tamed Beast",
-        "Type": "BATTLE",
+        "name": "Broly, the Tamed Beast [EB1-31]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-31.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1275,8 +1311,8 @@
         "id": "EB1-32",
         "face": {
             "front": {
-                "name": "Ribrianne, the Power of Support",
-                "type": "Main_Deck",
+                "name": "Ribrianne, the Power of Support [EB1-32]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1284,12 +1320,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ribrianne, the Power of Support",
-        "Type": "BATTLE",
+        "name": "Ribrianne, the Power of Support [EB1-32]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-32.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1314,8 +1351,8 @@
         "id": "EB1-33",
         "face": {
             "front": {
-                "name": "Ribrianne, Pretty Cannon Unleashed",
-                "type": "Main_Deck",
+                "name": "Ribrianne, Pretty Cannon Unleashed [EB1-33]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -1323,12 +1360,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ribrianne, Pretty Cannon Unleashed",
-        "Type": "BATTLE",
+        "name": "Ribrianne, Pretty Cannon Unleashed [EB1-33]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-33.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1354,8 +1392,8 @@
         "id": "EB1-34",
         "face": {
             "front": {
-                "name": "Kakunsa, Feral Fury",
-                "type": "Main_Deck",
+                "name": "Kakunsa, Feral Fury [EB1-34]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -1363,12 +1401,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Kakunsa, Feral Fury",
-        "Type": "BATTLE",
+        "name": "Kakunsa, Feral Fury [EB1-34]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-34.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1395,8 +1434,8 @@
         "id": "EB1-35",
         "face": {
             "front": {
-                "name": "Rozie, Blast Manipulator",
-                "type": "Main_Deck",
+                "name": "Rozie, Blast Manipulator [EB1-35]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1404,12 +1443,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rozie, Blast Manipulator",
-        "Type": "BATTLE",
+        "name": "Rozie, Blast Manipulator [EB1-35]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-35.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1433,8 +1473,8 @@
         "id": "EB1-35_PR",
         "face": {
             "front": {
-                "name": "Rozie, Blast Manipulator",
-                "type": "Main_Deck",
+                "name": "Rozie, Blast Manipulator [EB1-35]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1442,12 +1482,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rozie, Blast Manipulator",
-        "Type": "BATTLE",
+        "name": "Rozie, Blast Manipulator [EB1-35]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-35_PR.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1471,8 +1512,8 @@
         "id": "EB1-36",
         "face": {
             "front": {
-                "name": "Goku's Solar Flare",
-                "type": "Main_Deck",
+                "name": "Goku's Solar Flare [EB1-36]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -1480,12 +1521,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Goku's Solar Flare",
-        "Type": "EXTRA",
+        "name": "Goku's Solar Flare [EB1-36]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-36.webp",
         "Power": null,
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1502,8 +1544,8 @@
         "id": "EB1-37",
         "face": {
             "front": {
-                "name": "Homicidal Clones",
-                "type": "Main_Deck",
+                "name": "Homicidal Clones [EB1-37]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -1511,12 +1553,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Homicidal Clones",
-        "Type": "EXTRA",
+        "name": "Homicidal Clones [EB1-37]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-37.webp",
         "Power": null,
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1534,8 +1577,8 @@
         "id": "EB1-37_PR",
         "face": {
             "front": {
-                "name": "Homicidal Clones",
-                "type": "Main_Deck",
+                "name": "Homicidal Clones [EB1-37]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -1543,12 +1586,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Homicidal Clones",
-        "Type": "EXTRA",
+        "name": "Homicidal Clones [EB1-37]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-37_PR.webp",
         "Power": null,
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1566,8 +1610,8 @@
         "id": "EB1-37_PR2",
         "face": {
             "front": {
-                "name": "Homicidal Clones",
-                "type": "Main_Deck",
+                "name": "Homicidal Clones [EB1-37]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -1575,12 +1619,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Homicidal Clones",
-        "Type": "EXTRA",
+        "name": "Homicidal Clones [EB1-37]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-37_PR2.webp",
         "Power": null,
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1598,8 +1643,8 @@
         "id": "EB1-38",
         "face": {
             "front": {
-                "name": "Android 13, Android 14, & Android 15",
-                "type": "Leader",
+                "name": "Android 13, Android 14, & Android 15 [EB1-38]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -1608,19 +1653,20 @@
             },
             "back": {
                 "name": "Android 13, the Unstoppable",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-38_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Android 13, Android 14, & Android 15",
-        "Type": "LEADER",
+        "name": "Android 13, Android 14, & Android 15 [EB1-38]",
+        "type": "Leader",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-38.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1644,8 +1690,8 @@
         "id": "EB1-39",
         "face": {
             "front": {
-                "name": "Super 17, Energy Absorber",
-                "type": "Main_Deck",
+                "name": "Super 17, Energy Absorber [EB1-39]",
+                "type": "UNISON",
                 "cost": null,
                 "power": "5000",
                 "Energy_cost": null,
@@ -1653,12 +1699,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super 17, Energy Absorber",
-        "Type": "UNISON",
+        "name": "Super 17, Energy Absorber [EB1-39]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-39.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1676,8 +1723,8 @@
         "id": "EB1-40",
         "face": {
             "front": {
-                "name": "Android 14, the Mission Begins",
-                "type": "Main_Deck",
+                "name": "Android 14, the Mission Begins [EB1-40]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -1685,12 +1732,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 14, the Mission Begins",
-        "Type": "BATTLE",
+        "name": "Android 14, the Mission Begins [EB1-40]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-40.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1709,8 +1757,8 @@
         "id": "EB1-41",
         "face": {
             "front": {
-                "name": "Android 15, the Mission Begins",
-                "type": "Main_Deck",
+                "name": "Android 15, the Mission Begins [EB1-41]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -1718,12 +1766,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 15, the Mission Begins",
-        "Type": "BATTLE",
+        "name": "Android 15, the Mission Begins [EB1-41]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-41.webp",
         "Power": "4000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1742,8 +1791,8 @@
         "id": "EB1-42",
         "face": {
             "front": {
-                "name": "Mecha Frieza, Full Assault",
-                "type": "Main_Deck",
+                "name": "Mecha Frieza, Full Assault [EB1-42]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1751,12 +1800,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mecha Frieza, Full Assault",
-        "Type": "BATTLE",
+        "name": "Mecha Frieza, Full Assault [EB1-42]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-42.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1776,8 +1826,8 @@
         "id": "EB1-43",
         "face": {
             "front": {
-                "name": "SS3 Son Goku, Even Further Beyond",
-                "type": "Main_Deck",
+                "name": "SS3 Son Goku, Even Further Beyond [EB1-43]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1785,12 +1835,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Son Goku, Even Further Beyond",
-        "Type": "BATTLE",
+        "name": "SS3 Son Goku, Even Further Beyond [EB1-43]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-43.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1811,8 +1862,8 @@
         "id": "EB1-44",
         "face": {
             "front": {
-                "name": "Kaio-Ken Son Goku, a Heavy Toll",
-                "type": "Main_Deck",
+                "name": "Kaio-Ken Son Goku, a Heavy Toll [EB1-44]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -1820,12 +1871,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Kaio-Ken Son Goku, a Heavy Toll",
-        "Type": "BATTLE",
+        "name": "Kaio-Ken Son Goku, a Heavy Toll [EB1-44]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-44.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1846,8 +1898,8 @@
         "id": "EB1-45",
         "face": {
             "front": {
-                "name": "Pan, the Courageous Youth",
-                "type": "Main_Deck",
+                "name": "Pan, the Courageous Youth [EB1-45]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "19000",
                 "Energy_cost": "5",
@@ -1855,12 +1907,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan, the Courageous Youth",
-        "Type": "BATTLE",
+        "name": "Pan, the Courageous Youth [EB1-45]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-45.webp",
         "Power": "19000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -1882,8 +1935,8 @@
         "id": "EB1-46",
         "face": {
             "front": {
-                "name": "Death Blaster",
-                "type": "Main_Deck",
+                "name": "Death Blaster [EB1-46]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -1891,12 +1944,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Death Blaster",
-        "Type": "EXTRA",
+        "name": "Death Blaster [EB1-46]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-46.webp",
         "Power": null,
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1911,8 +1965,8 @@
         "id": "EB1-47",
         "face": {
             "front": {
-                "name": "Your Worst Nightmare",
-                "type": "Main_Deck",
+                "name": "Your Worst Nightmare [EB1-47]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -1920,12 +1974,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Your Worst Nightmare",
-        "Type": "EXTRA",
+        "name": "Your Worst Nightmare [EB1-47]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-47.webp",
         "Power": null,
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1940,8 +1995,8 @@
         "id": "EB1-48",
         "face": {
             "front": {
-                "name": "Frieza Army Reinforcements",
-                "type": "Main_Deck",
+                "name": "Frieza Army Reinforcements [EB1-48]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -1949,12 +2004,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza Army Reinforcements",
-        "Type": "EXTRA",
+        "name": "Frieza Army Reinforcements [EB1-48]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-48.webp",
         "Power": null,
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -1972,8 +2028,8 @@
         "id": "EB1-48_PR",
         "face": {
             "front": {
-                "name": "Frieza Army Reinforcements",
-                "type": "Main_Deck",
+                "name": "Frieza Army Reinforcements [EB1-48]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": null,
                 "Energy_cost": "2",
@@ -1981,12 +2037,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza Army Reinforcements",
-        "Type": "EXTRA",
+        "name": "Frieza Army Reinforcements [EB1-48]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-48_PR.webp",
         "Power": null,
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -2004,8 +2061,8 @@
         "id": "EB1-49",
         "face": {
             "front": {
-                "name": "Bulma",
-                "type": "Leader",
+                "name": "Bulma [EB1-49]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "5000",
                 "Energy_cost": null,
@@ -2014,19 +2071,20 @@
             },
             "back": {
                 "name": "Bulma, Life of a Heroine",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-49_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Bulma",
-        "Type": "LEADER",
+        "name": "Bulma [EB1-49]",
+        "type": "Leader",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-49.webp",
         "Power": "5000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -2050,8 +2108,8 @@
         "id": "EB1-50",
         "face": {
             "front": {
-                "name": "Bulma, Inspiring Support",
-                "type": "Main_Deck",
+                "name": "Bulma, Inspiring Support [EB1-50]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -2059,12 +2117,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Bulma, Inspiring Support",
-        "Type": "BATTLE",
+        "name": "Bulma, Inspiring Support [EB1-50]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-50.webp",
         "Power": "1000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "EB1",
@@ -2086,8 +2145,8 @@
         "id": "EB1-51",
         "face": {
             "front": {
-                "name": "Son Goku, the Path to Power",
-                "type": "Main_Deck",
+                "name": "Son Goku, the Path to Power [EB1-51]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -2095,12 +2154,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, the Path to Power",
-        "Type": "BATTLE",
+        "name": "Son Goku, the Path to Power [EB1-51]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-51.webp",
         "Power": "25000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2122,8 +2182,8 @@
         "id": "EB1-51_PR",
         "face": {
             "front": {
-                "name": "Son Goku, the Path to Power",
-                "type": "Main_Deck",
+                "name": "Son Goku, the Path to Power [EB1-51]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -2131,12 +2191,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, the Path to Power",
-        "Type": "BATTLE",
+        "name": "Son Goku, the Path to Power [EB1-51]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-51_PR.webp",
         "Power": "25000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2158,8 +2219,8 @@
         "id": "EB1-52",
         "face": {
             "front": {
-                "name": "Android 8, Helping a Friend",
-                "type": "Main_Deck",
+                "name": "Android 8, Helping a Friend [EB1-52]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -2167,12 +2228,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 8, Helping a Friend",
-        "Type": "BATTLE",
+        "name": "Android 8, Helping a Friend [EB1-52]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-52.webp",
         "Power": "5000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2192,8 +2254,8 @@
         "id": "EB1-53",
         "face": {
             "front": {
-                "name": "Katopesla, Modular Mastery",
-                "type": "Main_Deck",
+                "name": "Katopesla, Modular Mastery [EB1-53]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -2201,12 +2263,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Katopesla, Modular Mastery",
-        "Type": "BATTLE",
+        "name": "Katopesla, Modular Mastery [EB1-53]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-53.webp",
         "Power": "5000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2228,8 +2291,8 @@
         "id": "EB1-54",
         "face": {
             "front": {
-                "name": "Towa, the Next Move",
-                "type": "Main_Deck",
+                "name": "Towa, the Next Move [EB1-54]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -2237,12 +2300,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Towa, the Next Move",
-        "Type": "BATTLE",
+        "name": "Towa, the Next Move [EB1-54]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-54.webp",
         "Power": "5000",
         "Color": "Black",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2265,8 +2329,8 @@
         "id": "EB1-55",
         "face": {
             "front": {
-                "name": "Playtime's Over!",
-                "type": "Main_Deck",
+                "name": "Playtime's Over! [EB1-55]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -2274,12 +2338,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Playtime's Over!",
-        "Type": "EXTRA",
+        "name": "Playtime's Over! [EB1-55]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-55.webp",
         "Power": null,
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
@@ -2294,8 +2359,8 @@
         "id": "EB1-56",
         "face": {
             "front": {
-                "name": "King Vegeta, the Insubordinate",
-                "type": "Main_Deck",
+                "name": "King Vegeta, the Insubordinate [EB1-56]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -2303,12 +2368,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "King Vegeta, the Insubordinate",
-        "Type": "BATTLE",
+        "name": "King Vegeta, the Insubordinate [EB1-56]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-56.webp",
         "Power": "10000",
         "Color": "Red/Green",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2332,8 +2398,8 @@
         "id": "EB1-57",
         "face": {
             "front": {
-                "name": "Vegeta, Unyielding Pride",
-                "type": "Main_Deck",
+                "name": "Vegeta, Unyielding Pride [EB1-57]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -2341,12 +2407,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Unyielding Pride",
-        "Type": "BATTLE",
+        "name": "Vegeta, Unyielding Pride [EB1-57]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-57.webp",
         "Power": "20000",
         "Color": "Red/Green",
+        "cost": "3",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2369,8 +2436,8 @@
         "id": "EB1-58",
         "face": {
             "front": {
-                "name": "Nappa, Break Cannon Unleashed",
-                "type": "Main_Deck",
+                "name": "Nappa, Break Cannon Unleashed [EB1-58]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2378,12 +2445,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Nappa, Break Cannon Unleashed",
-        "Type": "BATTLE",
+        "name": "Nappa, Break Cannon Unleashed [EB1-58]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-58.webp",
         "Power": "20000",
         "Color": "Red/Green",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2407,8 +2475,8 @@
         "id": "EB1-59",
         "face": {
             "front": {
-                "name": "SS Bardock, Neverending Vengeance",
-                "type": "Main_Deck",
+                "name": "SS Bardock, Neverending Vengeance [EB1-59]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -2416,12 +2484,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Bardock, Neverending Vengeance",
-        "Type": "BATTLE",
+        "name": "SS Bardock, Neverending Vengeance [EB1-59]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-59.webp",
         "Power": "25000",
         "Color": "Blue/Yellow",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2445,8 +2514,8 @@
         "id": "EB1-60",
         "face": {
             "front": {
-                "name": "Trio De Dangers, Fierce Trinity",
-                "type": "Main_Deck",
+                "name": "Trio De Dangers, Fierce Trinity [EB1-60]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2454,12 +2523,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Trio De Dangers, Fierce Trinity",
-        "Type": "BATTLE",
+        "name": "Trio De Dangers, Fierce Trinity [EB1-60]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-60.webp",
         "Power": "20000",
         "Color": "Blue/Yellow",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2488,8 +2558,8 @@
         "id": "EB1-61",
         "face": {
             "front": {
-                "name": "Sorrel & Hop, Fiends of Universe 9",
-                "type": "Main_Deck",
+                "name": "Sorrel & Hop, Fiends of Universe 9 [EB1-61]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -2497,12 +2567,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Sorrel & Hop, Fiends of Universe 9",
-        "Type": "BATTLE",
+        "name": "Sorrel & Hop, Fiends of Universe 9 [EB1-61]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-61.webp",
         "Power": "15000",
         "Color": "Blue/Yellow",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2526,8 +2597,8 @@
         "id": "EB1-62",
         "face": {
             "front": {
-                "name": "Android 17 & Android 18, Siblings Revived",
-                "type": "Main_Deck",
+                "name": "Android 17 & Android 18, Siblings Revived [EB1-62]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "25000",
                 "Energy_cost": "8",
@@ -2535,12 +2606,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 17 & Android 18, Siblings Revived",
-        "Type": "BATTLE",
+        "name": "Android 17 & Android 18, Siblings Revived [EB1-62]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-62.webp",
         "Power": "25000",
         "Color": "Blue/Green",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2565,8 +2637,8 @@
         "id": "EB1-63",
         "face": {
             "front": {
-                "name": "Android 16, Steadfast Ally",
-                "type": "Main_Deck",
+                "name": "Android 16, Steadfast Ally [EB1-63]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -2574,12 +2646,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16, Steadfast Ally",
-        "Type": "BATTLE",
+        "name": "Android 16, Steadfast Ally [EB1-63]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-63.webp",
         "Power": "25000",
         "Color": "Blue/Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2601,8 +2674,8 @@
         "id": "EB1-63_PR",
         "face": {
             "front": {
-                "name": "Android 16, Steadfast Ally",
-                "type": "Main_Deck",
+                "name": "Android 16, Steadfast Ally [EB1-63]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -2610,12 +2683,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16, Steadfast Ally",
-        "Type": "BATTLE",
+        "name": "Android 16, Steadfast Ally [EB1-63]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-63_PR.webp",
         "Power": "25000",
         "Color": "Blue/Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2637,8 +2711,8 @@
         "id": "EB1-64",
         "face": {
             "front": {
-                "name": "Android 16, Steadfast Comeback",
-                "type": "Main_Deck",
+                "name": "Android 16, Steadfast Comeback [EB1-64]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -2646,12 +2720,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16, Steadfast Comeback",
-        "Type": "BATTLE",
+        "name": "Android 16, Steadfast Comeback [EB1-64]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-64.webp",
         "Power": "20000",
         "Color": "Blue/Green",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2675,8 +2750,8 @@
         "id": "EB1-64_PR",
         "face": {
             "front": {
-                "name": "Android 16, Steadfast Comeback",
-                "type": "Main_Deck",
+                "name": "Android 16, Steadfast Comeback [EB1-64]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -2684,12 +2759,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 16, Steadfast Comeback",
-        "Type": "BATTLE",
+        "name": "Android 16, Steadfast Comeback [EB1-64]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-64_PR.webp",
         "Power": "20000",
         "Color": "Blue/Green",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2713,8 +2789,8 @@
         "id": "EB1-65",
         "face": {
             "front": {
-                "name": "Super Android 13, Cores of the Trio",
-                "type": "Main_Deck",
+                "name": "Super Android 13, Cores of the Trio [EB1-65]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "30000",
                 "Energy_cost": "7",
@@ -2722,12 +2798,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Super Android 13, Cores of the Trio",
-        "Type": "BATTLE",
+        "name": "Super Android 13, Cores of the Trio [EB1-65]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-65.webp",
         "Power": "30000",
         "Color": "Green/Yellow",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2751,8 +2828,8 @@
         "id": "EB1-66",
         "face": {
             "front": {
-                "name": "Android 13, the Mission Begins",
-                "type": "Main_Deck",
+                "name": "Android 13, the Mission Begins [EB1-66]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2760,12 +2837,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 13, the Mission Begins",
-        "Type": "BATTLE",
+        "name": "Android 13, the Mission Begins [EB1-66]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-66.webp",
         "Power": "20000",
         "Color": "Green/Yellow",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EB1",
@@ -2789,8 +2867,8 @@
         "id": "EB1-67",
         "face": {
             "front": {
-                "name": "Android 14 & Android 15, Target Acquired",
-                "type": "Main_Deck",
+                "name": "Android 14 & Android 15, Target Acquired [EB1-67]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -2798,12 +2876,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 14 & Android 15, Target Acquired",
-        "Type": "BATTLE",
+        "name": "Android 14 & Android 15, Target Acquired [EB1-67]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-67.webp",
         "Power": "15000",
         "Color": "Green/Yellow",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "EB1",
@@ -2826,8 +2905,8 @@
         "id": "EB1-68",
         "face": {
             "front": {
-                "name": "Heroines' Lineage",
-                "type": "Main_Deck",
+                "name": "Heroines' Lineage [EB1-68]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": null,
                 "Energy_cost": "1",
@@ -2835,12 +2914,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Heroines' Lineage",
-        "Type": "EXTRA",
+        "name": "Heroines' Lineage [EB1-68]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EB1/EB1-68.webp",
         "Power": null,
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EB1",
