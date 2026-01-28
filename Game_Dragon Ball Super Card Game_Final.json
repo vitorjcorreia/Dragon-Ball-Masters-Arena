@@ -84,7 +84,7 @@
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
-        "firstPlayerTokenName": "",
+        "firstPlayerTokenName": "Energy Marker",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
@@ -250,19 +250,18 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Leader",
-          "Z_Deck"
+          "Leader"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
           "Unison": "Unison",
           "Energy Marker": "Energy",
-          "Extra": "Stack",
-          "Life": "Stack"
+          "Extra": "Stack"
         },
         "autoPlayFromStack": {
           "Battle": "Battle",
           "Extra": "Discard",
+          "Unison": "Unison",
           "Energy Marker": "Energy"
         },
         "sectionsDict": {
