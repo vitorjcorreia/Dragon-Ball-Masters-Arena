@@ -251,7 +251,7 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Z_Deck"
+          "Z-deck->Z_Deck"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -519,16 +519,7 @@
             "isHidden": "yes",
             "height": "SMALL",
             "alignment": "DECK",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Z-Deck Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "displayedTitle": "Z-Deck Area"
           }
         }
       }
