@@ -137,9 +137,9 @@ for series, cards in tqdm(cards_grouped_by_series.items(), desc="Generating card
             download_image(url=f'{IMG_SRC_URL}/{card['id']}.webp', path=card_image_path)
 
             if card['face']['front']['type'] == "Z-EXTRA":
-                # Convert to vertical
+                #Convert to vertical
                 with Image.open(card_image_path) as img:
-                    img = img.rotate(90)
+                    img = img.rotate(90, expand=True)
                     img.save(card_image_path)
 
         if card['face']['front']['type'] == "LEADER":
