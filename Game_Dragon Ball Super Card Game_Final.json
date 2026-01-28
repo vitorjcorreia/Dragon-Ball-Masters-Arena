@@ -8,7 +8,7 @@
   "customHelp": "\"How to play DB Masters:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/bt26cards.json",
+    "dataUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/cards.json",
     "cardBack": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/cardBack.webp"
   },
   "deckBuilding": {
@@ -41,7 +41,7 @@
             "maxPerCard": 1
           },
           {
-            "category": "Battle",
+            "category": "Main_Deck",
             "min": 50,
             "max": 60
           },
@@ -51,7 +51,7 @@
             "max": 15
           },
           {
-            "category": "Z-Deck",
+            "category": "Z_Deck",
             "min": 0,
             "max": 10
           }
