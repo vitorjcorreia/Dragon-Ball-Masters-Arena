@@ -497,11 +497,11 @@
             "Z-Energy": {
             "title": "Z-Energy",
             "isHidden": "no",
-            "height": "20",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "Z-Energy Area",
             "noQuickActions": false,
             "enterTapped": false,
