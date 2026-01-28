@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/starterDecks.json"
   },
-  "customHelp": "\"How to play DB Masters:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/us-en/rule",
+  "customHelp": "\"How to play DB Masters:\n(1) After choosing which player goes first, the player who goes second creates an Energy Marker.\n(2) When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\n(3) For more details about rules and banlist, visit https: http://www.dbs-cardgame.com/us-en/rule",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/cards.json",
@@ -515,6 +515,7 @@
             "showHiddenCardInHistory": false
           },
           "Z_Deck": {
+            "isDefaultSection": true,
             "title": "Z_Deck",
             "isHidden": "yes",
             "height": "SMALL",
@@ -522,7 +523,7 @@
             "opponentAlignment": false,
             "displayedTitle": "Z-Deck Area",
             "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
