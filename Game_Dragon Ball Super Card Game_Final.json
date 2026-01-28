@@ -153,7 +153,7 @@
       ],
       "sections": {
         "customSections": [
-          "Z-Deck",
+          "Z_Deck",
           "Z-Energy",
           "Leader",
           "Life",
@@ -174,7 +174,7 @@
               },
               "content": [
                 {
-                  "section": "Z-Deck",
+                  "section": "Z_Deck",
                   "style": false
                 },
                 {
@@ -247,13 +247,13 @@
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Z-Deck"
+          "Z_Deck"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
           "Energy Marker": "Energy",
           "Extra": "Stack",
-          "Z-Deck": "Hand",
+          "Z_Deck": "Hand",
           "Life": "Hand"
         },
         "autoPlayFromStack": {
@@ -510,7 +510,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-            "Z-Deck": {
+            "Z_Deck": {
             "title": "Z-Deck",
             "isHidden": "yes",
             "height": "20",
