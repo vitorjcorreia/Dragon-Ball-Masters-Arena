@@ -3,8 +3,8 @@
         "id": "BT3-001",
         "face": {
             "front": {
-                "name": "Pan",
-                "type": "Leader",
+                "name": "Pan [BT3-001]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Pan, Ready to Fight",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-001_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Pan",
-        "Type": "LEADER",
+        "name": "Pan [BT3-001]",
+        "type": "Leader",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-001.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -47,8 +48,8 @@
         "id": "BT3-002",
         "face": {
             "front": {
-                "name": "Dr. Myuu",
-                "type": "Leader",
+                "name": "Dr. Myuu [BT3-002]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -57,19 +58,20 @@
             },
             "back": {
                 "name": "Scheming Dr. Myuu",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-002_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Myuu",
-        "Type": "LEADER",
+        "name": "Dr. Myuu [BT3-002]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-002.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -91,8 +93,8 @@
         "id": "BT3-003",
         "face": {
             "front": {
-                "name": "Victorious Fist Super Saiyan 3 Son Goku",
-                "type": "Main_Deck",
+                "name": "Victorious Fist Super Saiyan 3 Son Goku [BT3-003]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -100,12 +102,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Victorious Fist Super Saiyan 3 Son Goku",
-        "Type": "BATTLE",
+        "name": "Victorious Fist Super Saiyan 3 Son Goku [BT3-003]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-003.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -127,8 +130,8 @@
         "id": "BT3-004",
         "face": {
             "front": {
-                "name": "Rising Fist Super Saiyan 2 Son Goku",
-                "type": "Main_Deck",
+                "name": "Rising Fist Super Saiyan 2 Son Goku [BT3-004]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -136,12 +139,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rising Fist Super Saiyan 2 Son Goku",
-        "Type": "BATTLE",
+        "name": "Rising Fist Super Saiyan 2 Son Goku [BT3-004]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-004.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -162,8 +166,8 @@
         "id": "BT3-005",
         "face": {
             "front": {
-                "name": "Determined Super Saiyan Son Goku",
-                "type": "Main_Deck",
+                "name": "Determined Super Saiyan Son Goku [BT3-005]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -171,12 +175,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Determined Super Saiyan Son Goku",
-        "Type": "BATTLE",
+        "name": "Determined Super Saiyan Son Goku [BT3-005]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-005.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -196,8 +201,8 @@
         "id": "BT3-005_PR",
         "face": {
             "front": {
-                "name": "Determined Super Saiyan Son Goku",
-                "type": "Main_Deck",
+                "name": "Determined Super Saiyan Son Goku [BT3-005]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -205,12 +210,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Determined Super Saiyan Son Goku",
-        "Type": "BATTLE",
+        "name": "Determined Super Saiyan Son Goku [BT3-005]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-005_PR.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -230,8 +236,8 @@
         "id": "BT3-006",
         "face": {
             "front": {
-                "name": "Pint-sized Warrior Son Goku",
-                "type": "Main_Deck",
+                "name": "Pint-sized Warrior Son Goku [BT3-006]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -239,12 +245,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pint-sized Warrior Son Goku",
-        "Type": "BATTLE",
+        "name": "Pint-sized Warrior Son Goku [BT3-006]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-006.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -263,8 +270,8 @@
         "id": "BT3-007",
         "face": {
             "front": {
-                "name": "Shocking Future Son Goku",
-                "type": "Main_Deck",
+                "name": "Shocking Future Son Goku [BT3-007]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -272,12 +279,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Shocking Future Son Goku",
-        "Type": "BATTLE",
+        "name": "Shocking Future Son Goku [BT3-007]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-007.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -296,8 +304,8 @@
         "id": "BT3-008",
         "face": {
             "front": {
-                "name": "Fearless Pan",
-                "type": "Main_Deck",
+                "name": "Fearless Pan [BT3-008]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -305,12 +313,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fearless Pan",
-        "Type": "BATTLE",
+        "name": "Fearless Pan [BT3-008]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-008.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -333,8 +342,8 @@
         "id": "BT3-008_PR",
         "face": {
             "front": {
-                "name": "Fearless Pan",
-                "type": "Main_Deck",
+                "name": "Fearless Pan [BT3-008]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -342,12 +351,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fearless Pan",
-        "Type": "BATTLE",
+        "name": "Fearless Pan [BT3-008]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-008_PR.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -370,8 +380,8 @@
         "id": "BT3-009",
         "face": {
             "front": {
-                "name": "Pan",
-                "type": "Main_Deck",
+                "name": "Pan [BT3-009]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "10000",
                 "Energy_cost": "1",
@@ -379,12 +389,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pan",
-        "Type": "BATTLE",
+        "name": "Pan [BT3-009]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-009.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -402,8 +413,8 @@
         "id": "BT3-010",
         "face": {
             "front": {
-                "name": "Reliable Trunks",
-                "type": "Main_Deck",
+                "name": "Reliable Trunks [BT3-010]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -411,12 +422,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Reliable Trunks",
-        "Type": "BATTLE",
+        "name": "Reliable Trunks [BT3-010]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-010.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -438,8 +450,8 @@
         "id": "BT3-011",
         "face": {
             "front": {
-                "name": "Quick Rush Trunks",
-                "type": "Main_Deck",
+                "name": "Quick Rush Trunks [BT3-011]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -447,12 +459,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Quick Rush Trunks",
-        "Type": "BATTLE",
+        "name": "Quick Rush Trunks [BT3-011]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-011.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -472,8 +485,8 @@
         "id": "BT3-012",
         "face": {
             "front": {
-                "name": "Dependable Robot Giru",
-                "type": "Main_Deck",
+                "name": "Dependable Robot Giru [BT3-012]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -481,12 +494,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dependable Robot Giru",
-        "Type": "BATTLE",
+        "name": "Dependable Robot Giru [BT3-012]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-012.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -506,8 +520,8 @@
         "id": "BT3-013",
         "face": {
             "front": {
-                "name": "Handy Giru",
-                "type": "Main_Deck",
+                "name": "Handy Giru [BT3-013]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -515,12 +529,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Handy Giru",
-        "Type": "BATTLE",
+        "name": "Handy Giru [BT3-013]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-013.webp",
         "Power": "12000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -540,8 +555,8 @@
         "id": "BT3-014",
         "face": {
             "front": {
-                "name": "Hidden Power Uub",
-                "type": "Main_Deck",
+                "name": "Hidden Power Uub [BT3-014]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -549,12 +564,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Power Uub",
-        "Type": "BATTLE",
+        "name": "Hidden Power Uub [BT3-014]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-014.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -573,8 +589,8 @@
         "id": "BT3-015",
         "face": {
             "front": {
-                "name": "Bodyguard Ledgic",
-                "type": "Main_Deck",
+                "name": "Bodyguard Ledgic [BT3-015]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -582,12 +598,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Bodyguard Ledgic",
-        "Type": "BATTLE",
+        "name": "Bodyguard Ledgic [BT3-015]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-015.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -607,8 +624,8 @@
         "id": "BT3-015_PR",
         "face": {
             "front": {
-                "name": "Bodyguard Ledgic",
-                "type": "Main_Deck",
+                "name": "Bodyguard Ledgic [BT3-015]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -616,12 +633,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Bodyguard Ledgic",
-        "Type": "BATTLE",
+        "name": "Bodyguard Ledgic [BT3-015]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-015_PR.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -641,8 +659,8 @@
         "id": "BT3-016",
         "face": {
             "front": {
-                "name": "Power-absorbing Luud",
-                "type": "Main_Deck",
+                "name": "Power-absorbing Luud [BT3-016]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "25000",
                 "Energy_cost": "3",
@@ -650,12 +668,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Power-absorbing Luud",
-        "Type": "BATTLE",
+        "name": "Power-absorbing Luud [BT3-016]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-016.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -677,8 +696,8 @@
         "id": "BT3-017",
         "face": {
             "front": {
-                "name": "Dr. Myuu, Under Baby's Control",
-                "type": "Main_Deck",
+                "name": "Dr. Myuu, Under Baby's Control [BT3-017]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -686,12 +705,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Myuu, Under Baby's Control",
-        "Type": "BATTLE",
+        "name": "Dr. Myuu, Under Baby's Control [BT3-017]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-017.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -710,8 +730,8 @@
         "id": "BT3-017_PR",
         "face": {
             "front": {
-                "name": "Dr. Myuu, Under Baby's Control",
-                "type": "Main_Deck",
+                "name": "Dr. Myuu, Under Baby's Control [BT3-017]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -719,12 +739,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Myuu, Under Baby's Control",
-        "Type": "BATTLE",
+        "name": "Dr. Myuu, Under Baby's Control [BT3-017]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-017_PR.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -743,8 +764,8 @@
         "id": "BT3-018",
         "face": {
             "front": {
-                "name": "Meta-Rilldo, Form Perfected",
-                "type": "Main_Deck",
+                "name": "Meta-Rilldo, Form Perfected [BT3-018]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "30000",
                 "Energy_cost": "7",
@@ -752,12 +773,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Meta-Rilldo, Form Perfected",
-        "Type": "BATTLE",
+        "name": "Meta-Rilldo, Form Perfected [BT3-018]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-018.webp",
         "Power": "30000",
         "Color": "Red",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -779,8 +801,8 @@
         "id": "BT3-019",
         "face": {
             "front": {
-                "name": "General Evolved, Hyper Meta-Rilldo",
-                "type": "Main_Deck",
+                "name": "General Evolved, Hyper Meta-Rilldo [BT3-019]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -788,12 +810,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "General Evolved, Hyper Meta-Rilldo",
-        "Type": "BATTLE",
+        "name": "General Evolved, Hyper Meta-Rilldo [BT3-019]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-019.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -813,8 +836,8 @@
         "id": "BT3-020",
         "face": {
             "front": {
-                "name": "Hidden Ability, General Rilldo",
-                "type": "Main_Deck",
+                "name": "Hidden Ability, General Rilldo [BT3-020]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -822,12 +845,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Ability, General Rilldo",
-        "Type": "BATTLE",
+        "name": "Hidden Ability, General Rilldo [BT3-020]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-020.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -846,8 +870,8 @@
         "id": "BT3-021",
         "face": {
             "front": {
-                "name": "Triple Union Super Sigma",
-                "type": "Main_Deck",
+                "name": "Triple Union Super Sigma [BT3-021]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -855,12 +879,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Triple Union Super Sigma",
-        "Type": "BATTLE",
+        "name": "Triple Union Super Sigma [BT3-021]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-021.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -880,8 +905,8 @@
         "id": "BT3-022",
         "face": {
             "front": {
-                "name": "Commander Nezi",
-                "type": "Main_Deck",
+                "name": "Commander Nezi [BT3-022]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -889,12 +914,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Commander Nezi",
-        "Type": "BATTLE",
+        "name": "Commander Nezi [BT3-022]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-022.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -914,8 +940,8 @@
         "id": "BT3-023",
         "face": {
             "front": {
-                "name": "Mega Cannon Sigma, Natt",
-                "type": "Main_Deck",
+                "name": "Mega Cannon Sigma, Natt [BT3-023]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -923,12 +949,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mega Cannon Sigma, Natt",
-        "Type": "BATTLE",
+        "name": "Mega Cannon Sigma, Natt [BT3-023]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-023.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -947,8 +974,8 @@
         "id": "BT3-024",
         "face": {
             "front": {
-                "name": "Mega Cannon Sigma, Bizu",
-                "type": "Main_Deck",
+                "name": "Mega Cannon Sigma, Bizu [BT3-024]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -956,12 +983,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mega Cannon Sigma, Bizu",
-        "Type": "BATTLE",
+        "name": "Mega Cannon Sigma, Bizu [BT3-024]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-024.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -980,8 +1008,8 @@
         "id": "BT3-025",
         "face": {
             "front": {
-                "name": "Mega Cannon Sigma Ribet",
-                "type": "Main_Deck",
+                "name": "Mega Cannon Sigma Ribet [BT3-025]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -989,12 +1017,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mega Cannon Sigma Ribet",
-        "Type": "BATTLE",
+        "name": "Mega Cannon Sigma Ribet [BT3-025]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-025.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1013,8 +1042,8 @@
         "id": "BT3-026",
         "face": {
             "front": {
-                "name": "Pride and Justice Toppo",
-                "type": "Main_Deck",
+                "name": "Pride and Justice Toppo [BT3-026]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1022,12 +1051,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pride and Justice Toppo",
-        "Type": "BATTLE",
+        "name": "Pride and Justice Toppo [BT3-026]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-026.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1048,8 +1078,8 @@
         "id": "BT3-026_PR",
         "face": {
             "front": {
-                "name": "Pride and Justice Toppo",
-                "type": "Main_Deck",
+                "name": "Pride and Justice Toppo [BT3-026]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1057,12 +1087,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pride and Justice Toppo",
-        "Type": "BATTLE",
+        "name": "Pride and Justice Toppo [BT3-026]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-026_PR.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1083,8 +1114,8 @@
         "id": "BT3-027",
         "face": {
             "front": {
-                "name": "Unending Awakening",
-                "type": "Main_Deck",
+                "name": "Unending Awakening [BT3-027]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1092,12 +1123,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unending Awakening",
-        "Type": "EXTRA",
+        "name": "Unending Awakening [BT3-027]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-027.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -1112,8 +1144,8 @@
         "id": "BT3-027_PR",
         "face": {
             "front": {
-                "name": "Unending Awakening",
-                "type": "Main_Deck",
+                "name": "Unending Awakening [BT3-027]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1121,12 +1153,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unending Awakening",
-        "Type": "EXTRA",
+        "name": "Unending Awakening [BT3-027]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-027_PR.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -1141,8 +1174,8 @@
         "id": "BT3-028",
         "face": {
             "front": {
-                "name": "Grand Tour Spaceship",
-                "type": "Main_Deck",
+                "name": "Grand Tour Spaceship [BT3-028]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -1150,12 +1183,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Grand Tour Spaceship",
-        "Type": "EXTRA",
+        "name": "Grand Tour Spaceship [BT3-028]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-028.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -1170,8 +1204,8 @@
         "id": "BT3-029",
         "face": {
             "front": {
-                "name": "Baby's Subdual",
-                "type": "Main_Deck",
+                "name": "Baby's Subdual [BT3-029]",
+                "type": "EXTRA",
                 "cost": "3",
                 "power": "",
                 "Energy_cost": "3",
@@ -1179,12 +1213,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Baby's Subdual",
-        "Type": "EXTRA",
+        "name": "Baby's Subdual [BT3-029]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-029.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -1199,8 +1234,8 @@
         "id": "BT3-030",
         "face": {
             "front": {
-                "name": "Planet M-2",
-                "type": "Main_Deck",
+                "name": "Planet M-2 [BT3-030]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1208,12 +1243,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Planet M-2",
-        "Type": "EXTRA",
+        "name": "Planet M-2 [BT3-030]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-030.webp",
         "Power": "",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -1230,8 +1266,8 @@
         "id": "BT3-031",
         "face": {
             "front": {
-                "name": "Majin Buu",
-                "type": "Leader",
+                "name": "Majin Buu [BT3-031]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -1240,19 +1276,20 @@
             },
             "back": {
                 "name": "Majin Buu, Completely Revived",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-031_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu",
-        "Type": "LEADER",
+        "name": "Majin Buu [BT3-031]",
+        "type": "Leader",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-031.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -1274,8 +1311,8 @@
         "id": "BT3-032",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [BT3-032]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -1284,19 +1321,20 @@
             },
             "back": {
                 "name": "Heightened Evolution Super Saiyan 3 Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-032_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [BT3-032]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-032.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -1318,8 +1356,8 @@
         "id": "BT3-033",
         "face": {
             "front": {
-                "name": "Ultra Instinct -Sign- Son Goku",
-                "type": "Main_Deck",
+                "name": "Ultra Instinct -Sign- Son Goku [BT3-033]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "35000",
                 "Energy_cost": "7",
@@ -1327,12 +1365,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ultra Instinct -Sign- Son Goku",
-        "Type": "BATTLE",
+        "name": "Ultra Instinct -Sign- Son Goku [BT3-033]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-033.webp",
         "Power": "35000",
         "Color": "Blue",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -1354,8 +1393,8 @@
         "id": "BT3-033_SPR",
         "face": {
             "front": {
-                "name": "Ultra Instinct -Sign- Son Goku",
-                "type": "Main_Deck",
+                "name": "Ultra Instinct -Sign- Son Goku [BT3-033]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "35000",
                 "Energy_cost": "7",
@@ -1363,12 +1402,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ultra Instinct -Sign- Son Goku",
-        "Type": "BATTLE",
+        "name": "Ultra Instinct -Sign- Son Goku [BT3-033]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-033_SPR.webp",
         "Power": "35000",
         "Color": "Blue",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -1390,8 +1430,8 @@
         "id": "BT3-034",
         "face": {
             "front": {
-                "name": "Ultimate Spirit Bomb Son Goku",
-                "type": "Main_Deck",
+                "name": "Ultimate Spirit Bomb Son Goku [BT3-034]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -1399,12 +1439,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ultimate Spirit Bomb Son Goku",
-        "Type": "BATTLE",
+        "name": "Ultimate Spirit Bomb Son Goku [BT3-034]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-034.webp",
         "Power": "25000",
         "Color": "Blue",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -1427,8 +1468,8 @@
         "id": "BT3-035",
         "face": {
             "front": {
-                "name": "Furious Rush Super Saiyan 3 Son Goku",
-                "type": "Main_Deck",
+                "name": "Furious Rush Super Saiyan 3 Son Goku [BT3-035]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -1436,12 +1477,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Furious Rush Super Saiyan 3 Son Goku",
-        "Type": "BATTLE",
+        "name": "Furious Rush Super Saiyan 3 Son Goku [BT3-035]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-035.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -1461,8 +1503,8 @@
         "id": "BT3-035_PR",
         "face": {
             "front": {
-                "name": "Furious Rush Super Saiyan 3 Son Goku",
-                "type": "Main_Deck",
+                "name": "Furious Rush Super Saiyan 3 Son Goku [BT3-035]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -1470,12 +1512,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Furious Rush Super Saiyan 3 Son Goku",
-        "Type": "BATTLE",
+        "name": "Furious Rush Super Saiyan 3 Son Goku [BT3-035]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-035_PR.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -1495,8 +1538,8 @@
         "id": "BT3-036",
         "face": {
             "front": {
-                "name": "Final Explosion Prince of Destruction Vegeta",
-                "type": "Main_Deck",
+                "name": "Final Explosion Prince of Destruction Vegeta [BT3-036]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1504,12 +1547,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Final Explosion Prince of Destruction Vegeta",
-        "Type": "BATTLE",
+        "name": "Final Explosion Prince of Destruction Vegeta [BT3-036]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-036.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1529,8 +1573,8 @@
         "id": "BT3-037",
         "face": {
             "front": {
-                "name": "Universal Leader, Grand Supreme Kai",
-                "type": "Main_Deck",
+                "name": "Universal Leader, Grand Supreme Kai [BT3-037]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -1538,12 +1582,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Universal Leader, Grand Supreme Kai",
-        "Type": "BATTLE",
+        "name": "Universal Leader, Grand Supreme Kai [BT3-037]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-037.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1562,8 +1607,8 @@
         "id": "BT3-038",
         "face": {
             "front": {
-                "name": "Unyielding Defender, East Supreme Kai",
-                "type": "Main_Deck",
+                "name": "Unyielding Defender, East Supreme Kai [BT3-038]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -1571,12 +1616,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unyielding Defender, East Supreme Kai",
-        "Type": "BATTLE",
+        "name": "Unyielding Defender, East Supreme Kai [BT3-038]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-038.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1596,8 +1642,8 @@
         "id": "BT3-039",
         "face": {
             "front": {
-                "name": "Majin Defier, West Supreme Kai",
-                "type": "Main_Deck",
+                "name": "Majin Defier, West Supreme Kai [BT3-039]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -1605,12 +1651,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Defier, West Supreme Kai",
-        "Type": "BATTLE",
+        "name": "Majin Defier, West Supreme Kai [BT3-039]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-039.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1630,8 +1677,8 @@
         "id": "BT3-039_PR",
         "face": {
             "front": {
-                "name": "Majin Defier, West Supreme Kai",
-                "type": "Main_Deck",
+                "name": "Majin Defier, West Supreme Kai [BT3-039]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -1639,12 +1686,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Defier, West Supreme Kai",
-        "Type": "BATTLE",
+        "name": "Majin Defier, West Supreme Kai [BT3-039]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-039_PR.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1664,8 +1712,8 @@
         "id": "BT3-040",
         "face": {
             "front": {
-                "name": "Majin Defier, South Supreme Kai",
-                "type": "Main_Deck",
+                "name": "Majin Defier, South Supreme Kai [BT3-040]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1673,12 +1721,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Defier, South Supreme Kai",
-        "Type": "BATTLE",
+        "name": "Majin Defier, South Supreme Kai [BT3-040]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-040.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1698,8 +1747,8 @@
         "id": "BT3-041",
         "face": {
             "front": {
-                "name": "Majin Defier, North Supreme Kai",
-                "type": "Main_Deck",
+                "name": "Majin Defier, North Supreme Kai [BT3-041]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -1707,12 +1756,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Defier, North Supreme Kai",
-        "Type": "BATTLE",
+        "name": "Majin Defier, North Supreme Kai [BT3-041]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-041.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1732,8 +1782,8 @@
         "id": "BT3-042",
         "face": {
             "front": {
-                "name": "Kibito, Kai's Attendant",
-                "type": "Main_Deck",
+                "name": "Kibito, Kai's Attendant [BT3-042]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -1741,12 +1791,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Kibito, Kai's Attendant",
-        "Type": "BATTLE",
+        "name": "Kibito, Kai's Attendant [BT3-042]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-042.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1765,8 +1816,8 @@
         "id": "BT3-043",
         "face": {
             "front": {
-                "name": "Powers Combined, Kibito Kai",
-                "type": "Main_Deck",
+                "name": "Powers Combined, Kibito Kai [BT3-043]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -1774,12 +1825,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Powers Combined, Kibito Kai",
-        "Type": "BATTLE",
+        "name": "Powers Combined, Kibito Kai [BT3-043]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-043.webp",
         "Power": "12000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -1799,8 +1851,8 @@
         "id": "BT3-043_PR",
         "face": {
             "front": {
-                "name": "Powers Combined, Kibito Kai",
-                "type": "Main_Deck",
+                "name": "Powers Combined, Kibito Kai [BT3-043]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -1808,12 +1860,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Powers Combined, Kibito Kai",
-        "Type": "BATTLE",
+        "name": "Powers Combined, Kibito Kai [BT3-043]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-043_PR.webp",
         "Power": "12000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -1833,8 +1886,8 @@
         "id": "BT3-044",
         "face": {
             "front": {
-                "name": "Thinks He's the Best Hercule",
-                "type": "Main_Deck",
+                "name": "Thinks He's the Best Hercule [BT3-044]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -1842,12 +1895,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Thinks He's the Best Hercule",
-        "Type": "BATTLE",
+        "name": "Thinks He's the Best Hercule [BT3-044]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-044.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1866,8 +1920,8 @@
         "id": "BT3-045",
         "face": {
             "front": {
-                "name": "Agent of Resurrection, Babidi",
-                "type": "Main_Deck",
+                "name": "Agent of Resurrection, Babidi [BT3-045]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -1875,12 +1929,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Agent of Resurrection, Babidi",
-        "Type": "BATTLE",
+        "name": "Agent of Resurrection, Babidi [BT3-045]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-045.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1899,8 +1954,8 @@
         "id": "BT3-046",
         "face": {
             "front": {
-                "name": "Magician's Father, Bibidi",
-                "type": "Main_Deck",
+                "name": "Magician's Father, Bibidi [BT3-046]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "10000",
                 "Energy_cost": "4",
@@ -1908,12 +1963,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Magician's Father, Bibidi",
-        "Type": "BATTLE",
+        "name": "Magician's Father, Bibidi [BT3-046]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-046.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -1934,8 +1990,8 @@
         "id": "BT3-047",
         "face": {
             "front": {
-                "name": "The Ultimate Evil, Majin Buu",
-                "type": "Main_Deck",
+                "name": "The Ultimate Evil, Majin Buu [BT3-047]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "30000",
                 "Energy_cost": "7",
@@ -1943,12 +1999,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "The Ultimate Evil, Majin Buu",
-        "Type": "BATTLE",
+        "name": "The Ultimate Evil, Majin Buu [BT3-047]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-047.webp",
         "Power": "30000",
         "Color": "Blue",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -1969,8 +2026,8 @@
         "id": "BT3-048",
         "face": {
             "front": {
-                "name": "Out of Control Evil, Majin Buu",
-                "type": "Main_Deck",
+                "name": "Out of Control Evil, Majin Buu [BT3-048]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1978,12 +2035,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Out of Control Evil, Majin Buu",
-        "Type": "BATTLE",
+        "name": "Out of Control Evil, Majin Buu [BT3-048]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-048.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2003,8 +2061,8 @@
         "id": "BT3-049",
         "face": {
             "front": {
-                "name": "Power Absorbing Majin Buu",
-                "type": "Main_Deck",
+                "name": "Power Absorbing Majin Buu [BT3-049]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -2012,12 +2070,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Power Absorbing Majin Buu",
-        "Type": "BATTLE",
+        "name": "Power Absorbing Majin Buu [BT3-049]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-049.webp",
         "Power": "25000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2039,8 +2098,8 @@
         "id": "BT3-050",
         "face": {
             "front": {
-                "name": "Majin Buu, Dawn of the Rampage",
-                "type": "Main_Deck",
+                "name": "Majin Buu, Dawn of the Rampage [BT3-050]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2048,12 +2107,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Majin Buu, Dawn of the Rampage",
-        "Type": "BATTLE",
+        "name": "Majin Buu, Dawn of the Rampage [BT3-050]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-050.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2074,8 +2134,8 @@
         "id": "BT3-051",
         "face": {
             "front": {
-                "name": "God Absorber Majin Buu",
-                "type": "Main_Deck",
+                "name": "God Absorber Majin Buu [BT3-051]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2083,12 +2143,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "God Absorber Majin Buu",
-        "Type": "BATTLE",
+        "name": "God Absorber Majin Buu [BT3-051]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-051.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2109,8 +2170,8 @@
         "id": "BT3-052",
         "face": {
             "front": {
-                "name": "The Most Evil Absorption in History",
-                "type": "Main_Deck",
+                "name": "The Most Evil Absorption in History [BT3-052]",
+                "type": "EXTRA",
                 "cost": "3",
                 "power": "",
                 "Energy_cost": "3",
@@ -2118,12 +2179,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "The Most Evil Absorption in History",
-        "Type": "EXTRA",
+        "name": "The Most Evil Absorption in History [BT3-052]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-052.webp",
         "Power": "",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -2138,8 +2200,8 @@
         "id": "BT3-053",
         "face": {
             "front": {
-                "name": "Rebirth of Justice",
-                "type": "Main_Deck",
+                "name": "Rebirth of Justice [BT3-053]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": "",
                 "Energy_cost": "4",
@@ -2147,12 +2209,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rebirth of Justice",
-        "Type": "EXTRA",
+        "name": "Rebirth of Justice [BT3-053]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-053.webp",
         "Power": "",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -2167,8 +2230,8 @@
         "id": "BT3-054",
         "face": {
             "front": {
-                "name": "Buu Make You Cookie",
-                "type": "Main_Deck",
+                "name": "Buu Make You Cookie [BT3-054]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -2176,12 +2239,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Buu Make You Cookie",
-        "Type": "EXTRA",
+        "name": "Buu Make You Cookie [BT3-054]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-054.webp",
         "Power": "",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -2196,8 +2260,8 @@
         "id": "BT3-055",
         "face": {
             "front": {
-                "name": "Vegito",
-                "type": "Leader",
+                "name": "Vegito [BT3-055]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -2206,19 +2270,20 @@
             },
             "back": {
                 "name": "Going All In, SSB Vegito",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-055_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegito",
-        "Type": "LEADER",
+        "name": "Vegito [BT3-055]",
+        "type": "Leader",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-055.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -2240,8 +2305,8 @@
         "id": "BT3-056",
         "face": {
             "front": {
-                "name": "Android 13",
-                "type": "Leader",
+                "name": "Android 13 [BT3-056]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -2250,19 +2315,20 @@
             },
             "back": {
                 "name": "Thirst for Destruction, Android 13",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-056_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Android 13",
-        "Type": "LEADER",
+        "name": "Android 13 [BT3-056]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-056.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -2284,8 +2350,8 @@
         "id": "BT3-057",
         "face": {
             "front": {
-                "name": "Finishing Spirit Bomb Son Goku",
-                "type": "Main_Deck",
+                "name": "Finishing Spirit Bomb Son Goku [BT3-057]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -2293,12 +2359,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Finishing Spirit Bomb Son Goku",
-        "Type": "BATTLE",
+        "name": "Finishing Spirit Bomb Son Goku [BT3-057]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-057.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2319,8 +2386,8 @@
         "id": "BT3-058",
         "face": {
             "front": {
-                "name": "Pressure Assault Super Saiyan Son Goku",
-                "type": "Main_Deck",
+                "name": "Pressure Assault Super Saiyan Son Goku [BT3-058]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2328,12 +2395,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Pressure Assault Super Saiyan Son Goku",
-        "Type": "BATTLE",
+        "name": "Pressure Assault Super Saiyan Son Goku [BT3-058]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-058.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2353,8 +2421,8 @@
         "id": "BT3-059",
         "face": {
             "front": {
-                "name": "Indomitable Spirit SSB Son Goku",
-                "type": "Main_Deck",
+                "name": "Indomitable Spirit SSB Son Goku [BT3-059]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -2362,12 +2430,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Indomitable Spirit SSB Son Goku",
-        "Type": "BATTLE",
+        "name": "Indomitable Spirit SSB Son Goku [BT3-059]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-059.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2389,8 +2458,8 @@
         "id": "BT3-060",
         "face": {
             "front": {
-                "name": "Dauntless Spirit SSB Vegeta",
-                "type": "Main_Deck",
+                "name": "Dauntless Spirit SSB Vegeta [BT3-060]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2398,12 +2467,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dauntless Spirit SSB Vegeta",
-        "Type": "BATTLE",
+        "name": "Dauntless Spirit SSB Vegeta [BT3-060]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-060.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2425,8 +2495,8 @@
         "id": "BT3-061",
         "face": {
             "front": {
-                "name": "Unyielding Justice SS2 Trunks",
-                "type": "Main_Deck",
+                "name": "Unyielding Justice SS2 Trunks [BT3-061]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2434,12 +2504,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unyielding Justice SS2 Trunks",
-        "Type": "BATTLE",
+        "name": "Unyielding Justice SS2 Trunks [BT3-061]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-061.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2462,8 +2533,8 @@
         "id": "BT3-062",
         "face": {
             "front": {
-                "name": "Trunks, Bridge to the Future",
-                "type": "Main_Deck",
+                "name": "Trunks, Bridge to the Future [BT3-062]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -2471,12 +2542,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Trunks, Bridge to the Future",
-        "Type": "BATTLE",
+        "name": "Trunks, Bridge to the Future [BT3-062]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-062.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2496,8 +2568,8 @@
         "id": "BT3-062_PR",
         "face": {
             "front": {
-                "name": "Trunks, Bridge to the Future",
-                "type": "Main_Deck",
+                "name": "Trunks, Bridge to the Future [BT3-062]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -2505,12 +2577,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Trunks, Bridge to the Future",
-        "Type": "BATTLE",
+        "name": "Trunks, Bridge to the Future [BT3-062]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-062_PR.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2530,8 +2603,8 @@
         "id": "BT3-063",
         "face": {
             "front": {
-                "name": "Hyper Rush SSB Vegito",
-                "type": "Main_Deck",
+                "name": "Hyper Rush SSB Vegito [BT3-063]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -2539,12 +2612,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hyper Rush SSB Vegito",
-        "Type": "BATTLE",
+        "name": "Hyper Rush SSB Vegito [BT3-063]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-063.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2565,8 +2639,8 @@
         "id": "BT3-063_PR2",
         "face": {
             "front": {
-                "name": "Hyper Rush SSB Vegito",
-                "type": "Main_Deck",
+                "name": "Hyper Rush SSB Vegito [BT3-063]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -2574,12 +2648,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hyper Rush SSB Vegito",
-        "Type": "BATTLE",
+        "name": "Hyper Rush SSB Vegito [BT3-063]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-063_PR2.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2600,8 +2675,8 @@
         "id": "BT3-063_PR3",
         "face": {
             "front": {
-                "name": "Hyper Rush SSB Vegito",
-                "type": "Main_Deck",
+                "name": "Hyper Rush SSB Vegito [BT3-063]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -2609,12 +2684,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hyper Rush SSB Vegito",
-        "Type": "BATTLE",
+        "name": "Hyper Rush SSB Vegito [BT3-063]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-063_PR3.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2635,8 +2711,8 @@
         "id": "BT3-063_SPR",
         "face": {
             "front": {
-                "name": "Hyper Rush SSB Vegito",
-                "type": "Main_Deck",
+                "name": "Hyper Rush SSB Vegito [BT3-063]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -2644,12 +2720,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hyper Rush SSB Vegito",
-        "Type": "BATTLE",
+        "name": "Hyper Rush SSB Vegito [BT3-063]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-063_SPR.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2670,8 +2747,8 @@
         "id": "BT3-064",
         "face": {
             "front": {
-                "name": "Dreadful Duo, Android 17",
-                "type": "Main_Deck",
+                "name": "Dreadful Duo, Android 17 [BT3-064]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -2679,12 +2756,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dreadful Duo, Android 17",
-        "Type": "BATTLE",
+        "name": "Dreadful Duo, Android 17 [BT3-064]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-064.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2705,8 +2783,8 @@
         "id": "BT3-065",
         "face": {
             "front": {
-                "name": "Dreadful Duo, Android 18",
-                "type": "Main_Deck",
+                "name": "Dreadful Duo, Android 18 [BT3-065]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -2714,12 +2792,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dreadful Duo, Android 18",
-        "Type": "BATTLE",
+        "name": "Dreadful Duo, Android 18 [BT3-065]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-065.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2740,8 +2819,8 @@
         "id": "BT3-066",
         "face": {
             "front": {
-                "name": "Made to Destroy, Android 19",
-                "type": "Main_Deck",
+                "name": "Made to Destroy, Android 19 [BT3-066]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -2749,12 +2828,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Made to Destroy, Android 19",
-        "Type": "BATTLE",
+        "name": "Made to Destroy, Android 19 [BT3-066]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-066.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2773,8 +2853,8 @@
         "id": "BT3-067",
         "face": {
             "front": {
-                "name": "Dr. Gero, Evil's Inventor",
-                "type": "Main_Deck",
+                "name": "Dr. Gero, Evil's Inventor [BT3-067]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -2782,12 +2862,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Gero, Evil's Inventor",
-        "Type": "BATTLE",
+        "name": "Dr. Gero, Evil's Inventor [BT3-067]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-067.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2806,8 +2887,8 @@
         "id": "BT3-068",
         "face": {
             "front": {
-                "name": "Stouthearted Android 16",
-                "type": "Main_Deck",
+                "name": "Stouthearted Android 16 [BT3-068]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -2815,12 +2896,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Stouthearted Android 16",
-        "Type": "BATTLE",
+        "name": "Stouthearted Android 16 [BT3-068]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-068.webp",
         "Power": "12000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -2840,8 +2922,8 @@
         "id": "BT3-068_PR",
         "face": {
             "front": {
-                "name": "Stouthearted Android 16",
-                "type": "Main_Deck",
+                "name": "Stouthearted Android 16 [BT3-068]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -2849,12 +2931,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Stouthearted Android 16",
-        "Type": "BATTLE",
+        "name": "Stouthearted Android 16 [BT3-068]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-068_PR.webp",
         "Power": "12000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -2874,8 +2957,8 @@
         "id": "BT3-069",
         "face": {
             "front": {
-                "name": "Unending Destruction, Android 13",
-                "type": "Main_Deck",
+                "name": "Unending Destruction, Android 13 [BT3-069]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "30000",
                 "Energy_cost": "7",
@@ -2883,12 +2966,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unending Destruction, Android 13",
-        "Type": "BATTLE",
+        "name": "Unending Destruction, Android 13 [BT3-069]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-069.webp",
         "Power": "30000",
         "Color": "Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -2908,8 +2992,8 @@
         "id": "BT3-070",
         "face": {
             "front": {
-                "name": "Dawn of Terror, Android 13",
-                "type": "Main_Deck",
+                "name": "Dawn of Terror, Android 13 [BT3-070]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2917,12 +3001,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dawn of Terror, Android 13",
-        "Type": "BATTLE",
+        "name": "Dawn of Terror, Android 13 [BT3-070]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-070.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2942,8 +3027,8 @@
         "id": "BT3-070_PR",
         "face": {
             "front": {
-                "name": "Dawn of Terror, Android 13",
-                "type": "Main_Deck",
+                "name": "Dawn of Terror, Android 13 [BT3-070]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2951,12 +3036,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dawn of Terror, Android 13",
-        "Type": "BATTLE",
+        "name": "Dawn of Terror, Android 13 [BT3-070]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-070_PR.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -2977,8 +3063,8 @@
         "id": "BT3-071",
         "face": {
             "front": {
-                "name": "Unfeeling Destroyer Android 14",
-                "type": "Main_Deck",
+                "name": "Unfeeling Destroyer Android 14 [BT3-071]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -2986,12 +3072,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unfeeling Destroyer Android 14",
-        "Type": "BATTLE",
+        "name": "Unfeeling Destroyer Android 14 [BT3-071]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-071.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -3011,8 +3098,8 @@
         "id": "BT3-072",
         "face": {
             "front": {
-                "name": "Combination Attack Android 14",
-                "type": "Main_Deck",
+                "name": "Combination Attack Android 14 [BT3-072]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -3020,12 +3107,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Combination Attack Android 14",
-        "Type": "BATTLE",
+        "name": "Combination Attack Android 14 [BT3-072]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-072.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3044,8 +3132,8 @@
         "id": "BT3-073",
         "face": {
             "front": {
-                "name": "Unfeeling Destroyer Android 15",
-                "type": "Main_Deck",
+                "name": "Unfeeling Destroyer Android 15 [BT3-073]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -3053,12 +3141,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unfeeling Destroyer Android 15",
-        "Type": "BATTLE",
+        "name": "Unfeeling Destroyer Android 15 [BT3-073]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-073.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3077,8 +3166,8 @@
         "id": "BT3-074",
         "face": {
             "front": {
-                "name": "Android 15, Just Saying Hi",
-                "type": "Main_Deck",
+                "name": "Android 15, Just Saying Hi [BT3-074]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -3086,12 +3175,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 15, Just Saying Hi",
-        "Type": "BATTLE",
+        "name": "Android 15, Just Saying Hi [BT3-074]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-074.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3110,8 +3200,8 @@
         "id": "BT3-075",
         "face": {
             "front": {
-                "name": "Terror Scythe Goku Black",
-                "type": "Main_Deck",
+                "name": "Terror Scythe Goku Black [BT3-075]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -3119,12 +3209,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Terror Scythe Goku Black",
-        "Type": "BATTLE",
+        "name": "Terror Scythe Goku Black [BT3-075]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-075.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3144,8 +3235,8 @@
         "id": "BT3-075_PR",
         "face": {
             "front": {
-                "name": "Terror Scythe Goku Black",
-                "type": "Main_Deck",
+                "name": "Terror Scythe Goku Black [BT3-075]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -3153,12 +3244,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Terror Scythe Goku Black",
-        "Type": "BATTLE",
+        "name": "Terror Scythe Goku Black [BT3-075]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-075_PR.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3178,8 +3270,8 @@
         "id": "BT3-075_PR2",
         "face": {
             "front": {
-                "name": "Terror Scythe Goku Black",
-                "type": "Main_Deck",
+                "name": "Terror Scythe Goku Black [BT3-075]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -3187,12 +3279,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Terror Scythe Goku Black",
-        "Type": "BATTLE",
+        "name": "Terror Scythe Goku Black [BT3-075]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-075_PR2.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3212,8 +3305,8 @@
         "id": "BT3-076",
         "face": {
             "front": {
-                "name": "Twisted Justice, Fused Zamasu",
-                "type": "Main_Deck",
+                "name": "Twisted Justice, Fused Zamasu [BT3-076]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -3221,12 +3314,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Twisted Justice, Fused Zamasu",
-        "Type": "BATTLE",
+        "name": "Twisted Justice, Fused Zamasu [BT3-076]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-076.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -3248,8 +3342,8 @@
         "id": "BT3-077",
         "face": {
             "front": {
-                "name": "Evil Psyche, Zamasu",
-                "type": "Main_Deck",
+                "name": "Evil Psyche, Zamasu [BT3-077]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -3257,12 +3351,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Evil Psyche, Zamasu",
-        "Type": "BATTLE",
+        "name": "Evil Psyche, Zamasu [BT3-077]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-077.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3284,8 +3379,8 @@
         "id": "BT3-077_PR",
         "face": {
             "front": {
-                "name": "Evil Psyche, Zamasu",
-                "type": "Main_Deck",
+                "name": "Evil Psyche, Zamasu [BT3-077]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -3293,12 +3388,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Evil Psyche, Zamasu",
-        "Type": "BATTLE",
+        "name": "Evil Psyche, Zamasu [BT3-077]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-077_PR.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3320,8 +3416,8 @@
         "id": "BT3-078",
         "face": {
             "front": {
-                "name": "Unstoppable Ambition Super Saiyan Caulifla",
-                "type": "Main_Deck",
+                "name": "Unstoppable Ambition Super Saiyan Caulifla [BT3-078]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -3329,12 +3425,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unstoppable Ambition Super Saiyan Caulifla",
-        "Type": "BATTLE",
+        "name": "Unstoppable Ambition Super Saiyan Caulifla [BT3-078]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-078.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3355,8 +3452,8 @@
         "id": "BT3-079",
         "face": {
             "front": {
-                "name": "To Save a Hopeful Future",
-                "type": "Main_Deck",
+                "name": "To Save a Hopeful Future [BT3-079]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": "",
                 "Energy_cost": "4",
@@ -3364,12 +3461,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "To Save a Hopeful Future",
-        "Type": "EXTRA",
+        "name": "To Save a Hopeful Future [BT3-079]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-079.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -3384,8 +3482,8 @@
         "id": "BT3-080",
         "face": {
             "front": {
-                "name": "Create Android",
-                "type": "Main_Deck",
+                "name": "Create Android [BT3-080]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3393,12 +3491,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Create Android",
-        "Type": "EXTRA",
+        "name": "Create Android [BT3-080]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-080.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -3413,8 +3512,8 @@
         "id": "BT3-081",
         "face": {
             "front": {
-                "name": "Speedy Surprise Attack",
-                "type": "Main_Deck",
+                "name": "Speedy Surprise Attack [BT3-081]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -3422,12 +3521,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Speedy Surprise Attack",
-        "Type": "EXTRA",
+        "name": "Speedy Surprise Attack [BT3-081]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-081.webp",
         "Power": "",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -3442,8 +3542,8 @@
         "id": "BT3-082",
         "face": {
             "front": {
-                "name": "Bardock",
-                "type": "Leader",
+                "name": "Bardock [BT3-082]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -3452,19 +3552,20 @@
             },
             "back": {
                 "name": "Unwavering Justice Bardock",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-082_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Bardock",
-        "Type": "LEADER",
+        "name": "Bardock [BT3-082]",
+        "type": "Leader",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-082.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -3485,8 +3586,8 @@
         "id": "BT3-083",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [BT3-083]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -3495,19 +3596,20 @@
             },
             "back": {
                 "name": "Uncontrollable Great Ape Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-083_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [BT3-083]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-083.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -3529,8 +3631,8 @@
         "id": "BT3-084",
         "face": {
             "front": {
-                "name": "Desperate Warrior Super Saiyan Bardock",
-                "type": "Main_Deck",
+                "name": "Desperate Warrior Super Saiyan Bardock [BT3-084]",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -3538,12 +3640,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Desperate Warrior Super Saiyan Bardock",
-        "Type": "BATTLE",
+        "name": "Desperate Warrior Super Saiyan Bardock [BT3-084]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-084.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "7",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -3565,8 +3668,8 @@
         "id": "BT3-085",
         "face": {
             "front": {
-                "name": "Great Protector, Great Ape Bardock",
-                "type": "Main_Deck",
+                "name": "Great Protector, Great Ape Bardock [BT3-085]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -3574,12 +3677,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Great Protector, Great Ape Bardock",
-        "Type": "BATTLE",
+        "name": "Great Protector, Great Ape Bardock [BT3-085]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-085.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -3602,8 +3706,8 @@
         "id": "BT3-086",
         "face": {
             "front": {
-                "name": "Striker Bardock",
-                "type": "Main_Deck",
+                "name": "Striker Bardock [BT3-086]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3611,12 +3715,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Striker Bardock",
-        "Type": "BATTLE",
+        "name": "Striker Bardock [BT3-086]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-086.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3636,8 +3741,8 @@
         "id": "BT3-087",
         "face": {
             "front": {
-                "name": "Gine, Family of Justice",
-                "type": "Main_Deck",
+                "name": "Gine, Family of Justice [BT3-087]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -3645,12 +3750,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gine, Family of Justice",
-        "Type": "BATTLE",
+        "name": "Gine, Family of Justice [BT3-087]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-087.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3670,8 +3776,8 @@
         "id": "BT3-088",
         "face": {
             "front": {
-                "name": "Explosive Spirit Son Goku",
-                "type": "Main_Deck",
+                "name": "Explosive Spirit Son Goku [BT3-088]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -3679,12 +3785,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Explosive Spirit Son Goku",
-        "Type": "BATTLE",
+        "name": "Explosive Spirit Son Goku [BT3-088]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-088.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3705,8 +3812,8 @@
         "id": "BT3-088_PR",
         "face": {
             "front": {
-                "name": "Explosive Spirit Son Goku",
-                "type": "Main_Deck",
+                "name": "Explosive Spirit Son Goku [BT3-088]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -3714,12 +3821,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Explosive Spirit Son Goku",
-        "Type": "BATTLE",
+        "name": "Explosive Spirit Son Goku [BT3-088]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-088_PR.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3740,8 +3848,8 @@
         "id": "BT3-088_PR2",
         "face": {
             "front": {
-                "name": "Explosive Spirit Son Goku",
-                "type": "Main_Deck",
+                "name": "Explosive Spirit Son Goku [BT3-088]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -3749,12 +3857,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Explosive Spirit Son Goku",
-        "Type": "BATTLE",
+        "name": "Explosive Spirit Son Goku [BT3-088]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-088_PR2.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3775,8 +3884,8 @@
         "id": "BT3-088_SPR",
         "face": {
             "front": {
-                "name": "Explosive Spirit Son Goku",
-                "type": "Main_Deck",
+                "name": "Explosive Spirit Son Goku [BT3-088]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "10000",
                 "Energy_cost": "3",
@@ -3784,12 +3893,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Explosive Spirit Son Goku",
-        "Type": "BATTLE",
+        "name": "Explosive Spirit Son Goku [BT3-088]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-088_SPR.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3810,8 +3920,8 @@
         "id": "BT3-089",
         "face": {
             "front": {
-                "name": "Rampaging Great Ape Son Goku",
-                "type": "Main_Deck",
+                "name": "Rampaging Great Ape Son Goku [BT3-089]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -3819,12 +3929,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rampaging Great Ape Son Goku",
-        "Type": "BATTLE",
+        "name": "Rampaging Great Ape Son Goku [BT3-089]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-089.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -3847,8 +3958,8 @@
         "id": "BT3-090",
         "face": {
             "front": {
-                "name": "No Openings Son Goku",
-                "type": "Main_Deck",
+                "name": "No Openings Son Goku [BT3-090]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -3856,12 +3967,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "No Openings Son Goku",
-        "Type": "BATTLE",
+        "name": "No Openings Son Goku [BT3-090]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-090.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -3880,8 +3992,8 @@
         "id": "BT3-091",
         "face": {
             "front": {
-                "name": "Kakarot, the Child Who Got Away",
-                "type": "Main_Deck",
+                "name": "Kakarot, the Child Who Got Away [BT3-091]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -3889,12 +4001,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Kakarot, the Child Who Got Away",
-        "Type": "BATTLE",
+        "name": "Kakarot, the Child Who Got Away [BT3-091]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-091.webp",
         "Power": "1000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3913,8 +4026,8 @@
         "id": "BT3-092",
         "face": {
             "front": {
-                "name": "Absolute Defense Great Ape King Vegeta",
-                "type": "Main_Deck",
+                "name": "Absolute Defense Great Ape King Vegeta [BT3-092]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -3922,12 +4035,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Absolute Defense Great Ape King Vegeta",
-        "Type": "BATTLE",
+        "name": "Absolute Defense Great Ape King Vegeta [BT3-092]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-092.webp",
         "Power": "25000",
         "Color": "Yellow",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -3950,8 +4064,8 @@
         "id": "BT3-093",
         "face": {
             "front": {
-                "name": "Lord of the Great Apes, King Vegeta",
-                "type": "Main_Deck",
+                "name": "Lord of the Great Apes, King Vegeta [BT3-093]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -3959,12 +4073,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Lord of the Great Apes, King Vegeta",
-        "Type": "BATTLE",
+        "name": "Lord of the Great Apes, King Vegeta [BT3-093]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-093.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -3983,8 +4098,8 @@
         "id": "BT3-094",
         "face": {
             "front": {
-                "name": "Vegeta",
-                "type": "Main_Deck",
+                "name": "Vegeta [BT3-094]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "10000",
                 "Energy_cost": "1",
@@ -3992,12 +4107,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta",
-        "Type": "BATTLE",
+        "name": "Vegeta [BT3-094]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-094.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4014,8 +4130,8 @@
         "id": "BT3-095",
         "face": {
             "front": {
-                "name": "Youthful Bulma",
-                "type": "Main_Deck",
+                "name": "Youthful Bulma [BT3-095]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "1000",
                 "Energy_cost": "1",
@@ -4023,12 +4139,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Youthful Bulma",
-        "Type": "BATTLE",
+        "name": "Youthful Bulma [BT3-095]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-095.webp",
         "Power": "1000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4047,8 +4164,8 @@
         "id": "BT3-096",
         "face": {
             "front": {
-                "name": "Hidden Power Great Ape Tora",
-                "type": "Main_Deck",
+                "name": "Hidden Power Great Ape Tora [BT3-096]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4056,12 +4173,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Power Great Ape Tora",
-        "Type": "BATTLE",
+        "name": "Hidden Power Great Ape Tora [BT3-096]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-096.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -4082,8 +4200,8 @@
         "id": "BT3-096_PR",
         "face": {
             "front": {
-                "name": "Hidden Power Great Ape Tora",
-                "type": "Main_Deck",
+                "name": "Hidden Power Great Ape Tora [BT3-096]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4091,12 +4209,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Power Great Ape Tora",
-        "Type": "BATTLE",
+        "name": "Hidden Power Great Ape Tora [BT3-096]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-096_PR.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -4117,8 +4236,8 @@
         "id": "BT3-097",
         "face": {
             "front": {
-                "name": "Unwavering Solidarity Tora",
-                "type": "Main_Deck",
+                "name": "Unwavering Solidarity Tora [BT3-097]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -4126,12 +4245,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unwavering Solidarity Tora",
-        "Type": "BATTLE",
+        "name": "Unwavering Solidarity Tora [BT3-097]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-097.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4150,8 +4270,8 @@
         "id": "BT3-098",
         "face": {
             "front": {
-                "name": "Hidden Power Great Ape Fasha",
-                "type": "Main_Deck",
+                "name": "Hidden Power Great Ape Fasha [BT3-098]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -4159,12 +4279,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Power Great Ape Fasha",
-        "Type": "BATTLE",
+        "name": "Hidden Power Great Ape Fasha [BT3-098]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-098.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -4185,8 +4306,8 @@
         "id": "BT3-098_PR",
         "face": {
             "front": {
-                "name": "Hidden Power Great Ape Fasha",
-                "type": "Main_Deck",
+                "name": "Hidden Power Great Ape Fasha [BT3-098]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -4194,12 +4315,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Power Great Ape Fasha",
-        "Type": "BATTLE",
+        "name": "Hidden Power Great Ape Fasha [BT3-098]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-098_PR.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -4220,8 +4342,8 @@
         "id": "BT3-099",
         "face": {
             "front": {
-                "name": "Unwavering Solidarity Fasha",
-                "type": "Main_Deck",
+                "name": "Unwavering Solidarity Fasha [BT3-099]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -4229,12 +4351,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unwavering Solidarity Fasha",
-        "Type": "BATTLE",
+        "name": "Unwavering Solidarity Fasha [BT3-099]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-099.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4253,8 +4376,8 @@
         "id": "BT3-100",
         "face": {
             "front": {
-                "name": "Unwavering Solidarity Shugesh",
-                "type": "Main_Deck",
+                "name": "Unwavering Solidarity Shugesh [BT3-100]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -4262,12 +4385,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unwavering Solidarity Shugesh",
-        "Type": "BATTLE",
+        "name": "Unwavering Solidarity Shugesh [BT3-100]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-100.webp",
         "Power": "12000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -4287,8 +4411,8 @@
         "id": "BT3-100_PR",
         "face": {
             "front": {
-                "name": "Unwavering Solidarity Shugesh",
-                "type": "Main_Deck",
+                "name": "Unwavering Solidarity Shugesh [BT3-100]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -4296,12 +4420,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unwavering Solidarity Shugesh",
-        "Type": "BATTLE",
+        "name": "Unwavering Solidarity Shugesh [BT3-100]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-100_PR.webp",
         "Power": "12000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -4321,8 +4446,8 @@
         "id": "BT3-101",
         "face": {
             "front": {
-                "name": "Unwavering Solidarity Borgos",
-                "type": "Main_Deck",
+                "name": "Unwavering Solidarity Borgos [BT3-101]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -4330,12 +4455,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unwavering Solidarity Borgos",
-        "Type": "BATTLE",
+        "name": "Unwavering Solidarity Borgos [BT3-101]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-101.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4354,8 +4480,8 @@
         "id": "BT3-102",
         "face": {
             "front": {
-                "name": "Nappa, Vegeta's Attendant",
-                "type": "Main_Deck",
+                "name": "Nappa, Vegeta's Attendant [BT3-102]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -4363,12 +4489,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Nappa, Vegeta's Attendant",
-        "Type": "BATTLE",
+        "name": "Nappa, Vegeta's Attendant [BT3-102]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-102.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4387,8 +4514,8 @@
         "id": "BT3-103",
         "face": {
             "front": {
-                "name": "Burgeoning Power Bergamo",
-                "type": "Main_Deck",
+                "name": "Burgeoning Power Bergamo [BT3-103]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -4396,12 +4523,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Burgeoning Power Bergamo",
-        "Type": "BATTLE",
+        "name": "Burgeoning Power Bergamo [BT3-103]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-103.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4421,8 +4549,8 @@
         "id": "BT3-104",
         "face": {
             "front": {
-                "name": "Flying Nimbus",
-                "type": "Main_Deck",
+                "name": "Flying Nimbus [BT3-104]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4430,12 +4558,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Flying Nimbus",
-        "Type": "EXTRA",
+        "name": "Flying Nimbus [BT3-104]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-104.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4450,8 +4579,8 @@
         "id": "BT3-104_PR",
         "face": {
             "front": {
-                "name": "Flying Nimbus",
-                "type": "Main_Deck",
+                "name": "Flying Nimbus [BT3-104]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4459,12 +4588,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Flying Nimbus",
-        "Type": "EXTRA",
+        "name": "Flying Nimbus [BT3-104]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-104_PR.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4479,8 +4609,8 @@
         "id": "BT3-104_PR2",
         "face": {
             "front": {
-                "name": "Flying Nimbus",
-                "type": "Main_Deck",
+                "name": "Flying Nimbus [BT3-104]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4488,12 +4618,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Flying Nimbus",
-        "Type": "EXTRA",
+        "name": "Flying Nimbus [BT3-104]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-104_PR2.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4508,8 +4639,8 @@
         "id": "BT3-105",
         "face": {
             "front": {
-                "name": "Planet Vegeta",
-                "type": "Main_Deck",
+                "name": "Planet Vegeta [BT3-105]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4517,12 +4648,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Planet Vegeta",
-        "Type": "EXTRA",
+        "name": "Planet Vegeta [BT3-105]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-105.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4538,8 +4670,8 @@
         "id": "BT3-105_PR",
         "face": {
             "front": {
-                "name": "Planet Vegeta",
-                "type": "Main_Deck",
+                "name": "Planet Vegeta [BT3-105]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4547,12 +4679,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Planet Vegeta",
-        "Type": "EXTRA",
+        "name": "Planet Vegeta [BT3-105]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-105_PR.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4568,8 +4701,8 @@
         "id": "BT3-105_PR2",
         "face": {
             "front": {
-                "name": "Planet Vegeta",
-                "type": "Main_Deck",
+                "name": "Planet Vegeta [BT3-105]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4577,12 +4710,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Planet Vegeta",
-        "Type": "EXTRA",
+        "name": "Planet Vegeta [BT3-105]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-105_PR2.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4598,8 +4732,8 @@
         "id": "BT3-106",
         "face": {
             "front": {
-                "name": "March of the Great Ape",
-                "type": "Main_Deck",
+                "name": "March of the Great Ape [BT3-106]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": "",
                 "Energy_cost": "4",
@@ -4607,12 +4741,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "March of the Great Ape",
-        "Type": "EXTRA",
+        "name": "March of the Great Ape [BT3-106]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-106.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4627,8 +4762,8 @@
         "id": "BT3-106_PR",
         "face": {
             "front": {
-                "name": "March of the Great Ape",
-                "type": "Main_Deck",
+                "name": "March of the Great Ape [BT3-106]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": "",
                 "Energy_cost": "4",
@@ -4636,12 +4771,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "March of the Great Ape",
-        "Type": "EXTRA",
+        "name": "March of the Great Ape [BT3-106]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-106_PR.webp",
         "Power": "",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4656,8 +4792,8 @@
         "id": "BT3-107",
         "face": {
             "front": {
-                "name": "Mira",
-                "type": "Leader",
+                "name": "Mira [BT3-107]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -4666,19 +4802,20 @@
             },
             "back": {
                 "name": "Dark Warrior Mira",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-107_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Mira",
-        "Type": "LEADER",
+        "name": "Mira [BT3-107]",
+        "type": "Leader",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-107.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4702,8 +4839,8 @@
         "id": "BT3-108",
         "face": {
             "front": {
-                "name": "Trunks",
-                "type": "Leader",
+                "name": "Trunks [BT3-108]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -4712,19 +4849,20 @@
             },
             "back": {
                 "name": "Super Saiyan Trunks, Protector of Time",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-108_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Trunks",
-        "Type": "LEADER",
+        "name": "Trunks [BT3-108]",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-108.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -4748,8 +4886,8 @@
         "id": "BT3-109",
         "face": {
             "front": {
-                "name": "SS3 Bardock, Power Unleashed",
-                "type": "Main_Deck",
+                "name": "SS3 Bardock, Power Unleashed [BT3-109]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "30000",
                 "Energy_cost": "5",
@@ -4757,12 +4895,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS3 Bardock, Power Unleashed",
-        "Type": "BATTLE",
+        "name": "SS3 Bardock, Power Unleashed [BT3-109]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-109.webp",
         "Power": "30000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -4783,8 +4922,8 @@
         "id": "BT3-110",
         "face": {
             "front": {
-                "name": "Awakened Warrior Bardock",
-                "type": "Main_Deck",
+                "name": "Awakened Warrior Bardock [BT3-110]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4792,12 +4931,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Awakened Warrior Bardock",
-        "Type": "BATTLE",
+        "name": "Awakened Warrior Bardock [BT3-110]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-110.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4819,8 +4959,8 @@
         "id": "BT3-110_PR",
         "face": {
             "front": {
-                "name": "Awakened Warrior Bardock",
-                "type": "Main_Deck",
+                "name": "Awakened Warrior Bardock [BT3-110]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4828,12 +4968,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Awakened Warrior Bardock",
-        "Type": "BATTLE",
+        "name": "Awakened Warrior Bardock [BT3-110]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-110_PR.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4855,8 +4996,8 @@
         "id": "BT3-110_PR2",
         "face": {
             "front": {
-                "name": "Awakened Warrior Bardock",
-                "type": "Main_Deck",
+                "name": "Awakened Warrior Bardock [BT3-110]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4864,12 +5005,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Awakened Warrior Bardock",
-        "Type": "BATTLE",
+        "name": "Awakened Warrior Bardock [BT3-110]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-110_PR2.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4891,8 +5033,8 @@
         "id": "BT3-110_PR3",
         "face": {
             "front": {
-                "name": "Awakened Warrior Bardock",
-                "type": "Main_Deck",
+                "name": "Awakened Warrior Bardock [BT3-110]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4900,12 +5042,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Awakened Warrior Bardock",
-        "Type": "BATTLE",
+        "name": "Awakened Warrior Bardock [BT3-110]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-110_PR3.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4927,8 +5070,8 @@
         "id": "BT3-111",
         "face": {
             "front": {
-                "name": "Trunks, Power Overseeing Time",
-                "type": "Main_Deck",
+                "name": "Trunks, Power Overseeing Time [BT3-111]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -4936,12 +5079,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Trunks, Power Overseeing Time",
-        "Type": "BATTLE",
+        "name": "Trunks, Power Overseeing Time [BT3-111]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-111.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -4964,8 +5108,8 @@
         "id": "BT3-112",
         "face": {
             "front": {
-                "name": "Unrelenting Assault Trunks",
-                "type": "Main_Deck",
+                "name": "Unrelenting Assault Trunks [BT3-112]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -4973,12 +5117,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unrelenting Assault Trunks",
-        "Type": "BATTLE",
+        "name": "Unrelenting Assault Trunks [BT3-112]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-112.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5000,8 +5145,8 @@
         "id": "BT3-113",
         "face": {
             "front": {
-                "name": "Supreme Kai of Time, World's Protector",
-                "type": "Main_Deck",
+                "name": "Supreme Kai of Time, World's Protector [BT3-113]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -5009,12 +5154,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Supreme Kai of Time, World's Protector",
-        "Type": "BATTLE",
+        "name": "Supreme Kai of Time, World's Protector [BT3-113]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-113.webp",
         "Power": "12000",
         "Color": "Black",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -5034,8 +5180,8 @@
         "id": "BT3-113_PR",
         "face": {
             "front": {
-                "name": "Supreme Kai of Time, World's Protector",
-                "type": "Main_Deck",
+                "name": "Supreme Kai of Time, World's Protector [BT3-113]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -5043,12 +5189,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Supreme Kai of Time, World's Protector",
-        "Type": "BATTLE",
+        "name": "Supreme Kai of Time, World's Protector [BT3-113]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-113_PR.webp",
         "Power": "12000",
         "Color": "Black",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "BT3",
@@ -5068,8 +5215,8 @@
         "id": "BT3-114",
         "face": {
             "front": {
-                "name": "Towa, Reprogrammed Menace",
-                "type": "Main_Deck",
+                "name": "Towa, Reprogrammed Menace [BT3-114]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -5077,12 +5224,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Towa, Reprogrammed Menace",
-        "Type": "BATTLE",
+        "name": "Towa, Reprogrammed Menace [BT3-114]",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-114.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5102,8 +5250,8 @@
         "id": "BT3-115",
         "face": {
             "front": {
-                "name": "Towa, Space Time Unleashed",
-                "type": "Main_Deck",
+                "name": "Towa, Space Time Unleashed [BT3-115]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -5111,12 +5259,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Towa, Space Time Unleashed",
-        "Type": "BATTLE",
+        "name": "Towa, Space Time Unleashed [BT3-115]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-115.webp",
         "Power": "5000",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5135,8 +5284,8 @@
         "id": "BT3-116",
         "face": {
             "front": {
-                "name": "Dimension Breaker Mira",
-                "type": "Main_Deck",
+                "name": "Dimension Breaker Mira [BT3-116]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -5144,12 +5293,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dimension Breaker Mira",
-        "Type": "BATTLE",
+        "name": "Dimension Breaker Mira [BT3-116]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-116.webp",
         "Power": "25000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -5170,8 +5320,8 @@
         "id": "BT3-117",
         "face": {
             "front": {
-                "name": "Relentless Destruction Mira",
-                "type": "Main_Deck",
+                "name": "Relentless Destruction Mira [BT3-117]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5179,12 +5329,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Relentless Destruction Mira",
-        "Type": "BATTLE",
+        "name": "Relentless Destruction Mira [BT3-117]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-117.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5205,8 +5356,8 @@
         "id": "BT3-117_PR",
         "face": {
             "front": {
-                "name": "Relentless Destruction Mira",
-                "type": "Main_Deck",
+                "name": "Relentless Destruction Mira [BT3-117]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5214,12 +5365,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Relentless Destruction Mira",
-        "Type": "BATTLE",
+        "name": "Relentless Destruction Mira [BT3-117]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-117_PR.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5240,8 +5392,8 @@
         "id": "BT3-117_PR2",
         "face": {
             "front": {
-                "name": "Relentless Destruction Mira",
-                "type": "Main_Deck",
+                "name": "Relentless Destruction Mira [BT3-117]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5249,12 +5401,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Relentless Destruction Mira",
-        "Type": "BATTLE",
+        "name": "Relentless Destruction Mira [BT3-117]",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-117_PR2.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5275,8 +5428,8 @@
         "id": "BT3-118",
         "face": {
             "front": {
-                "name": "Fu, Shrouded in Mystery",
-                "type": "Main_Deck",
+                "name": "Fu, Shrouded in Mystery [BT3-118]",
+                "type": "BATTLE",
                 "cost": "10",
                 "power": "30000",
                 "Energy_cost": "10",
@@ -5284,12 +5437,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fu, Shrouded in Mystery",
-        "Type": "BATTLE",
+        "name": "Fu, Shrouded in Mystery [BT3-118]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-118.webp",
         "Power": "30000",
         "Color": "Black",
+        "cost": "10",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -5311,8 +5465,8 @@
         "id": "BT3-118_PR",
         "face": {
             "front": {
-                "name": "Fu, Shrouded in Mystery",
-                "type": "Main_Deck",
+                "name": "Fu, Shrouded in Mystery [BT3-118]",
+                "type": "BATTLE",
                 "cost": "10",
                 "power": "30000",
                 "Energy_cost": "10",
@@ -5320,12 +5474,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fu, Shrouded in Mystery",
-        "Type": "BATTLE",
+        "name": "Fu, Shrouded in Mystery [BT3-118]",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-118_PR.webp",
         "Power": "30000",
         "Color": "Black",
+        "cost": "10",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -5347,8 +5502,8 @@
         "id": "BT3-118_SPR",
         "face": {
             "front": {
-                "name": "Fu, Shrouded in Mystery",
-                "type": "Main_Deck",
+                "name": "Fu, Shrouded in Mystery [BT3-118]",
+                "type": "BATTLE",
                 "cost": "10",
                 "power": "30000",
                 "Energy_cost": "10",
@@ -5356,12 +5511,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Fu, Shrouded in Mystery",
-        "Type": "BATTLE",
+        "name": "Fu, Shrouded in Mystery [BT3-118]",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-118_SPR.webp",
         "Power": "30000",
         "Color": "Black",
+        "cost": "10",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -5383,8 +5539,8 @@
         "id": "BT3-119",
         "face": {
             "front": {
-                "name": "Shun Shun, Protector Majin",
-                "type": "Main_Deck",
+                "name": "Shun Shun, Protector Majin [BT3-119]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5392,12 +5548,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Shun Shun, Protector Majin",
-        "Type": "BATTLE",
+        "name": "Shun Shun, Protector Majin [BT3-119]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-119.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5417,8 +5574,8 @@
         "id": "BT3-119_PR",
         "face": {
             "front": {
-                "name": "Shun Shun, Protector Majin",
-                "type": "Main_Deck",
+                "name": "Shun Shun, Protector Majin [BT3-119]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5426,12 +5583,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Shun Shun, Protector Majin",
-        "Type": "BATTLE",
+        "name": "Shun Shun, Protector Majin [BT3-119]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-119_PR.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5451,8 +5609,8 @@
         "id": "BT3-120",
         "face": {
             "front": {
-                "name": "Haru Haru, Attacker Majin",
-                "type": "Main_Deck",
+                "name": "Haru Haru, Attacker Majin [BT3-120]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5460,12 +5618,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Haru Haru, Attacker Majin",
-        "Type": "BATTLE",
+        "name": "Haru Haru, Attacker Majin [BT3-120]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-120.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5485,8 +5644,8 @@
         "id": "BT3-120_PR",
         "face": {
             "front": {
-                "name": "Haru Haru, Attacker Majin",
-                "type": "Main_Deck",
+                "name": "Haru Haru, Attacker Majin [BT3-120]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5494,12 +5653,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Haru Haru, Attacker Majin",
-        "Type": "BATTLE",
+        "name": "Haru Haru, Attacker Majin [BT3-120]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-120_PR.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "BT3",
@@ -5519,8 +5679,8 @@
         "id": "BT3-121",
         "face": {
             "front": {
-                "name": "Dark Plot",
-                "type": "Main_Deck",
+                "name": "Dark Plot [BT3-121]",
+                "type": "EXTRA",
                 "cost": "4",
                 "power": "",
                 "Energy_cost": "4",
@@ -5528,12 +5688,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dark Plot",
-        "Type": "EXTRA",
+        "name": "Dark Plot [BT3-121]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-121.webp",
         "Power": "",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -5549,8 +5710,8 @@
         "id": "BT3-122",
         "face": {
             "front": {
-                "name": "Time's Judgement",
-                "type": "Main_Deck",
+                "name": "Time's Judgement [BT3-122]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -5558,12 +5719,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Time's Judgement",
-        "Type": "EXTRA",
+        "name": "Time's Judgement [BT3-122]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-122.webp",
         "Power": "",
         "Color": "Black",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "BT3",
@@ -5578,8 +5740,8 @@
         "id": "BT3-123",
         "face": {
             "front": {
-                "name": "Hyper Evolution Super Saiyan 4 Son Goku",
-                "type": "Main_Deck",
+                "name": "Hyper Evolution Super Saiyan 4 Son Goku [BT3-123]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -5587,12 +5749,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hyper Evolution Super Saiyan 4 Son Goku",
-        "Type": "BATTLE",
+        "name": "Hyper Evolution Super Saiyan 4 Son Goku [BT3-123]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-123.webp",
         "Power": "40000",
         "Color": "Red",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -5614,8 +5777,8 @@
         "id": "BT3-123_PR",
         "face": {
             "front": {
-                "name": "Hyper Evolution Super Saiyan 4 Son Goku",
-                "type": "Main_Deck",
+                "name": "Hyper Evolution Super Saiyan 4 Son Goku [BT3-123]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -5623,12 +5786,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hyper Evolution Super Saiyan 4 Son Goku",
-        "Type": "BATTLE",
+        "name": "Hyper Evolution Super Saiyan 4 Son Goku [BT3-123]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-123_PR.webp",
         "Power": "40000",
         "Color": "Red",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",
@@ -5650,8 +5814,8 @@
         "id": "BT3-123_PR2",
         "face": {
             "front": {
-                "name": "Hyper Evolution Super Saiyan 4 Son Goku",
-                "type": "Main_Deck",
+                "name": "Hyper Evolution Super Saiyan 4 Son Goku [BT3-123]",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "40000",
                 "Energy_cost": "8",
@@ -5659,12 +5823,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hyper Evolution Super Saiyan 4 Son Goku",
-        "Type": "BATTLE",
+        "name": "Hyper Evolution Super Saiyan 4 Son Goku [BT3-123]",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT3/BT3-123_PR2.webp",
         "Power": "40000",
         "Color": "Red",
+        "cost": "8",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "BT3",

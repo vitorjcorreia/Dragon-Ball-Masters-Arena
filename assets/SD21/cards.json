@@ -3,8 +3,8 @@
         "id": "SD21-01",
         "face": {
             "front": {
-                "name": "Son Gohan",
-                "type": "Leader",
+                "name": "Son Gohan [SD21-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Son Gohan, Command of Universe 7",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan",
-        "Type": "LEADER",
+        "name": "Son Gohan [SD21-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-01.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD21",
@@ -52,8 +53,8 @@
         "id": "SD21-02",
         "face": {
             "front": {
-                "name": "Piccolo, Master-Student Technique",
-                "type": "Z_Deck",
+                "name": "Piccolo, Master-Student Technique [SD21-02]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "20000",
                 "Energy_cost": "2",
@@ -61,12 +62,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo, Master-Student Technique",
-        "Type": "Z-BATTLE",
+        "name": "Piccolo, Master-Student Technique [SD21-02]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-02.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD21",
@@ -89,8 +91,8 @@
         "id": "SD21-03",
         "face": {
             "front": {
-                "name": "Frieza, Unexpected Assistance",
-                "type": "Z_Deck",
+                "name": "Frieza, Unexpected Assistance [SD21-03]",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "10000",
                 "Energy_cost": "1",
@@ -98,12 +100,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Unexpected Assistance",
-        "Type": "Z-BATTLE",
+        "name": "Frieza, Unexpected Assistance [SD21-03]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-03.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD21",
@@ -124,8 +127,8 @@
         "id": "SD21-04",
         "face": {
             "front": {
-                "name": "Son Gohan, Master-Student Technique",
-                "type": "Z_Deck",
+                "name": "Son Gohan, Master-Student Technique [SD21-04]",
+                "type": "Z-BATTLE",
                 "cost": "2",
                 "power": "16000",
                 "Energy_cost": "2",
@@ -133,12 +136,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan, Master-Student Technique",
-        "Type": "Z-BATTLE",
+        "name": "Son Gohan, Master-Student Technique [SD21-04]",
+        "type": "Z_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-04.webp",
         "Power": "16000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD21",
@@ -164,8 +168,8 @@
         "id": "SD21-05",
         "face": {
             "front": {
-                "name": "Piccolo, Piercing Flash",
-                "type": "Main_Deck",
+                "name": "Piccolo, Piercing Flash [SD21-05]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -173,12 +177,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo, Piercing Flash",
-        "Type": "BATTLE",
+        "name": "Piccolo, Piercing Flash [SD21-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-05.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD21",
@@ -203,8 +208,8 @@
         "id": "SD21-06",
         "face": {
             "front": {
-                "name": "Krillin, Clever Fighter",
-                "type": "Main_Deck",
+                "name": "Krillin, Clever Fighter [SD21-06]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -212,12 +217,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Krillin, Clever Fighter",
-        "Type": "BATTLE",
+        "name": "Krillin, Clever Fighter [SD21-06]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-06.webp",
         "Power": "4000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD21",
@@ -238,8 +244,8 @@
         "id": "SD21-07",
         "face": {
             "front": {
-                "name": "Android 18, Perfect Teamwork",
-                "type": "Main_Deck",
+                "name": "Android 18, Perfect Teamwork [SD21-07]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -247,12 +253,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Android 18, Perfect Teamwork",
-        "Type": "BATTLE",
+        "name": "Android 18, Perfect Teamwork [SD21-07]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD21/SD21-07.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD21",

@@ -3,8 +3,8 @@
         "id": "EX03-01",
         "face": {
             "front": {
-                "name": "Kefla",
-                "type": "Leader",
+                "name": "Kefla [EX03-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Explosive Power Kefla",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Kefla",
-        "Type": "LEADER",
+        "name": "Kefla [EX03-01]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX03",
@@ -50,8 +51,8 @@
         "id": "EX03-02",
         "face": {
             "front": {
-                "name": "Ghost Combo Gotenks",
-                "type": "Main_Deck",
+                "name": "Ghost Combo Gotenks [EX03-02]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -59,12 +60,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Ghost Combo Gotenks",
-        "Type": "BATTLE",
+        "name": "Ghost Combo Gotenks [EX03-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-02.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX03",
@@ -85,8 +87,8 @@
         "id": "EX03-03",
         "face": {
             "front": {
-                "name": "Virtuous Strength Gohan",
-                "type": "Main_Deck",
+                "name": "Virtuous Strength Gohan [EX03-03]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -94,12 +96,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Virtuous Strength Gohan",
-        "Type": "BATTLE",
+        "name": "Virtuous Strength Gohan [EX03-03]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-03.webp",
         "Power": "15000",
         "Color": "Red",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -120,8 +123,8 @@
         "id": "EX03-04",
         "face": {
             "front": {
-                "name": "Umbral Blade Dabura",
-                "type": "Main_Deck",
+                "name": "Umbral Blade Dabura [EX03-04]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -129,12 +132,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Umbral Blade Dabura",
-        "Type": "BATTLE",
+        "name": "Umbral Blade Dabura [EX03-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-04.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -155,8 +159,8 @@
         "id": "EX03-05",
         "face": {
             "front": {
-                "name": "Rampant Evil Majin Buu",
-                "type": "Main_Deck",
+                "name": "Rampant Evil Majin Buu [EX03-05]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -164,12 +168,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rampant Evil Majin Buu",
-        "Type": "BATTLE",
+        "name": "Rampant Evil Majin Buu [EX03-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-05.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -190,8 +195,8 @@
         "id": "EX03-06",
         "face": {
             "front": {
-                "name": "Capricious Destroyer Champa",
-                "type": "Main_Deck",
+                "name": "Capricious Destroyer Champa [EX03-06]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -199,12 +204,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Capricious Destroyer Champa",
-        "Type": "BATTLE",
+        "name": "Capricious Destroyer Champa [EX03-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-06.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -224,8 +230,8 @@
         "id": "EX03-07",
         "face": {
             "front": {
-                "name": "Vegeta",
-                "type": "Leader",
+                "name": "Vegeta [EX03-07]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -234,19 +240,20 @@
             },
             "back": {
                 "name": "Explosive Power Vegeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-07_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta",
-        "Type": "LEADER",
+        "name": "Vegeta [EX03-07]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-07.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX03",
@@ -269,8 +276,8 @@
         "id": "EX03-08",
         "face": {
             "front": {
-                "name": "Awe-Inspiring Intimidator SSB Vegito",
-                "type": "Main_Deck",
+                "name": "Awe-Inspiring Intimidator SSB Vegito [EX03-08]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -278,12 +285,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Awe-Inspiring Intimidator SSB Vegito",
-        "Type": "BATTLE",
+        "name": "Awe-Inspiring Intimidator SSB Vegito [EX03-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-08.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -304,8 +312,8 @@
         "id": "EX03-09",
         "face": {
             "front": {
-                "name": "Determined Time Leaper Trunks",
-                "type": "Main_Deck",
+                "name": "Determined Time Leaper Trunks [EX03-09]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -313,12 +321,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Determined Time Leaper Trunks",
-        "Type": "BATTLE",
+        "name": "Determined Time Leaper Trunks [EX03-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-09.webp",
         "Power": "10000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -338,8 +347,8 @@
         "id": "EX03-10",
         "face": {
             "front": {
-                "name": "Nightmare Scythe Goku Black",
-                "type": "Main_Deck",
+                "name": "Nightmare Scythe Goku Black [EX03-10]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -347,12 +356,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Nightmare Scythe Goku Black",
-        "Type": "BATTLE",
+        "name": "Nightmare Scythe Goku Black [EX03-10]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-10.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -373,8 +383,8 @@
         "id": "EX03-11",
         "face": {
             "front": {
-                "name": "Undying Link Zamasu",
-                "type": "Main_Deck",
+                "name": "Undying Link Zamasu [EX03-11]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -382,12 +392,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Undying Link Zamasu",
-        "Type": "BATTLE",
+        "name": "Undying Link Zamasu [EX03-11]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-11.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -407,8 +418,8 @@
         "id": "EX03-12",
         "face": {
             "front": {
-                "name": "Indiscriminate Obliteration Sidra",
-                "type": "Main_Deck",
+                "name": "Indiscriminate Obliteration Sidra [EX03-12]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -416,12 +427,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Indiscriminate Obliteration Sidra",
-        "Type": "BATTLE",
+        "name": "Indiscriminate Obliteration Sidra [EX03-12]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-12.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -442,8 +454,8 @@
         "id": "EX03-13",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [EX03-13]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -452,19 +464,20 @@
             },
             "back": {
                 "name": "Explosive Power Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-13_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [EX03-13]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-13.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX03",
@@ -490,8 +503,8 @@
         "id": "EX03-14",
         "face": {
             "front": {
-                "name": "Last One Standing Son Goku",
-                "type": "Main_Deck",
+                "name": "Last One Standing Son Goku [EX03-14]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -499,12 +512,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Last One Standing Son Goku",
-        "Type": "BATTLE",
+        "name": "Last One Standing Son Goku [EX03-14]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-14.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX03",
@@ -527,8 +541,8 @@
         "id": "EX03-14_PR",
         "face": {
             "front": {
-                "name": "Last One Standing Son Goku",
-                "type": "Main_Deck",
+                "name": "Last One Standing Son Goku [EX03-14]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -536,12 +550,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Last One Standing Son Goku",
-        "Type": "BATTLE",
+        "name": "Last One Standing Son Goku [EX03-14]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-14_PR.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX03",
@@ -564,8 +579,8 @@
         "id": "EX03-15",
         "face": {
             "front": {
-                "name": "Vile Replication Cell",
-                "type": "Main_Deck",
+                "name": "Vile Replication Cell [EX03-15]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -573,12 +588,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vile Replication Cell",
-        "Type": "BATTLE",
+        "name": "Vile Replication Cell [EX03-15]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-15.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -597,8 +613,8 @@
         "id": "EX03-16",
         "face": {
             "front": {
-                "name": "Deathless Warrior Broly",
-                "type": "Main_Deck",
+                "name": "Deathless Warrior Broly [EX03-16]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -606,12 +622,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Deathless Warrior Broly",
-        "Type": "BATTLE",
+        "name": "Deathless Warrior Broly [EX03-16]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-16.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -632,8 +649,8 @@
         "id": "EX03-17",
         "face": {
             "front": {
-                "name": "Limitless Energy Android 17",
-                "type": "Main_Deck",
+                "name": "Limitless Energy Android 17 [EX03-17]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -641,12 +658,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Limitless Energy Android 17",
-        "Type": "BATTLE",
+        "name": "Limitless Energy Android 17 [EX03-17]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-17.webp",
         "Power": "20000",
         "Color": "Green",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -668,8 +686,8 @@
         "id": "EX03-18",
         "face": {
             "front": {
-                "name": "Elegant Assistance Heles",
-                "type": "Main_Deck",
+                "name": "Elegant Assistance Heles [EX03-18]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -677,12 +695,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Elegant Assistance Heles",
-        "Type": "BATTLE",
+        "name": "Elegant Assistance Heles [EX03-18]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-18.webp",
         "Power": "12000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "EX03",
@@ -703,8 +722,8 @@
         "id": "EX03-18_PR",
         "face": {
             "front": {
-                "name": "Elegant Assistance Heles",
-                "type": "Main_Deck",
+                "name": "Elegant Assistance Heles [EX03-18]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "12000",
                 "Energy_cost": "2",
@@ -712,12 +731,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Elegant Assistance Heles",
-        "Type": "BATTLE",
+        "name": "Elegant Assistance Heles [EX03-18]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-18_PR.webp",
         "Power": "12000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "0",
         "Series": "EX03",
@@ -738,8 +758,8 @@
         "id": "EX03-19",
         "face": {
             "front": {
-                "name": "Jiren",
-                "type": "Leader",
+                "name": "Jiren [EX03-19]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -748,19 +768,20 @@
             },
             "back": {
                 "name": "Explosive Power Jiren",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-19_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Jiren",
-        "Type": "LEADER",
+        "name": "Jiren [EX03-19]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-19.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX03",
@@ -784,8 +805,8 @@
         "id": "EX03-20",
         "face": {
             "front": {
-                "name": "Indomitable SS Son Goku Jr.",
-                "type": "Main_Deck",
+                "name": "Indomitable SS Son Goku Jr. [EX03-20]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -793,12 +814,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Indomitable SS Son Goku Jr.",
-        "Type": "BATTLE",
+        "name": "Indomitable SS Son Goku Jr. [EX03-20]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-20.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -818,8 +840,8 @@
         "id": "EX03-21",
         "face": {
             "front": {
-                "name": "Space Pirate Chilled",
-                "type": "Main_Deck",
+                "name": "Space Pirate Chilled [EX03-21]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -827,12 +849,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Space Pirate Chilled",
-        "Type": "BATTLE",
+        "name": "Space Pirate Chilled [EX03-21]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-21.webp",
         "Power": "15000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -851,8 +874,8 @@
         "id": "EX03-22",
         "face": {
             "front": {
-                "name": "Elite Bloodline Cooler",
-                "type": "Main_Deck",
+                "name": "Elite Bloodline Cooler [EX03-22]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -860,12 +883,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Elite Bloodline Cooler",
-        "Type": "BATTLE",
+        "name": "Elite Bloodline Cooler [EX03-22]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-22.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -886,8 +910,8 @@
         "id": "EX03-23",
         "face": {
             "front": {
-                "name": "Frieza, Obsession of The Clan",
-                "type": "Main_Deck",
+                "name": "Frieza, Obsession of The Clan [EX03-23]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -895,12 +919,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Obsession of The Clan",
-        "Type": "BATTLE",
+        "name": "Frieza, Obsession of The Clan [EX03-23]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-23.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -920,8 +945,8 @@
         "id": "EX03-24",
         "face": {
             "front": {
-                "name": "Clownish Destruction Belmod",
-                "type": "Main_Deck",
+                "name": "Clownish Destruction Belmod [EX03-24]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -929,12 +954,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Clownish Destruction Belmod",
-        "Type": "BATTLE",
+        "name": "Clownish Destruction Belmod [EX03-24]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-24.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -956,8 +982,8 @@
         "id": "EX03-25",
         "face": {
             "front": {
-                "name": "Zen-Oh",
-                "type": "Leader",
+                "name": "Zen-Oh [EX03-25]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -966,19 +992,20 @@
             },
             "back": {
                 "name": "Zen-Oh, Ruler of the Universe",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-25_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Zen-Oh",
-        "Type": "LEADER",
+        "name": "Zen-Oh [EX03-25]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-25.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX03",
@@ -1001,8 +1028,8 @@
         "id": "EX03-26",
         "face": {
             "front": {
-                "name": "Forced Absorption Demigra",
-                "type": "Main_Deck",
+                "name": "Forced Absorption Demigra [EX03-26]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "30000",
                 "Energy_cost": "5",
@@ -1010,12 +1037,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Forced Absorption Demigra",
-        "Type": "BATTLE",
+        "name": "Forced Absorption Demigra [EX03-26]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-26.webp",
         "Power": "30000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX03",
@@ -1036,8 +1064,8 @@
         "id": "EX03-27",
         "face": {
             "front": {
-                "name": "Forced Ejection Masked Saiyan",
-                "type": "Main_Deck",
+                "name": "Forced Ejection Masked Saiyan [EX03-27]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1045,12 +1073,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Forced Ejection Masked Saiyan",
-        "Type": "BATTLE",
+        "name": "Forced Ejection Masked Saiyan [EX03-27]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-27.webp",
         "Power": "15000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -1071,8 +1100,8 @@
         "id": "EX03-28",
         "face": {
             "front": {
-                "name": "Smiling Madness Towa",
-                "type": "Main_Deck",
+                "name": "Smiling Madness Towa [EX03-28]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1080,12 +1109,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Smiling Madness Towa",
-        "Type": "BATTLE",
+        "name": "Smiling Madness Towa [EX03-28]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-28.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -1106,8 +1136,8 @@
         "id": "EX03-29",
         "face": {
             "front": {
-                "name": "Forced Destruction Mira",
-                "type": "Main_Deck",
+                "name": "Forced Destruction Mira [EX03-29]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -1115,12 +1145,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Forced Destruction Mira",
-        "Type": "BATTLE",
+        "name": "Forced Destruction Mira [EX03-29]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-29.webp",
         "Power": "25000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",
@@ -1141,8 +1172,8 @@
         "id": "EX03-30",
         "face": {
             "front": {
-                "name": "Toppo Unleashed",
-                "type": "Main_Deck",
+                "name": "Toppo Unleashed [EX03-30]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -1150,12 +1181,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Toppo Unleashed",
-        "Type": "BATTLE",
+        "name": "Toppo Unleashed [EX03-30]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX03/EX03-30.webp",
         "Power": "25000",
         "Color": "Black",
+        "cost": "5",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX03",

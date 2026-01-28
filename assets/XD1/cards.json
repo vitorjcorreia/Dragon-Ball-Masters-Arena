@@ -3,8 +3,8 @@
         "id": "XD1-01",
         "face": {
             "front": {
-                "name": "Cabba",
-                "type": "Leader",
+                "name": "Cabba [XD1-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Vegeta & Cabba, Master & Pupil",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Cabba",
-        "Type": "LEADER",
+        "name": "Cabba [XD1-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-01.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "XD1",
@@ -49,8 +50,8 @@
         "id": "XD1-02",
         "face": {
             "front": {
-                "name": "Vegeta, Saiyan of Universe 7",
-                "type": "Main_Deck",
+                "name": "Vegeta, Saiyan of Universe 7 [XD1-02]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -58,12 +59,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Saiyan of Universe 7",
-        "Type": "BATTLE",
+        "name": "Vegeta, Saiyan of Universe 7 [XD1-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-02.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD1",
@@ -83,8 +85,8 @@
         "id": "XD1-03",
         "face": {
             "front": {
-                "name": "Champa, Scheming God of Destruction",
-                "type": "Main_Deck",
+                "name": "Champa, Scheming God of Destruction [XD1-03]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -92,12 +94,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Champa, Scheming God of Destruction",
-        "Type": "BATTLE",
+        "name": "Champa, Scheming God of Destruction [XD1-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-03.webp",
         "Power": "15000",
         "Color": "Blue",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD1",
@@ -118,8 +121,8 @@
         "id": "XD1-04",
         "face": {
             "front": {
-                "name": "Sisterly Bonds Kale",
-                "type": "Main_Deck",
+                "name": "Sisterly Bonds Kale [XD1-04]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "9000",
                 "Energy_cost": "2",
@@ -127,12 +130,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Sisterly Bonds Kale",
-        "Type": "BATTLE",
+        "name": "Sisterly Bonds Kale [XD1-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-04.webp",
         "Power": "9000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD1",
@@ -153,8 +157,8 @@
         "id": "XD1-05",
         "face": {
             "front": {
-                "name": "Hit, Ace of Universe 6",
-                "type": "Main_Deck",
+                "name": "Hit, Ace of Universe 6 [XD1-05]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -162,12 +166,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hit, Ace of Universe 6",
-        "Type": "BATTLE",
+        "name": "Hit, Ace of Universe 6 [XD1-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-05.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD1",
@@ -188,8 +193,8 @@
         "id": "XD1-06",
         "face": {
             "front": {
-                "name": "Cabba, Saiyan of Universe 6",
-                "type": "Main_Deck",
+                "name": "Cabba, Saiyan of Universe 6 [XD1-06]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -197,12 +202,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Cabba, Saiyan of Universe 6",
-        "Type": "BATTLE",
+        "name": "Cabba, Saiyan of Universe 6 [XD1-06]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-06.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD1",
@@ -223,8 +229,8 @@
         "id": "XD1-07",
         "face": {
             "front": {
-                "name": "Caulifla, Troublemaker of Universe 6",
-                "type": "Main_Deck",
+                "name": "Caulifla, Troublemaker of Universe 6 [XD1-07]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -232,12 +238,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Caulifla, Troublemaker of Universe 6",
-        "Type": "BATTLE",
+        "name": "Caulifla, Troublemaker of Universe 6 [XD1-07]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-07.webp",
         "Power": "10000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "XD1",
@@ -258,8 +265,8 @@
         "id": "XD1-08",
         "face": {
             "front": {
-                "name": "Vegeta & Cabba, Master-Pupil Bond",
-                "type": "Main_Deck",
+                "name": "Vegeta & Cabba, Master-Pupil Bond [XD1-08]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "19000",
                 "Energy_cost": "3",
@@ -267,12 +274,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta & Cabba, Master-Pupil Bond",
-        "Type": "BATTLE",
+        "name": "Vegeta & Cabba, Master-Pupil Bond [XD1-08]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-08.webp",
         "Power": "19000",
         "Color": "Blue/Yellow",
+        "cost": "3",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "XD1",
@@ -300,8 +308,8 @@
         "id": "XD1-09",
         "face": {
             "front": {
-                "name": "Planet Sadala",
-                "type": "Main_Deck",
+                "name": "Planet Sadala [XD1-09]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -309,12 +317,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Planet Sadala",
-        "Type": "EXTRA",
+        "name": "Planet Sadala [XD1-09]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-09.webp",
         "Power": "",
         "Color": "Blue/Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "XD1",
@@ -331,8 +340,8 @@
         "id": "XD1-10",
         "face": {
             "front": {
-                "name": "Frost's Deadly Poison",
-                "type": "Main_Deck",
+                "name": "Frost's Deadly Poison [XD1-10]",
+                "type": "EXTRA",
                 "cost": "3",
                 "power": "",
                 "Energy_cost": "3",
@@ -340,12 +349,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frost's Deadly Poison",
-        "Type": "EXTRA",
+        "name": "Frost's Deadly Poison [XD1-10]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-10.webp",
         "Power": "",
         "Color": "Blue/Yellow",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "XD1",
@@ -361,8 +371,8 @@
         "id": "XD1-10_PR",
         "face": {
             "front": {
-                "name": "Frost's Deadly Poison",
-                "type": "Main_Deck",
+                "name": "Frost's Deadly Poison [XD1-10]",
+                "type": "EXTRA",
                 "cost": "3",
                 "power": null,
                 "Energy_cost": "3",
@@ -370,12 +380,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frost's Deadly Poison",
-        "Type": "EXTRA",
+        "name": "Frost's Deadly Poison [XD1-10]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/XD1/XD1-10_PR.webp",
         "Power": null,
         "Color": "Blue/Yellow",
+        "cost": "3",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "XD1",

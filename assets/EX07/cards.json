@@ -3,8 +3,8 @@
         "id": "EX07-01",
         "face": {
             "front": {
-                "name": "Son Goku, Preparing for BATTLE",
-                "type": "Main_Deck",
+                "name": "Son Goku, Preparing for BATTLE [EX07-01]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -12,12 +12,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Preparing for BATTLE",
-        "Type": "BATTLE",
+        "name": "Son Goku, Preparing for BATTLE [EX07-01]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -37,8 +38,8 @@
         "id": "EX07-02",
         "face": {
             "front": {
-                "name": "Vegeta, Preparing for Battle",
-                "type": "Main_Deck",
+                "name": "Vegeta, Preparing for Battle [EX07-02]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -46,12 +47,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Preparing for Battle",
-        "Type": "BATTLE",
+        "name": "Vegeta, Preparing for Battle [EX07-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-02.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -70,8 +72,8 @@
         "id": "EX07-03",
         "face": {
             "front": {
-                "name": "Whis, Godly Fundamentals",
-                "type": "Main_Deck",
+                "name": "Whis, Godly Fundamentals [EX07-03]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -79,12 +81,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Whis, Godly Fundamentals",
-        "Type": "BATTLE",
+        "name": "Whis, Godly Fundamentals [EX07-03]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-03.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -103,8 +106,8 @@
         "id": "EX07-04",
         "face": {
             "front": {
-                "name": "Gogeta, a Hero's Advent",
-                "type": "Main_Deck",
+                "name": "Gogeta, a Hero's Advent [EX07-04]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -112,12 +115,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Gogeta, a Hero's Advent",
-        "Type": "BATTLE",
+        "name": "Gogeta, a Hero's Advent [EX07-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-04.webp",
         "Power": "20000",
         "Color": "Blue",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -137,8 +141,8 @@
         "id": "EX07-05",
         "face": {
             "front": {
-                "name": "Altered Reality",
-                "type": "Main_Deck",
+                "name": "Altered Reality [EX07-05]",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -146,12 +150,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Altered Reality",
-        "Type": "EXTRA",
+        "name": "Altered Reality [EX07-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-05.webp",
         "Power": "",
         "Color": "Blue",
+        "cost": "1",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX07",
@@ -169,8 +174,8 @@
         "id": "EX07-06",
         "face": {
             "front": {
-                "name": "Broly, Preparing for BATTLE",
-                "type": "Main_Deck",
+                "name": "Broly, Preparing for BATTLE [EX07-06]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -178,12 +183,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Broly, Preparing for BATTLE",
-        "Type": "BATTLE",
+        "name": "Broly, Preparing for BATTLE [EX07-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-06.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -204,8 +210,8 @@
         "id": "EX07-07",
         "face": {
             "front": {
-                "name": "Raditz, Ruthless Adversary",
-                "type": "Main_Deck",
+                "name": "Raditz, Ruthless Adversary [EX07-07]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -213,12 +219,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Raditz, Ruthless Adversary",
-        "Type": "BATTLE",
+        "name": "Raditz, Ruthless Adversary [EX07-07]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-07.webp",
         "Power": "4000",
         "Color": "Green",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -237,8 +244,8 @@
         "id": "EX07-08",
         "face": {
             "front": {
-                "name": "Frieza, Spiteful Strike",
-                "type": "Main_Deck",
+                "name": "Frieza, Spiteful Strike [EX07-08]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -246,12 +253,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Frieza, Spiteful Strike",
-        "Type": "BATTLE",
+        "name": "Frieza, Spiteful Strike [EX07-08]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-08.webp",
         "Power": "4000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -271,8 +279,8 @@
         "id": "EX07-09",
         "face": {
             "front": {
-                "name": "Paragus, the Forebearer",
-                "type": "Main_Deck",
+                "name": "Paragus, the Forebearer [EX07-09]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -280,12 +288,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Paragus, the Forebearer",
-        "Type": "BATTLE",
+        "name": "Paragus, the Forebearer [EX07-09]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-09.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -305,8 +314,8 @@
         "id": "EX07-10",
         "face": {
             "front": {
-                "name": "SS Caulifla, the Hellion",
-                "type": "Main_Deck",
+                "name": "SS Caulifla, the Hellion [EX07-10]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -314,12 +323,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "SS Caulifla, the Hellion",
-        "Type": "BATTLE",
+        "name": "SS Caulifla, the Hellion [EX07-10]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-10.webp",
         "Power": "5000",
         "Color": "Yellow",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",
@@ -340,8 +350,8 @@
         "id": "EX07-11",
         "face": {
             "front": {
-                "name": "Demigra, Demonic Overlord",
-                "type": "Main_Deck",
+                "name": "Demigra, Demonic Overlord [EX07-11]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -349,12 +359,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Demigra, Demonic Overlord",
-        "Type": "BATTLE",
+        "name": "Demigra, Demonic Overlord [EX07-11]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX07/EX07-11.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX07",

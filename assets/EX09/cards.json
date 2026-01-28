@@ -3,8 +3,8 @@
         "id": "EX09-01",
         "face": {
             "front": {
-                "name": "Son Goku, Nimbus Voyager",
-                "type": "Main_Deck",
+                "name": "Son Goku, Nimbus Voyager [EX09-01]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -12,12 +12,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku, Nimbus Voyager",
-        "Type": "BATTLE",
+        "name": "Son Goku, Nimbus Voyager [EX09-01]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-01.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX09",
@@ -36,8 +37,8 @@
         "id": "EX09-02",
         "face": {
             "front": {
-                "name": "Vegeta, Time for Vacation",
-                "type": "Main_Deck",
+                "name": "Vegeta, Time for Vacation [EX09-02]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -45,12 +46,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Time for Vacation",
-        "Type": "BATTLE",
+        "name": "Vegeta, Time for Vacation [EX09-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-02.webp",
         "Power": "20000",
         "Color": "Yellow",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX09",
@@ -70,8 +72,8 @@
         "id": "EX09-03",
         "face": {
             "front": {
-                "name": "Super Saiyan Son Goku",
-                "type": "Leader",
+                "name": "Super Saiyan Son Goku [EX09-03]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -80,19 +82,20 @@
             },
             "back": {
                 "name": "SSG Son Goku, Surge of Divinity",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-03_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Super Saiyan Son Goku",
-        "Type": "LEADER",
+        "name": "Super Saiyan Son Goku [EX09-03]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-03.webp",
         "Power": "10000",
         "Color": "Red/Yellow",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX09",
@@ -116,8 +119,8 @@
         "id": "EX09-04",
         "face": {
             "front": {
-                "name": "Son Gohan & Videl, Power Couple",
-                "type": "Main_Deck",
+                "name": "Son Gohan & Videl, Power Couple [EX09-04]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -125,12 +128,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Gohan & Videl, Power Couple",
-        "Type": "BATTLE",
+        "name": "Son Gohan & Videl, Power Couple [EX09-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-04.webp",
         "Power": "15000",
         "Color": "Red/Yellow",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX09",
@@ -153,8 +157,8 @@
         "id": "EX09-05",
         "face": {
             "front": {
-                "name": "Son Goten & Trunks, Back to Back",
-                "type": "Main_Deck",
+                "name": "Son Goten & Trunks, Back to Back [EX09-05]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -162,12 +166,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goten & Trunks, Back to Back",
-        "Type": "BATTLE",
+        "name": "Son Goten & Trunks, Back to Back [EX09-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-05.webp",
         "Power": "15000",
         "Color": "Red/Yellow",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX09",
@@ -189,8 +194,8 @@
         "id": "EX09-06",
         "face": {
             "front": {
-                "name": "Almighty Resistance",
-                "type": "Main_Deck",
+                "name": "Almighty Resistance [EX09-06]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -198,12 +203,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Almighty Resistance",
-        "Type": "EXTRA",
+        "name": "Almighty Resistance [EX09-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-06.webp",
         "Power": "",
         "Color": "Red/Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX09",
@@ -220,8 +226,8 @@
         "id": "EX09-06_PR",
         "face": {
             "front": {
-                "name": "Almighty Resistance",
-                "type": "Main_Deck",
+                "name": "Almighty Resistance [EX09-06]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -229,12 +235,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Almighty Resistance",
-        "Type": "EXTRA",
+        "name": "Almighty Resistance [EX09-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX09/EX09-06_PR.webp",
         "Power": "",
         "Color": "Red/Yellow",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX09",

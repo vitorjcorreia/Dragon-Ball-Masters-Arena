@@ -3,8 +3,8 @@
         "id": "SD7-01",
         "face": {
             "front": {
-                "name": "Dragon Ball",
-                "type": "Leader",
+                "name": "Dragon Ball [SD7-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Miraculous Arrival Shenron",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD7/SD7-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Dragon Ball",
-        "Type": "LEADER",
+        "name": "Dragon Ball [SD7-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD7/SD7-01.webp",
         "Power": "10000",
         "Color": "Black",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD7",
@@ -49,8 +50,8 @@
         "id": "SD7-02",
         "face": {
             "front": {
-                "name": "Dimensional Warrior Son Goku",
-                "type": "Main_Deck",
+                "name": "Dimensional Warrior Son Goku [SD7-02]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -58,12 +59,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dimensional Warrior Son Goku",
-        "Type": "BATTLE",
+        "name": "Dimensional Warrior Son Goku [SD7-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD7/SD7-02.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD7",
@@ -85,8 +87,8 @@
         "id": "SD7-03",
         "face": {
             "front": {
-                "name": "Vegeta, Returned from Darkness",
-                "type": "Main_Deck",
+                "name": "Vegeta, Returned from Darkness [SD7-03]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "19000",
                 "Energy_cost": "3",
@@ -94,12 +96,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Vegeta, Returned from Darkness",
-        "Type": "BATTLE",
+        "name": "Vegeta, Returned from Darkness [SD7-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD7/SD7-03.webp",
         "Power": "19000",
         "Color": "Black",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD7",
@@ -120,8 +123,8 @@
         "id": "SD7-04",
         "face": {
             "front": {
-                "name": "Shenron, Figure of Majesty",
-                "type": "Main_Deck",
+                "name": "Shenron, Figure of Majesty [SD7-04]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -129,12 +132,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Shenron, Figure of Majesty",
-        "Type": "BATTLE",
+        "name": "Shenron, Figure of Majesty [SD7-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD7/SD7-04.webp",
         "Power": "20000",
         "Color": "Black",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD7",
@@ -157,8 +161,8 @@
         "id": "SD7-05",
         "face": {
             "front": {
-                "name": "Mega Focus Son Goku",
-                "type": "Main_Deck",
+                "name": "Mega Focus Son Goku [SD7-05]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -166,12 +170,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Mega Focus Son Goku",
-        "Type": "BATTLE",
+        "name": "Mega Focus Son Goku [SD7-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD7/SD7-05.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD7",

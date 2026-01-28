@@ -3,8 +3,8 @@
         "id": "SD2-01",
         "face": {
             "front": {
-                "name": "Son Goku",
-                "type": "Leader",
+                "name": "Son Goku [SD2-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Rising Spirit Super Saiyan Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Son Goku",
-        "Type": "LEADER",
+        "name": "Son Goku [SD2-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-01.webp",
         "Power": "10000",
         "Color": "Red",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD2",
@@ -48,8 +49,8 @@
         "id": "SD2-02",
         "face": {
             "front": {
-                "name": "Broken Limits Super Saiyan 3 Son Goku",
-                "type": "Main_Deck",
+                "name": "Broken Limits Super Saiyan 3 Son Goku [SD2-02]",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -57,12 +58,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Broken Limits Super Saiyan 3 Son Goku",
-        "Type": "BATTLE",
+        "name": "Broken Limits Super Saiyan 3 Son Goku [SD2-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-02.webp",
         "Power": "25000",
         "Color": "Red",
+        "cost": "6",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD2",
@@ -83,8 +85,8 @@
         "id": "SD2-03",
         "face": {
             "front": {
-                "name": "Unbreakable Super Saiyan Son Goku",
-                "type": "Main_Deck",
+                "name": "Unbreakable Super Saiyan Son Goku [SD2-03]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -92,12 +94,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unbreakable Super Saiyan Son Goku",
-        "Type": "BATTLE",
+        "name": "Unbreakable Super Saiyan Son Goku [SD2-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-03.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD2",
@@ -118,8 +121,8 @@
         "id": "SD2-03_PR",
         "face": {
             "front": {
-                "name": "Unbreakable Super Saiyan Son Goku",
-                "type": "Main_Deck",
+                "name": "Unbreakable Super Saiyan Son Goku [SD2-03]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -127,12 +130,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unbreakable Super Saiyan Son Goku",
-        "Type": "BATTLE",
+        "name": "Unbreakable Super Saiyan Son Goku [SD2-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-03_PR.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD2",
@@ -153,8 +157,8 @@
         "id": "SD2-03_PR2",
         "face": {
             "front": {
-                "name": "Unbreakable Super Saiyan Son Goku",
-                "type": "Main_Deck",
+                "name": "Unbreakable Super Saiyan Son Goku [SD2-03]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -162,12 +166,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Unbreakable Super Saiyan Son Goku",
-        "Type": "BATTLE",
+        "name": "Unbreakable Super Saiyan Son Goku [SD2-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-03_PR2.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD2",
@@ -188,8 +193,8 @@
         "id": "SD2-04",
         "face": {
             "front": {
-                "name": "Rushing Warrior Pan",
-                "type": "Main_Deck",
+                "name": "Rushing Warrior Pan [SD2-04]",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -197,12 +202,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Rushing Warrior Pan",
-        "Type": "BATTLE",
+        "name": "Rushing Warrior Pan [SD2-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-04.webp",
         "Power": "5000",
         "Color": "Red",
+        "cost": "1",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD2",
@@ -222,8 +228,8 @@
         "id": "SD2-05",
         "face": {
             "front": {
-                "name": "Chain Attack Trunks",
-                "type": "Main_Deck",
+                "name": "Chain Attack Trunks [SD2-05]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -231,12 +237,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chain Attack Trunks",
-        "Type": "BATTLE",
+        "name": "Chain Attack Trunks [SD2-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-05.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD2",
@@ -258,8 +265,8 @@
         "id": "SD2-05_PR",
         "face": {
             "front": {
-                "name": "Chain Attack Trunks",
-                "type": "Main_Deck",
+                "name": "Chain Attack Trunks [SD2-05]",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -267,12 +274,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Chain Attack Trunks",
-        "Type": "BATTLE",
+        "name": "Chain Attack Trunks [SD2-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD2/SD2-05_PR.webp",
         "Power": "20000",
         "Color": "Red",
+        "cost": "4",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD2",

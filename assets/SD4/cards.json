@@ -3,8 +3,8 @@
         "id": "SD4-01",
         "face": {
             "front": {
-                "name": "Piccolo Jr.",
-                "type": "Leader",
+                "name": "Piccolo Jr. [SD4-01]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -13,19 +13,20 @@
             },
             "back": {
                 "name": "Piccolo Jr., Evil Reborn",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD4/SD4-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo Jr.",
-        "Type": "LEADER",
+        "name": "Piccolo Jr. [SD4-01]",
+        "type": "Leader",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD4/SD4-01.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "SD4",
@@ -47,8 +48,8 @@
         "id": "SD4-02",
         "face": {
             "front": {
-                "name": "Indomitable Link Son Gohan",
-                "type": "Main_Deck",
+                "name": "Indomitable Link Son Gohan [SD4-02]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -56,12 +57,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Indomitable Link Son Gohan",
-        "Type": "BATTLE",
+        "name": "Indomitable Link Son Gohan [SD4-02]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD4/SD4-02.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD4",
@@ -82,8 +84,8 @@
         "id": "SD4-03",
         "face": {
             "front": {
-                "name": "Indomitable Link Piccolo",
-                "type": "Main_Deck",
+                "name": "Indomitable Link Piccolo [SD4-03]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -91,12 +93,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Indomitable Link Piccolo",
-        "Type": "BATTLE",
+        "name": "Indomitable Link Piccolo [SD4-03]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD4/SD4-03.webp",
         "Power": "10000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD4",
@@ -117,8 +120,8 @@
         "id": "SD4-04",
         "face": {
             "front": {
-                "name": "King Piccolo, Lord of Terror",
-                "type": "Main_Deck",
+                "name": "King Piccolo, Lord of Terror [SD4-04]",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "25000",
                 "Energy_cost": "5",
@@ -126,12 +129,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "King Piccolo, Lord of Terror",
-        "Type": "BATTLE",
+        "name": "King Piccolo, Lord of Terror [SD4-04]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD4/SD4-04.webp",
         "Power": "25000",
         "Color": "Green",
+        "cost": "5",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "SD4",
@@ -153,8 +157,8 @@
         "id": "SD4-05",
         "face": {
             "front": {
-                "name": "Namekian Bond Saonel",
-                "type": "Main_Deck",
+                "name": "Namekian Bond Saonel [SD4-05]",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -162,12 +166,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Namekian Bond Saonel",
-        "Type": "BATTLE",
+        "name": "Namekian Bond Saonel [SD4-05]",
+        "type": "Main_Deck",
         "Rarity": "Starter Rare[ST]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/SD4/SD4-05.webp",
         "Power": "15000",
         "Color": "Green",
+        "cost": "3",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "SD4",

@@ -3,8 +3,8 @@
         "id": "EX10-01",
         "face": {
             "front": {
-                "name": "Heavy Kick Krillin",
-                "type": "Main_Deck",
+                "name": "Heavy Kick Krillin [EX10-01]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -12,12 +12,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Heavy Kick Krillin",
-        "Type": "BATTLE",
+        "name": "Heavy Kick Krillin [EX10-01]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX10/EX10-01.webp",
         "Power": "5000",
         "Color": "Blue",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX10",
@@ -36,8 +37,8 @@
         "id": "EX10-02",
         "face": {
             "front": {
-                "name": "Master Roshi, Kamehameha Origins",
-                "type": "Main_Deck",
+                "name": "Master Roshi, Kamehameha Origins [EX10-02]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "5000",
                 "Energy_cost": "2",
@@ -45,12 +46,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Master Roshi, Kamehameha Origins",
-        "Type": "BATTLE",
+        "name": "Master Roshi, Kamehameha Origins [EX10-02]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX10/EX10-02.webp",
         "Power": "5000",
         "Color": "Green",
+        "cost": "2",
         "Combo_cost": "0",
         "Combo_power": "5000",
         "Series": "EX10",
@@ -69,8 +71,8 @@
         "id": "EX10-03",
         "face": {
             "front": {
-                "name": "Piccolo",
-                "type": "Leader",
+                "name": "Piccolo [EX10-03]",
+                "type": "LEADER",
                 "cost": null,
                 "power": "10000",
                 "Energy_cost": null,
@@ -79,19 +81,20 @@
             },
             "back": {
                 "name": "Son Gohan & Piccolo, Surge of Consciousness",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": null,
                 "power": "15000",
                 "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX10/EX10-03_b.webp",
                 "isHorizontal": false
             }
         },
-        "Name": "Piccolo",
-        "Type": "LEADER",
+        "name": "Piccolo [EX10-03]",
+        "type": "Leader",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX10/EX10-03.webp",
         "Power": "10000",
         "Color": "Blue/Green",
+        "cost": null,
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX10",
@@ -115,8 +118,8 @@
         "id": "EX10-04",
         "face": {
             "front": {
-                "name": "Kaio-Ken Son Goku Returns",
-                "type": "Main_Deck",
+                "name": "Kaio-Ken Son Goku Returns [EX10-04]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -124,12 +127,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Kaio-Ken Son Goku Returns",
-        "Type": "BATTLE",
+        "name": "Kaio-Ken Son Goku Returns [EX10-04]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX10/EX10-04.webp",
         "Power": "15000",
         "Color": "Blue/Green",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX10",
@@ -150,8 +154,8 @@
         "id": "EX10-05",
         "face": {
             "front": {
-                "name": "Dr. Uiro, Cybernetic Rebirth",
-                "type": "Main_Deck",
+                "name": "Dr. Uiro, Cybernetic Rebirth [EX10-05]",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -159,12 +163,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Dr. Uiro, Cybernetic Rebirth",
-        "Type": "BATTLE",
+        "name": "Dr. Uiro, Cybernetic Rebirth [EX10-05]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX10/EX10-05.webp",
         "Power": "15000",
         "Color": "Blue/Green",
+        "cost": "2",
         "Combo_cost": "1",
         "Combo_power": "10000",
         "Series": "EX10",
@@ -186,8 +191,8 @@
         "id": "EX10-06",
         "face": {
             "front": {
-                "name": "Hidden Potential",
-                "type": "Main_Deck",
+                "name": "Hidden Potential [EX10-06]",
+                "type": "EXTRA",
                 "cost": "2",
                 "power": "",
                 "Energy_cost": "2",
@@ -195,12 +200,13 @@
                 "isHorizontal": false
             }
         },
-        "Name": "Hidden Potential",
-        "Type": "EXTRA",
+        "name": "Hidden Potential [EX10-06]",
+        "type": "Main_Deck",
         "Rarity": "Expansion Rare[EX]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/EX10/EX10-06.webp",
         "Power": "",
         "Color": "Blue/Green",
+        "cost": "2",
         "Combo_cost": null,
         "Combo_power": null,
         "Series": "EX10",
