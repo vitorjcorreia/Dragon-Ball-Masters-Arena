@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/starterDecks.json"
   },
-  "customHelp": "\"How to play DB Masters:\n(1) After choosing which player goes first, the player who goes second creates an Energy Marker.\n(2) When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards.\n(3) For burn/critical effects hold \\\"D\\\" key for a second and then click on the Life cards.\n(4) For effects like ST Trunks leader hold \\\"F\\\" key for a second and then click on the Life cards. This will send the card into play showing it to your opponent.\n(5) For more details about rules and banlist, visit https: http://www.dbs-cardgame.com/us-en/rule",
+  "customHelp": "\"How to play DB Masters:\n(1) After choosing which player goes first, the player who goes second creates an Energy Marker.\n(2) When you would add a card from your life to your hand, hold \"H\" key and then click on the Life cards.\n(3) For burn/critical effects hold \"D\" key and then click on the Life cards.\n(4) For effects like ST Trunks leader hold \"F\" key and then click on the Life cards. This will send the card into play showing it to your opponent.\n(5) In order to play cards from your Z-Deck press the left click and choose the search option and then select the card you wish to play \n(6) For more details about rules and banlist, visit https: http://www.dbs-cardgame.com/us-en/rule",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/cards.json",
@@ -429,7 +429,7 @@
             "displayedTitle": "Life",
             "enterTapped": false,
             "enterSpun": false,
-            "isGroupForbidden": true,
+            "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
@@ -522,7 +522,7 @@
             "opponentAlignment": false,
             "displayedTitle": "Z-Deck Area",
             "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
