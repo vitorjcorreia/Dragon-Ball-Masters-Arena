@@ -4,61 +4,44 @@
         "face": {
             "front": {
                 "name": "Vegeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "SS Vegeta, Fighting Instincts",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Vegeta",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Vegeta",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-01.webp",
-        "power": "10000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD22",
-        "character": [
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD22",
+        "Character": [
             "Vegeta"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken",
             "Activate: Main/Battle",
             "Once per turn",
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": "SS Vegeta, Fighting Instincts",
-        "back_power": "15000",
-        "back_character": [
-            "Vegeta"
-        ],
-        "back_era": [
-            "Majin Buu Saga"
-        ],
-        "back_traits": [
-            "Saiyan"
         ]
     },
     "SD22-01_PR": {
@@ -66,58 +49,41 @@
         "face": {
             "front": {
                 "name": "Vegeta",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-01_PR.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "SS Vegeta, Fighting Instincts",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Vegeta",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Vegeta",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-01_PR.webp",
-        "power": "10000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD22",
-        "character": [
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD22",
+        "Character": [
             "Vegeta"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": "SS Vegeta, Fighting Instincts",
-        "back_power": "15000",
-        "back_character": [
-            "Vegeta"
-        ],
-        "back_era": [
-            "Majin Buu Saga"
-        ],
-        "back_traits": [
-            "Saiyan"
         ]
     },
     "SD22-02": {
@@ -125,37 +91,31 @@
         "face": {
             "front": {
                 "name": "Prince of Destruction Vegeta, Emotions Unleashed",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "20000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Prince of Destruction Vegeta, Emotions Unleashed",
-        "type": "Z-LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Prince of Destruction Vegeta, Emotions Unleashed",
+        "Type": "Z-LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-02.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD22",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD22",
+        "Character": [
             "Vegeta"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Z-Awaken",
             "Z-Stack 1",
             "Activate: Main",
@@ -163,304 +123,226 @@
             "Activate: Battle",
             "Double Strike",
             "Barrier"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD22-03": {
         "id": "SD22-03",
         "face": {
             "front": {
                 "name": "SS2 Son Goku, Overflowing Aura",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS2 Son Goku, Overflowing Aura",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS2 Son Goku, Overflowing Aura",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-03.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD22",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD22",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Z-Stack 1",
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD22-04": {
         "id": "SD22-04",
         "face": {
             "front": {
                 "name": "Majin Buu, Despair's Revival",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "3",
                 "power": "19000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Majin Buu, Despair's Revival",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Majin Buu, Despair's Revival",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-04.webp",
-        "power": "19000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD22",
-        "character": [
+        "Power": "19000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD22",
+        "Character": [
             "Majin Buu"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Majin"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Dual Attack",
             "Auto",
             "Activate: Main",
             "Limit 1",
             "Activate: Battle",
             "Once per turn"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD22-05": {
         "id": "SD22-05",
         "face": {
             "front": {
                 "name": "SS2 Son Goku, Destined Battle",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "19000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS2 Son Goku, Destined Battle",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS2 Son Goku, Destined Battle",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-05.webp",
-        "power": "19000",
-        "color": "Yellow",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD22",
-        "character": [
+        "Power": "19000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD22",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Unique",
             "Auto",
             "Blocker",
             "Activate: Battle",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD22-06": {
         "id": "SD22-06",
         "face": {
             "front": {
                 "name": "Prince of Destruction Vegeta, Destined Battle",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-06.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Prince of Destruction Vegeta, Destined Battle",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Prince of Destruction Vegeta, Destined Battle",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-06.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD22",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD22",
+        "Character": [
             "Vegeta"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Servant",
             "Auto",
             "Limit 1",
             "Double Strike",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD22-06_PR": {
         "id": "SD22-06_PR",
         "face": {
             "front": {
                 "name": "Prince of Destruction Vegeta, Destined Battle",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-06_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Prince of Destruction Vegeta, Destined Battle",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Prince of Destruction Vegeta, Destined Battle",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-06_PR.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD22",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD22",
+        "Character": [
             "Vegeta"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Servant",
             "Auto",
             "Limit 1",
             "Double Strike",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD22-07": {
         "id": "SD22-07",
         "face": {
             "front": {
                 "name": "Trunks, Rambunctious Son",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-07.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Trunks, Rambunctious Son",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Trunks, Rambunctious Son",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD22-07.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD22",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD22",
+        "Character": [
             "Trunks: Youth"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

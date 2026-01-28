@@ -4,750 +4,568 @@
         "face": {
             "front": {
                 "name": "Golden Cooler, Revenging Final Form",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "15000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-01.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Golden Cooler, Revenging Final Form",
-        "type": "Z-LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Golden Cooler, Revenging Final Form",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-01.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Cooler"
         ],
-        "era": [
-            "Prison Planet Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Frieza Clan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Z-Awaken",
             "Auto",
             "Once per turn",
             "Activate: Main"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-02": {
         "id": "EX23-02",
         "face": {
             "front": {
                 "name": "Jiren, Righteous Pride Trooper",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "3",
                 "power": "19000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Jiren, Righteous Pride Trooper",
-        "type": "Z-BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Jiren, Righteous Pride Trooper",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-02.webp",
-        "power": "19000",
-        "color": "Red",
-        "energy_cost": "3",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Jiren"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Pride Troopers",
             "Universe 11"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Activate: Main/Battle",
             "Limit 1",
             "Blocker"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-03": {
         "id": "EX23-03",
         "face": {
             "front": {
                 "name": "10x Kamehameha, Mighty Blast",
-                "type": "Z-EXTRA",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-03.webp",
-                "isHorizontal": false
-            },
-            "back": {}
+                "isHorizontal": true
+            }
         },
-        "name": "10x Kamehameha, Mighty Blast",
-        "type": "Z-EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "10x Kamehameha, Mighty Blast",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-03.webp",
-        "power": null,
-        "color": "Red",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": null,
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-04": {
         "id": "EX23-04",
         "face": {
             "front": {
                 "name": "Frieza, True Form and Power",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Frieza, True Form and Power",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Frieza, True Form and Power",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-04.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Frieza"
         ],
-        "era": [
-            "Frieza Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Frieza Clan",
             "Frieza's Army"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-05": {
         "id": "EX23-05",
         "face": {
             "front": {
                 "name": "Son Goku, Unmatched by the Gods",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "8",
                 "power": "30000",
+                "Energy_cost": "8",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Unmatched by the Gods",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Goku, Unmatched by the Gods",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-05.webp",
-        "power": "30000",
-        "color": "Red",
-        "energy_cost": "8",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "30000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Universe 7"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Double Strike",
             "Dual Attack",
             "Permanent",
             "Auto",
             "Activate: Battle",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-06": {
         "id": "EX23-06",
         "face": {
             "front": {
                 "name": "Android 18, Temporary Partner",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "10000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-06.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 18, Temporary Partner",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 18, Temporary Partner",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-06.webp",
-        "power": "10000",
-        "color": "Red",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "1000",
-        "series": "EX23",
-        "character": [
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "1000",
+        "Series": "EX23",
+        "Character": [
             "Android 18"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android",
             "Universe 7"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-07": {
         "id": "EX23-07",
         "face": {
             "front": {
                 "name": "Android 17, Temporary Partner",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "10000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-07.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 17, Temporary Partner",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 17, Temporary Partner",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-07.webp",
-        "power": "10000",
-        "color": "Red",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Android 17"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android",
             "Universe 7"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Auto",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-08": {
         "id": "EX23-08",
         "face": {
             "front": {
                 "name": "Dyspo, Sonic Dimension",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-08.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Dyspo, Sonic Dimension",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Dyspo, Sonic Dimension",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-08.webp",
-        "power": "4000",
-        "color": "Red",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "4000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Dyspo"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Pride Troopers",
             "Universe 11"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1",
             "Evolve",
             "Activate: Battle",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-09": {
         "id": "EX23-09",
         "face": {
             "front": {
                 "name": "Pan, Grandfather's Strength",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-09.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Pan, Grandfather's Strength",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Pan, Grandfather's Strength",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-09.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Pan"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-09_PR": {
         "id": "EX23-09_PR",
         "face": {
             "front": {
                 "name": "Pan, Grandfather's Strength",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-09_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Pan, Grandfather's Strength",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Pan, Grandfather's Strength",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-09_PR.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Pan"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-10": {
         "id": "EX23-10",
         "face": {
             "front": {
                 "name": "SSB Gogeta, Miraculous Strongest Warrior",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "15000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-10.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Gogeta, Miraculous Strongest Warrior",
-        "type": "Z-LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SSB Gogeta, Miraculous Strongest Warrior",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-10.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Gogeta: Br"
         ],
-        "era": [
-            "DBS: Broly Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Z-Awaken",
             "Permanent",
             "Auto",
             "Activate: Main",
             "Once per turn",
             "Barrier"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-11": {
         "id": "EX23-11",
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta, Pre-Fusion Warriors",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": "5000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-11.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku & Vegeta, Pre-Fusion Warriors",
-        "type": "Z-BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Goku & Vegeta, Pre-Fusion Warriors",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-11.webp",
-        "power": "5000",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Son Goku",
             "Vegeta"
         ],
-        "era": [
-            "Janemba Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Barrier",
             "Activate: Main",
             "Limit 1",
             "Union"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-12": {
         "id": "EX23-12",
         "face": {
             "front": {
                 "name": "Black Kamehameha, Mighty Blast",
-                "type": "Z-EXTRA",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-12.webp",
-                "isHorizontal": false
-            },
-            "back": {}
+                "isHorizontal": true
+            }
         },
-        "name": "Black Kamehameha, Mighty Blast",
-        "type": "Z-EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Black Kamehameha, Mighty Blast",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-12.webp",
-        "power": null,
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle",
             "Blocker"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-13": {
         "id": "EX23-13",
         "face": {
             "front": {
                 "name": "SS Son Goku, Another World Technique",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "20000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-13.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Son Goku, Another World Technique",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Son Goku, Another World Technique",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-13.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Another World Budokai Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Another World Budokai"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Blocker",
             "Auto",
             "Activate: Battle",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-14": {
         "id": "EX23-14",
         "face": {
             "front": {
                 "name": "Paikuhan, Another World Technique",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "5000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-14.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Paikuhan, Another World Technique",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Paikuhan, Another World Technique",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-14.webp",
-        "power": "5000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Paikuhan"
         ],
-        "era": [
-            "Another World Budokai Saga"
-        ],
-        "traits": [
+        "Traits": [
             "West Galaxy Warrior",
             "Another World Budokai"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main",
             "Limit 1",
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-15": {
         "id": "EX23-15",
         "face": {
             "front": {
                 "name": "SS Gogeta, Birth of the Strongest Warrior",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-15.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Gogeta, Birth of the Strongest Warrior",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Gogeta, Birth of the Strongest Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-15.webp",
-        "power": "25000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Gogeta"
         ],
-        "era": [
-            "Janemba Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Triple Strike",
             "Union-Fusion",
@@ -755,197 +573,149 @@
             "Activate: Main",
             "Limit 1",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-16": {
         "id": "EX23-16",
         "face": {
             "front": {
                 "name": "SSB Vegito, Enveloped in Fighting Spirit",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "8",
                 "power": "30000",
+                "Energy_cost": "8",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-16.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Vegito, Enveloped in Fighting Spirit",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SSB Vegito, Enveloped in Fighting Spirit",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-16.webp",
-        "power": "30000",
-        "color": "Blue",
-        "energy_cost": "8",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Triple Strike",
             "Barrier",
             "Permanent",
             "Auto",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-17": {
         "id": "EX23-17",
         "face": {
             "front": {
                 "name": "SS Trunks, Sword Connecting the Future",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-17.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Trunks, Sword Connecting the Future",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Trunks, Sword Connecting the Future",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-17.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Trunks: Future"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Unique",
             "Barrier",
             "Permanent",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-18": {
         "id": "EX23-18",
         "face": {
             "front": {
                 "name": "Mai, Bearer of Hope",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-18.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Mai, Bearer of Hope",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Mai, Bearer of Hope",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-18.webp",
-        "power": "4000",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "4000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Mai: Future"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-19": {
         "id": "EX23-19",
         "face": {
             "front": {
                 "name": "Turles, Fiercer Rampage",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "15000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-19.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Turles, Fiercer Rampage",
-        "type": "Z-LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Turles, Fiercer Rampage",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-19.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Turles: Xeno"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Turles Crusher Corps"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Z-Awaken",
             "Permanent",
@@ -953,331 +723,249 @@
             "Activate: Main/Battle",
             "Once per turn",
             "Barrier"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-20": {
         "id": "EX23-20",
         "face": {
             "front": {
                 "name": "Pan, Believing in Her Grandfather",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": "5000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-20.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Pan, Believing in Her Grandfather",
-        "type": "Z-BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Pan, Believing in Her Grandfather",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-20.webp",
-        "power": "5000",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Pan"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main",
             "Limit 1",
             "Super Combo",
             "Blocker"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-21": {
         "id": "EX23-21",
         "face": {
             "front": {
                 "name": "Limit Ultra Kamehameha, Mighty Blast",
-                "type": "Z-EXTRA",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-21.webp",
-                "isHorizontal": false
-            },
-            "back": {}
+                "isHorizontal": true
+            }
         },
-        "name": "Limit Ultra Kamehameha, Mighty Blast",
-        "type": "Z-EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Limit Ultra Kamehameha, Mighty Blast",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-21.webp",
-        "power": null,
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": null,
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-22": {
         "id": "EX23-22",
         "face": {
             "front": {
                 "name": "Turles, Meteor Burst",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-22.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Turles, Meteor Burst",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Turles, Meteor Burst",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-22.webp",
-        "power": "20000",
-        "color": "Green",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Turles"
         ],
-        "era": [
-            "Turles Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Turles Crusher Corps"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-23": {
         "id": "EX23-23",
         "face": {
             "front": {
                 "name": "Cacao, Strongest Crusher in the Universe",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "5000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-23.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Cacao, Strongest Crusher in the Universe",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cacao, Strongest Crusher in the Universe",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-23.webp",
-        "power": "5000",
-        "color": "Green",
-        "energy_cost": "2",
-        "combo_cost": "1",
-        "combo_power": "3000",
-        "series": "EX23",
-        "character": [
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": "1",
+        "Combo_power": "3000",
+        "Series": "EX23",
+        "Character": [
             "Cacao"
         ],
-        "era": [
-            "Turles"
-        ],
-        "traits": [
+        "Traits": [
             "Turles Crusher Corps"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Unique",
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-24": {
         "id": "EX23-24",
         "face": {
             "front": {
                 "name": "Son Goku, a Sign of Strength",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-24.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, a Sign of Strength",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Goku, a Sign of Strength",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-24.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Permanent",
             "Auto",
             "Awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-25": {
         "id": "EX23-25",
         "face": {
             "front": {
                 "name": "Super 17, Wicked Hell Machine",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-25.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Super 17, Wicked Hell Machine",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Super 17, Wicked Hell Machine",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-25.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Super 17"
         ],
-        "era": [
-            "Super 17 Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android",
             "Machine Mutant"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Blocker",
             "Auto",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-26": {
         "id": "EX23-26",
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Desired Fusion",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "10000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-26.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Hell Fighter 17, Desired Fusion",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Hell Fighter 17, Desired Fusion",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-26.webp",
-        "power": "10000",
-        "color": "Green",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Hell Fighter 17"
         ],
-        "era": [
-            "Super 17 Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android",
             "Machine Mutant"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Counter: Attack",
             "Limit 1",
             "Permanent",
@@ -1285,1066 +973,806 @@
             "Auto",
             "Once per turn",
             "Blocker"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-27": {
         "id": "EX23-27",
         "face": {
             "front": {
                 "name": "Android 17, Forced Fusions",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-27.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 17, Forced Fusions",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 17, Forced Fusions",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-27.webp",
-        "power": "4000",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Android 17"
         ],
-        "era": [
-            "Super 17 Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-28": {
         "id": "EX23-28",
         "face": {
             "front": {
                 "name": "Omega Shenron, Collected Minus Energy",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "20000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-28.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Omega Shenron, Collected Minus Energy",
-        "type": "Z-LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Omega Shenron, Collected Minus Energy",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-28.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Syn Shenron"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Shadow Dragon"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Double Strike",
             "Z-Awaken",
             "Auto",
             "Activate: Main/Battle",
             "Barrier"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-29": {
         "id": "EX23-29",
         "face": {
             "front": {
                 "name": "Son Gohan, Rookie Support",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": "5000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-29.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Gohan, Rookie Support",
-        "type": "Z-BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Gohan, Rookie Support",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-29.webp",
-        "power": "5000",
-        "color": "Yellow",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Son Gohan: GT"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1",
             "Activate: Main",
             "Union"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-30": {
         "id": "EX23-30",
         "face": {
             "front": {
                 "name": "20x Kaio-ken Kamehameha, Mighty Blast",
-                "type": "Z-EXTRA",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-30.webp",
-                "isHorizontal": false
-            },
-            "back": {}
+                "isHorizontal": true
+            }
         },
-        "name": "20x Kaio-ken Kamehameha, Mighty Blast",
-        "type": "Z-EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "20x Kaio-ken Kamehameha, Mighty Blast",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-30.webp",
-        "power": null,
-        "color": "Yellow",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": null,
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle",
             "Barrier"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-31": {
         "id": "EX23-31",
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Dragon Fist Strategy",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "6",
                 "power": "20000",
+                "Energy_cost": "6",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-31.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Dragon Fist Strategy",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS4 Son Goku, Dragon Fist Strategy",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-31.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": "6",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Super 17 Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Dual Attack",
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-32": {
         "id": "EX23-32",
         "face": {
             "front": {
                 "name": "Trunks, Fighting Support",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-32.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Trunks, Fighting Support",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Trunks, Fighting Support",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-32.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Trunks: GT"
         ],
-        "era": [
-            "Super 17 Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Auto",
             "Activate: Main",
             "Limit 1",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-33": {
         "id": "EX23-33",
         "face": {
             "front": {
                 "name": "Son Goten & Trunks, Classic Boy Team-up",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-33.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goten & Trunks, Classic Boy Team-up",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Goten & Trunks, Classic Boy Team-up",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-33.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Son Goten: GT",
             "Trunks: GT"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-34": {
         "id": "EX23-34",
         "face": {
             "front": {
                 "name": "Nuova Shenron, Military Spirit",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-34.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Nuova Shenron, Military Spirit",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Nuova Shenron, Military Spirit",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-34.webp",
-        "power": "10000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Nuova Shenron"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Shadow Dragon"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Barrier",
             "Auto",
             "Limit 1",
             "Burst 1",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-35": {
         "id": "EX23-35",
         "face": {
             "front": {
                 "name": "Oceanus Shenron, Spin Technique",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "5000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-35.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Oceanus Shenron, Spin Technique",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Oceanus Shenron, Spin Technique",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-35.webp",
-        "power": "5000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Oceanus Shenron"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Shadow Dragon"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Barrier",
             "Blocker",
             "Permanent",
             "Auto",
             "Burst 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-36": {
         "id": "EX23-36",
         "face": {
             "front": {
                 "name": "SS3 Gotenks, Overwhelming Power",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "6",
                 "power": "25000",
+                "Energy_cost": "6",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-36.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS3 Gotenks, Overwhelming Power",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS3 Gotenks, Overwhelming Power",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-36.webp",
-        "power": "25000",
-        "color": "Yellow",
-        "energy_cost": "6",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Gotenks: Adolescence"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Double Strike",
             "Union-Fusion",
             "Permanent",
             "Union",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-37": {
         "id": "EX23-37",
         "face": {
             "front": {
                 "name": "Dark King Mechikabura, Time Power Revival",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "20000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-37.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Dark King Mechikabura, Time Power Revival",
-        "type": "Z-LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Dark King Mechikabura, Time Power Revival",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-37.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Mechikabura"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race",
             "Demon God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Z-Awaken",
             "Auto",
             "Activate: Main",
             "Once per turn"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-38": {
         "id": "EX23-38",
         "face": {
             "front": {
                 "name": "First Kamehameha, Mighty Blast",
-                "type": "Z-EXTRA",
+                "type": "Z_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-38.webp",
-                "isHorizontal": false
-            },
-            "back": {}
+                "isHorizontal": true
+            }
         },
-        "name": "First Kamehameha, Mighty Blast",
-        "type": "Z-EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "First Kamehameha, Mighty Blast",
+        "Type": "Z-EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-38.webp",
-        "power": null,
-        "color": "Black",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": null,
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-39": {
         "id": "EX23-39",
         "face": {
             "front": {
                 "name": "Demigra, Tokitoki in Hand",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "5000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-39.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Demigra, Tokitoki in Hand",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Demigra, Tokitoki in Hand",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-39.webp",
-        "power": "5000",
-        "color": "Black",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "5000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Demigra"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Evil Wizard"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Dark Over Realm 3",
             "Auto",
             "Activate: Main",
             "Limit 1",
             "Double Strike",
             "Barrier"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-40": {
         "id": "EX23-40",
         "face": {
             "front": {
                 "name": "Demon God Putine & Demon God Gravy, Henchmen Strength",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-40.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Demon God Putine & Demon God Gravy, Henchmen Strength",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Demon God Putine & Demon God Gravy, Henchmen Strength",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-40.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Putine",
             "Gravy"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Dark Over Realm 4",
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-41": {
         "id": "EX23-41",
         "face": {
             "front": {
                 "name": "Demon God Shroom, Dark Royalty",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-41.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Demon God Shroom, Dark Royalty",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Demon God Shroom, Dark Royalty",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-41.webp",
-        "power": "15000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Shroom"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race",
             "Demon God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Permanent",
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-42": {
         "id": "EX23-42",
         "face": {
             "front": {
                 "name": "Transcended Shroom & Transcended Salsa, Strategy for the Ultimate Form",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "6",
                 "power": "20000",
+                "Energy_cost": "6",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-42.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Transcended Shroom & Transcended Salsa, Strategy for the Ultimate Form",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Transcended Shroom & Transcended Salsa, Strategy for the Ultimate Form",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-42.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "6",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Shroom",
             "Salsa"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race",
             "Demon God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main",
             "Activate: Battle",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-43": {
         "id": "EX23-43",
         "face": {
             "front": {
                 "name": "Demon God Salsa, Dark Royalty",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-43.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Demon God Salsa, Dark Royalty",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Demon God Salsa, Dark Royalty",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-43.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Salsa"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race",
             "Demon God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 4",
             "Auto",
             "Over Realm",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-44": {
         "id": "EX23-44",
         "face": {
             "front": {
                 "name": "Dark King Mechikabura, Demon Realm Invasion",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "8",
                 "power": "30000",
+                "Energy_cost": "8",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-44.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Dark King Mechikabura, Demon Realm Invasion",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Dark King Mechikabura, Demon Realm Invasion",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-44.webp",
-        "power": "30000",
-        "color": "Black",
-        "energy_cost": "8",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "30000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Mechikabura"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race",
             "Demon God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Dual Attack",
             "Auto",
             "Barrier",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-45": {
         "id": "EX23-45",
         "face": {
             "front": {
                 "name": "SS4 Son Goku & SS4 Vegeta, Radiant Fusion",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "3",
                 "power": "16000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-45.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku & SS4 Vegeta, Radiant Fusion",
-        "type": "Z-BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS4 Son Goku & SS4 Vegeta, Radiant Fusion",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-45.webp",
-        "power": "16000",
-        "color": "Green/Black",
-        "energy_cost": "3",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX23",
-        "character": [
+        "Power": "16000",
+        "Color": "Green/Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX23",
+        "Character": [
             "Son Goku: Xeno",
             "Vegeta: Xeno"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Permanent",
             "Auto",
             "Barrier",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-46": {
         "id": "EX23-46",
         "face": {
             "front": {
                 "name": "Android 16, Determined Moment",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "6",
                 "power": "25000",
+                "Energy_cost": "6",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-46.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 16, Determined Moment",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 16, Determined Moment",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-46.webp",
-        "power": "25000",
-        "color": "Blue/Green",
-        "energy_cost": "6",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX23",
-        "character": [
+        "Power": "25000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX23",
+        "Character": [
             "Android 16"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Critical",
             "Arrival Blue/Green",
             "Auto",
             "Activate: Battle",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-47": {
         "id": "EX23-47",
         "face": {
             "front": {
                 "name": "Android 16, a Determined Choice",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-47.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 16, a Determined Choice",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 16, a Determined Choice",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-47.webp",
-        "power": "20000",
-        "color": "Blue/Green",
-        "energy_cost": "4",
-        "combo_cost": "1",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Android 16"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Blocker",
             "Arrival Blue/Green",
             "Permanent",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-48": {
         "id": "EX23-48",
         "face": {
             "front": {
                 "name": "Cooler, Vengeful Final Form",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-48.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Cooler, Vengeful Final Form",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cooler, Vengeful Final Form",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-48.webp",
-        "power": "25000",
-        "color": "Red/Blue",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX23",
-        "character": [
+        "Power": "25000",
+        "Color": "Red/Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX23",
+        "Character": [
             "Cooler"
         ],
-        "era": [
-            "Cooler Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Frieza Clan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Deflect",
             "Dual Attack",
@@ -2353,254 +1781,188 @@
             "Auto",
             "Barrier",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-49": {
         "id": "EX23-49",
         "face": {
             "front": {
                 "name": "SS4 Bardock, Prismatic Radiance",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "16000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-49.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Bardock, Prismatic Radiance",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS4 Bardock, Prismatic Radiance",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-49.webp",
-        "power": "16000",
-        "color": "Red/Black",
-        "energy_cost": "2",
-        "combo_cost": "1",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "16000",
+        "Color": "Red/Black",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Bardock: Xeno"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Barrier",
             "Activate: Main",
             "Limit 1",
             "Dual Attack"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-50": {
         "id": "EX23-50",
         "face": {
             "front": {
                 "name": "SS4 Vegeta, Prismatic Radiance",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "16000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-50.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Vegeta, Prismatic Radiance",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS4 Vegeta, Prismatic Radiance",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-50.webp",
-        "power": "16000",
-        "color": "Blue/Black",
-        "energy_cost": "2",
-        "combo_cost": "1",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "16000",
+        "Color": "Blue/Black",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Vegeta: Xeno"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Permanent",
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-51": {
         "id": "EX23-51",
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Prismatic Radiance",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "16000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-51.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Prismatic Radiance",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS4 Son Goku, Prismatic Radiance",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-51.webp",
-        "power": "16000",
-        "color": "Yellow/Black",
-        "energy_cost": "2",
-        "combo_cost": "1",
-        "combo_power": "5000",
-        "series": "EX23",
-        "character": [
+        "Power": "16000",
+        "Color": "Yellow/Black",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "EX23",
+        "Character": [
             "Son Goku: Xeno"
         ],
-        "era": [
-            "Dark Empire Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Permanent",
             "Auto",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-52": {
         "id": "EX23-52",
         "face": {
             "front": {
                 "name": "Son Goku, Final Spirit Bomb",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "8",
                 "power": "40000",
+                "Energy_cost": "8",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-52.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Final Spirit Bomb",
-        "type": "BATTLE",
-        "rarity": "Secret Rare[SCR]",
+        "Name": "Son Goku, Final Spirit Bomb",
+        "Type": "BATTLE",
+        "Rarity": "Secret Rare[SCR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-52.webp",
-        "power": "40000",
-        "color": "Black",
-        "energy_cost": "8",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX23",
-        "character": [
+        "Power": "40000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX23",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Ultimate",
             "Auto",
             "Barrier",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX23-52_PR": {
         "id": "EX23-52_PR",
         "face": {
             "front": {
                 "name": "Son Goku, Final Spirit Bomb",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "8",
                 "power": "40000",
+                "Energy_cost": "8",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-52_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Final Spirit Bomb",
-        "type": "BATTLE",
-        "rarity": "Secret Rare[SCR]",
+        "Name": "Son Goku, Final Spirit Bomb",
+        "Type": "BATTLE",
+        "Rarity": "Secret Rare[SCR]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX23-52_PR.webp",
-        "power": "40000",
-        "color": "Black",
-        "energy_cost": "8",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX23",
-        "character": [
+        "Power": "40000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX23",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Shadow Dragon Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Ultimate",
             "Auto",
             "Barrier",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

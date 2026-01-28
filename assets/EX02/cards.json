@@ -4,424 +4,316 @@
         "face": {
             "front": {
                 "name": "Time Patrol Trunks",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-01.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Time Patrol Trunks",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Time Patrol Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-01.webp",
-        "power": "15000",
-        "color": "Black",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX02",
-        "character": [
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX02",
+        "Character": [
             "Trunks: Xeno"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 3",
             "Over Realm",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-01_PR": {
         "id": "EX02-01_PR",
         "face": {
             "front": {
                 "name": "Time Patrol Trunks",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-01_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Time Patrol Trunks",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Time Patrol Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-01_PR.webp",
-        "power": "15000",
-        "color": "Black",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX02",
-        "character": [
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX02",
+        "Character": [
             "Trunks: Xeno"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 3",
             "Over Realm",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-02": {
         "id": "EX02-02",
         "face": {
             "front": {
                 "name": "Masked Saiyan, the Mysterious Warrior",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Masked Saiyan, the Mysterious Warrior",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Masked Saiyan, the Mysterious Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-02.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX02",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX02",
+        "Character": [
             "Masked Saiyan"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 5",
             "Over Realm",
             "Double Strike",
             "Auto",
             "Blocker"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-02_PR": {
         "id": "EX02-02_PR",
         "face": {
             "front": {
                 "name": "Masked Saiyan, the Mysterious Warrior",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-02_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Masked Saiyan, the Mysterious Warrior",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Masked Saiyan, the Mysterious Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-02_PR.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX02",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX02",
+        "Character": [
             "Masked Saiyan"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 5",
             "Over Realm",
             "Double Strike",
             "Auto",
             "Blocker"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-03": {
         "id": "EX02-03",
         "face": {
             "front": {
                 "name": "Supreme Kai of Time, Continuity Keeper",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Supreme Kai of Time, Continuity Keeper",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Supreme Kai of Time, Continuity Keeper",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-03.webp",
-        "power": "10000",
-        "color": "Black",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX02",
-        "character": [
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX02",
+        "Character": [
             "Supreme Kai of Time"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-04": {
         "id": "EX02-04",
         "face": {
             "front": {
                 "name": "Time Ruler Towa",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "10000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Time Ruler Towa",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Time Ruler Towa",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-04.webp",
-        "power": "10000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX02",
-        "character": [
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX02",
+        "Character": [
             "Towa"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 4",
             "Over Realm",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-05": {
         "id": "EX02-05",
         "face": {
             "front": {
                 "name": "Mira, From the Darkness",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Mira, From the Darkness",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Mira, From the Darkness",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-05.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX02",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX02",
+        "Character": [
             "Mira"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 4",
             "Over Realm",
             "Auto",
             "Critical"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-06": {
         "id": "EX02-06",
         "face": {
             "front": {
                 "name": "Majin Twin Shun Shun",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "5000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-06.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Majin Twin Shun Shun",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Majin Twin Shun Shun",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-06.webp",
-        "power": "5000",
-        "color": "Black",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX02",
-        "character": [
+        "Power": "5000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX02",
+        "Character": [
             "Shun Shun"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX02-07": {
         "id": "EX02-07",
         "face": {
             "front": {
                 "name": "Majin Twin Haru Haru",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-07.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Majin Twin Haru Haru",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Majin Twin Haru Haru",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX02-07.webp",
-        "power": "10000",
-        "color": "Black",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX02",
-        "character": [
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX02",
+        "Character": [
             "Haru Haru"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

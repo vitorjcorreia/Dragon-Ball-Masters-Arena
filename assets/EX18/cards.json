@@ -4,234 +4,178 @@
         "face": {
             "front": {
                 "name": "Piccolo, Spirit Boost Defender",
-                "type": "UNISON",
+                "type": "Main_Deck",
                 "cost": null,
                 "power": "11000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-01.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Piccolo, Spirit Boost Defender",
-        "type": "UNISON",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Piccolo, Spirit Boost Defender",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-01.webp",
-        "power": "11000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX18",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "11000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX18",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Once per turn",
             "Blocker",
             "Spirit Boost",
             "+1",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX18-02": {
         "id": "EX18-02",
         "face": {
             "front": {
                 "name": "Son Gohan, Spirit Boost Vindicator",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Gohan, Spirit Boost Vindicator",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Gohan, Spirit Boost Vindicator",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-02.webp",
-        "power": "10000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX18",
-        "character": [
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX18",
+        "Character": [
             "Son Gohan: Future"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main",
             "Activate: Battle",
             "Spirit Boost 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX18-03": {
         "id": "EX18-03",
         "face": {
             "front": {
                 "name": "Trunks, Spirit Resonance",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "20000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Trunks, Spirit Resonance",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Trunks, Spirit Resonance",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-03.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": "1",
-        "combo_power": "5000",
-        "series": "EX18",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "EX18",
+        "Character": [
             "Trunks: Future"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Blocker",
             "Evolve",
             "Auto",
             "Limit 1",
             "Spirit Boost 2"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX18-04": {
         "id": "EX18-04",
         "face": {
             "front": {
                 "name": "Sword Dance of the Demon God",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Sword Dance of the Demon God",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Sword Dance of the Demon God",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-04.webp",
-        "power": null,
-        "color": "Black",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX18",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": null,
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX18",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Counter: Attack",
             "Activate: Main",
             "Spirit Boost 1",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX18-05": {
         "id": "EX18-05",
         "face": {
             "front": {
                 "name": "Boujack, Pinpoint Onslaught",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Boujack, Pinpoint Onslaught",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Boujack, Pinpoint Onslaught",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX18-05.webp",
-        "power": "20000",
-        "color": "Blue/Yellow",
-        "energy_cost": "4",
-        "combo_cost": "1",
-        "combo_power": "5000",
-        "series": "EX18",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "EX18",
+        "Character": [
             "Boujack"
         ],
-        "era": [
-            "Boujack Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Boujack Brigade"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Permanent",
             "Auto",
             "Evolve",
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

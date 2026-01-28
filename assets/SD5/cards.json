@@ -4,62 +4,44 @@
         "face": {
             "front": {
                 "name": "Golden Great Ape Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Long Odds SS4 Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Golden Great Ape Son Goku",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Golden Great Ape Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-01.webp",
-        "power": "10000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD5",
-        "character": [
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD5",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Goku's Lineage"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken",
             "Permanent",
             "Critical"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Long Odds SS4 Son Goku",
-        "back_power": "15000",
-        "back_character": [
-            "Son Goku: GT"
-        ],
-        "back_era": [
-            "Baby Saga"
-        ],
-        "back_traits": [
-            "Saiyan",
-            "Goku's Lineage"
         ]
     },
     "SD5-02": {
@@ -67,187 +49,139 @@
         "face": {
             "front": {
                 "name": "Power Charge Bardock",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Power Charge Bardock",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Power Charge Bardock",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-02.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD5",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD5",
+        "Character": [
             "Bardock"
         ],
-        "era": [
-            "Bardock Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Goku's Lineage"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD5-03": {
         "id": "SD5-03",
         "face": {
             "front": {
                 "name": "SSB Son Goku, at the Apex",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Son Goku, at the Apex",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Son Goku, at the Apex",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-03.webp",
-        "power": "25000",
-        "color": "Yellow",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD5",
-        "character": [
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD5",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Resurrection 'F' Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Goku's Lineage"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Swap 8",
             "Barrier",
             "Double Strike",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD5-04": {
         "id": "SD5-04",
         "face": {
             "front": {
                 "name": "Reborn Might SS4 Son Goku",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Reborn Might SS4 Son Goku",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Reborn Might SS4 Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-04.webp",
-        "power": "25000",
-        "color": "Yellow",
-        "energy_cost": "5",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD5",
-        "character": [
+        "Power": "25000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD5",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Goku's Lineage"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Swap 8",
             "Activate: Main",
             "Once per turn",
             "Triple Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD5-05": {
         "id": "SD5-05",
         "face": {
             "front": {
                 "name": "Ultimate Potential SS2 Son Gohan",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Ultimate Potential SS2 Son Gohan",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Ultimate Potential SS2 Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD5-05.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD5",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD5",
+        "Character": [
             "Son Gohan: Childhood"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Goku's Lineage"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Swap 4",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

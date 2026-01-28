@@ -4,64 +4,46 @@
         "face": {
             "front": {
                 "name": "Trunks",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "SS2 Trunks, Envoy of Justice Returns",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Trunks",
-        "type": "LEADER",
-        "rarity": "ST",
+        "Name": "Trunks",
+        "Type": "LEADER",
+        "Rarity": "ST",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-01.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [
             "Trunks : Future"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Auto",
             "Awaken",
             "Activate: Main",
             "Once per turn",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": "SS2 Trunks, Envoy of Justice Returns",
-        "back_power": "15000",
-        "back_character": [
-            "Trunks: Future"
-        ],
-        "back_era": [
-            "Future Trunks Saga"
-        ],
-        "back_traits": [
-            "Saiyan",
-            "Earthling"
         ]
     },
     "SD18-01_PR": {
@@ -69,61 +51,43 @@
         "face": {
             "front": {
                 "name": "Trunks",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-01_PR.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "SS2 Trunks, Envoy of Justice Returns",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Trunks",
-        "type": "LEADER",
-        "rarity": "ST",
+        "Name": "Trunks",
+        "Type": "LEADER",
+        "Rarity": "ST",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-01_PR.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [
             "Trunks : Future"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Auto",
             "Awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": "SS2 Trunks, Envoy of Justice Returns",
-        "back_power": "15000",
-        "back_character": [
-            "Trunks: Future"
-        ],
-        "back_era": [
-            "Future Trunks Saga"
-        ],
-        "back_traits": [
-            "Saiyan",
-            "Earthling"
         ]
     },
     "SD18-02": {
@@ -131,381 +95,287 @@
         "face": {
             "front": {
                 "name": "SSB Vegito, Godly Spirit",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "5",
                 "power": "30000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Vegito, Godly Spirit",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Vegito, Godly Spirit",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02.webp",
-        "power": "30000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": [
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Triple Strike",
             "Barrier",
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD18-02_PR": {
         "id": "SD18-02_PR",
         "face": {
             "front": {
                 "name": "SSB Vegito, Godly Spirit",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "5",
                 "power": "30000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Vegito, Godly Spirit",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Vegito, Godly Spirit",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR.webp",
-        "power": "30000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": [
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Triple Strike",
             "Barrier",
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD18-02_PR2": {
         "id": "SD18-02_PR2",
         "face": {
             "front": {
                 "name": "SSB Vegito, Godly Spirit",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "5",
                 "power": "30000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR2.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Vegito, Godly Spirit",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Vegito, Godly Spirit",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR2.webp",
-        "power": "30000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": [
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Triple Strike",
             "Barrier",
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD18-02_PR3": {
         "id": "SD18-02_PR3",
         "face": {
             "front": {
                 "name": "SSB Vegito, Godly Spirit",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "5",
                 "power": "30000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR3.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Vegito, Godly Spirit",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Vegito, Godly Spirit",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR3.webp",
-        "power": "30000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": [
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Triple Strike",
             "Barrier",
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD18-02_PR4": {
         "id": "SD18-02_PR4",
         "face": {
             "front": {
                 "name": "SSB Vegito, Godly Spirit",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "5",
                 "power": "30000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR4.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Vegito, Godly Spirit",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Vegito, Godly Spirit",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-02_PR4.webp",
-        "power": "30000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": [
+        "Power": "30000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Triple Strike",
             "Barrier",
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD18-03": {
         "id": "SD18-03",
         "face": {
             "front": {
                 "name": "SSB Vegeta, Committed to Victory",
-                "type": "UNISON",
+                "type": "Main_Deck",
                 "cost": "X",
                 "power": "15000",
+                "Energy_cost": "X",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Vegeta, Committed to Victory",
-        "type": "UNISON",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Vegeta, Committed to Victory",
+        "Type": "UNISON",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-03.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "X",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD18",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD18",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "0",
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD18-04": {
         "id": "SD18-04",
         "face": {
             "front": {
                 "name": "SSB Son Goku, Hope for the Future",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SSB Son Goku, Hope for the Future",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SSB Son Goku, Hope for the Future",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-04.webp",
-        "power": "4000",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD18",
-        "character": [
+        "Power": "4000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD18",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD18-05": {
         "id": "SD18-05",
         "face": {
             "front": {
                 "name": "SS2 Trunks, Hopeful Strike",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS2 Trunks, Hopeful Strike",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS2 Trunks, Hopeful Strike",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD18-05.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD18",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD18",
+        "Character": [
             "Trunks: Future"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Auto",
             "Activate: Battle",
             "Once per turn",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

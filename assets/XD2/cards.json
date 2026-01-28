@@ -4,62 +4,44 @@
         "face": {
             "front": {
                 "name": "Android 21",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Self-Control Android 21",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Android 21",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Android 21",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-01.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "XD2",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "XD2",
+        "Character": [
             "Android 21"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Android",
             "Scientist"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken",
             "Permanent",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Self-Control Android 21",
-        "back_power": "15000",
-        "back_character": [
-            "Android 21"
-        ],
-        "back_era": [
-            "Special"
-        ],
-        "back_traits": [
-            "Android",
-            "Scientist"
         ]
     },
     "XD2-02": {
@@ -67,397 +49,295 @@
         "face": {
             "front": {
                 "name": "Android 17, Mechanical Prowess",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "5000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 17, Mechanical Prowess",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Android 17, Mechanical Prowess",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-02.webp",
-        "power": "5000",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "XD2",
-        "character": [
+        "Power": "5000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD2",
+        "Character": [
             "Android 17"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-03": {
         "id": "XD2-03",
         "face": {
             "front": {
                 "name": "Android 18, Mechanical Prowess",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 18, Mechanical Prowess",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Android 18, Mechanical Prowess",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-03.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "XD2",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD2",
+        "Character": [
             "Android 18"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-04": {
         "id": "XD2-04",
         "face": {
             "front": {
                 "name": "Android 16, Mechanical Prowess",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "10000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 16, Mechanical Prowess",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Android 16, Mechanical Prowess",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-04.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "XD2",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "XD2",
+        "Character": [
             "Android 16"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Blocker",
             "Permanent",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-05": {
         "id": "XD2-05",
         "face": {
             "front": {
                 "name": "Photon Wave",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Photon Wave",
-        "type": "EXTRA",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Photon Wave",
+        "Type": "EXTRA",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-05.webp",
-        "power": "",
-        "color": "Blue",
-        "energy_cost": "4",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "XD2",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "XD2",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-06": {
         "id": "XD2-06",
         "face": {
             "front": {
                 "name": "Might of the Red Ribbon Army",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-06.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Might of the Red Ribbon Army",
-        "type": "EXTRA",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Might of the Red Ribbon Army",
+        "Type": "EXTRA",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-06.webp",
-        "power": "",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "XD2",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "XD2",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-07": {
         "id": "XD2-07",
         "face": {
             "front": {
                 "name": "Android 16, A New Start",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-07.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 16, A New Start",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Android 16, A New Start",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-07.webp",
-        "power": "15000",
-        "color": "Blue/Green",
-        "energy_cost": "3",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "XD2",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD2",
+        "Character": [
             "Android 16"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Revive Blue/Green",
             "Revive",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-08": {
         "id": "XD2-08",
         "face": {
             "front": {
                 "name": "Android 21, A Bad Omen",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-08.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 21, A Bad Omen",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Android 21, A Bad Omen",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-08.webp",
-        "power": "25000",
-        "color": "Blue/Green",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "XD2",
-        "character": [
+        "Power": "25000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD2",
+        "Character": [
             "Android 21"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Android",
             "Scientist"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Activate: Main",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-09": {
         "id": "XD2-09",
         "face": {
             "front": {
                 "name": "Android 21, the Beautiful Scientist",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "10000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-09.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 21, the Beautiful Scientist",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Android 21, the Beautiful Scientist",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-09.webp",
-        "power": "10000",
-        "color": "Blue/Green",
-        "energy_cost": "4",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "XD2",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "XD2",
+        "Character": [
             "Android 21"
         ],
-        "era": [
-            "Special"
-        ],
-        "traits": [
+        "Traits": [
             "Android",
             "Scientist"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "XD2-10": {
         "id": "XD2-10",
         "face": {
             "front": {
                 "name": "Predation",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-10.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Predation",
-        "type": "EXTRA",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Predation",
+        "Type": "EXTRA",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/XD2-10.webp",
-        "power": "",
-        "color": "Blue/Green",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "XD2",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Blue/Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "XD2",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

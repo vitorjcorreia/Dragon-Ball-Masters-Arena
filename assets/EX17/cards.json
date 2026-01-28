@@ -4,234 +4,178 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Spirit Boost Striker",
-                "type": "UNISON",
+                "type": "Main_Deck",
                 "cost": null,
                 "power": "15000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-01.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Son Goku, Spirit Boost Striker",
-        "type": "UNISON",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Son Goku, Spirit Boost Striker",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-01.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX17",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX17",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Once per turn",
             "Spirit Boost",
             "+1",
             "Activate: Main",
             "-1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX17-02": {
         "id": "EX17-02",
         "face": {
             "front": {
                 "name": "Bardock, Spirit Boost Avenger",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Bardock, Spirit Boost Avenger",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Bardock, Spirit Boost Avenger",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-02.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX17",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX17",
+        "Character": [
             "Bardock"
         ],
-        "era": [
-            "Bardock Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Bardock's Crew"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Barrier",
             "Auto",
             "Activate: Main",
             "Once per turn",
             "Spirit Boost 1",
             "Critical"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX17-03": {
         "id": "EX17-03",
         "face": {
             "front": {
                 "name": "SS Bardock, Spirit Resonance",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Bardock, Spirit Resonance",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Bardock, Spirit Resonance",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-03.webp",
-        "power": "25000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX17",
-        "character": [
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX17",
+        "Character": [
             "Bardock"
         ],
-        "era": [
-            "Chilled Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Bardock's Crew"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Dual Attack",
             "Evolve",
             "Auto",
             "Limit 2",
             "Spirit Boost 2"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX17-04": {
         "id": "EX17-04",
         "face": {
             "front": {
                 "name": "Hunt of the Demon God",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Hunt of the Demon God",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Hunt of the Demon God",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-04.webp",
-        "power": null,
-        "color": "Black",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX17",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": null,
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX17",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Counter: Counter",
             "Counter: Attack",
             "Activate: Main",
             "Spirit Boost 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX17-05": {
         "id": "EX17-05",
         "face": {
             "front": {
                 "name": "Android 17, Ki Channeler",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "14000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 17, Ki Channeler",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 17, Ki Channeler",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX17-05.webp",
-        "power": "14000",
-        "color": "Blue/Green",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX17",
-        "character": [
+        "Power": "14000",
+        "Color": "Blue/Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX17",
+        "Character": [
             "Android 17"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Barrier",
             "Permanent",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

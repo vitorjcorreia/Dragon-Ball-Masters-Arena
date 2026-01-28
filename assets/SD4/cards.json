@@ -4,60 +4,43 @@
         "face": {
             "front": {
                 "name": "Piccolo Jr.",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Piccolo Jr., Evil Reborn",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Piccolo Jr.",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Piccolo Jr.",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-01.webp",
-        "power": "10000",
-        "color": "Green",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD4",
-        "character": [
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD4",
+        "Character": [
             "Piccolo Jr."
         ],
-        "era": [
-            "World Martial Arts Tournament Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Namekian"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken",
             "Activate: Main",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Piccolo Jr., Evil Reborn",
-        "back_power": "15000",
-        "back_character": [
-            "Piccolo Jr."
-        ],
-        "back_era": [
-            "World Martial Arts Tournament Saga"
-        ],
-        "back_traits": [
-            "Namekian"
         ]
     },
     "SD4-02": {
@@ -65,189 +48,141 @@
         "face": {
             "front": {
                 "name": "Indomitable Link Son Gohan",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Indomitable Link Son Gohan",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Indomitable Link Son Gohan",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-02.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD4",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD4",
+        "Character": [
             "Son Gohan: Adolescence"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling",
             "Universe 7"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD4-03": {
         "id": "SD4-03",
         "face": {
             "front": {
                 "name": "Indomitable Link Piccolo",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Indomitable Link Piccolo",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Indomitable Link Piccolo",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-03.webp",
-        "power": "10000",
-        "color": "Green",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD4",
-        "character": [
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD4",
+        "Character": [
             "Piccolo"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Namekian",
             "God",
             "Universe 7"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD4-04": {
         "id": "SD4-04",
         "face": {
             "front": {
                 "name": "King Piccolo, Lord of Terror",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "King Piccolo, Lord of Terror",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "King Piccolo, Lord of Terror",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-04.webp",
-        "power": "25000",
-        "color": "Green",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD4",
-        "character": [
+        "Power": "25000",
+        "Color": "Green",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD4",
+        "Character": [
             "King Piccolo"
         ],
-        "era": [
-            "King Piccolo Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Namekian"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Double Strike",
             "Permanent",
             "Bond 3",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD4-05": {
         "id": "SD4-05",
         "face": {
             "front": {
                 "name": "Namekian Bond Saonel",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Namekian Bond Saonel",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Namekian Bond Saonel",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD4-05.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD4",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD4",
+        "Character": [
             "Saonel"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Namekian",
             "Alien",
             "Universe 6"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Bond 3"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

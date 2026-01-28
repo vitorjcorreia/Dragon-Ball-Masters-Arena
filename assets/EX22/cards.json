@@ -4,62 +4,44 @@
         "face": {
             "front": {
                 "name": "Goku Black",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "SS Rose Goku Black, the Beginning of the Return to Despair",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Goku Black",
-        "type": "LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Goku Black",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-01.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX22",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Once per turn",
             "Activate: Main",
             "Awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": "SS Rose Goku Black, the Beginning of the Return to Despair",
-        "back_power": "15000",
-        "back_character": [
-            "Goku Black"
-        ],
-        "back_era": [
-            "Future Trunks Saga"
-        ],
-        "back_traits": [
-            "Saiyan",
-            "God"
         ]
     },
     "EX22-02": {
@@ -67,334 +49,256 @@
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Dark Purple Sickle",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "15000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Rose Goku Black, Dark Purple Sickle",
-        "type": "Z-LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Rose Goku Black, Dark Purple Sickle",
+        "Type": "Z-LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-02.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX22",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Z-Awaken",
             "Auto",
             "Once per turn",
             "Activate: Main",
             "Activate: Battle",
             "Double Strike"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-03": {
         "id": "EX22-03",
         "face": {
             "front": {
                 "name": "Zamasu, Serving Justice",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Zamasu, Serving Justice",
-        "type": "Z-BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Zamasu, Serving Justice",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-03.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX22",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX22",
+        "Character": [
             "Zamasu"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Z-Stack 1",
             "Permanent",
             "Indestructible",
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": "1",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-04": {
         "id": "EX22-04",
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Serving Justice",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Rose Goku Black, Serving Justice",
-        "type": "Z-BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Rose Goku Black, Serving Justice",
+        "Type": "Z-BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-04.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX22",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-05": {
         "id": "EX22-05",
         "face": {
             "front": {
                 "name": "Fused Zamasu, Striving for Perfect Order",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "7",
                 "power": "25000",
+                "Energy_cost": "7",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Fused Zamasu, Striving for Perfect Order",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Fused Zamasu, Striving for Perfect Order",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-05.webp",
-        "power": "25000",
-        "color": "Blue",
-        "energy_cost": "7",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Zamasu"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Double Strike",
             "Indestructible",
             "Blocker",
             "EX-Evolve",
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-06": {
         "id": "EX22-06",
         "face": {
             "front": {
                 "name": "Fused Zamasu, the Power of the Gods is Complete",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "6",
                 "power": "20000",
+                "Energy_cost": "6",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-06.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Fused Zamasu, the Power of the Gods is Complete",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Fused Zamasu, the Power of the Gods is Complete",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-06.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "6",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Zamasu"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Indestructible",
             "Blocker",
             "Union-Potara",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-07": {
         "id": "EX22-07",
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Shining Illusion",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-07.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Rose Goku Black, Shining Illusion",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Rose Goku Black, Shining Illusion",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-07.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Counter: Attack",
             "Permanent",
             "Auto",
             "Blocker"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-08": {
         "id": "EX22-08",
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Justice of Destruction",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-08.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Rose Goku Black, Justice of Destruction",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Rose Goku Black, Justice of Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-08.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Counter: Counter",
             "Limit 1",
@@ -403,51 +307,39 @@
             "Auto",
             "Activate: Main",
             "Indestructible"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-08_PR": {
         "id": "EX22-08_PR",
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Justice of Destruction",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-08_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Rose Goku Black, Justice of Destruction",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Rose Goku Black, Justice of Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-08_PR.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "critical",
             "counter: counter",
             "limit 1",
@@ -457,243 +349,179 @@
             "activate main",
             "blue_ball",
             "indestructible"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-09": {
         "id": "EX22-09",
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Close Combat",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "20000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-09.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS Rose Goku Black, Close Combat",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "SS Rose Goku Black, Close Combat",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-09.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Permanent",
             "Indestructible",
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-10": {
         "id": "EX22-10",
         "face": {
             "front": {
                 "name": "Goku Black, Fake Protagonist",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-10.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Goku Black, Fake Protagonist",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Goku Black, Fake Protagonist",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-10.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "10000",
-        "series": "EX22",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "10000",
+        "Series": "EX22",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Super Combo",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-11": {
         "id": "EX22-11",
         "face": {
             "front": {
                 "name": "Gowasu, Easygoing Watcher",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-11.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Gowasu, Easygoing Watcher",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Gowasu, Easygoing Watcher",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-11.webp",
-        "power": "4000",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "4000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Gowasu"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-12": {
         "id": "EX22-12",
         "face": {
             "front": {
                 "name": "Zuno, Convergence of Knowledge",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-12.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Zuno, Convergence of Knowledge",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Zuno, Convergence of Knowledge",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-12.webp",
-        "power": "4000",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX22",
-        "character": [
+        "Power": "4000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX22",
+        "Character": [
             "Zuno"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Alien"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX22-13": {
         "id": "EX22-13",
         "face": {
             "front": {
                 "name": "Breaking a Taboo",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": null,
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-13.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Breaking a Taboo",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Breaking a Taboo",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX22-13.webp",
-        "power": null,
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX22",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": null,
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX22",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Counter: Play",
             "Limit 1",
             "Activate: Main",
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

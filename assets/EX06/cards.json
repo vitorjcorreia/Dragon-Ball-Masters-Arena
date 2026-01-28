@@ -4,1137 +4,840 @@
         "face": {
             "front": {
                 "name": "Trunks, Surge of Energy",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-01.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Trunks, Surge of Energy",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Trunks, Surge of Energy",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-01.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Trunks: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-02": {
         "id": "EX06-02",
         "face": {
             "front": {
                 "name": "Vegito, Polymorphic Potara",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Vegito, Polymorphic Potara",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Vegito, Polymorphic Potara",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-02.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-02_PR": {
         "id": "EX06-02_PR",
         "face": {
             "front": {
                 "name": "Vegito, Polymorphic Potara",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-02_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Vegito, Polymorphic Potara",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Vegito, Polymorphic Potara",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-02_PR.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Vegito"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "activate main",
             "one"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-03": {
         "id": "EX06-03",
         "face": {
             "front": {
                 "name": "Almighty Technique Vados",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "5000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Almighty Technique Vados",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Almighty Technique Vados",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-03.webp",
-        "power": "5000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Vados"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God",
             "Universe 6"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-04": {
         "id": "EX06-04",
         "face": {
             "front": {
                 "name": "Hit, Spacetime Transcended",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "19000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Hit, Spacetime Transcended",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Hit, Spacetime Transcended",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-04.webp",
-        "power": "19000",
-        "color": "Red",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "19000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Hit"
         ],
-        "era": [
-            "Universe Survival Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Alien",
             "Universe 6"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-05": {
         "id": "EX06-05",
         "face": {
             "front": {
                 "name": "Innocence Cannon Majin Buu",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Innocence Cannon Majin Buu",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Innocence Cannon Majin Buu",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-05.webp",
-        "power": "10000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Majin Buu"
         ],
-        "era": [
-            "Majin Buu Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Majin"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Counter: Attack",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-06": {
         "id": "EX06-06",
         "face": {
             "front": {
                 "name": "General Rilldo, Leader of Planet M-2",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "25000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-06.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "General Rilldo, Leader of Planet M-2",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "General Rilldo, Leader of Planet M-2",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-06.webp",
-        "power": "25000",
-        "color": "Red",
-        "energy_cost": "5",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "General Rilldo"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Machine Mutant"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-07": {
         "id": "EX06-07",
         "face": {
             "front": {
                 "name": "Mutant Genesis",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-07.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Mutant Genesis",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Mutant Genesis",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-07.webp",
-        "power": "",
-        "color": "Red",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX06",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX06",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-08": {
         "id": "EX06-08",
         "face": {
             "front": {
                 "name": "Son Goku, Path to the Infinite",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-08.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Path to the Infinite",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Goku, Path to the Infinite",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-08.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX06",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX06",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Resurrection 'F' Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-09": {
         "id": "EX06-09",
         "face": {
             "front": {
                 "name": "Vegeta, Energy Absorber",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-09.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Vegeta, Energy Absorber",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Vegeta, Energy Absorber",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-09.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Vegeta"
         ],
-        "era": [
-            "Resurrection 'F' Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-10": {
         "id": "EX06-10",
         "face": {
             "front": {
                 "name": "Trunks, Hope Renewed",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-10.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Trunks, Hope Renewed",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Trunks, Hope Renewed",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-10.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Trunks: Future"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-11": {
         "id": "EX06-11",
         "face": {
             "front": {
                 "name": "Whis, Destruction's Aid",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-11.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Whis, Destruction's Aid",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Whis, Destruction's Aid",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-11.webp",
-        "power": "4000",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "4000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Whis"
         ],
-        "era": [
-            "Battle of Gods Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-12": {
         "id": "EX06-12",
         "face": {
             "front": {
                 "name": "Goku Black, Countdown to Destruction",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "10000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-12.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Goku Black, Countdown to Destruction",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Goku Black, Countdown to Destruction",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-12.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Goku Black"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-13": {
         "id": "EX06-13",
         "face": {
             "front": {
                 "name": "Fused Zamasu, Fusion Refined",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-13.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Fused Zamasu, Fusion Refined",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Fused Zamasu, Fusion Refined",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-13.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Zamasu"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Indestructible",
             "Permanent",
             "Awaken",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-14": {
         "id": "EX06-14",
         "face": {
             "front": {
                 "name": "Plan for Destruction",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-14.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Plan for Destruction",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Plan for Destruction",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-14.webp",
-        "power": "",
-        "color": "Blue",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX06",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": true,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX06",
+        "Character": [],
+        "Traits": null,
+        "Banned": true,
+        "Keywords": [
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-15": {
         "id": "EX06-15",
         "face": {
             "front": {
                 "name": "Son Goku, in Close Quarters",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-15.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, in Close Quarters",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Goku, in Close Quarters",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-15.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": "2",
-        "combo_cost": "2",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "2",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Future Trunks Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Barrier"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-16": {
         "id": "EX06-16",
         "face": {
             "front": {
                 "name": "Son Gohan, Display of Strength",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "19000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-16.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Gohan, Display of Strength",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Gohan, Display of Strength",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-16.webp",
-        "power": "19000",
-        "color": "Green",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "19000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Son Gohan: Childhood"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-17": {
         "id": "EX06-17",
         "face": {
             "front": {
                 "name": "Krillin, Calling for Help",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-17.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Krillin, Calling for Help",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Krillin, Calling for Help",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-17.webp",
-        "power": "4000",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Krillin"
         ],
-        "era": [
-            "Frieza Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-18": {
         "id": "EX06-18",
         "face": {
             "front": {
                 "name": "Paragus, Quelling the Beast",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "10000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-18.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Paragus, Quelling the Beast",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Paragus, Quelling the Beast",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-18.webp",
-        "power": "10000",
-        "color": "Green",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Paragus"
         ],
-        "era": [
-            "Broly Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-19": {
         "id": "EX06-19",
         "face": {
             "front": {
                 "name": "Android 13, the Brilliant",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-19.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 13, the Brilliant",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 13, the Brilliant",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-19.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Android 13"
         ],
-        "era": [
-            "Android 13 Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Union Absorb",
             "Permanent"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-20": {
         "id": "EX06-20",
         "face": {
             "front": {
                 "name": "Android Troop - 14 & 15",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-20.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android Troop - 14 & 15",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android Troop - 14 & 15",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-20.webp",
-        "power": "15000",
-        "color": "Green",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Android 14",
             "Android 15"
         ],
-        "era": [
-            "Android 13 Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-21": {
         "id": "EX06-21",
         "face": {
             "front": {
                 "name": "Blazing Technique",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-21.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Blazing Technique",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Blazing Technique",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-21.webp",
-        "power": "",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX06",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX06",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle",
             "Barrier"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-22": {
         "id": "EX06-22",
         "face": {
             "front": {
                 "name": "Bardock, the Enlightened",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "15000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-22.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Bardock, the Enlightened",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Bardock, the Enlightened",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-22.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Bardock"
         ],
-        "era": [
-            "Bardock Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-23": {
         "id": "EX06-23",
         "face": {
             "front": {
                 "name": "Son Goku, Unbreakable Will",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "5000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-23.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Unbreakable Will",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Son Goku, Unbreakable Will",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-23.webp",
-        "power": "5000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Son Goku: Childhood"
         ],
-        "era": [
-            "Young Son Goku Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Blocker",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-24": {
         "id": "EX06-24",
         "face": {
             "front": {
                 "name": "Frieza, Malicious Streak",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "2",
                 "power": "5000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-24.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Frieza, Malicious Streak",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Frieza, Malicious Streak",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-24.webp",
-        "power": "5000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "5000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Frieza"
         ],
-        "era": [
-            "Frieza Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Frieza Clan",
             "Frieza's Army"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": [
-            "Frieza Clan",
-            "Frieza's Army"
         ]
     },
     "EX06-25": {
@@ -1142,290 +845,214 @@
         "face": {
             "front": {
                 "name": "Ginyu, Helix Strike",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-25.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Ginyu, Helix Strike",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Ginyu, Helix Strike",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-25.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Ginyu"
         ],
-        "era": [
+        "Traits": [
             "Ginyu Force",
             "Frieza's Army"
         ],
-        "traits": [
-            "Ginyu Force",
-            "Frieza's Army"
-        ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Double Strike",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-26": {
         "id": "EX06-26",
         "face": {
             "front": {
                 "name": "Meta-Cooler Core, Ultimate Form",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "3000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-26.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Meta-Cooler Core, Ultimate Form",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Meta-Cooler Core, Ultimate Form",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-26.webp",
-        "power": "3000",
-        "color": "Yellow",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "3000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Meta-Cooler Core"
         ],
-        "era": [
-            "Meta-Cooler Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Frieza Clan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main",
             "Awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-27": {
         "id": "EX06-27",
         "face": {
             "front": {
                 "name": "Swift Retaliation Cooler",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-27.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Swift Retaliation Cooler",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Swift Retaliation Cooler",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-27.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Cooler"
         ],
-        "era": [
-            "Cooler Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Frieza Clan"
         ],
-        "banned": true,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": true,
+        "Keywords": [
             "Counter: Counter",
             "Counter",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-27_PR": {
         "id": "EX06-27_PR",
         "face": {
             "front": {
                 "name": "Swift Retaliation Cooler",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-27_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Swift Retaliation Cooler",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Swift Retaliation Cooler",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-27_PR.webp",
-        "power": "15000",
-        "color": "Yellow",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Cooler"
         ],
-        "era": [
-            "Cooler Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Frieza Clan"
         ],
-        "banned": true,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": true,
+        "Keywords": [
             "Counter: Counter",
             "Counter",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-28": {
         "id": "EX06-28",
         "face": {
             "front": {
                 "name": "Malevolent Revenge",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-28.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Malevolent Revenge",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Malevolent Revenge",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-28.webp",
-        "power": "",
-        "color": "Yellow",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX06",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX06",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-29": {
         "id": "EX06-29",
         "face": {
             "front": {
                 "name": "Towa",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-29.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Towa, Chaosbringer",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-29_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Towa",
-        "type": "LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Towa",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-29.webp",
-        "power": "10000",
-        "color": "Black",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX06",
-        "character": [
+        "Power": "10000",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX06",
+        "Character": [
             "Towa"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon Realm Race"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main",
             "Once per turn",
             "Burst 3",
             "Awaken",
             "Critical",
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Towa, Chaosbringer",
-        "back_power": "15000",
-        "back_character": [
-            "Towa"
-        ],
-        "back_era": [
-            "Dark Demon Realm Saga"
-        ],
-        "back_traits": [
-            "Demon Realm Race"
         ]
     },
     "EX06-30": {
@@ -1433,409 +1060,305 @@
         "face": {
             "front": {
                 "name": "Bardock, Awakened Instincts",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-30.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Bardock, Awakened Instincts",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Bardock, Awakened Instincts",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-30.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Bardock: Xeno"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 4",
             "Auto",
             "Over Realm"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-30_PR": {
         "id": "EX06-30_PR",
         "face": {
             "front": {
                 "name": "Bardock, Awakened Instincts",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-30_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Bardock, Awakened Instincts",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Bardock, Awakened Instincts",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-30_PR.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Bardock: Xeno"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "over realm 4",
             "auto",
             "over realm"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-31": {
         "id": "EX06-31",
         "face": {
             "front": {
                 "name": "Supreme Kai of Time, Time Disruptor",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-31.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Supreme Kai of Time, Time Disruptor",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Supreme Kai of Time, Time Disruptor",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-31.webp",
-        "power": "4000",
-        "color": "Black",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "4000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Supreme Kai of Time"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Counter: Play",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-32": {
         "id": "EX06-32",
         "face": {
             "front": {
                 "name": "Demigra, Over Realm Unleashed",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-32.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Demigra, Over Realm Unleashed",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Demigra, Over Realm Unleashed",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-32.webp",
-        "power": "15000",
-        "color": "Black",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Demigra"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Demon God"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 3",
             "Auto",
             "Over Realm",
             "Wormhole"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-33": {
         "id": "EX06-33",
         "face": {
             "front": {
                 "name": "Mira, Self Reformation",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-33.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Mira, Self Reformation",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Mira, Self Reformation",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-33.webp",
-        "power": "20000",
-        "color": "Black",
-        "energy_cost": "5",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "20000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Mira"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Double Strike",
             "Union Absorb",
             "Deflect",
             "Permanent"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-34": {
         "id": "EX06-34",
         "face": {
             "front": {
                 "name": "Masked Saiyan, Beguiled Warrior",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-34.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Masked Saiyan, Beguiled Warrior",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Masked Saiyan, Beguiled Warrior",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-34.webp",
-        "power": "15000",
-        "color": "Black",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX06",
-        "character": [
+        "Power": "15000",
+        "Color": "Black",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX06",
+        "Character": [
             "Masked Saiyan"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Over Realm 4",
             "Auto",
             "Over Realm"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-35": {
         "id": "EX06-35",
         "face": {
             "front": {
                 "name": "Fu, the Dark Banisher",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "8",
                 "power": "25000",
+                "Energy_cost": "8",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-35.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Fu, the Dark Banisher",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Fu, the Dark Banisher",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-35.webp",
-        "power": "25000",
-        "color": "Black",
-        "energy_cost": "8",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX06",
-        "character": [
+        "Power": "25000",
+        "Color": "Black",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX06",
+        "Character": [
             "Fu"
         ],
-        "era": [
-            "Dark Demon Realm Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Scientist"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Triple Attack",
             "Over Realm 8",
             "Permanent"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-36": {
         "id": "EX06-36",
         "face": {
             "front": {
                 "name": "A Crack in Spacetime",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-36.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "A Crack in Spacetime",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "A Crack in Spacetime",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-36.webp",
-        "power": "",
-        "color": "Black",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX06",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX06",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Activate: Battle",
             "Double Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX06-36_PR": {
         "id": "EX06-36_PR",
         "face": {
             "front": {
                 "name": "A Crack in Spacetime",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-36_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "A Crack in Spacetime",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "A Crack in Spacetime",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX06-36_PR.webp",
-        "power": "",
-        "color": "Black",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX06",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "",
+        "Color": "Black",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX06",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "activate: battle",
             "double strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

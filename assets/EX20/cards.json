@@ -4,61 +4,44 @@
         "face": {
             "front": {
                 "name": "Cell",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Cell, Return of the Ultimate Lifeform",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Cell",
-        "type": "LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cell",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-01.webp",
-        "power": "10000",
-        "color": "Green",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX20",
-        "character": [
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX20",
+        "Character": [
             "Cell"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main",
             "Once per turn",
             "Awaken",
             "Auto",
             "Critical"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Cell, Return of the Ultimate Lifeform",
-        "back_power": "15000",
-        "back_character": [
-            "Cell"
-        ],
-        "back_era": [
-            "Android Cell Saga"
-        ],
-        "back_traits": [
-            "Android"
         ]
     },
     "EX20-01_PR": {
@@ -66,59 +49,42 @@
         "face": {
             "front": {
                 "name": "Cell",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-01_PR.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Cell, Return of the Ultimate Lifeform",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Cell",
-        "type": "LEADER",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cell",
+        "Type": "LEADER",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-01_PR.webp",
-        "power": "10000",
-        "color": "Green",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX20",
-        "character": [
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX20",
+        "Character": [
             "Cell"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate-Main",
             "Once-per-turn",
             "Awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Cell, Return of the Ultimate Lifeform",
-        "back_power": "15000",
-        "back_character": [
-            "Cell"
-        ],
-        "back_era": [
-            "Android Cell Saga"
-        ],
-        "back_traits": [
-            "Android"
         ]
     },
     "EX20-02": {
@@ -126,418 +92,314 @@
         "face": {
             "front": {
                 "name": "Dr. Gero, Evil's Activation",
-                "type": "UNISON",
+                "type": "Main_Deck",
                 "cost": "X",
                 "power": "5000",
+                "Energy_cost": "X",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Dr. Gero, Evil's Activation",
-        "type": "UNISON",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Dr. Gero, Evil's Activation",
+        "Type": "UNISON",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-02.webp",
-        "power": "5000",
-        "color": "Green",
-        "energy_cost": "X",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX20",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": "5000",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX20",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "+1",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-03": {
         "id": "EX20-03",
         "face": {
             "front": {
                 "name": "Android 17, Absorption Imminent",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 17, Absorption Imminent",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 17, Absorption Imminent",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-03.webp",
-        "power": "4000",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX20",
-        "character": [
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX20",
+        "Character": [
             "Android 17"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-04": {
         "id": "EX20-04",
         "face": {
             "front": {
                 "name": "Android 17 & Android 18, Absorption Imminent",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "10000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 17 & Android 18, Absorption Imminent",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 17 & Android 18, Absorption Imminent",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-04.webp",
-        "power": "10000",
-        "color": "Green",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX20",
-        "character": [
+        "Power": "10000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX20",
+        "Character": [
             "Android 17",
             "Android 18"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Unique",
             "Critical",
             "Auto",
             "Limit 1",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-05": {
         "id": "EX20-05",
         "face": {
             "front": {
                 "name": "Android 18, Absorption Imminent",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Android 18, Absorption Imminent",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Android 18, Absorption Imminent",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-05.webp",
-        "power": "4000",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX20",
-        "character": [
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX20",
+        "Character": [
             "Android 18"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-06": {
         "id": "EX20-06",
         "face": {
             "front": {
                 "name": "Cell, Startling Assimilation",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-06.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Cell, Startling Assimilation",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cell, Startling Assimilation",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-06.webp",
-        "power": "4000",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX20",
-        "character": [
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX20",
+        "Character": [
             "Cell"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Unique",
             "Union Absorb",
             "Limit 1",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-07": {
         "id": "EX20-07",
         "face": {
             "front": {
                 "name": "Cell, Absorption Onslaught",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-07.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Cell, Absorption Onslaught",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cell, Absorption Onslaught",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-07.webp",
-        "power": "4000",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "EX20",
-        "character": [
+        "Power": "4000",
+        "Color": "Green",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "EX20",
+        "Character": [
             "Cell"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Unique",
             "Union Absorb",
             "Limit 1",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-08": {
         "id": "EX20-08",
         "face": {
             "front": {
                 "name": "Wretched Regeneration",
-                "type": "EXTRA",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-08.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Wretched Regeneration",
-        "type": "EXTRA",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Wretched Regeneration",
+        "Type": "EXTRA",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-08.webp",
-        "power": "",
-        "color": "Green",
-        "energy_cost": "1",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "EX20",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Power": "",
+        "Color": "Green",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "EX20",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Counter: Attack",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-09": {
         "id": "EX20-09",
         "face": {
             "front": {
                 "name": "Cell, Unending Torrent",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "8",
                 "power": "20000",
+                "Energy_cost": "8",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-09.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Cell, Unending Torrent",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cell, Unending Torrent",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-09.webp",
-        "power": "20000",
-        "color": "Green/Yellow",
-        "energy_cost": "8",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX20",
-        "character": [
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX20",
+        "Character": [
             "Cell"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Blocker",
             "Evolve",
             "Permanent",
             "Activate: Battle",
             "Once per turn"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "EX20-10": {
         "id": "EX20-10",
         "face": {
             "front": {
                 "name": "Cell, Dawn of Despair",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "16000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-10.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Cell, Dawn of Despair",
-        "type": "BATTLE",
-        "rarity": "Expansion Rare[EX]",
+        "Name": "Cell, Dawn of Despair",
+        "Type": "BATTLE",
+        "Rarity": "Expansion Rare[EX]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/EX20-10.webp",
-        "power": "16000",
-        "color": "Green/Yellow",
-        "energy_cost": "4",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "EX20",
-        "character": [
+        "Power": "16000",
+        "Color": "Green/Yellow",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "EX20",
+        "Character": [
             "Cell"
         ],
-        "era": [
-            "Android Cell Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Android"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Energy-Exhaust",
             "Barrier",
             "Evolve",
             "Union Absorb",
             "Limit 1",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

@@ -4,62 +4,44 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Uncontrollable Great Ape Son Goku Returns",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Son Goku",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-01.webp",
-        "power": "10000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD20",
-        "character": [
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD20",
+        "Character": [
             "Son Goku: Childhood"
         ],
-        "era": [
-            "Young Son Goku Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Activate: Main",
             "Once per turn",
             "Awaken",
             "Auto",
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Uncontrollable Great Ape Son Goku Returns",
-        "back_power": "15000",
-        "back_character": [
-            "Son Goku: Childhood"
-        ],
-        "back_era": [
-            "Young Son Goku Saga"
-        ],
-        "back_traits": [
-            "Saiyan",
-            "Great Ape"
         ]
     },
     "SD20-02": {
@@ -67,234 +49,182 @@
         "face": {
             "front": {
                 "name": "Son Goku, Growing Up Fast",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": null,
                 "power": "20000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Growing Up Fast",
-        "type": "Z-LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Son Goku, Growing Up Fast",
+        "Type": "Z-LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-02.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD20",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD20",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "World Martial Arts Tournament Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "World Tournament"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Z-Awaken",
             "Auto",
             "Once per turn",
             "Activate: Battle",
             "Double Strike"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD20-02_PR": {
         "id": "SD20-02_PR",
         "face": {
             "front": {
                 "name": "Son Goku, Growing Up Fast",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "20000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-02_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Growing Up Fast",
-        "type": "Z-LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Son Goku, Growing Up Fast",
+        "Type": "Z-LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-02_PR.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD20",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD20",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "World Martial Arts Tournament Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "World Tournament"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Z-Awaken",
             "Auto",
             "Once per turn",
             "Activate: Battle",
             "Double Strike"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD20-02_PR2": {
         "id": "SD20-02_PR2",
         "face": {
             "front": {
                 "name": "Son Goku, Growing Up Fast",
-                "type": "Z-LEADER",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "20000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-02_PR2.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, Growing Up Fast",
-        "type": "Z-LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Son Goku, Growing Up Fast",
+        "Type": "Z-LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-02_PR2.webp",
-        "power": "20000",
-        "color": "Yellow",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD20",
-        "character": [
+        "Power": "20000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD20",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "World Martial Arts Tournament Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "World Tournament"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Critical",
             "Z-Awaken",
             "Auto",
             "Once per turn",
             "Activate: Battle",
             "Double Strike"
-        ],
-        "z_energy_cost": "2",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD20-03": {
         "id": "SD20-03",
         "face": {
             "front": {
                 "name": "Bulma, Stalwart Adventurer",
-                "type": "UNISON",
+                "type": "Main_Deck",
                 "cost": "X",
                 "power": "1000",
+                "Energy_cost": "X",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Bulma, Stalwart Adventurer",
-        "type": "UNISON",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Bulma, Stalwart Adventurer",
+        "Type": "UNISON",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-03.webp",
-        "power": "1000",
-        "color": "Yellow",
-        "energy_cost": "X",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD20",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "1000",
+        "Color": "Yellow",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD20",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Permanent",
             "+2",
             "Activate: Main",
             "-1",
             "Auto",
             "Blocker"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD20-04": {
         "id": "SD20-04",
         "face": {
             "front": {
                 "name": "Son Goku, to Lands Unknown",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "10000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Goku, to Lands Unknown",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Son Goku, to Lands Unknown",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-04.webp",
-        "power": "10000",
-        "color": "Yellow",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD20",
-        "character": [
+        "Power": "10000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD20",
+        "Character": [
             "Son Goku: Childhood"
         ],
-        "era": [
-            "Young Son Goku Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Unique",
             "Barrier",
             "Dual Attack",
@@ -302,59 +232,41 @@
             "Evolve",
             "Activate: Main",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD20-05": {
         "id": "SD20-05",
         "face": {
             "front": {
                 "name": "Yamcha, Dastardly Bandit",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "4000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Yamcha, Dastardly Bandit",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Yamcha, Dastardly Bandit",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD20-05.webp",
-        "power": "4000",
-        "color": "Yellow",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD20",
-        "character": [
+        "Power": "4000",
+        "Color": "Yellow",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD20",
+        "Character": [
             "Yamcha"
         ],
-        "era": [
-            "Young Son Goku Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Barrier",
             "Auto",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

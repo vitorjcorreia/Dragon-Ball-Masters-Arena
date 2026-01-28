@@ -4,59 +4,42 @@
         "face": {
             "front": {
                 "name": "Super Saiyan God Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "SSGSS Son Goku, The Soul Striker",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Super Saiyan God Son Goku",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Super Saiyan God Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-01.webp",
-        "power": "10000",
-        "color": "Blue",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD1",
-        "character": [
+        "Power": "10000",
+        "Color": "Blue",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD1",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Resurrection 'F' Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken",
             "Permanent"
-        ],
-        "z_energy_cost": null,
-        "back_name": "SSGSS Son Goku, The Soul Striker",
-        "back_power": "15000",
-        "back_character": [
-            "Son Goku"
-        ],
-        "back_era": [
-            "Resurrection 'F' Saga"
-        ],
-        "back_traits": [
-            "Saiyan"
         ]
     },
     "SD1-02": {
@@ -64,188 +47,140 @@
         "face": {
             "front": {
                 "name": "God Rush Son Goku",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "6",
                 "power": "25000",
+                "Energy_cost": "6",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "God Rush Son Goku",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "God Rush Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-02.webp",
-        "power": "25000",
-        "color": "Blue",
-        "energy_cost": "6",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD1",
-        "character": [
+        "Power": "25000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD1",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Battle of Gods Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Double Strike",
             "Auto",
             "Blocker"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD1-03": {
         "id": "SD1-03",
         "face": {
             "front": {
                 "name": "SS3 Son Goku, Maximum Energy",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS3 Son Goku, Maximum Energy",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS3 Son Goku, Maximum Energy",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-03.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD1",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD1",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Battle of Gods Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Double Strike",
             "Auto",
             "Dual Attack"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD1-04": {
         "id": "SD1-04",
         "face": {
             "front": {
                 "name": "Rapid Spirit Ball Son Goku",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Rapid Spirit Ball Son Goku",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Rapid Spirit Ball Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-04.webp",
-        "power": "15000",
-        "color": "Blue",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD1",
-        "character": [
+        "Power": "15000",
+        "Color": "Blue",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD1",
+        "Character": [
             "Son Goku"
         ],
-        "era": [
-            "Battle of Gods Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD1-05": {
         "id": "SD1-05",
         "face": {
             "front": {
                 "name": "Vegeta, Prince of Speed",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "5",
                 "power": "20000",
+                "Energy_cost": "5",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Vegeta, Prince of Speed",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Vegeta, Prince of Speed",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD1-05.webp",
-        "power": "20000",
-        "color": "Blue",
-        "energy_cost": "5",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD1",
-        "character": [
+        "Power": "20000",
+        "Color": "Blue",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD1",
+        "Character": [
             "Vegeta"
         ],
-        "era": [
-            "Battle of Gods Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Double Strike",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

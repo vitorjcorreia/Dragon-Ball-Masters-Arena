@@ -4,62 +4,44 @@
         "face": {
             "front": {
                 "name": "Pan",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Pan, Ready to Fight Returns",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Pan",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Pan",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-01.webp",
-        "power": "10000",
-        "color": "Red",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": [
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [
             "Pan"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Once per turn",
             "Awaken",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Pan, Ready to Fight Returns",
-        "back_power": "15000",
-        "back_character": [
-            "Pan"
-        ],
-        "back_era": [
-            "Baby Saga"
-        ],
-        "back_traits": [
-            "Saiyan",
-            "Earthling"
         ]
     },
     "SD17-01_PR": {
@@ -67,61 +49,43 @@
         "face": {
             "front": {
                 "name": "Pan",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-01_PR.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Pan, Ready to Fight Returns",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-01_PR_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Pan",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Pan",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-01_PR.webp",
-        "power": "10000",
-        "color": "Red",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": [
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [
             "Pan"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "auto",
             "once per turn",
             "awaken"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Pan, Ready to Fight Returns",
-        "back_power": "15000",
-        "back_character": [
-            "Pan"
-        ],
-        "back_era": [
-            "Baby Saga"
-        ],
-        "back_traits": [
-            "Saiyan",
-            "Earthling"
         ]
     },
     "SD17-02": {
@@ -129,37 +93,31 @@
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "20000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Defender of Life",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS4 Son Goku, Defender of Life",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Double Strike",
             "Auto",
@@ -167,50 +125,38 @@
             "Activate: Main",
             "Once per turn",
             "Dual Attack"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD17-02_PR": {
         "id": "SD17-02_PR",
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "20000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Defender of Life",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS4 Son Goku, Defender of Life",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Double Strike",
             "Auto",
@@ -218,50 +164,38 @@
             "Activate: Main",
             "Once per turn",
             "Dual Attack"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD17-02_PR2": {
         "id": "SD17-02_PR2",
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "20000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR2.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Defender of Life",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS4 Son Goku, Defender of Life",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR2.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Double Strike",
             "Auto",
@@ -269,50 +203,38 @@
             "Activate: Main",
             "Once per turn",
             "Dual Attack"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD17-02_PR3": {
         "id": "SD17-02_PR3",
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "20000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR3.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Defender of Life",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS4 Son Goku, Defender of Life",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR3.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Double Strike",
             "Auto",
@@ -320,50 +242,38 @@
             "Activate: Main",
             "Once per turn",
             "Dual Attack"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD17-02_PR4": {
         "id": "SD17-02_PR4",
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Defender of Life",
-                "type": "Z-BATTLE",
+                "type": "Z_Deck",
                 "cost": "2",
                 "power": "20000",
+                "Energy_cost": "2",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR4.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Defender of Life",
-        "type": "Z-BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS4 Son Goku, Defender of Life",
+        "Type": "Z-BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-02_PR4.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "2",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Double Strike",
             "Auto",
@@ -371,154 +281,114 @@
             "Activate: Main",
             "Once per turn",
             "Dual Attack"
-        ],
-        "z_energy_cost": "3",
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD17-03": {
         "id": "SD17-03",
         "face": {
             "front": {
                 "name": "Son Gohan, the Awakened",
-                "type": "UNISON",
+                "type": "Main_Deck",
                 "cost": "X",
                 "power": "15000",
+                "Energy_cost": "X",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Son Gohan, the Awakened",
-        "type": "UNISON",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Son Gohan, the Awakened",
+        "Type": "UNISON",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-03.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": "X",
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD17",
-        "character": null,
-        "era": null,
-        "traits": null,
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD17",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
             "Blocker",
             "Auto",
             "+1",
             "Double Strike",
             "0",
             "Activate: Main"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD17-04": {
         "id": "SD17-04",
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Senses Returned",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "15000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "SS4 Son Goku, Senses Returned",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "SS4 Son Goku, Senses Returned",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-04.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD17",
-        "character": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD17",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Deflect",
             "Auto",
             "Activate: Main",
             "Limit 1",
             "Burst 2",
             "Activate: Battle"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD17-05": {
         "id": "SD17-05",
         "face": {
             "front": {
                 "name": "Pan, Wisher of Miracles",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "3",
                 "power": "15000",
+                "Energy_cost": "3",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Pan, Wisher of Miracles",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Pan, Wisher of Miracles",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD17-05.webp",
-        "power": "15000",
-        "color": "Red",
-        "energy_cost": "3",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD17",
-        "character": [
+        "Power": "15000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD17",
+        "Character": [
             "Pan"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Activate: Battle",
             "Limit 1"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }

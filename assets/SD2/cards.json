@@ -4,61 +4,44 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "10000",
+                "Energy_cost": null,
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-01.webp",
                 "isHorizontal": false
             },
             "back": {
                 "name": "Rising Spirit Super Saiyan Son Goku",
-                "type": "LEADER",
+                "type": "Leader",
                 "cost": null,
                 "power": "15000",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-01_b.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Son Goku",
-        "type": "LEADER",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Son Goku",
+        "Type": "LEADER",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-01.webp",
-        "power": "10000",
-        "color": "Red",
-        "energy_cost": null,
-        "combo_cost": null,
-        "combo_power": null,
-        "series": "SD2",
-        "character": [
+        "Power": "10000",
+        "Color": "Red",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "SD2",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto",
             "Awaken",
             "Evolve",
             "Double Strike",
             "Blocker"
-        ],
-        "z_energy_cost": null,
-        "back_name": "Rising Spirit Super Saiyan Son Goku",
-        "back_power": "15000",
-        "back_character": [
-            "Son Goku: GT"
-        ],
-        "back_era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "back_traits": [
-            "Saiyan"
         ]
     },
     "SD2-02": {
@@ -66,329 +49,245 @@
         "face": {
             "front": {
                 "name": "Broken Limits Super Saiyan 3 Son Goku",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "6",
                 "power": "25000",
+                "Energy_cost": "6",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-02.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Broken Limits Super Saiyan 3 Son Goku",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Broken Limits Super Saiyan 3 Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-02.webp",
-        "power": "25000",
-        "color": "Red",
-        "energy_cost": "6",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD2",
-        "character": [
+        "Power": "25000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD2",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Baby Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "EX-Evolve",
             "Auto",
             "Triple Strike"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD2-03": {
         "id": "SD2-03",
         "face": {
             "front": {
                 "name": "Unbreakable Super Saiyan Son Goku",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-03.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Unbreakable Super Saiyan Son Goku",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Unbreakable Super Saiyan Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-03.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD2",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD2",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Barrier",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD2-03_PR": {
         "id": "SD2-03_PR",
         "face": {
             "front": {
                 "name": "Unbreakable Super Saiyan Son Goku",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-03_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Unbreakable Super Saiyan Son Goku",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Unbreakable Super Saiyan Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-03_PR.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD2",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD2",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Barrier",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD2-03_PR2": {
         "id": "SD2-03_PR2",
         "face": {
             "front": {
                 "name": "Unbreakable Super Saiyan Son Goku",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-03_PR2.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Unbreakable Super Saiyan Son Goku",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Unbreakable Super Saiyan Son Goku",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-03_PR2.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "1",
-        "combo_power": "10000",
-        "series": "SD2",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "SD2",
+        "Character": [
             "Son Goku: GT"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Barrier",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD2-04": {
         "id": "SD2-04",
         "face": {
             "front": {
                 "name": "Rushing Warrior Pan",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "1",
                 "power": "5000",
+                "Energy_cost": "1",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-04.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Rushing Warrior Pan",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Rushing Warrior Pan",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-04.webp",
-        "power": "5000",
-        "color": "Red",
-        "energy_cost": "1",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD2",
-        "character": [
+        "Power": "5000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD2",
+        "Character": [
             "Pan"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD2-05": {
         "id": "SD2-05",
         "face": {
             "front": {
                 "name": "Chain Attack Trunks",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-05.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Chain Attack Trunks",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Chain Attack Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-05.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD2",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD2",
+        "Character": [
             "Trunks: GT"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 4,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Permanent",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     },
     "SD2-05_PR": {
         "id": "SD2-05_PR",
         "face": {
             "front": {
                 "name": "Chain Attack Trunks",
-                "type": "BATTLE",
+                "type": "Main_Deck",
                 "cost": "4",
                 "power": "20000",
+                "Energy_cost": "4",
                 "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-05_PR.webp",
                 "isHorizontal": false
-            },
-            "back": {}
+            }
         },
-        "name": "Chain Attack Trunks",
-        "type": "BATTLE",
-        "rarity": "Starter Rare[ST]",
+        "Name": "Chain Attack Trunks",
+        "Type": "BATTLE",
+        "Rarity": "Starter Rare[ST]",
         "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/dbs_masters/SD2-05_PR.webp",
-        "power": "20000",
-        "color": "Red",
-        "energy_cost": "4",
-        "combo_cost": "0",
-        "combo_power": "5000",
-        "series": "SD2",
-        "character": [
+        "Power": "20000",
+        "Color": "Red",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "SD2",
+        "Character": [
             "Trunks: GT"
         ],
-        "era": [
-            "Black Star Dragon Ball Saga"
-        ],
-        "traits": [
+        "Traits": [
             "Saiyan",
             "Earthling"
         ],
-        "banned": false,
-        "limited": false,
-        "limited_to": 7,
-        "keywords": [
+        "Banned": false,
+        "Keywords": [
             "Evolve",
             "Permanent",
             "Auto"
-        ],
-        "z_energy_cost": null,
-        "back_name": null,
-        "back_power": null,
-        "back_character": null,
-        "back_era": null,
-        "back_traits": null
+        ]
     }
 }
