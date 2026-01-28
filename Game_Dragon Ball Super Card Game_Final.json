@@ -5,20 +5,20 @@
     "backgrounds": [],
     "decksUrl": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/starterDecks.json"
   },
-  "customHelp": "\"How to play DB Fusion World:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
+  "customHelp": "\"How to play DB Masters:\\n- After choosing which player goes first, the player who goes second creates an Energy Marker.\\n- When you would add a card from your life to your hand, hold \\\"H\\\" key for a second and then click on the Life cards. It will add one to your hand automatically.\\n- For more details about rules and banlist, visit https://www.dbs-cardgame.com/fw/en/news/01_31.html",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/fusionWorldCardList.json",
-    "cardBack": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/cardBack.webp"
+    "dataUrl": "https://vhsaraiva.github.io/HattrickSelector/docs/bt26cards.json",
+    "cardBack": "https://vhsaraiva.github.io/HattrickSelector/docs/cardBack.webp"
   },
   "deckBuilding": {
     "mainFilters": [
-      "color",
-      "type",
-      "power",
-      "combo",
-      "cost",
-      "trait"
+      "Color",
+      "Type",
+      "Power",
+      "Combo",
+      "Cost",
+      "Trait"
     ],
     "formats": [
       {
@@ -41,7 +41,7 @@
             "maxPerCard": 1
           },
           {
-            "category": "Main Deck",
+            "category": "Battle",
             "min": 50,
             "max": 60
           },
@@ -51,7 +51,7 @@
             "max": 15
           },
           {
-            "category": "Z Deck",
+            "category": "Z-Deck",
             "min": 0,
             "max": 10
           }
@@ -89,6 +89,53 @@
         0
       ],
       "hideFacedDownCards": false,
+      "draggableTokens": [
+        {
+          "id": "1-cnt",
+          "name": "1 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/1_token.png"
+        },
+        {
+          "id": "2-cnt",
+          "name": "2 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/2_token.png"
+        },
+        {
+          "id": "3-cnt",
+          "name": "3 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/3_token.png"
+        },
+        {
+          "id": "4-cnt",
+          "name": "4 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/4_token.png"
+        },
+        {
+          "id": "5-cnt",
+          "name": "5 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/5_token.png"
+        },
+        {
+          "id": "6-cnt",
+          "name": "6 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/6_token.png"
+        },
+        {
+          "id": "7-cnt",
+          "name": "7 Counter",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/7_token.png"
+        },
+        {
+          "id": "barrier",
+          "name": "Barrier",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/barrier_token.png"
+        },
+        {
+          "id": "ability-used",
+          "name": "Ability Used",
+          "image": "https://vhsaraiva.github.io/HattrickSelector/docs/used.png"
+        }
+      ],
       "sections": {
         "customSections": [
           "Z-Deck",
@@ -99,8 +146,7 @@
           "Battle",
           "Combo",
           "Energy",
-          "Warp",
-          "Drop"
+          "Warp"
         ],
         "layout": {
           "direction": "row",
@@ -179,10 +225,6 @@
                 {
                   "section": "Warp",
                   "style": false
-                },
-                {
-                  "section": "Drop",
-                  "style": false
                 }
               ]
             }
@@ -195,7 +237,9 @@
         "autoPlayFromHand": {
           "Battle": "Battle",
           "Energy Marker": "Energy",
-          "Extra": "Stack"
+          "Extra": "Stack",
+          "Z-Deck": "Hand",
+          "Life": "Hand"
         },
         "autoPlayFromStack": {
           "Battle": "Battle",
@@ -243,7 +287,7 @@
             "title": "Deck",
             "isHidden": "yes",
             "height": "DEFAULT",
-            "alignment": "NONE",
+            "alignment": "Battle",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "opponentAlignment": false,
@@ -276,12 +320,12 @@
             "isDefaultSection": true,
             "title": "Exile",
             "isHidden": "no",
-            "height": "DEFAULT",
+            "height": "SMALL",
             "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
-            "displayedTitle": "Exiled",
+            "displayedTitle": "Exile",
             "opponentAlignment": false,
             "noQuickActions": false,
             "enterTapped": false,
@@ -378,7 +422,7 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "Battle Area",
             "noQuickActions": false,
             "enterTapped": false,
@@ -419,22 +463,6 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-            "Drop": {
-            "title": "Drop",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Drop Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
           "Warp": {
             "title": "Warp",
             "isHidden": "no",
@@ -454,31 +482,31 @@
             "Z-Energy": {
             "title": "Z-Energy",
             "isHidden": "no",
-            "height": "18",
+            "height": "20",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Z-Energy Area",
             "noQuickActions": false,
-            "enterTapped": true,
-            "enterSpun": false,
+            "enterTapped": false,
+            "enterSpun": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
             "Z-Deck": {
             "title": "Z-Deck",
-            "isHidden": "no",
-            "height": "18",
-            "alignment": "CENTER",
+            "isHidden": "yes",
+            "height": "20",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "Z-Deck Area",
             "noQuickActions": false,
             "enterTapped": false,
-            "enterSpun": true,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
