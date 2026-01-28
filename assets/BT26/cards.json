@@ -4,7 +4,7 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -21,7 +21,7 @@
             }
         },
         "name": "Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-001.webp",
         "Power": "10000",
@@ -47,7 +47,7 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -64,7 +64,7 @@
             }
         },
         "name": "Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-001_PR.webp",
         "Power": "10000",
@@ -94,7 +94,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -111,7 +111,7 @@
             }
         },
         "name": "Hell Fighter 17",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-002.webp",
         "Power": "10000",
@@ -141,7 +141,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -158,7 +158,7 @@
             }
         },
         "name": "Hell Fighter 17",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-002_PR.webp",
         "Power": "10000",
@@ -187,7 +187,7 @@
         "face": {
             "front": {
                 "name": "Frieza, Emperor's Final Power",
-                "type": "Z_Deck",
+                "type": "Z-LEADER",
                 "cost": "",
                 "power": "20000",
                 "Energy_cost": "",
@@ -196,7 +196,7 @@
             }
         },
         "name": "Frieza, Emperor's Final Power",
-        "type": "Z-LEADER",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-003.webp",
         "Power": "20000",
@@ -226,7 +226,7 @@
         "face": {
             "front": {
                 "name": "Piccolo, Escape From Hell",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "5000",
                 "Energy_cost": "X",
@@ -235,7 +235,7 @@
             }
         },
         "name": "Piccolo, Escape From Hell",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-004.webp",
         "Power": "5000",
@@ -258,7 +258,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Return of Despair",
-                "type": "Z_Deck",
+                "type": "Z-BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -267,7 +267,7 @@
             }
         },
         "name": "Hell Fighter 17, Return of Despair",
-        "type": "Z-BATTLE",
+        "type": "Z_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-005.webp",
         "Power": "15000",
@@ -295,7 +295,7 @@
         "face": {
             "front": {
                 "name": "Sibling Confrontation",
-                "type": "Z_Deck",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -304,7 +304,7 @@
             }
         },
         "name": "Sibling Confrontation",
-        "type": "Z-EXTRA",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-006.webp",
         "Power": "",
@@ -327,7 +327,7 @@
         "face": {
             "front": {
                 "name": "Power-Infused Shocking Death Ball",
-                "type": "Z_Deck",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -336,7 +336,7 @@
             }
         },
         "name": "Power-Infused Shocking Death Ball",
-        "type": "Z-EXTRA",
+        "type": "Z_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-007.webp",
         "Power": "",
@@ -360,7 +360,7 @@
         "face": {
             "front": {
                 "name": "Frieza, Combo Assault",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -369,7 +369,7 @@
             }
         },
         "name": "Frieza, Combo Assault",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-008.webp",
         "Power": "15000",
@@ -398,7 +398,7 @@
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Showdown With a Machine Mutant",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -407,7 +407,7 @@
             }
         },
         "name": "SS4 Son Goku, Showdown With a Machine Mutant",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-009.webp",
         "Power": "20000",
@@ -435,7 +435,7 @@
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Deadly Combat With a Machine Mutant",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "20000",
                 "Energy_cost": "3",
@@ -444,7 +444,7 @@
             }
         },
         "name": "SS4 Son Goku, Deadly Combat With a Machine Mutant",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-010.webp",
         "Power": "20000",
@@ -471,7 +471,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Beginning of a Fierce Battle",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -480,7 +480,7 @@
             }
         },
         "name": "SS Son Goku, Beginning of a Fierce Battle",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-011.webp",
         "Power": "15000",
@@ -507,7 +507,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Beggining of Deadly Combat",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "10000",
                 "Energy_cost": "2",
@@ -516,7 +516,7 @@
             }
         },
         "name": "SS Son Goku, Beggining of Deadly Combat",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-012.webp",
         "Power": "10000",
@@ -545,7 +545,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Deadly Combat Settled",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "30000",
                 "Energy_cost": "4",
@@ -554,7 +554,7 @@
             }
         },
         "name": "Son Goku, Deadly Combat Settled",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-013.webp",
         "Power": "30000",
@@ -583,7 +583,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Deadly Combat Settled",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "30000",
                 "Energy_cost": "4",
@@ -592,7 +592,7 @@
             }
         },
         "name": "Son Goku, Deadly Combat Settled",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-013_SPR.webp",
         "Power": "30000",
@@ -622,7 +622,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, Prince's Pride",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -631,7 +631,7 @@
             }
         },
         "name": "Vegeta, Prince's Pride",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-014.webp",
         "Power": "15000",
@@ -657,7 +657,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Premonition of a Heated Battle",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -666,7 +666,7 @@
             }
         },
         "name": "Trunks, Premonition of a Heated Battle",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-015.webp",
         "Power": "4000",
@@ -693,7 +693,7 @@
         "face": {
             "front": {
                 "name": "Android 18, Deadly Combat Settled",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -702,7 +702,7 @@
             }
         },
         "name": "Android 18, Deadly Combat Settled",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-016.webp",
         "Power": "20000",
@@ -729,7 +729,7 @@
         "face": {
             "front": {
                 "name": "Android 17, Guided Fusion",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -738,7 +738,7 @@
             }
         },
         "name": "Android 17, Guided Fusion",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-017.webp",
         "Power": "15000",
@@ -765,7 +765,7 @@
         "face": {
             "front": {
                 "name": "Android 17, Fusion Accepted",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -774,7 +774,7 @@
             }
         },
         "name": "Android 17, Fusion Accepted",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-018.webp",
         "Power": "4000",
@@ -801,7 +801,7 @@
         "face": {
             "front": {
                 "name": "Android 17 & Hell Fighter 17, Team of Evil",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "20000",
                 "Energy_cost": "7",
@@ -810,7 +810,7 @@
             }
         },
         "name": "Android 17 & Hell Fighter 17, Team of Evil",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-019.webp",
         "Power": "20000",
@@ -840,7 +840,7 @@
         "face": {
             "front": {
                 "name": "Android 17 & Hell Fighter 17, Team of Evil",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "20000",
                 "Energy_cost": "7",
@@ -849,7 +849,7 @@
             }
         },
         "name": "Android 17 & Hell Fighter 17, Team of Evil",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-019_SPR.webp",
         "Power": "20000",
@@ -880,7 +880,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Infernal Creation",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -889,7 +889,7 @@
             }
         },
         "name": "Hell Fighter 17, Infernal Creation",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-020.webp",
         "Power": "20000",
@@ -917,7 +917,7 @@
         "face": {
             "front": {
                 "name": "Hell Fighter 17, Fusion Urged",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -926,7 +926,7 @@
             }
         },
         "name": "Hell Fighter 17, Fusion Urged",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-021.webp",
         "Power": "4000",
@@ -954,7 +954,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Ultimate Masterpiece",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -963,7 +963,7 @@
             }
         },
         "name": "Super 17, Ultimate Masterpiece",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-022.webp",
         "Power": "30000",
@@ -993,7 +993,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Ultimate Masterpiece",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -1002,7 +1002,7 @@
             }
         },
         "name": "Super 17, Ultimate Masterpiece",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-022_SPR.webp",
         "Power": "30000",
@@ -1033,7 +1033,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Absorbing Power",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -1042,7 +1042,7 @@
             }
         },
         "name": "Super 17, Absorbing Power",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-023.webp",
         "Power": "25000",
@@ -1070,7 +1070,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Attack Commenced",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -1079,7 +1079,7 @@
             }
         },
         "name": "Super 17, Attack Commenced",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-024.webp",
         "Power": "25000",
@@ -1107,7 +1107,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Sibling Fusion",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "30000",
                 "Energy_cost": "7",
@@ -1116,7 +1116,7 @@
             }
         },
         "name": "Super 17, Sibling Fusion",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-025.webp",
         "Power": "30000",
@@ -1145,7 +1145,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Perfect Evolution",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "30000",
                 "Energy_cost": "7",
@@ -1154,7 +1154,7 @@
             }
         },
         "name": "Super 17, Perfect Evolution",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-026.webp",
         "Power": "30000",
@@ -1182,7 +1182,7 @@
         "face": {
             "front": {
                 "name": "Double-Strike Explosion",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1191,7 +1191,7 @@
             }
         },
         "name": "Double-Strike Explosion",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-027.webp",
         "Power": "",
@@ -1213,7 +1213,7 @@
         "face": {
             "front": {
                 "name": "Exploding Energy",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1222,7 +1222,7 @@
             }
         },
         "name": "Exploding Energy",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-028.webp",
         "Power": "",
@@ -1244,7 +1244,7 @@
         "face": {
             "front": {
                 "name": "Polar Strike 10x Kamehameha",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1253,7 +1253,7 @@
             }
         },
         "name": "Polar Strike 10x Kamehameha",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-029.webp",
         "Power": "",
@@ -1276,7 +1276,7 @@
         "face": {
             "front": {
                 "name": "Power Absorption and Release",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "8",
                 "power": "",
                 "Energy_cost": "8",
@@ -1285,7 +1285,7 @@
             }
         },
         "name": "Power Absorption and Release",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-030.webp",
         "Power": "",
@@ -1308,7 +1308,7 @@
         "face": {
             "front": {
                 "name": "Gogeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1325,7 +1325,7 @@
             }
         },
         "name": "Gogeta",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-031.webp",
         "Power": "10000",
@@ -1355,7 +1355,7 @@
         "face": {
             "front": {
                 "name": "Gogeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1372,7 +1372,7 @@
             }
         },
         "name": "Gogeta",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-031_PR.webp",
         "Power": "10000",
@@ -1400,7 +1400,7 @@
         "face": {
             "front": {
                 "name": "Broly",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1417,7 +1417,7 @@
             }
         },
         "name": "Broly",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-032.webp",
         "Power": "10000",
@@ -1446,7 +1446,7 @@
         "face": {
             "front": {
                 "name": "Broly",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1463,7 +1463,7 @@
             }
         },
         "name": "Broly",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-032_PR.webp",
         "Power": "10000",
@@ -1491,7 +1491,7 @@
         "face": {
             "front": {
                 "name": "Broly",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -1508,7 +1508,7 @@
             }
         },
         "name": "Broly",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-032_PR2.webp",
         "Power": "10000",
@@ -1536,7 +1536,7 @@
         "face": {
             "front": {
                 "name": "SS2 Cabba, Battling for Survival",
-                "type": "Z_Deck",
+                "type": "Z-LEADER",
                 "cost": "",
                 "power": "15000",
                 "Energy_cost": "",
@@ -1545,7 +1545,7 @@
             }
         },
         "name": "SS2 Cabba, Battling for Survival",
-        "type": "Z-LEADER",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-033.webp",
         "Power": "15000",
@@ -1577,7 +1577,7 @@
         "face": {
             "front": {
                 "name": "Whis, Waiting Patiently",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "20000",
                 "Energy_cost": "X",
@@ -1586,7 +1586,7 @@
             }
         },
         "name": "Whis, Waiting Patiently",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-034.webp",
         "Power": "20000",
@@ -1610,7 +1610,7 @@
         "face": {
             "front": {
                 "name": "Paragus, Cunning Parent",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "5000",
                 "Energy_cost": "X",
@@ -1619,7 +1619,7 @@
             }
         },
         "name": "Paragus, Cunning Parent",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-035.webp",
         "Power": "5000",
@@ -1645,7 +1645,7 @@
         "face": {
             "front": {
                 "name": "Cheelai & Lemo, Kind Friends",
-                "type": "Z_Deck",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -1654,7 +1654,7 @@
             }
         },
         "name": "Cheelai & Lemo, Kind Friends",
-        "type": "Z-BATTLE",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-036.webp",
         "Power": "5000",
@@ -1683,7 +1683,7 @@
         "face": {
             "front": {
                 "name": "Golden Frieza, Unexpected Combat",
-                "type": "Z_Deck",
+                "type": "Z-BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -1692,7 +1692,7 @@
             }
         },
         "name": "Golden Frieza, Unexpected Combat",
-        "type": "Z-BATTLE",
+        "type": "Z_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-037.webp",
         "Power": "20000",
@@ -1721,7 +1721,7 @@
         "face": {
             "front": {
                 "name": "Practicing Fusion",
-                "type": "Z_Deck",
+                "type": "Z-EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -1730,7 +1730,7 @@
             }
         },
         "name": "Practicing Fusion",
-        "type": "Z-EXTRA",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-038.webp",
         "Power": "",
@@ -1755,7 +1755,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Snowy Mountain Battle",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1764,7 +1764,7 @@
             }
         },
         "name": "SS Son Goku, Snowy Mountain Battle",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-039.webp",
         "Power": "15000",
@@ -1791,7 +1791,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Long-Awaited Battle",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1800,7 +1800,7 @@
             }
         },
         "name": "Son Goku, Long-Awaited Battle",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-040.webp",
         "Power": "15000",
@@ -1826,7 +1826,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1835,7 +1835,7 @@
             }
         },
         "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-041.webp",
         "Power": "15000",
@@ -1863,7 +1863,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -1872,7 +1872,7 @@
             }
         },
         "name": "SSB Son Goku & SSB Vegeta, Height of Power",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-041_SPR.webp",
         "Power": "15000",
@@ -1901,7 +1901,7 @@
         "face": {
             "front": {
                 "name": "SS Vegeta, Snowy Mountain Battle",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1910,7 +1910,7 @@
             }
         },
         "name": "SS Vegeta, Snowy Mountain Battle",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-042.webp",
         "Power": "15000",
@@ -1937,7 +1937,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, First Offense",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -1946,7 +1946,7 @@
             }
         },
         "name": "Vegeta, First Offense",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-043.webp",
         "Power": "15000",
@@ -1972,7 +1972,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Battle for Peace",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "35000",
                 "Energy_cost": "8",
@@ -1981,7 +1981,7 @@
             }
         },
         "name": "SSB Gogeta, Battle for Peace",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-044.webp",
         "Power": "35000",
@@ -2009,7 +2009,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Battle for Peace",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "35000",
                 "Energy_cost": "8",
@@ -2018,7 +2018,7 @@
             }
         },
         "name": "SSB Gogeta, Battle for Peace",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-044_SPR.webp",
         "Power": "35000",
@@ -2047,7 +2047,7 @@
         "face": {
             "front": {
                 "name": "SS Gogeta, Battling a Strong Foe",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2056,7 +2056,7 @@
             }
         },
         "name": "SS Gogeta, Battling a Strong Foe",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-045.webp",
         "Power": "20000",
@@ -2085,7 +2085,7 @@
         "face": {
             "front": {
                 "name": "SS Gogeta, Intense Fight With a Strong Foe",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2094,7 +2094,7 @@
             }
         },
         "name": "SS Gogeta, Intense Fight With a Strong Foe",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-046.webp",
         "Power": "20000",
@@ -2122,7 +2122,7 @@
         "face": {
             "front": {
                 "name": "Gogeta, Fusion Warrior Debut",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "15000",
                 "Energy_cost": "5",
@@ -2131,7 +2131,7 @@
             }
         },
         "name": "Gogeta, Fusion Warrior Debut",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-047.webp",
         "Power": "15000",
@@ -2158,7 +2158,7 @@
         "face": {
             "front": {
                 "name": "Gogeta, Fusion Achieved",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "15000",
                 "Energy_cost": "5",
@@ -2167,7 +2167,7 @@
             }
         },
         "name": "Gogeta, Fusion Achieved",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-048.webp",
         "Power": "15000",
@@ -2196,7 +2196,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Unrestrained Destruction",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "35000",
                 "Energy_cost": "8",
@@ -2205,7 +2205,7 @@
             }
         },
         "name": "SS Broly, Unrestrained Destruction",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-049.webp",
         "Power": "35000",
@@ -2235,7 +2235,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Unrestrained Destruction",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "35000",
                 "Energy_cost": "8",
@@ -2244,7 +2244,7 @@
             }
         },
         "name": "SS Broly, Unrestrained Destruction",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-049_SPR.webp",
         "Power": "35000",
@@ -2276,7 +2276,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Full Power Released",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "35000",
                 "Energy_cost": "8",
@@ -2285,7 +2285,7 @@
             }
         },
         "name": "SS Broly, Full Power Released",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-050.webp",
         "Power": "35000",
@@ -2315,7 +2315,7 @@
         "face": {
             "front": {
                 "name": "SS Broly, Duel With a Fusion Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "25000",
                 "Energy_cost": "6",
@@ -2324,7 +2324,7 @@
             }
         },
         "name": "SS Broly, Duel With a Fusion Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-051.webp",
         "Power": "25000",
@@ -2354,7 +2354,7 @@
         "face": {
             "front": {
                 "name": "Broly, Restrained",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2363,7 +2363,7 @@
             }
         },
         "name": "Broly, Restrained",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-052.webp",
         "Power": "20000",
@@ -2393,7 +2393,7 @@
         "face": {
             "front": {
                 "name": "Broly, Unchained Power",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -2402,7 +2402,7 @@
             }
         },
         "name": "Broly, Unchained Power",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-053.webp",
         "Power": "20000",
@@ -2430,7 +2430,7 @@
         "face": {
             "front": {
                 "name": "Broly, Clashing Saiyan",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "9000",
                 "Energy_cost": "3",
@@ -2439,7 +2439,7 @@
             }
         },
         "name": "Broly, Clashing Saiyan",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-054.webp",
         "Power": "9000",
@@ -2469,7 +2469,7 @@
         "face": {
             "front": {
                 "name": "Cheelai, Friend's Aid",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -2478,7 +2478,7 @@
             }
         },
         "name": "Cheelai, Friend's Aid",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-055.webp",
         "Power": "15000",
@@ -2504,7 +2504,7 @@
         "face": {
             "front": {
                 "name": "Frieza, Forceful Power Up",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "15000",
                 "Energy_cost": "5",
@@ -2513,7 +2513,7 @@
             }
         },
         "name": "Frieza, Forceful Power Up",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-056.webp",
         "Power": "15000",
@@ -2542,7 +2542,7 @@
         "face": {
             "front": {
                 "name": "Beets, Saiyan Drawn Into Battle",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -2551,7 +2551,7 @@
             }
         },
         "name": "Beets, Saiyan Drawn Into Battle",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-057.webp",
         "Power": "4000",
@@ -2577,7 +2577,7 @@
         "face": {
             "front": {
                 "name": "Ba, First Friend",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -2586,7 +2586,7 @@
             }
         },
         "name": "Ba, First Friend",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-058.webp",
         "Power": "4000",
@@ -2612,7 +2612,7 @@
         "face": {
             "front": {
                 "name": "Gigantic Press",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -2621,7 +2621,7 @@
             }
         },
         "name": "Gigantic Press",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-059.webp",
         "Power": "",
@@ -2644,7 +2644,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2661,7 +2661,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-060.webp",
         "Power": "10000",
@@ -2691,7 +2691,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2708,7 +2708,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-060_PR.webp",
         "Power": "10000",
@@ -2736,7 +2736,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2753,7 +2753,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-060_PR2.webp",
         "Power": "10000",
@@ -2781,7 +2781,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2798,7 +2798,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-060_PR3.webp",
         "Power": "10000",
@@ -2826,7 +2826,7 @@
         "face": {
             "front": {
                 "name": "Son Goku & Vegeta",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2843,7 +2843,7 @@
             }
         },
         "name": "Son Goku & Vegeta",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-060_PR4.webp",
         "Power": "10000",
@@ -2871,7 +2871,7 @@
         "face": {
             "front": {
                 "name": "Zamasu",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2888,7 +2888,7 @@
             }
         },
         "name": "Zamasu",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-061.webp",
         "Power": "10000",
@@ -2917,7 +2917,7 @@
         "face": {
             "front": {
                 "name": "Zamasu",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2934,7 +2934,7 @@
             }
         },
         "name": "Zamasu",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-061_PR.webp",
         "Power": "10000",
@@ -2960,7 +2960,7 @@
         "face": {
             "front": {
                 "name": "Great Saiyaman 2, Fresh New Hero",
-                "type": "Z_Deck",
+                "type": "Z-LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -2969,7 +2969,7 @@
             }
         },
         "name": "Great Saiyaman 2, Fresh New Hero",
-        "type": "Z-LEADER",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-062.webp",
         "Power": "10000",
@@ -2998,7 +2998,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito, Surpassing Immortal Gods!",
-                "type": "Z_Deck",
+                "type": "Z-LEADER",
                 "cost": "",
                 "power": "30000",
                 "Energy_cost": "",
@@ -3007,7 +3007,7 @@
             }
         },
         "name": "SSB Vegito, Surpassing Immortal Gods!",
-        "type": "Z-LEADER",
+        "type": "Z_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-063.webp",
         "Power": "30000",
@@ -3036,7 +3036,7 @@
         "face": {
             "front": {
                 "name": "SS4 Vegito, Attaining Greater Power",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -3045,7 +3045,7 @@
             }
         },
         "name": "SS4 Vegito, Attaining Greater Power",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-064.webp",
         "Power": "15000",
@@ -3069,7 +3069,7 @@
         "face": {
             "front": {
                 "name": "SS4 Vegito, Attaining Greater Power",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -3078,7 +3078,7 @@
             }
         },
         "name": "SS4 Vegito, Attaining Greater Power",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-064_SPR.webp",
         "Power": "15000",
@@ -3102,7 +3102,7 @@
         "face": {
             "front": {
                 "name": "Gowasu, Instructor",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "5000",
                 "Energy_cost": "X",
@@ -3111,7 +3111,7 @@
             }
         },
         "name": "Gowasu, Instructor",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-065.webp",
         "Power": "5000",
@@ -3137,7 +3137,7 @@
         "face": {
             "front": {
                 "name": "Zamasu & Goku Black, Meeting in Despair",
-                "type": "Z_Deck",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "5000",
                 "Energy_cost": "1",
@@ -3146,7 +3146,7 @@
             }
         },
         "name": "Zamasu & Goku Black, Meeting in Despair",
-        "type": "Z-BATTLE",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-066.webp",
         "Power": "5000",
@@ -3176,7 +3176,7 @@
         "face": {
             "front": {
                 "name": "Great Saiyaman, Protector",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "4000",
                 "Energy_cost": "4",
@@ -3185,7 +3185,7 @@
             }
         },
         "name": "Great Saiyaman, Protector",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-067.webp",
         "Power": "4000",
@@ -3214,7 +3214,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku, God Challenger",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -3223,7 +3223,7 @@
             }
         },
         "name": "SSB Son Goku, God Challenger",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-068.webp",
         "Power": "15000",
@@ -3250,7 +3250,7 @@
         "face": {
             "front": {
                 "name": "Son Goku",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -3259,7 +3259,7 @@
             }
         },
         "name": "Son Goku",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-069.webp",
         "Power": "15000",
@@ -3282,7 +3282,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Potara Premonition",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -3291,7 +3291,7 @@
             }
         },
         "name": "Son Goku, Potara Premonition",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-070.webp",
         "Power": "4000",
@@ -3316,7 +3316,7 @@
         "face": {
             "front": {
                 "name": "SSB Son Goku & SSB Vegeta, Realized Premonition of Fusion",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "19000",
                 "Energy_cost": "4",
@@ -3325,7 +3325,7 @@
             }
         },
         "name": "SSB Son Goku & SSB Vegeta, Realized Premonition of Fusion",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-071.webp",
         "Power": "19000",
@@ -3353,7 +3353,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegeta, God Challenger",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -3362,7 +3362,7 @@
             }
         },
         "name": "SSB Vegeta, God Challenger",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-072.webp",
         "Power": "15000",
@@ -3389,7 +3389,7 @@
         "face": {
             "front": {
                 "name": "Vegeta",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -3398,7 +3398,7 @@
             }
         },
         "name": "Vegeta",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-073.webp",
         "Power": "15000",
@@ -3421,7 +3421,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, Potara Premonition",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -3430,7 +3430,7 @@
             }
         },
         "name": "Vegeta, Potara Premonition",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-074.webp",
         "Power": "4000",
@@ -3455,7 +3455,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito, All-Out Super Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "9",
                 "power": "35000",
                 "Energy_cost": "9",
@@ -3464,7 +3464,7 @@
             }
         },
         "name": "SSB Vegito, All-Out Super Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-075.webp",
         "Power": "35000",
@@ -3493,7 +3493,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito, All-Out Super Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "9",
                 "power": "35000",
                 "Energy_cost": "9",
@@ -3502,7 +3502,7 @@
             }
         },
         "name": "SSB Vegito, All-Out Super Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-075_SPR.webp",
         "Power": "35000",
@@ -3532,7 +3532,7 @@
         "face": {
             "front": {
                 "name": "Vegito, Ultimate Unrivaled Fusion",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3541,7 +3541,7 @@
             }
         },
         "name": "Vegito, Ultimate Unrivaled Fusion",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-076.webp",
         "Power": "20000",
@@ -3569,7 +3569,7 @@
         "face": {
             "front": {
                 "name": "Mai, Kind Guardian",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -3578,7 +3578,7 @@
             }
         },
         "name": "Mai, Kind Guardian",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-077.webp",
         "Power": "15000",
@@ -3604,7 +3604,7 @@
         "face": {
             "front": {
                 "name": "Gowasu, Stern Rebuke",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -3613,7 +3613,7 @@
             }
         },
         "name": "Gowasu, Stern Rebuke",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-078.webp",
         "Power": "4000",
@@ -3639,7 +3639,7 @@
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Attack Wave",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -3648,7 +3648,7 @@
             }
         },
         "name": "SS Rose Goku Black, Attack Wave",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-079.webp",
         "Power": "20000",
@@ -3677,7 +3677,7 @@
         "face": {
             "front": {
                 "name": "SS Rose Goku Black, Heightened Form",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -3686,7 +3686,7 @@
             }
         },
         "name": "SS Rose Goku Black, Heightened Form",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-080.webp",
         "Power": "15000",
@@ -3716,7 +3716,7 @@
         "face": {
             "front": {
                 "name": "Goku Black, Returning to Zero",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -3725,7 +3725,7 @@
             }
         },
         "name": "Goku Black, Returning to Zero",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-081.webp",
         "Power": "4000",
@@ -3753,7 +3753,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Total God's Rage",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "20000",
                 "Energy_cost": "8",
@@ -3762,7 +3762,7 @@
             }
         },
         "name": "Fused Zamasu, Total God's Rage",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-082.webp",
         "Power": "20000",
@@ -3792,7 +3792,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Unified Ultimate God",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3801,7 +3801,7 @@
             }
         },
         "name": "Fused Zamasu, Unified Ultimate God",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-083.webp",
         "Power": "20000",
@@ -3829,7 +3829,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Unified Ultimate God",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3838,7 +3838,7 @@
             }
         },
         "name": "Fused Zamasu, Unified Ultimate God",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-083_SPR.webp",
         "Power": "20000",
@@ -3868,7 +3868,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Ideal World Creation",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3877,7 +3877,7 @@
             }
         },
         "name": "Fused Zamasu, Ideal World Creation",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-084.webp",
         "Power": "20000",
@@ -3904,7 +3904,7 @@
         "face": {
             "front": {
                 "name": "Fused Zamasu, Cleansing Despair",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -3913,7 +3913,7 @@
             }
         },
         "name": "Fused Zamasu, Cleansing Despair",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-085.webp",
         "Power": "20000",
@@ -3940,7 +3940,7 @@
         "face": {
             "front": {
                 "name": "Zamasu, Doubt in Man and God",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -3949,7 +3949,7 @@
             }
         },
         "name": "Zamasu, Doubt in Man and God",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-086.webp",
         "Power": "15000",
@@ -3978,7 +3978,7 @@
         "face": {
             "front": {
                 "name": "Zamasu, Returning to Zero",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -3987,7 +3987,7 @@
             }
         },
         "name": "Zamasu, Returning to Zero",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-087.webp",
         "Power": "4000",
@@ -4014,7 +4014,7 @@
         "face": {
             "front": {
                 "name": "Potara",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "3",
                 "power": "",
                 "Energy_cost": "3",
@@ -4023,7 +4023,7 @@
             }
         },
         "name": "Potara",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-088.webp",
         "Power": "",
@@ -4047,7 +4047,7 @@
         "face": {
             "front": {
                 "name": "Assault",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -4056,7 +4056,7 @@
             }
         },
         "name": "Assault",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-089.webp",
         "Power": "",
@@ -4078,7 +4078,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4095,7 +4095,7 @@
             }
         },
         "name": "SS Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-090.webp",
         "Power": "10000",
@@ -4123,7 +4123,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4140,7 +4140,7 @@
             }
         },
         "name": "SS Son Goku",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-090_PR.webp",
         "Power": "10000",
@@ -4168,7 +4168,7 @@
         "face": {
             "front": {
                 "name": "Cell",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4185,7 +4185,7 @@
             }
         },
         "name": "Cell",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-091.webp",
         "Power": "10000",
@@ -4213,7 +4213,7 @@
         "face": {
             "front": {
                 "name": "Cell",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -4230,7 +4230,7 @@
             }
         },
         "name": "Cell",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-091_PR.webp",
         "Power": "10000",
@@ -4257,7 +4257,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Final Destination",
-                "type": "Z_Deck",
+                "type": "Z-LEADER",
                 "cost": "",
                 "power": "20000",
                 "Energy_cost": "",
@@ -4266,7 +4266,7 @@
             }
         },
         "name": "Son Goku, Final Destination",
-        "type": "Z-LEADER",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-092.webp",
         "Power": "20000",
@@ -4296,7 +4296,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Protective Father",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "5000",
                 "Energy_cost": "X",
@@ -4305,7 +4305,7 @@
             }
         },
         "name": "SS Son Goku, Protective Father",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-093.webp",
         "Power": "5000",
@@ -4331,7 +4331,7 @@
         "face": {
             "front": {
                 "name": "Cell Games Arena, Greatest Stage",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -4340,7 +4340,7 @@
             }
         },
         "name": "Cell Games Arena, Greatest Stage",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-094.webp",
         "Power": "15000",
@@ -4364,7 +4364,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Destiny Entrusted",
-                "type": "Z_Deck",
+                "type": "Z-BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -4373,7 +4373,7 @@
             }
         },
         "name": "SS Son Gohan, Destiny Entrusted",
-        "type": "Z-BATTLE",
+        "type": "Z_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-095.webp",
         "Power": "20000",
@@ -4402,7 +4402,7 @@
         "face": {
             "front": {
                 "name": "Cell, All-Encompassing Terror",
-                "type": "Z_Deck",
+                "type": "Z-BATTLE",
                 "cost": "3",
                 "power": "25000",
                 "Energy_cost": "3",
@@ -4411,7 +4411,7 @@
             }
         },
         "name": "Cell, All-Encompassing Terror",
-        "type": "Z-BATTLE",
+        "type": "Z_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-096.webp",
         "Power": "25000",
@@ -4442,7 +4442,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Entrusting Father",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -4451,7 +4451,7 @@
             }
         },
         "name": "SS Son Goku, Entrusting Father",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-097.webp",
         "Power": "15000",
@@ -4479,7 +4479,7 @@
         "face": {
             "front": {
                 "name": "SS Son Goku, Entrusting Destiny",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "15000",
                 "Energy_cost": "4",
@@ -4488,7 +4488,7 @@
             }
         },
         "name": "SS Son Goku, Entrusting Destiny",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-098.webp",
         "Power": "15000",
@@ -4516,7 +4516,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, to the Cell Games",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -4525,7 +4525,7 @@
             }
         },
         "name": "Son Goku, to the Cell Games",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-099.webp",
         "Power": "4000",
@@ -4553,7 +4553,7 @@
         "face": {
             "front": {
                 "name": "SS2 Son Gohan, Rage Triggered",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -4562,7 +4562,7 @@
             }
         },
         "name": "SS2 Son Gohan, Rage Triggered",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-100.webp",
         "Power": "30000",
@@ -4591,7 +4591,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Youth Defying Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -4600,7 +4600,7 @@
             }
         },
         "name": "SS Son Gohan, Youth Defying Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-101.webp",
         "Power": "20000",
@@ -4630,7 +4630,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Youth Defying Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -4639,7 +4639,7 @@
             }
         },
         "name": "SS Son Gohan, Youth Defying Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-101_SPR.webp",
         "Power": "20000",
@@ -4670,7 +4670,7 @@
         "face": {
             "front": {
                 "name": "SS Son Gohan, Fighting Against Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -4679,7 +4679,7 @@
             }
         },
         "name": "SS Son Gohan, Fighting Against Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-102.webp",
         "Power": "20000",
@@ -4708,7 +4708,7 @@
         "face": {
             "front": {
                 "name": "Son Gohan, Preparing for the Cell Games",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -4717,7 +4717,7 @@
             }
         },
         "name": "Son Gohan, Preparing for the Cell Games",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-103.webp",
         "Power": "4000",
@@ -4743,7 +4743,7 @@
         "face": {
             "front": {
                 "name": "Vegeta, to the Cell Games",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -4752,7 +4752,7 @@
             }
         },
         "name": "Vegeta, to the Cell Games",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-104.webp",
         "Power": "4000",
@@ -4779,7 +4779,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Watcher From the Future",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -4788,7 +4788,7 @@
             }
         },
         "name": "Trunks, Watcher From the Future",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-105.webp",
         "Power": "4000",
@@ -4815,7 +4815,7 @@
         "face": {
             "front": {
                 "name": "Piccolo, to the Cell Games",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -4824,7 +4824,7 @@
             }
         },
         "name": "Piccolo, to the Cell Games",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-106.webp",
         "Power": "4000",
@@ -4852,7 +4852,7 @@
         "face": {
             "front": {
                 "name": "Hercule",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "30000",
                 "Energy_cost": "3",
@@ -4861,7 +4861,7 @@
             }
         },
         "name": "Hercule",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-107.webp",
         "Power": "30000",
@@ -4884,7 +4884,7 @@
         "face": {
             "front": {
                 "name": "Android 16, Trigger to Awakening",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -4893,7 +4893,7 @@
             }
         },
         "name": "Android 16, Trigger to Awakening",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-108.webp",
         "Power": "15000",
@@ -4919,7 +4919,7 @@
         "face": {
             "front": {
                 "name": "Cell, Complete Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "25000",
                 "Energy_cost": "8",
@@ -4928,7 +4928,7 @@
             }
         },
         "name": "Cell, Complete Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-109.webp",
         "Power": "25000",
@@ -4959,7 +4959,7 @@
         "face": {
             "front": {
                 "name": "Cell, Complete Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "25000",
                 "Energy_cost": "8",
@@ -4968,7 +4968,7 @@
             }
         },
         "name": "Cell, Complete Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-109_SPR.webp",
         "Power": "25000",
@@ -5000,7 +5000,7 @@
         "face": {
             "front": {
                 "name": "Cell, Maximum Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -5009,7 +5009,7 @@
             }
         },
         "name": "Cell, Maximum Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-110.webp",
         "Power": "25000",
@@ -5040,7 +5040,7 @@
         "face": {
             "front": {
                 "name": "Cell, Explosive Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -5049,7 +5049,7 @@
             }
         },
         "name": "Cell, Explosive Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-111.webp",
         "Power": "20000",
@@ -5080,7 +5080,7 @@
         "face": {
             "front": {
                 "name": "Cell, Explosive Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -5089,7 +5089,7 @@
             }
         },
         "name": "Cell, Explosive Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-111_SPR.webp",
         "Power": "20000",
@@ -5121,7 +5121,7 @@
         "face": {
             "front": {
                 "name": "Cell, Evolved Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -5130,7 +5130,7 @@
             }
         },
         "name": "Cell, Evolved Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-112.webp",
         "Power": "20000",
@@ -5158,7 +5158,7 @@
         "face": {
             "front": {
                 "name": "Cell, Writhing Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5167,7 +5167,7 @@
             }
         },
         "name": "Cell, Writhing Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-113.webp",
         "Power": "15000",
@@ -5195,7 +5195,7 @@
         "face": {
             "front": {
                 "name": "Cell, Absorption Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5204,7 +5204,7 @@
             }
         },
         "name": "Cell, Absorption Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-114.webp",
         "Power": "15000",
@@ -5234,7 +5234,7 @@
         "face": {
             "front": {
                 "name": "Cell, Growing Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -5243,7 +5243,7 @@
             }
         },
         "name": "Cell, Growing Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-115.webp",
         "Power": "4000",
@@ -5270,7 +5270,7 @@
         "face": {
             "front": {
                 "name": "Cell, Beginnings of Terror",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -5279,7 +5279,7 @@
             }
         },
         "name": "Cell, Beginnings of Terror",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-116.webp",
         "Power": "4000",
@@ -5306,7 +5306,7 @@
         "face": {
             "front": {
                 "name": "Son Goku, Lineage to the Pinnacle",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "5",
                 "power": "20000",
                 "Energy_cost": "5",
@@ -5315,7 +5315,7 @@
             }
         },
         "name": "Son Goku, Lineage to the Pinnacle",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-117.webp",
         "Power": "20000",
@@ -5346,7 +5346,7 @@
         "face": {
             "front": {
                 "name": "Rest and Wait",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -5355,7 +5355,7 @@
             }
         },
         "name": "Rest and Wait",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-118.webp",
         "Power": "",
@@ -5377,7 +5377,7 @@
         "face": {
             "front": {
                 "name": "Stonework",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
@@ -5386,7 +5386,7 @@
             }
         },
         "name": "Stonework",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-119.webp",
         "Power": "",
@@ -5410,7 +5410,7 @@
         "face": {
             "front": {
                 "name": "Cooler",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -5427,7 +5427,7 @@
             }
         },
         "name": "Cooler",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-120.webp",
         "Power": "10000",
@@ -5456,7 +5456,7 @@
         "face": {
             "front": {
                 "name": "Cooler",
-                "type": "Leader",
+                "type": "LEADER",
                 "cost": "",
                 "power": "10000",
                 "Energy_cost": "",
@@ -5473,7 +5473,7 @@
             }
         },
         "name": "Cooler",
-        "type": "LEADER",
+        "type": "Leader",
         "Rarity": "Special Leader Rare[SLR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-120_PR.webp",
         "Power": "10000",
@@ -5502,7 +5502,7 @@
         "face": {
             "front": {
                 "name": "Fu, Schemer Behind Everything",
-                "type": "Z_Deck",
+                "type": "Z-UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -5511,7 +5511,7 @@
             }
         },
         "name": "Fu, Schemer Behind Everything",
-        "type": "Z-UNISON",
+        "type": "Z_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-121.webp",
         "Power": "15000",
@@ -5535,7 +5535,7 @@
         "face": {
             "front": {
                 "name": "Cumber, Banished Evil",
-                "type": "Z_Deck",
+                "type": "Z-BATTLE",
                 "cost": "1",
                 "power": "15000",
                 "Energy_cost": "1",
@@ -5544,7 +5544,7 @@
             }
         },
         "name": "Cumber, Banished Evil",
-        "type": "Z-BATTLE",
+        "type": "Z_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-122.webp",
         "Power": "15000",
@@ -5573,7 +5573,7 @@
         "face": {
             "front": {
                 "name": "SS4 Son Goku, Confined Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -5582,7 +5582,7 @@
             }
         },
         "name": "SS4 Son Goku, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-123.webp",
         "Power": "20000",
@@ -5610,7 +5610,7 @@
         "face": {
             "front": {
                 "name": "SSB Vegito",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "30000",
                 "Energy_cost": "3",
@@ -5619,7 +5619,7 @@
             }
         },
         "name": "SSB Vegito",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-124.webp",
         "Power": "30000",
@@ -5643,7 +5643,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Unanticipated Cooperation",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -5652,7 +5652,7 @@
             }
         },
         "name": "Trunks, Unanticipated Cooperation",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-125.webp",
         "Power": "4000",
@@ -5679,7 +5679,7 @@
         "face": {
             "front": {
                 "name": "Trunks, Escape",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "1",
                 "power": "4000",
                 "Energy_cost": "1",
@@ -5688,7 +5688,7 @@
             }
         },
         "name": "Trunks, Escape",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-126.webp",
         "Power": "4000",
@@ -5715,7 +5715,7 @@
         "face": {
             "front": {
                 "name": "Golden Cooler, Golden Fighting Spirit",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -5724,7 +5724,7 @@
             }
         },
         "name": "Golden Cooler, Golden Fighting Spirit",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-127.webp",
         "Power": "30000",
@@ -5754,7 +5754,7 @@
         "face": {
             "front": {
                 "name": "Golden Cooler, Golden Fighting Spirit",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "30000",
                 "Energy_cost": "8",
@@ -5763,7 +5763,7 @@
             }
         },
         "name": "Golden Cooler, Golden Fighting Spirit",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-127_SPR.webp",
         "Power": "30000",
@@ -5794,7 +5794,7 @@
         "face": {
             "front": {
                 "name": "Cooler, Strongest Pride",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "25000",
                 "Energy_cost": "4",
@@ -5803,7 +5803,7 @@
             }
         },
         "name": "Cooler, Strongest Pride",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-128.webp",
         "Power": "25000",
@@ -5831,7 +5831,7 @@
         "face": {
             "front": {
                 "name": "Cooler, Strongest Pride",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "25000",
                 "Energy_cost": "4",
@@ -5840,7 +5840,7 @@
             }
         },
         "name": "Cooler, Strongest Pride",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Special Rare[SPR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-128_SPR.webp",
         "Power": "25000",
@@ -5869,7 +5869,7 @@
         "face": {
             "front": {
                 "name": "Cooler, Confined Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5878,7 +5878,7 @@
             }
         },
         "name": "Cooler, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-129.webp",
         "Power": "15000",
@@ -5907,7 +5907,7 @@
         "face": {
             "front": {
                 "name": "Cumber, Imposing Villainy",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "2",
                 "power": "15000",
                 "Energy_cost": "2",
@@ -5916,7 +5916,7 @@
             }
         },
         "name": "Cumber, Imposing Villainy",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Uncommon[UC]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-130.webp",
         "Power": "15000",
@@ -5943,7 +5943,7 @@
         "face": {
             "front": {
                 "name": "Boujack, Confined Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5952,7 +5952,7 @@
             }
         },
         "name": "Boujack, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-131.webp",
         "Power": "15000",
@@ -5981,7 +5981,7 @@
         "face": {
             "front": {
                 "name": "Hatchhyack, Confined Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "3",
                 "power": "15000",
                 "Energy_cost": "3",
@@ -5990,7 +5990,7 @@
             }
         },
         "name": "Hatchhyack, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-132.webp",
         "Power": "15000",
@@ -6019,7 +6019,7 @@
         "face": {
             "front": {
                 "name": "Majin Ozotto, Confined Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "4",
                 "power": "20000",
                 "Energy_cost": "4",
@@ -6028,7 +6028,7 @@
             }
         },
         "name": "Majin Ozotto, Confined Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-133.webp",
         "Power": "20000",
@@ -6057,7 +6057,7 @@
         "face": {
             "front": {
                 "name": "Set-up Battle",
-                "type": "Main_Deck",
+                "type": "EXTRA",
                 "cost": "0",
                 "power": "",
                 "Energy_cost": "0",
@@ -6066,7 +6066,7 @@
             }
         },
         "name": "Set-up Battle",
-        "type": "EXTRA",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-134.webp",
         "Power": "",
@@ -6092,7 +6092,7 @@
         "face": {
             "front": {
                 "name": "Android 17 & Frieza, Momentary Kinship Legends",
-                "type": "Main_Deck",
+                "type": "UNISON",
                 "cost": "X",
                 "power": "15000",
                 "Energy_cost": "X",
@@ -6101,7 +6101,7 @@
             }
         },
         "name": "Android 17 & Frieza, Momentary Kinship Legends",
-        "type": "UNISON",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-135.webp",
         "Power": "15000",
@@ -6126,7 +6126,7 @@
         "face": {
             "front": {
                 "name": "Super 17, Rapid Attack",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "6",
                 "power": "20000",
                 "Energy_cost": "6",
@@ -6135,7 +6135,7 @@
             }
         },
         "name": "Super 17, Rapid Attack",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Super Rare[SR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-136.webp",
         "Power": "20000",
@@ -6167,7 +6167,7 @@
         "face": {
             "front": {
                 "name": "SS2 Cabba, Sudden Growth Anew",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "7",
                 "power": "25000",
                 "Energy_cost": "7",
@@ -6176,7 +6176,7 @@
             }
         },
         "name": "SS2 Cabba, Sudden Growth Anew",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Rare[R]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-137.webp",
         "Power": "25000",
@@ -6207,7 +6207,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "45000",
                 "Energy_cost": "8",
@@ -6216,7 +6216,7 @@
             }
         },
         "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-138.webp",
         "Power": "45000",
@@ -6248,7 +6248,7 @@
         "face": {
             "front": {
                 "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "8",
                 "power": "45000",
                 "Energy_cost": "8",
@@ -6257,7 +6257,7 @@
             }
         },
         "name": "SSB Gogeta, Shining Blue Strongest Warrior",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "God Rare[GDR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-138_PR.webp",
         "Power": "45000",
@@ -6290,7 +6290,7 @@
         "face": {
             "front": {
                 "name": "Metamorphic Android Cell",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "10",
                 "power": "40000",
                 "Energy_cost": "10",
@@ -6299,7 +6299,7 @@
             }
         },
         "name": "Metamorphic Android Cell",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-139.webp",
         "Power": "40000",
@@ -6328,7 +6328,7 @@
         "face": {
             "front": {
                 "name": "Perfected Ultra Instinct Son Goku, Transcendence",
-                "type": "Main_Deck",
+                "type": "BATTLE",
                 "cost": "10",
                 "power": "45000",
                 "Energy_cost": "10",
@@ -6337,7 +6337,7 @@
             }
         },
         "name": "Perfected Ultra Instinct Son Goku, Transcendence",
-        "type": "BATTLE",
+        "type": "Main_Deck",
         "Rarity": "Secret Rare[SCR]",
         "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT26/BT26-140.webp",
         "Power": "45000",
