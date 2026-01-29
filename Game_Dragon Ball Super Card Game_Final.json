@@ -241,7 +241,7 @@
           "Leader",
           "Z_Deck",
           "Sideboard->Z_Deck",
-          "mana"
+          "Mana"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -473,9 +473,9 @@
             "showHiddenCardInHistory": false
           },
           "Mana": {
-            "title": "mana",
+            "title": "Mana",
             "isHidden": "yes",
-            "height": "18",
+            "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
             "displayedTitle": "Warp Area",
