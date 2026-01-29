@@ -240284,6 +240284,9 @@
     },
     "EB1-11": {
         "id": "EB1-11",
+        "tokens": [
+          "saibamanToken"
+        ],
         "face": {
             "front": {
                 "name": "Testing the Opposition [EB1-11]",
@@ -318542,6 +318545,25 @@
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-110_p1.webp",
         "tokens": [
             "E-110_p1"
+        ]
+    },"saibamanToken": {
+        "id": "saibamanToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Saibaman Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/saibamanToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "T-1 Saibaman Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/saibamanToken.png",
+        "tokens": [
+            "saibamanToken"
         ]
     }
 }
