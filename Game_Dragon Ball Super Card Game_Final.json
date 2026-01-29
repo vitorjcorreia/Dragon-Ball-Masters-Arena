@@ -153,7 +153,7 @@
           "Battle",
           "Combo",
           "Energy",
-          "Warp"
+          "Mana"
         ],
         "layout": {
           "direction": "row",
@@ -230,7 +230,7 @@
               },
               "content": [
                 {
-                  "section": "Warp",
+                  "section": "Mana",
                   "style": false
                 }
               ]
@@ -471,8 +471,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Warp": {
-            "title": "Warp",
+          "Mana": {
+            "title": "Mana",
             "isHidden": "no",
             "height": "18",
             "alignment": "CENTER",
