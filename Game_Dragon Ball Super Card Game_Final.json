@@ -242,7 +242,7 @@
           "Leader",
           "Z_Deck",
           "Sideboard->Z_Deck",
-          "Mana->Exile"
+          "Mana"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -331,9 +331,9 @@
             "title": "Exile",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "NONE",
+            "alignment": "Deck",
             "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
+            "isGroupForbidden": false,
             "noAutoPayTo": true,
             "displayedTitle": "Exile",
             "opponentAlignment": false,
