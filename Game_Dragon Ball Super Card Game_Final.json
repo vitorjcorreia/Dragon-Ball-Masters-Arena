@@ -87,11 +87,12 @@
       "newTurn": {
         "drawOnStart": false,
         "sharedTurn": false,
-        "firstPlayerTokenName": "E-109",
         "drawPerTurn": 1
       },
       "defaultNotes": "",
-      "tokens": [],
+      "tokens": [
+        "E-109"
+      ],
       "countersStartingValues": [
         0
       ],
@@ -241,7 +242,7 @@
           "Leader",
           "Z_Deck",
           "Sideboard->Z_Deck",
-          "Exile->Mana"
+          "Mana->Exile"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
