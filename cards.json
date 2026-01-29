@@ -318565,5 +318565,81 @@
         "tokens": [
             "saibamanToken"
         ]
+    },"chilledToken": {
+        "id": "chilledToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Chilled Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/chilledToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "T-2 Chilled Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/chilledToken.png",
+        "tokens": [
+            "chilledToken"
+        ]
+    },"friezaToken": {
+        "id": "friezaToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Frieza Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/friezaToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "T-3 Frieza Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/friezaToken.png",
+        "tokens": [
+            "friezaToken"
+        ]
+    },"medaToken": {
+        "id": "medaToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Meda Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/medaToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "T-4 Meda Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/medaToken.png",
+        "tokens": [
+            "medaToken"
+        ]
+    },"demonToken": {
+        "id": "demonToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Demon Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/demonToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "T-5 Demon Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/demonToken.png",
+        "tokens": [
+            "demonToken"
+        ]
     }
 }
