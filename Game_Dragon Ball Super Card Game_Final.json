@@ -154,9 +154,7 @@
           "Battle",
           "Combo",
           "Energy",
-          "Mana",
-          "Exile",
-          "ExileRemoved"
+          "Mana"
         ],
         "layout": {
           "direction": "row",
@@ -235,13 +233,6 @@
                 {
                   "section": "Mana",
                   "style": false
-                }, {
-                  "section": "Exile",
-                  "style": false
-                },
-                {
-                  "section": "ExileRemoved",
-                  "style": false
                 }
               ]
             }
@@ -250,9 +241,7 @@
         "categoriesAlreadyOnBoard": [
           "Leader",
           "Z_Deck",
-          "Mana",
-          "Exile",
-          "ExileRemoved"
+          "Mana"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -337,15 +326,16 @@
             "showHiddenCardInHistory": false
           },
           "Exile": {
-            "title": "ExileWarp",
+            "isDefaultSection": true,
+            "title": "Exile",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "Combo",
+            "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
+            "displayedTitle": "Exile",
             "opponentAlignment": false,
-            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -353,10 +343,11 @@
             "showHiddenCardInHistory": false
           },
           "ExileHidden": {
+            "isDefaultSection": true,
             "title": "ExileHidden",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "DEFAULT",
-            "alignment": "Energy",
+            "alignment": "NONE",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
