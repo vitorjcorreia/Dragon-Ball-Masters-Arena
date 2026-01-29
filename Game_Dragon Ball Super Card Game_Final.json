@@ -240,7 +240,8 @@
         "categoriesAlreadyOnBoard": [
           "Leader",
           "Z_Deck",
-          "Sideboard->Z_Deck"
+          "Sideboard->Z_Deck",
+          "mana"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -473,18 +474,18 @@
           },
           "Mana": {
             "title": "mana",
-            "isHidden": "no",
+            "isHidden": "yes",
             "height": "18",
-            "alignment": "CENTER",
+            "alignment": "DECK",
             "opponentAlignment": false,
+            "displayedTitle": "Warp Area",
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Warp Area",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
+            "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
           "Z-Energy": {
