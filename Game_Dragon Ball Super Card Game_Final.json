@@ -328,10 +328,10 @@
           },
           "Exile": {
             "isDefaultSection": true,
-            "title": "Exile",
+            "title": "ExileWarp",
             "isHidden": "no",
             "height": "SMALL",
-            "alignment": "NONE",
+            "alignment": "Combo",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
@@ -346,9 +346,9 @@
           "ExileHidden": {
             "isDefaultSection": true,
             "title": "ExileHidden",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "DEFAULT",
-            "alignment": "NONE",
+            "alignment": "Energy",
             "isHorizontalAllowed": false,
             "isGroupForbidden": true,
             "noAutoPayTo": true,
@@ -475,7 +475,7 @@
           },
           "Mana": {
             "title": "Mana",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "DECK",
             "opponentAlignment": false,
