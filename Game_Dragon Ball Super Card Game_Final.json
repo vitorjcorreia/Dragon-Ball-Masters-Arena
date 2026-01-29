@@ -241,7 +241,7 @@
           "Leader",
           "Z_Deck",
           "Sideboard->Z_Deck",
-          "Mana"
+          "Exile->Mana"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -486,7 +486,7 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": true
           },
           "Z-Energy": {
             "title": "Z-Energy",
