@@ -154,7 +154,9 @@
           "Battle",
           "Combo",
           "Energy",
-          "Mana"
+          "Mana",
+          "Exile",
+          "ExileRemoved"
         ],
         "layout": {
           "direction": "row",
@@ -233,6 +235,13 @@
                 {
                   "section": "Mana",
                   "style": false
+                }, {
+                  "section": "Exile",
+                  "style": false
+                },
+                {
+                  "section": "ExileRemoved",
+                  "style": false
                 }
               ]
             }
@@ -241,10 +250,9 @@
         "categoriesAlreadyOnBoard": [
           "Leader",
           "Z_Deck",
-          "Sideboard->Z_Deck",
           "Mana",
           "Exile",
-          "ExileHidden"
+          "ExileRemoved"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
