@@ -21,6 +21,6 @@ The repository is organized in the following way:
 
 ## Acknowledgments
 Special thanks to:
-* Adam and the [Deckplanet](https://www.deckplanet.net) team for all the support and card data they provided.
+* Kyle and the [Deckplanet](https://www.deckplanet.net) team for all the support and card data they provided.
 * [TCG Arena](https://www.tcg-arena.fr) team for the amazing platform that helps ship card games to digital.
 * All the testers that used their free time to point out errors, potential enhancements and future concerns. 
