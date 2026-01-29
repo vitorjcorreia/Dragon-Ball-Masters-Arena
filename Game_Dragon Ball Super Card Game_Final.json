@@ -242,7 +242,9 @@
           "Leader",
           "Z_Deck",
           "Sideboard->Z_Deck",
-          "Mana"
+          "Mana",
+          "Exile",
+          "ExileHidden"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
