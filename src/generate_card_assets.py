@@ -149,6 +149,37 @@ for series, cards in tqdm(cards_grouped_by_series.items(), desc="Generating card
             if not os.path.exists(card_image_back_path):
                 download_image(url=f'{IMG_SRC_URL}/{card['id']}_b.webp', path=card_image_back_path)
 
+markers_processed = {}
+with open('./markers.json', 'r', encoding='utf-8') as f:
+    markers = json.load(f)
+    for marker in markers:
+        marker_entry = {
+            f'{marker['code']}': {
+                'id': marker['code'],
+                'isToken': True,
+                'face': {
+                    'front': {
+                        'name': marker['cardName'],
+                        'type': 'Energy Marker',
+                        'cost': None,
+                        'image': marker['image'],
+                        'isHorizontal': False
+                    }
+                },
+                'name':  marker['cardName'],
+                'type': 'Energy Marker',
+                'cost': None,
+                'image': marker['image'],
+                'tokens': [
+                    marker['code']
+                ]
+            }
+        }
+
+        markers_processed.update(marker_entry)
+
+all_cards.update(markers_processed)
 
 with open('./cards.json', 'w', encoding='utf-8') as f:
     json.dump(all_cards, f, indent=4, ensure_ascii=False)
+
