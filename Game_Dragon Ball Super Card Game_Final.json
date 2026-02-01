@@ -169,10 +169,6 @@
               },
               "content": [
                 {
-                  "section": "Z_Deck",
-                  "style": false
-                },
-                {
                   "section": "Z-Energy",
                   "style": false
                 }
@@ -180,9 +176,18 @@
             },
             {
               "direction": "column",
-              "style": { "width": "15vh" },
+              "style": {
+                "width": "15vh"
+              },
               "content": [
-                { "section": "Z-Faced-Up" }
+                {
+                  "section": "Z-Faced-Up",
+                  "style": false
+                },
+                {
+                  "section": "Z_Deck",
+                  "style": false
+                }
               ]
             },
             {
