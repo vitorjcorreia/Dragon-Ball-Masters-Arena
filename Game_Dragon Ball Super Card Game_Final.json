@@ -162,45 +162,45 @@
           "direction": "row",
           "isSymetricalForOpponents": false,
           "content": [
-          {
-                "direction": "column",
-                "style": { "width": "45vh" },
-                "content": [
-                  {
-                    "direction": "row",
-                    "content": [
-                      {
-                        "section": "Z-Energy",
-                        "style": { "width": "15vh" }
-                      },
-                      {
-                        "section": "Z-Faced-Up",
-                        "style": { "width": "15vh" }
-                      },
-                      {
-                        "section": "Leader",
-                        "style": { "width": "15vh" }
-                      }
-                    ]
-                  },
-                  {
-                    "direction": "row",
-                    "content": [
-                      {
-                        "style": { "width": "15vh" }
-                      },
-                      {
-                        "section": "Z_Deck",
-                        "style": { "width": "15vh" }
-                      },
-                      {
-                        "section": "Life",
-                        "style": { "width": "15vh" }
-                      }
-                    ]
-                  }
-                ]
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh"
               },
+              "content": [
+                {
+                  "section": "Z_Deck",
+                  "style": false
+                },
+                {
+                  "section": "Z-Energy",
+                  "style": false
+                }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": { "width": "15vh" },
+              "content": [
+                { "section": "Z-Faced-Up" }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "15vh"
+              },
+              "content": [
+                {
+                  "section": "Leader",
+                  "style": false
+                },
+                {
+                  "section": "Life",
+                  "style": false
+                }
+              ]
+            },
             {
               "direction": "column",
               "style": {
