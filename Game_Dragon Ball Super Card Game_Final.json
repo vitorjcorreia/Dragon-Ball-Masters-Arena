@@ -147,11 +147,13 @@
       "sections": {
         "customSections": [
           "Z_Deck",
+          "Z-Faced-Up",
           "Z-Energy",
           "Leader",
           "Life",
           "Unison",
           "Battle",
+          "Field",
           "Combo",
           "Energy",
           "Mana"
@@ -174,6 +176,13 @@
                   "section": "Z-Energy",
                   "style": false
                 }
+              ]
+            },
+            {
+              "direction": "column",
+              "style": { "width": "15vh" },
+              "content": [
+                { "section": "Z-Faced Up" }
               ]
             },
             {
@@ -215,8 +224,11 @@
                   ]
                 },
                 {
-                  "section": "Combo",
-                  "style": false
+                  "direction": "row",
+                  "content": [
+                    { "section": "Field", "style": { "flex": 1 } },
+                    { "section": "Combo", "style": { "flex": 1 } }
+                  ]
                 },
                 {
                   "section": "Energy",
@@ -456,6 +468,22 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+          "Field": {
+            "title": "Field",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Field Area",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Energy": {
             "title": "Energy",
             "isHidden": "no",
@@ -511,6 +539,22 @@
             "alignment": "DECK",
             "opponentAlignment": false,
             "displayedTitle": "Z-Deck Area",
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Z-Faced Up": {
+            "title": "Z-Faced Up",
+            "isHidden": "no",
+            "height": "18",
+            "alignment": "DECK",
+            "opponentAlignment": false,
+            "displayedTitle": "Z-Faced Up",
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "noQuickActions": true,
