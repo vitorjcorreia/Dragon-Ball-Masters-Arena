@@ -226,7 +226,7 @@
                 {
                   "direction": "row",
                   "content": [
-                    { "section": "Field", "style": { "flex": 1 } },
+                    { "section": "Field", "style": { "width": "18vh" } },
                     { "section": "Combo", "style": { "flex": 1 } }
                   ]
                 },
@@ -554,7 +554,7 @@
             "height": "18",
             "alignment": "DECK",
             "opponentAlignment": false,
-            "displayedTitle": "Z-Faced Up",
+            "displayedTitle": "Z-Deck Faced Up",
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "noQuickActions": true,
