@@ -557,11 +557,11 @@
             "displayedTitle": "Z-Deck Faced Up",
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "noQuickActions": true,
+            "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           }
         }
