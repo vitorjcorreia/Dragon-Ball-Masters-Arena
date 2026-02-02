@@ -63,16 +63,13 @@ with open(input_file, 'r', encoding='utf-8') as f:
         series_norm = series.replace(" ", "").strip()
         img_url = f'{IMAGE_BASE_URL}/{series_norm}/{card["img_link"]}.webp'
 
-        # card_series_path = f"{ASSETS_PATH}/{series_norm}"
-        # if not os.path.exists(card_series_path):
-        #     os.mkdir(card_series_path, exist_ok=True)
-        card_name_fqdn = f'{card['card_name']} [{card['card_number'].split("_")[0]}]'
+        card_name_fqdn = f'{card['card_name']} // {card['card_back_name']} [{card['card_number'].split("_")[0]}]' if card['card_type'] == "LEADER" else f'{card['card_name']} [{card['card_number'].split("_")[0]}]'
         card_entry = {
             f'{card["card_number"]}': {
                 'id': card['card_number'],
                 'face': {
                     'front': {
-                        'name': card_name_fqdn,
+                        'name': card['card_name'],
                         'type': card['card_type'],
                         'cost': card['card_energy_cost'],
                         'power': card['card_power'],
