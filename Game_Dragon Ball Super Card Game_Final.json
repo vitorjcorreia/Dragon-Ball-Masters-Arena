@@ -238,7 +238,10 @@
                 },
                 {
                   "section": "Energy",
-                  "style": false
+                    "style": {
+                    "height": "9vh",
+                    "minHeight": "9vh"
+                  }
                 }
               ]
             },
