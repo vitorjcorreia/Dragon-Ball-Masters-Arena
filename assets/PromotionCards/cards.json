@@ -37228,5 +37228,87 @@
             "activate main/battle",
             "once per turn"
         ]
+    },
+    "P-715": {
+        "id": "P-715",
+        "face": {
+            "front": {
+                "name": "Android 13",
+                "type": "LEADER",
+                "cost": null,
+                "power": "10000",
+                "Energy_cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-715.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Fusion Android 13, Masterpiece of Hate",
+                "type": "LEADER",
+                "cost": null,
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-715_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 13 // Fusion Android 13, Masterpiece of Hate [P-715]",
+        "type": "Leader",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-715.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "cost": null,
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "Promotion Cards",
+        "Character": [
+            "Android 13"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "once per turn",
+            "activate main",
+            "awaken"
+        ]
+    },
+    "P-716": {
+        "id": "P-716",
+        "face": {
+            "front": {
+                "name": "Android 13, War Demon",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-716.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 13, War Demon [P-716]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-716.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Android 13"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "activate main/battle",
+            "limit 1"
+        ]
     }
 }
