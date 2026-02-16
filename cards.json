@@ -67317,6 +67317,9 @@
             "Blocker",
             "Permanent",
             "Counter"
+        ],
+        "tokens": [
+            "demonToken"
         ]
     },
     "BT16-124_PR": {
@@ -240677,6 +240680,9 @@
             "Blocker",
             "Permanent",
             "Counter"
+        ],
+        "tokens": [
+            "saibamanToken"
         ]
     },
     "EB1-12": {
@@ -241153,6 +241159,9 @@
             "Blocker",
             "Permanent",
             "Counter"
+        ],
+        "tokens": [
+            "chilledToken"
         ]
     },
     "EB1-22_PR": {
@@ -241781,6 +241790,9 @@
             "Blocker",
             "Permanent",
             "Counter"
+        ],
+        "tokens": [
+            "medaToken"
         ]
     },
     "EB1-37_PR": {
@@ -242232,6 +242244,9 @@
             "Blocker",
             "Permanent",
             "Counter"
+        ],
+        "tokens": [
+            "friezaToken"
         ]
     },
     "EB1-48_PR": {
@@ -297450,7 +297465,7 @@
             "once per turn"
         ]
     },
-        "P-715": {
+    "P-715": {
         "id": "P-715",
         "face": {
             "front": {
@@ -318989,5 +319004,90 @@
         "tokens": [
             "E-110_p1"
         ]
+    },
+    "saibamanToken": {
+        "id": "saibamanToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Saibaman Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/saibamanToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Saibaman Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/saibamanToken.png"
+    },
+    "medaToken": {
+        "id": "medaToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Meda Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/medaToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Meda Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/medaToken.png"
+    },
+    "friezaToken": {
+        "id": "friezaToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Frieza's Army Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/friezaToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Frieza's Army Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/friezaToken.png"
+    },
+    "demonToken": {
+        "id": "demonToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Demon Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/demonToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Demon Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/demonToken.png"
+    },
+    "chilledToken": {
+        "id": "chilledToken",
+        "isToken": true,
+        "face": {
+            "front": {
+                "name": "Chilled's Army Token",
+                "type": "Token",
+                "cost": null,
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/chilledToken.png",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chilled's Army Token",
+        "type": "Token",
+        "cost": null,
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/chilledToken.png"
     }
 }

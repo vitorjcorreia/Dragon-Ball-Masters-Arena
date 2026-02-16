@@ -23,6 +23,10 @@ def fix_whitspaces(img):
 def fix_image(image_path, image_type):
     id = image_path.split("\\")[-1].split(".")[0]
     series = id.split('-')[0]
+
+    if series == "P":
+        series = "PromotionCards"
+
     dest_path = f'{ASSETS_PATH}/{series}/{id}.webp'
 
     with Image.open(image_path) as img:

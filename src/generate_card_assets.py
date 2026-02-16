@@ -177,6 +177,33 @@ with open('./markers.json', 'r', encoding='utf-8') as f:
 
 all_cards.update(markers_processed)
 
+token_processed = {}
+with open('./tokens.json', 'r', encoding='utf-8') as f:
+    tokens = json.load(f)
+    for token in tokens:
+        token_entry = {
+            f'{token['id']}': {
+                'id': f'{token['id']}',
+                'isToken': True,
+                'face': {
+                    'front': {
+                        'name': token['name'],
+                        'type': 'Token',
+                        'cost': None,
+                        'image': token['image'],
+                        'isHorizontal': False
+                    }
+                },
+                'name': token['name'],
+                'type': 'Token',
+                'cost': None,
+                'image': token['image']
+            }
+        }
+        token_processed.update(token_entry)
+        all_cards[token['linkToCardID']]['tokens'] = [token['id']]
+
+all_cards.update(token_processed)
+
 with open('./cards.json', 'w', encoding='utf-8') as f:
     json.dump(all_cards, f, indent=4, ensure_ascii=False)
-
