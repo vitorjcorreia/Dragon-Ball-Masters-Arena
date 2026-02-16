@@ -5,7 +5,7 @@ from PIL import Image, ImageChops
 ASSETS_PATH = "./assets"
 
 images_to_fix = [os.path.normpath(g) for g in glob.glob("./src/cards2fix/**/*", recursive=True) if os.path.isfile(g)]
-
+print(images_to_fix)
 def fix_zextra_orientation(img):
     img = img.rotate(90, expand=True)
     return img
@@ -34,6 +34,9 @@ def fix_image(image_path, image_type):
             img = fix_zextra_orientation(img)
             img = fix_whitspaces(img)
 
+            img.save(dest_path, format='webp')
+        else:
+            img = fix_whitspaces(img)
             img.save(dest_path, format='webp')
 
 
