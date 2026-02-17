@@ -155,8 +155,7 @@
           "Battle",
           "Field",
           "Combo",
-          "Energy",
-          "Mana"
+          "Energy"
         ],
         "layout": {
           "direction": "row",
@@ -244,25 +243,12 @@
                   }
                 }
               ]
-            },
-            {
-              "direction": "column",
-              "style": {
-                "width": "15vh"
-              },
-              "content": [
-                {
-                  "section": "Mana",
-                  "style": false
-                }
-              ]
             }
           ]
         },
         "categoriesAlreadyOnBoard": [
           "Leader",
-          "Z_Deck",
-          "Mana"
+          "Z_Deck"
         ],
         "autoPlayFromHand": {
           "Battle": "Battle",
@@ -508,22 +494,6 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          },
-          "Mana": {
-            "title": "Mana",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "DECK",
-            "opponentAlignment": false,
-            "displayedTitle": "Warp Area",
-            "noAutoPayTo": true,
-            "isHorizontalAllowed": false,
-            "noQuickActions": true,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": true,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": true
           },
           "Z-Energy": {
             "title": "Z-Energy",
