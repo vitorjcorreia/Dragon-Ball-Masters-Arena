@@ -402473,5 +402473,723 @@
     "status": "published",
     "z_energy_cost": null,
     "variants": []
+  },
+  {
+    "img_link": "BT30-001",
+    "card_type": "LEADER",
+    "card_series": "BT30",
+    "card_rarity": "Uncommon[UC]",
+    "card_color": "Red",
+    "card_number": "BT30-001",
+    "card_name": "Son Goku, Vegeta, & Trunks",
+    "card_character": [
+      "Son Goku",
+      "Vegeta",
+      "Trunks: Future"
+    ],
+    "card_traits": [
+      "Saiyan",
+      "Earthling"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "10000",
+    "card_skill": "<Badge variant=\"blue\">Auto</Badge> When this card attacs, look at up to 5 cards from the top of your deck, add up to 1 red ≪Saiyan≫ card to your hand, then shuffle your deck. <br /> <Badge variant=\"yellow\">Awaken</Badge> When your life is at 4 or less or you have a total of 3 or more red ≪Saiyan≫ cards in your energy and Battle Area: Switch up to 1 of your energy to Active Mode, add up to 1 {Spirit} from your deck to your hand, shuffle your deck, and add cards from your life to your hand until you have 6 life left.",
+    "card_skill_unstyled": "[auto] When this card attacs, look at up to 5 cards from the top of your deck, add up to 1 red ≪Saiyan≫ card to your hand, then shuffle your deck.\n[br]\n[awaken] When your life is at 4 or less or you have a total of 3 or more red ≪Saiyan≫ cards in your energy and Battle Area: Switch up to 1 of your energy to Active Mode, add up to 1 {Spirit} from your deck to your hand, shuffle your deck, and add cards from your life to your hand until you have 6 life left.",
+    "card_back_name": "Super Saiyans United",
+    "card_back_character": [
+      "Son Goku",
+      "Vegeta",
+      "Trunks: Future"
+    ],
+    "card_back_traits": [
+      "Saiyan",
+      "Earthling"
+    ],
+    "card_back_era": [
+      "Android 13 Saga"
+    ],
+    "card_back_power": "15000",
+    "card_back_skill": "<Badge variant=\"blue\">Auto</Badge><Badge variant=\"red\">Once per turn</Badge> When one of your cards is added to your Z-Energy, draw 1 card. <br /> <Badge variant=\"blue\">Auto</Badge> If you have 1 or more {Spirit} under any of the cards in your Battle Area and you place all of them at the bottom of their owner's deck: At the end of your turn, draw 1 card. <br /> <Badge variant=\"orange\">Activate: Battle</Badge><Badge variant=\"red\">Once per turn</Badge> Place 1 {Spirit} from your Z-Energy at the bottom of its owner's deck: Choose up to 1 of your cards and it gets +5000 power for the battle.",
+    "card_back_skill_unstyled": "[auto][once per turn] When one of your cards is added to your Z-Energy, draw 1 card.\n[br]\n[auto] If you have 1 or more {Spirit} under any of the cards in your Battle Area and you place all of them at the bottom of their owner's deck: At the end of your turn, draw 1 card.\n[br]\n[activate battle][once per turn] Place 1 {Spirit} from your Z-Energy at the bottom of its owner's deck: Choose up to 1 of your cards and it gets +5000 power for the battle.",
+    "card_energy_cost": "",
+    "card_combo_cost": "",
+    "card_combo_power": "",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-002",
+    "card_type": "Z-UNISON",
+    "card_series": "BT30",
+    "card_rarity": "Super Rare[SR]",
+    "card_color": "Red",
+    "card_number": "BT30-002",
+    "card_name": "Fusion Android 13, Hatred Endgame",
+    "card_character": [
+      ""
+    ],
+    "card_traits": [
+      ""
+    ],
+    "card_era": [
+      ""
+    ],
+    "card_power": "20000",
+    "card_skill": "<Badge variant=\"red\">Blocker</Badge> <br /> <Badge variant=\"blue\">Auto</Badge> When this card attacks, add 1 marker to it, then choose up to 1 of your opponent's Battle Cards with 15000 power or less, ignoring <Badge variant=\"red\">Barrier</Badge>, and KO it. <br /> <img src=\"../../images/cardlist/common/UNISON_plus-minus_00.png\" alt=\"0\" class=\"skillText\"><Badge variant=\"orange\">Activate: Main</Badge> Switch this card to Active Mode. <br /> <img src=\"../../images/cardlist/common/UNISON_minus_04.png\" alt=\"-4\" class=\"skillText\"><Badge variant=\"orange\">Activate: Main/Battle</Badge> Choose all of your opponent's Battle Cards and they get -20000 power for the turn.",
+    "card_skill_unstyled": "[blocker]\n[br]\n[auto] When this card attacks, add 1 marker to it, then choose up to 1 of your opponent's Battle Cards with 15000 power or less, ignoring [barrier], and KO it.\n[br]\n[0][activate main] Switch this card to Active Mode.\n[br]\n[-4][activate main/battle] Choose all of your opponent's Battle Cards and they get -20000 power for the turn.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "X",
+    "card_combo_cost": "",
+    "card_combo_power": "",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": "2"
+  },
+  {
+    "img_link": "BT30-003",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Rare[R]",
+    "card_color": "Red",
+    "card_number": "BT30-003",
+    "card_name": "SS Son Goku, Infinite Power",
+    "card_character": [
+      "Son Goku"
+    ],
+    "card_traits": [
+      "Saiyan"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "20000",
+    "card_skill": "<Badge variant=\"red\">Double Strike</Badge> <br /> <Badge variant=\"blue\">Auto</Badge>: When this card attacks, place up to 4 Extras from your Z-Energy under this card, then choose any number of your opponent's Battle Cards whose total power is less than or equal to this card's power, ignoring <Badge variant=\"red\">Barrier</Badge>, and KO them. <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge>, if your Leader is a red ≪Saiyan≫ card and you have 3 or more energy: Draw 1 card and play this card from your hand.",
+    "card_skill_unstyled": "[double strike]\n[br]\n[auto]{r}: When this card attacks, place up to 4 Extras from your Z-Energy under this card, then choose any number of your opponent's Battle Cards whose total power is less than or equal to this card's power, ignoring [barrier], and KO them.\n[br]\n[activate main][limit 1]{r}, if your Leader is a red ≪Saiyan≫ card and you have 3 or more energy: Draw 1 card and play this card from your hand.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "6",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-004",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Rare[R]",
+    "card_color": "Red",
+    "card_number": "BT30-004",
+    "card_name": "SS Son Goku, Unmatched Power",
+    "card_character": [
+      "Son Goku"
+    ],
+    "card_traits": [
+      "Saiyan"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "25000",
+    "card_skill": "<Badge variant=\"red\">Dual Attack</Badge> <br /> <Badge variant=\"blue\">Auto</Badge> When this card attacks, add up to 1 {Spirit} from your Drop to your Z-Energy. <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge>, if your Leader is {Super Saiyans United} and you have 3 or more energy: Play this card from your hand, then add up to 1 {Spirit} from your Drop to your Z-Energy.",
+    "card_skill_unstyled": "[dual attack]\n[br]\n[auto] When this card attacks, add up to 1 {Spirit} from your Drop to your Z-Energy.\n[br]\n[activate main][limit 1]{r}, if your Leader is {Super Saiyans United} and you have 3 or more energy: Play this card from your hand, then add up to 1 {Spirit} from your Drop to your Z-Energy.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "4",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-005",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Uncommon[UC]",
+    "card_color": "Red",
+    "card_number": "BT30-005",
+    "card_name": "Son Goku, Saiyans Assembled",
+    "card_character": [
+      "Son Goku"
+    ],
+    "card_traits": [
+      "Saiyan"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "15000",
+    "card_skill": "<Badge variant=\"red\">Critical</Badge> <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge>, if your Leader's back side is {Super Saiyans United} and you have 2 or more energy: Play this card from your hand, then add up to 1 {Spirit} from your Drop to your Z-Energy. <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Once per turn</Badge> Place up to 1 {Spirit} from your Z-Energy under this card.",
+    "card_skill_unstyled": "[critical]\n[br]\n[activate main][limit 1]{r}, if your Leader's back side is {Super Saiyans United} and you have 2 or more energy: Play this card from your hand, then add up to 1 {Spirit} from your Drop to your Z-Energy.\n[br]\n[activate main][once per turn] Place up to 1 {Spirit} from your Z-Energy under this card.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "3",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-006",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Super Rare[SR]",
+    "card_color": "Red",
+    "card_number": "BT30-006",
+    "card_name": "SS Son Goku, SS Vegeta, & SS Trunks, Golden Warriors",
+    "card_character": [
+      "Son Goku",
+      "Vegeta",
+      "Trunks: Future"
+    ],
+    "card_traits": [
+      "Saiyan",
+      "Earthling"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "25000",
+    "card_skill": "<Badge variant=\"red\">Dual Attack</Badge> <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge>, if your Leader is red, you have 3 or more energy, and you have 4 or more Z-Energy: Play this card from your hand. <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge> Place 1 of your Z-Energyunder this card: Your Leader gets +5000 power until the end of your opponent's turn.",
+    "card_skill_unstyled": "[dual attack]\n[br]\n[activate main][limit 1]{r}, if your Leader is red, you have 3 or more energy, and you have 4 or more Z-Energy: Play this card from your hand.\n[br]\n[activate main][limit 1] Place 1 of your Z-Energyunder this card: Your Leader gets +5000 power until the end of your opponent's turn.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "6",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-007",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Common[C]",
+    "card_color": "Red",
+    "card_number": "BT30-007",
+    "card_name": "Son Gohan, Rising Up",
+    "card_character": [
+      "Son Gohan: Childhood"
+    ],
+    "card_traits": [
+      "Saiyan",
+      "Earthling"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "4000",
+    "card_skill": "<Badge variant=\"blue\">Auto</Badge> When this card is played, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck. <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge> If your Leader's back side is {Super Saiyans United} and you add this card to your Z-Energy: Add up to 1 {Spirit} from your life to your hand, then shuffle your life.",
+    "card_skill_unstyled": "[auto] When this card is played, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck.\n[br]\n[activate main][limit 1] If your Leader's back side is {Super Saiyans United} and you add this card to your Z-Energy: Add up to 1 {Spirit} from your life to your hand, then shuffle your life.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "1",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-008",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Rare[R]",
+    "card_color": "Red",
+    "card_number": "BT30-008",
+    "card_name": "SS Vegeta, Unmatched Power",
+    "card_character": [
+      "Vegeta"
+    ],
+    "card_traits": [
+      "Saiyan"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "25000",
+    "card_skill": "<Badge variant=\"blue\">Auto</Badge> When this card is played, choose up to 2 of your opponent's Battle Cards with 25000 power of less and KO them. <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge>, if your Leader is {Super Saiyans United} and your opponent has 3 or more energy: Play this card from your hand, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck.",
+    "card_skill_unstyled": "[auto] When this card is played, choose up to 2 of your opponent's Battle Cards with 25000 power of less and KO them.\n[br]\n[activate main][limit 1]{r}, if your Leader is {Super Saiyans United} and your opponent has 3 or more energy: Play this card from your hand, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "4",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-009",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Uncommon[UC]",
+    "card_color": "Red",
+    "card_number": "BT30-009",
+    "card_name": "Vegeta, Saiyans Assembled",
+    "card_character": [
+      "Vegeta"
+    ],
+    "card_traits": [
+      "Saiyan"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "15000",
+    "card_skill": "<Badge variant=\"red\">Deflect</Badge> <br /> <Badge variant=\"blue\">Auto</Badge> When this card is played or attacks, choose up to 1 of your opponent's Battle Cards and it gets -10000 power for the turn. <br /> <Badge variant=\"orange\">Activate: Main</Badge><Badge variant=\"red\">Limit 1</Badge>, if your Leader's back side is {Super Saiyans United} and you have 2 or more energy: Play this card from your hand, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck.",
+    "card_skill_unstyled": "[deflect]\n[br]\n[auto] When this card is played or attacks, choose up to 1 of your opponent's Battle Cards and it gets -10000 power for the turn.\n[br]\n[activate main][limit 1]{r}, if your Leader's back side is {Super Saiyans United} and you have 2 or more energy: Play this card from your hand, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "3",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-010",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Super Rare[SR]",
+    "card_color": "Red",
+    "card_number": "BT30-010",
+    "card_name": "SS Trunks, Unmatched Power",
+    "card_character": [
+      "Trunks: Future"
+    ],
+    "card_traits": [
+      "Saiyan",
+      "Earthling"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "15000",
+    "card_skill": "<Badge variant=\"red\">Deflect</Badge> <br /> <Badge variant=\"blue\">Auto</Badge> When this card is played or attacks, choose one -- <ul> <li> Place up to 1 red card from your deck into its owner's Drop, then shuffle your deck.</li> <li> Add up to 1 red card from your Drop to your Z-Energy with its skills negated for the turn </li> </ul> <br /> <Badge variant=\"orange\">Activate: Main</Badge>, if your Leader is red and you have 2 or more energy: Draw 1 card and play this card from your hand.",
+    "card_skill_unstyled": "[deflect]\n[br]\n[auto] When this card is played or attacks, choose one --\n[ul]\n[li] Place up to 1 red card from your deck into its owner's Drop, then shuffle your deck.[/li]\n[li] Add up to 1 red card from your Drop to your Z-Energy with its skills negated for the turn [/li]\n[/ul]\n[br]\n[activate main]{r}, if your Leader is red and you have 2 or more energy: Draw 1 card and play this card from your hand.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "4",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-011",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Common[C]",
+    "card_color": "Red",
+    "card_number": "BT30-011",
+    "card_name": "Trunks, Saiyans Assembled",
+    "card_character": [
+      "Trunks: Future"
+    ],
+    "card_traits": [
+      "Saiyan",
+      "Earthling"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "4000",
+    "card_skill": "<Badge variant=\"blue\">Auto</Badge> When this card is played, look at up to 5 cards from the top of your deck, add up to 1 red ≪Saiyan≫ card with an energy cost of 4 or less to your hand, then shuffle your deck. <br /> <Badge variant=\"orange\">Activate: Main</Badge> If your Leader's back side is {Super Saiyans United} and you add this card to your Z-Energy: Place up to 1 {Spirit} from your deck into its owner's Drop, then shuffle your deck.",
+    "card_skill_unstyled": "[auto] When this card is played, look at up to 5 cards from the top of your deck, add up to 1 red ≪Saiyan≫ card with an energy cost of 4 or less to your hand, then shuffle your deck.\n[br]\n[activate main] If your Leader's back side is {Super Saiyans United} and you add this card to your Z-Energy: Place up to 1 {Spirit} from your deck into its owner's Drop, then shuffle your deck.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "1",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-012",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Common[C]",
+    "card_color": "Red",
+    "card_number": "BT30-012",
+    "card_name": "Piccolo, Rescue",
+    "card_character": [
+      "Piccolo"
+    ],
+    "card_traits": [
+      "Namekian",
+      "God"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "4000",
+    "card_skill": "<Badge variant=\"green\">Counter: Attack</Badge> If your Leader is {Super Saiyans United}: Negate the attack and play this card. <br /> <Badge variant=\"blue\">Auto</Badge> When this card is played, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck.",
+    "card_skill_unstyled": "[counter attack] If your Leader is {Super Saiyans United}: Negate the attack and play this card.\n[br]\n[auto] When this card is played, add up to 1 {Spirit} from your deck to your hand, then shuffle your deck.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "1",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-013",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Uncommon[UC]",
+    "card_color": "Red",
+    "card_number": "BT30-013",
+    "card_name": "Android 18, Cold Stare",
+    "card_character": [
+      "Android 18"
+    ],
+    "card_traits": [
+      "Android"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "10000",
+    "card_skill": "<Badge variant=\"red\">Super Combo</Badge> <br /> <Badge variant=\"blue\">Auto</Badge> If your Leader is red, your life is at 4 or less, and all of your energy is red: When this card is used in a combo, it gets +10000 combo power for the battle. Additionally, you may place 1 card from your hand at the bottom of your deck. If you do, draw 2 cards.",
+    "card_skill_unstyled": "[super combo]\n[br]\n[auto] If your Leader is red, your life is at 4 or less, and all of your energy is red: When this card is used in a combo, it gets +10000 combo power for the battle. Additionally, you may place 1 card from your hand at the bottom of your deck. If you do, draw 2 cards.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "2",
+    "card_combo_cost": "0",
+    "card_combo_power": "0",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-014",
+    "card_type": "BATTLE",
+    "card_series": "BT30",
+    "card_rarity": "Common[C]",
+    "card_color": "Red",
+    "card_number": "BT30-014",
+    "card_name": "Android 14, War Demon",
+    "card_character": [
+      "Android 14"
+    ],
+    "card_traits": [
+      "Android"
+    ],
+    "card_era": [
+      "Android 13 Saga"
+    ],
+    "card_power": "20000",
+    "card_skill": "<Badge variant=\"red\">Blocker</Badge> <br /> <Badge variant=\"green\">Counter: Attack</Badge><Badge variant=\"red\">Limit 1</Badge> Play this card. <br /> <Badge variant=\"purple\">Permanent</Badge> If your Leader is a red &lt;Android 13&gt; card and you have a red Unison with a specific cost of 3 in play, you may activate this card's <Badge variant=\"green\">Counter</Badge> skill from your hand without paying its energy cost.",
+    "card_skill_unstyled": "[blocker]\n[br]\n[counter attack][limit 1] Play this card.\n[br]\n[permanent] If your Leader is a red <Android 13> card and you have a red Unison with a specific cost of 3 in play, you may activate this card's [counter] skill from your hand without paying its energy cost.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "5",
+    "card_combo_cost": "0",
+    "card_combo_power": "5000",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
+  },
+  {
+    "img_link": "BT30-015",
+    "card_type": "EXTRA",
+    "card_series": "BT30",
+    "card_rarity": "Common[C]",
+    "card_color": "Red",
+    "card_number": "BT30-015",
+    "card_name": "Spirit",
+    "card_character": [
+      ""
+    ],
+    "card_traits": [
+      ""
+    ],
+    "card_era": [
+      ""
+    ],
+    "card_power": "",
+    "card_skill": "<Badge variant=\"purple\">Permanent</Badge> If your Leader is {Super Saiyans United} and this card is under a &lt;Son Goku&gt; Battle Card, the card on top of this card gets +10000 power.  <br /> <Badge variant=\"orange\">Activate: Main</Badge> If your Leader's back side is {Super Saiyans United}: Draw 1 card.",
+    "card_skill_unstyled": "[permanent] If your Leader is {Super Saiyans United} and this card is under a <Son Goku> Battle Card, the card on top of this card gets +10000 power. \n[br]\n[activate main] If your Leader's back side is {Super Saiyans United}: Draw 1 card.",
+    "card_back_name": "",
+    "card_back_character": [
+      ""
+    ],
+    "card_back_traits": [
+      ""
+    ],
+    "card_back_era": [
+      ""
+    ],
+    "card_back_power": "",
+    "card_back_skill": "",
+    "card_back_skill_unstyled": "",
+    "card_energy_cost": "0",
+    "card_combo_cost": "",
+    "card_combo_power": "",
+    "status": "Draft",
+    "sort": null,
+    "has_errata": false,
+    "is_banned": false,
+    "is_limited": false,
+    "keywords": [],
+    "limited_to": 4,
+    "view_count": 0,
+    "is_horizontal": false,
+    "z_energy_cost": ""
   }
 ]

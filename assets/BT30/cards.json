@@ -1,0 +1,500 @@
+{
+    "BT30-001": {
+        "id": "BT30-001",
+        "face": {
+            "front": {
+                "name": "Son Goku, Vegeta, & Trunks",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-001.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Super Saiyans United",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-001_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Vegeta, & Trunks // Super Saiyans United [BT30-001]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-001.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku",
+            "Vegeta",
+            "Trunks: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-002": {
+        "id": "BT30-002",
+        "face": {
+            "front": {
+                "name": "Fusion Android 13, Hatred Endgame",
+                "type": "Z-UNISON",
+                "cost": "X",
+                "power": "20000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-002.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Fusion Android 13, Hatred Endgame [BT30-002]",
+        "type": "Z_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-002.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-003": {
+        "id": "BT30-003",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Infinite Power",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-003.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goku, Infinite Power [BT30-003]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-003.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-004": {
+        "id": "BT30-004",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Unmatched Power",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-004.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goku, Unmatched Power [BT30-004]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-004.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-005": {
+        "id": "BT30-005",
+        "face": {
+            "front": {
+                "name": "Son Goku, Saiyans Assembled",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-005.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Saiyans Assembled [BT30-005]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-005.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-006": {
+        "id": "BT30-006",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, SS Vegeta, & SS Trunks, Golden Warriors",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-006.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goku, SS Vegeta, & SS Trunks, Golden Warriors [BT30-006]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-006.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku",
+            "Vegeta",
+            "Trunks: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-007": {
+        "id": "BT30-007",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Rising Up",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-007.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Gohan, Rising Up [BT30-007]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-007.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Gohan: Childhood"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-008": {
+        "id": "BT30-008",
+        "face": {
+            "front": {
+                "name": "SS Vegeta, Unmatched Power",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-008.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Vegeta, Unmatched Power [BT30-008]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-008.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-009": {
+        "id": "BT30-009",
+        "face": {
+            "front": {
+                "name": "Vegeta, Saiyans Assembled",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-009.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegeta, Saiyans Assembled [BT30-009]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-009.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-010": {
+        "id": "BT30-010",
+        "face": {
+            "front": {
+                "name": "SS Trunks, Unmatched Power",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-010.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Trunks, Unmatched Power [BT30-010]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-010.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Trunks: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-011": {
+        "id": "BT30-011",
+        "face": {
+            "front": {
+                "name": "Trunks, Saiyans Assembled",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-011.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Trunks, Saiyans Assembled [BT30-011]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-011.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Trunks: Future"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-012": {
+        "id": "BT30-012",
+        "face": {
+            "front": {
+                "name": "Piccolo, Rescue",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-012.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Piccolo, Rescue [BT30-012]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-012.webp",
+        "Power": "4000",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian",
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-013": {
+        "id": "BT30-013",
+        "face": {
+            "front": {
+                "name": "Android 18, Cold Stare",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-013.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 18, Cold Stare [BT30-013]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-013.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "0",
+        "Series": "BT30",
+        "Character": [
+            "Android 18"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-014": {
+        "id": "BT30-014",
+        "face": {
+            "front": {
+                "name": "Android 14, War Demon",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-014.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 14, War Demon [BT30-014]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-014.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Android 14"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-015": {
+        "id": "BT30-015",
+        "face": {
+            "front": {
+                "name": "Spirit",
+                "type": "EXTRA",
+                "cost": "0",
+                "power": "",
+                "Energy_cost": "0",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-015.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spirit [BT30-015]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-015.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "0",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": []
+    }
+}
