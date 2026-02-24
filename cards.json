@@ -315606,6 +315606,102 @@
         "Banned": false,
         "Keywords": []
     },
+        "BT30-045": {
+        "id": "BT30-045",
+        "face": {
+            "front": {
+                "name": "Babidi, Power of Control",
+                "type": "Z-UNISON",
+                "cost": "X",
+                "power": "1000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-045.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Babidi, Power of Control [BT30-045]",
+        "type": "Z_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-045.webp",
+        "Power": "1000",
+        "Color": "Green",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-046": {
+        "id": "BT30-046",
+        "face": {
+            "front": {
+                "name": "Videl, Tomboy Warrior",
+                "type": "Z_Deck",
+                "cost": "1",
+                "power": "5000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-046.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Videl, Tomboy Warrior [BT30-046]",
+        "type": "Z_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-046.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-055": {
+        "id": "BT30-055",
+        "face": {
+            "front": {
+                "name": "Hercule, Savior",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-055.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hercule, Savior [BT30-055]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-055.webp",
+        "Power": "1000",
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Hercule"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
     "BT30-067": {
         "id": "BT30-067",
         "face": {
@@ -316004,6 +316100,38 @@
         ],
         "Traits": [
             "Majin",
+            "Demon Realm"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+        "BT30-079": {
+        "id": "BT30-079",
+        "face": {
+            "front": {
+                "name": "King Gomah, Strong Power",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-079.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "King Gomah, Strong Power [BT30-079]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-079.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "King Gomah : DA"
+        ],
+        "Traits": [
             "Demon Realm"
         ],
         "Banned": false,
