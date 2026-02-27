@@ -297547,6 +297547,715 @@
             "limit 1"
         ]
     },
+        "P-723": {
+        "id": "P-723",
+        "face": {
+            "front": {
+                "name": "Favorable Situation",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-723.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Favorable Situation [P-723]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-723.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "Promotion Cards",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": null,
+        "Keywords": [
+            ""
+        ]
+    },
+    "P-724": {
+        "id": "P-724",
+        "face": {
+            "front": {
+                "name": "Impulses of Sadness and Rage",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-724.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Impulses of Sadness and Rage [P-724]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-724.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "Promotion Cards",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": null,
+        "Keywords": [
+            ""
+        ]
+    },
+    "P-725": {
+        "id": "P-725",
+        "face": {
+            "front": {
+                "name": "SS3 Nappa, Spirit of Fortitude",
+                "type": "Z-UNISON",
+                "cost": "X",
+                "power": "15000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-725.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS3 Nappa, Spirit of Fortitude [P-725]",
+        "type": "Z_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-725.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "Promotion Cards",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "+1",
+            "Activate: Main",
+            "Once per turn",
+            "Auto"
+        ]
+    },
+    "P-726": {
+        "id": "P-726",
+        "face": {
+            "front": {
+                "name": "Vegeta, Haughty Prince",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-726.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegeta, Haughty Prince [P-726]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-726.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "activate main/battle"
+        ]
+    },
+    "P-727": {
+        "id": "P-727",
+        "face": {
+            "front": {
+                "name": "SSG Son Goku & SSG Vegeta, Realm of Triumph",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-727.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SSG Son Goku & SSG Vegeta, Realm of Triumph [P-727]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-727.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Son Goku : Br",
+            "Vegeta : Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "activate main"
+        ]
+    },
+    "P-728": {
+        "id": "P-728",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Overflowing Fighting Spirit",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-728.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Gogeta, Overflowing Fighting Spirit [P-728]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-728.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Gogeta : Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "deflect"
+        ]
+    },
+    "P-728_PR": {
+        "id": "P-728",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Overflowing Fighting Spirit",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "15000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-728_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Gogeta, Overflowing Fighting Spirit [P-728]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-728_PR.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Gogeta : Br"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "deflect"
+        ]
+    },
+    "P-729": {
+        "id": "P-729",
+        "face": {
+            "front": {
+                "name": "Brolly, Feeligns of Rage ",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-729.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Brolly, Feeligns of Rage [P-729]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-729.webp",
+        "Power": "25000",
+        "Color": "Green",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Brolly : Br"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "deflect",
+            "Activate Main"
+        ]
+    },
+    "P-729_PR": {
+        "id": "P-729",
+        "face": {
+            "front": {
+                "name": "Brolly, Feeligns of Rage ",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-729_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Brolly, Feeligns of Rage [P-729]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-729_PR.webp",
+        "Power": "25000",
+        "Color": "Green",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Brolly : Br"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "deflect",
+            "Activate Main"
+        ]
+    },
+    "P-730": {
+        "id": "P-730",
+        "face": {
+            "front": {
+                "name": "Cheelai & Shenron, Wish to Save a Friend",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-730.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cheelai & Shenron, Wish to Save a Friend [P-730]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-730.webp",
+        "Power": "15000",
+        "Color": "Green",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Cheelai: Br",
+            "Shenron: Br"
+        ],
+        "Traits": [
+            "Shenron",
+            "Frieza's Army"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "auto",
+            "deflect",
+            "Activate Main"
+        ]
+    },
+    "P-731": {
+        "id": "P-731",
+        "face": {
+            "front": {
+                "name": "Core",
+                "type": "Z-EXTRA",
+                "cost": "3",
+                "power": "",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-731.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Core [P-731]",
+        "type": "Z_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-731.webp",
+        "Power": "",
+        "Color": "Yellow",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "",
+        "Series": "Promotion Cards",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Permanent",
+            "Activate Main"
+        ]
+    },
+    "P-732": {
+        "id": "P-732",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan, Maturation Process",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "5000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-732.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Gohan, Maturation Process [P-732]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-732.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "Promotion Cards",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Auto",
+            "Activate Main",
+            "Empower Yellow 3"
+        ]
+    },
+    "P-733": {
+        "id": "P-733",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Stockpiled Power",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-733.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goku, Stockpiled Power [P-733]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-733.webp",
+        "Power": "15000",
+        "Color": "Yellow",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Auto",
+            "Activate Main",
+            "Activate Battle"
+        ]
+    },
+    "P-734": {
+        "id": "P-734",
+        "face": {
+            "front": {
+                "name": "Meta-Cooler, Steel Hatred",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-734.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Meta-Cooler, Steel Hatred [P-734]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-734.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Meta-Cooler"
+        ],
+        "Traits": [
+            "Frieza Clan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Auto",
+            "Activate Main",
+            "Critical"
+        ]
+    },
+    "P-734_PR": {
+        "id": "P-734",
+        "face": {
+            "front": {
+                "name": "Meta-Cooler, Steel Hatred",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-734_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Meta-Cooler, Steel Hatred [P-734]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-734_PR.webp",
+        "Power": "25000",
+        "Color": "Yellow",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Meta-Cooler"
+        ],
+        "Traits": [
+            "Frieza Clan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Auto",
+            "Activate Main",
+            "Critical"
+        ]
+    },
+    "P-735": {
+        "id": "P-735",
+        "face": {
+            "front": {
+                "name": "Rage",
+                "type": "Z-EXTRA",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-735.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rage [P-735]",
+        "type": "Z_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-735.webp",
+        "Power": "",
+        "Color": "Black",
+        "cost": "2",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "Promotion Cards",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Auto"
+        ]
+    },
+    "P-736": {
+        "id": "P-736",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Aggregation of Rage",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-736.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Aggregation of Rage [P-736]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-736.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Activate Main"
+        ]
+    },
+    "P-737": {
+        "id": "P-737",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku, Battling Across Time and Space",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-737.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Son Goku, Battling Across Time and Space [P-737]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-737.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Son Goku: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Permanent",
+            "Over Realm 5",
+            "Counter Attack"
+        ]
+    },
+    "P-738": {
+        "id": "P-738",
+        "face": {
+            "front": {
+                "name": "SS4 Vegeta, Battling Across Time and Space",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-738.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Vegeta, Battling Across Time and Space [P-738]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-738.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Vegeks: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Over Realm 5",
+            "Auto",
+            "Activate Battle"
+        ]
+    },
+    "P-738_PR": {
+        "id": "P-738",
+        "face": {
+            "front": {
+                "name": "SS4 Vegeta, Battling Across Time and Space",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-738_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Vegeta, Battling Across Time and Space [P-738]",
+        "type": "Main_Deck",
+        "Rarity": "Promotion[PR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/PromotionCards/P-738_PR.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "Promotion Cards",
+        "Character": [
+            "Vegeks: Xeno"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": null,
+        "Keywords": [
+            "Over Realm 5",
+            "Auto",
+            "Activate Battle"
+        ]
+    },
     "SD1-01": {
         "id": "SD1-01",
         "face": {
