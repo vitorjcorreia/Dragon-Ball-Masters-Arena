@@ -317280,6 +317280,338 @@
         "Banned": false,
         "Keywords": []
     },
+        "BT30-083": {
+        "id": "BT30-083",
+        "face": {
+            "front": {
+                "name": "Heles, Graceful Beauty",
+                "type": "Z-BATTLE",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-083.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Heles, Graceful Beauty [BT30-083]",
+        "type": "Z_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-083.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "2",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            "Heles"
+        ],
+        "Traits": [
+            "God",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-084": {
+        "id": "BT30-084",
+        "face": {
+            "front": {
+                "name": "Support Broadcast",
+                "type": "Z-EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-084.webp",
+                "isHorizontal": true
+            }
+        },
+        "name": "Support Broadcast [BT30-084]",
+        "type": "Z_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-084.webp",
+        "Power": "",
+        "Color": "Black",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-085": {
+        "id": "BT30-085",
+        "face": {
+            "front": {
+                "name": "Son Goku, Ultra Technique",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-085.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Ultra Technique [BT30-085]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-085.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-086": {
+        "id": "BT30-086",
+        "face": {
+            "front": {
+                "name": "SSG Son Goku, Backing Up Comrades",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-086.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SSG Son Goku, Backing Up Comrades [BT30-086]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-086.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-087": {
+        "id": "BT30-087",
+        "face": {
+            "front": {
+                "name": "Son Gohan, Backing Up Comrades",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-087.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Gohan, Backing Up Comrades [BT30-087]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-087.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-088": {
+        "id": "BT30-088",
+        "face": {
+            "front": {
+                "name": "SSB Vegeta, Accepted Fate",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-088.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SSB Vegeta, Accepted Fate [BT30-088]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-088.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-094": {
+        "id": "BT30-094",
+        "face": {
+            "front": {
+                "name": "Android 17 & Frieza, Headstrong Rivals",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-094.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 17 & Frieza, Headstrong Rivals [BT30-094]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-094.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "cost": "3",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Android 17",
+            "Frieza"
+        ],
+        "Traits": [
+            "Android",
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-095": {
+        "id": "BT30-095",
+        "face": {
+            "front": {
+                "name": "Ribrianne, Witchy Warrior",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-095.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ribrianne, Witchy Warrior [BT30-095]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-095.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Ribrianne"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-097": {
+        "id": "BT30-097",
+        "face": {
+            "front": {
+                "name": "Formation!! Brianne De Chateau",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-097.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Formation!! Brianne De Chateau [BT30-097]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-097.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Brianne De Chateau"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
+    "BT30-151": {
+        "id": "BT30-151",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku, Blasting Through the Demon Realm",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-151.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Son Goku, Blasting Through the Demon Realm [BT30-151]",
+        "type": "Main_Deck",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-151.webp",
+        "Power": "40000",
+        "Color": "Yellow",
+        "cost": "8",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: DA"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Demon Realm"
+        ],
+        "Banned": false,
+        "Keywords": []
+    },
     "E-42": {
         "id": "E-42",
         "isToken": true,
