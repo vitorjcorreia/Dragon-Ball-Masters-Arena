@@ -1,54 +1,507 @@
 {
-    "BT30-083": {
-        "id": "BT30-083",
+    "BT30-089": {
+        "id": "BT30-089",
         "face": {
             "front": {
-                "name": "Heles, Graceful Beauty",
-                "type": "Z-BATTLE",
-                "cost": "2",
-                "power": "20000",
-                "Energy_cost": "2",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-083.webp",
+                "name": "Piccolo, Backing Up Comrades",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-089.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Heles, Graceful Beauty [BT30-083]",
-        "type": "Z_Deck",
-        "Rarity": "Super Rare[SR]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-083.webp",
-        "Power": "20000",
+        "name": "Piccolo, Backing Up Comrades [BT30-089]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-089.webp",
+        "Power": "15000",
         "Color": "Black",
-        "cost": "2",
-        "Combo_cost": "",
-        "Combo_power": "",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
         "Series": "BT30",
         "Character": [
-            "Heles"
+            "Piccolo"
         ],
         "Traits": [
+            "Namekian",
             "God",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "activate: battle",
+            "limit 1"
+        ]
+    },
+    "BT30-090": {
+        "id": "BT30-090",
+        "face": {
+            "front": {
+                "name": "Krillin, Backing Up Comrades",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-090.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Krillin, Backing Up Comrades [BT30-090]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-090.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Krillin"
+        ],
+        "Traits": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: battle",
+            "limit 1"
+        ]
+    },
+    "BT30-091": {
+        "id": "BT30-091",
+        "face": {
+            "front": {
+                "name": "Tien Shinhan, Backing Up Comrades",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-091.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tien Shinhan, Backing Up Comrades [BT30-091]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-091.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Tien Shinhan"
+        ],
+        "Traits": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: battle",
+            "limit 1"
+        ]
+    },
+    "BT30-092": {
+        "id": "BT30-092",
+        "face": {
+            "front": {
+                "name": "Master Roshi, Backing Up Comrades",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-092.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Master Roshi, Backing Up Comrades [BT30-092]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-092.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "0",
+        "Series": "BT30",
+        "Character": [
+            "Master Roshi"
+        ],
+        "Traits": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "super combo",
+            "auto"
+        ]
+    },
+    "BT30-093": {
+        "id": "BT30-093",
+        "face": {
+            "front": {
+                "name": "Android 18, Backing Up Comrades",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-093.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 18, Backing Up Comrades [BT30-093]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-093.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Android 18"
+        ],
+        "Traits": [
+            "Android",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "counter: attack",
+            "limit 1",
+            "permanent"
+        ]
+    },
+    "BT30-096": {
+        "id": "BT30-096",
+        "face": {
+            "front": {
+                "name": "Song of Love and Victory! Maiden Squadron",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-096.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Song of Love and Victory! Maiden Squadron [BT30-096]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-096.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Ribrianne",
+            "Kakunsa",
+            "Rozie"
+        ],
+        "Traits": [
+            "Maiden Squadron",
             "Universe 2"
         ],
         "Banned": false,
-        "Keywords": []
+        "Keywords": [
+            "auto",
+            "burst 2",
+            "activate: main",
+            "limit 1",
+            "barrier"
+        ]
     },
-    "BT30-084": {
-        "id": "BT30-084",
+    "BT30-098": {
+        "id": "BT30-098",
         "face": {
             "front": {
-                "name": "Support Broadcast",
-                "type": "Z-EXTRA",
+                "name": "Brianne De Chateau, Hope of the Multiverse",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-098.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Brianne De Chateau, Hope of the Multiverse [BT30-098]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-098.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Brianne De Chateau"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "counter: attack",
+            "counter: counter"
+        ]
+    },
+    "BT30-099": {
+        "id": "BT30-099",
+        "face": {
+            "front": {
+                "name": "Kakunsa, Witchy Warrior",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-099.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kakunsa, Witchy Warrior [BT30-099]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-099.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Kakunsa"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "blocker",
+            "auto",
+            "limit 1",
+            "barrier"
+        ]
+    },
+    "BT30-100": {
+        "id": "BT30-100",
+        "face": {
+            "front": {
+                "name": "Formation! Sanka Ku",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-100.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Formation! Sanka Ku [BT30-100]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-100.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Sanka Ku"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "limit 1"
+        ]
+    },
+    "BT30-101": {
+        "id": "BT30-101",
+        "face": {
+            "front": {
+                "name": "Sanka Ku, Fighting Maiden",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-101.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Sanka Ku, Fighting Maiden [BT30-101]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-101.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Sanka Ku"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "limit 1",
+            "activate: main"
+        ]
+    },
+    "BT30-102": {
+        "id": "BT30-102",
+        "face": {
+            "front": {
+                "name": "Rozie, Witchy Warrior",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-102.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Rozie, Witchy Warrior [BT30-102]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-102.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Rozie"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "limit 1",
+            "activate: battle",
+            "once per turn"
+        ]
+    },
+    "BT30-103": {
+        "id": "BT30-103",
+        "face": {
+            "front": {
+                "name": "Formation! Su Roas",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-103.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Formation! Su Roas [BT30-103]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-103.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Su Roas"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "limit 1"
+        ]
+    },
+    "BT30-104": {
+        "id": "BT30-104",
+        "face": {
+            "front": {
+                "name": "Su Roas, Fighting Maiden",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-104.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Su Roas, Fighting Maiden [BT30-104]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-104.webp",
+        "Power": "4000",
+        "Color": "Black",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Su Roas"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "auto",
+            "limit 1"
+        ]
+    },
+    "BT30-105": {
+        "id": "BT30-105",
+        "face": {
+            "front": {
+                "name": "Decisive Combo Attack",
+                "type": "EXTRA",
                 "cost": "1",
                 "power": "",
                 "Energy_cost": "1",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-084.webp",
-                "isHorizontal": true
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-105.webp",
+                "isHorizontal": false
             }
         },
-        "name": "Support Broadcast [BT30-084]",
-        "type": "Z_Deck",
+        "name": "Decisive Combo Attack [BT30-105]",
+        "type": "Main_Deck",
         "Rarity": "Common[C]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-084.webp",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-105.webp",
         "Power": "",
         "Color": "Black",
         "cost": "1",
@@ -62,273 +515,46 @@
             ""
         ],
         "Banned": false,
-        "Keywords": []
+        "Keywords": [
+            "activate: battle",
+            "double strike"
+        ]
     },
-    "BT30-085": {
-        "id": "BT30-085",
+    "BT30-106": {
+        "id": "BT30-106",
         "face": {
             "front": {
-                "name": "Son Goku, Ultra Technique",
-                "type": "BATTLE",
-                "cost": "4",
-                "power": "25000",
-                "Energy_cost": "4",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-085.webp",
+                "name": "Delivery of Love",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-106.webp",
                 "isHorizontal": false
             }
         },
-        "name": "Son Goku, Ultra Technique [BT30-085]",
-        "type": "Main_Deck",
-        "Rarity": "Rare[R]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-085.webp",
-        "Power": "25000",
-        "Color": "Black",
-        "cost": "4",
-        "Combo_cost": "0",
-        "Combo_power": "5000",
-        "Series": "BT30",
-        "Character": [
-            "Son Goku"
-        ],
-        "Traits": [
-            "Saiyan",
-            "Universe 7"
-        ],
-        "Banned": false,
-        "Keywords": []
-    },
-    "BT30-086": {
-        "id": "BT30-086",
-        "face": {
-            "front": {
-                "name": "SSG Son Goku, Backing Up Comrades",
-                "type": "BATTLE",
-                "cost": "3",
-                "power": "20000",
-                "Energy_cost": "3",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-086.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "SSG Son Goku, Backing Up Comrades [BT30-086]",
-        "type": "Main_Deck",
-        "Rarity": "Uncommon[UC]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-086.webp",
-        "Power": "20000",
-        "Color": "Black",
-        "cost": "3",
-        "Combo_cost": "0",
-        "Combo_power": "5000",
-        "Series": "BT30",
-        "Character": [
-            "Son Goku"
-        ],
-        "Traits": [
-            "Saiyan",
-            "Universe 7"
-        ],
-        "Banned": false,
-        "Keywords": []
-    },
-    "BT30-087": {
-        "id": "BT30-087",
-        "face": {
-            "front": {
-                "name": "Son Gohan, Backing Up Comrades",
-                "type": "BATTLE",
-                "cost": "4",
-                "power": "15000",
-                "Energy_cost": "4",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-087.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "Son Gohan, Backing Up Comrades [BT30-087]",
+        "name": "Delivery of Love [BT30-106]",
         "type": "Main_Deck",
         "Rarity": "Common[C]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-087.webp",
-        "Power": "15000",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-106.webp",
+        "Power": "",
         "Color": "Black",
-        "cost": "4",
-        "Combo_cost": "0",
-        "Combo_power": "5000",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
         "Series": "BT30",
         "Character": [
-            "Son Gohan: Adolescence"
+            ""
         ],
         "Traits": [
-            "Saiyan",
-            "Earthling",
-            "Universe 7"
+            ""
         ],
         "Banned": false,
-        "Keywords": []
-    },
-    "BT30-088": {
-        "id": "BT30-088",
-        "face": {
-            "front": {
-                "name": "SSB Vegeta, Accepted Fate",
-                "type": "BATTLE",
-                "cost": "4",
-                "power": "25000",
-                "Energy_cost": "4",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-088.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "SSB Vegeta, Accepted Fate [BT30-088]",
-        "type": "Main_Deck",
-        "Rarity": "Super Rare[SR]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-088.webp",
-        "Power": "25000",
-        "Color": "Black",
-        "cost": "4",
-        "Combo_cost": "0",
-        "Combo_power": "5000",
-        "Series": "BT30",
-        "Character": [
-            "Vegeta"
-        ],
-        "Traits": [
-            "Saiyan",
-            "Universe 7"
-        ],
-        "Banned": false,
-        "Keywords": []
-    },
-    "BT30-094": {
-        "id": "BT30-094",
-        "face": {
-            "front": {
-                "name": "Android 17 & Frieza, Headstrong Rivals",
-                "type": "BATTLE",
-                "cost": "3",
-                "power": "15000",
-                "Energy_cost": "3",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-094.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "Android 17 & Frieza, Headstrong Rivals [BT30-094]",
-        "type": "Main_Deck",
-        "Rarity": "Rare[R]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-094.webp",
-        "Power": "15000",
-        "Color": "Black",
-        "cost": "3",
-        "Combo_cost": "1",
-        "Combo_power": "10000",
-        "Series": "BT30",
-        "Character": [
-            "Android 17",
-            "Frieza"
-        ],
-        "Traits": [
-            "Android",
-            "Frieza Clan",
-            "Universe 7"
-        ],
-        "Banned": false,
-        "Keywords": []
-    },
-    "BT30-095": {
-        "id": "BT30-095",
-        "face": {
-            "front": {
-                "name": "Ribrianne, Witchy Warrior",
-                "type": "BATTLE",
-                "cost": "4",
-                "power": "25000",
-                "Energy_cost": "4",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-095.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "Ribrianne, Witchy Warrior [BT30-095]",
-        "type": "Main_Deck",
-        "Rarity": "Rare[R]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-095.webp",
-        "Power": "25000",
-        "Color": "Black",
-        "cost": "4",
-        "Combo_cost": "0",
-        "Combo_power": "5000",
-        "Series": "BT30",
-        "Character": [
-            "Ribrianne"
-        ],
-        "Traits": [
-            "Maiden Squadron",
-            "Universe 2"
-        ],
-        "Banned": false,
-        "Keywords": []
-    },
-    "BT30-097": {
-        "id": "BT30-097",
-        "face": {
-            "front": {
-                "name": "Formation!! Brianne De Chateau",
-                "type": "BATTLE",
-                "cost": "2",
-                "power": "10000",
-                "Energy_cost": "2",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-097.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "Formation!! Brianne De Chateau [BT30-097]",
-        "type": "Main_Deck",
-        "Rarity": "Uncommon[UC]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-097.webp",
-        "Power": "10000",
-        "Color": "Black",
-        "cost": "2",
-        "Combo_cost": "0",
-        "Combo_power": "5000",
-        "Series": "BT30",
-        "Character": [
-            "Brianne De Chateau"
-        ],
-        "Traits": [
-            "Maiden Squadron",
-            "Universe 2"
-        ],
-        "Banned": false,
-        "Keywords": []
-    },
-    "BT30-151": {
-        "id": "BT30-151",
-        "face": {
-            "front": {
-                "name": "SS4 Son Goku, Blasting Through the Demon Realm",
-                "type": "BATTLE",
-                "cost": "8",
-                "power": "40000",
-                "Energy_cost": "8",
-                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-151.webp",
-                "isHorizontal": false
-            }
-        },
-        "name": "SS4 Son Goku, Blasting Through the Demon Realm [BT30-151]",
-        "type": "Main_Deck",
-        "Rarity": "Secret Rare[SCR]",
-        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-151.webp",
-        "Power": "40000",
-        "Color": "Yellow",
-        "cost": "8",
-        "Combo_cost": "1",
-        "Combo_power": "10000",
-        "Series": "BT30",
-        "Character": [
-            "Son Goku: DA"
-        ],
-        "Traits": [
-            "Saiyan",
-            "Demon Realm"
-        ],
-        "Banned": false,
-        "Keywords": []
+        "Keywords": [
+            "counter: attack",
+            "activate: main/battle",
+            "permanent",
+            "auto"
+        ]
     }
 }
