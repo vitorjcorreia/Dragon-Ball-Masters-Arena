@@ -318130,6 +318130,535 @@
             "limit 1"
         ]
     },
+    "BT30-118": {
+        "id": "BT30-118",
+        "face": {
+            "front": {
+                "name": "Yamcha, Training on King Kai's Planet",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-118.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yamcha, Training on King Kai's Planet [BT30-118]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-118.webp",
+        "Power": "10000",
+        "Color": "White",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Yamcha"
+        ],
+        "Traits": [
+            "Earthling",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "limit 1",
+            "dual attack"
+        ]
+    },
+    "BT30-119": {
+        "id": "BT30-119",
+        "face": {
+            "front": {
+                "name": "Tien Shinhan, Training on King Kai's Planet",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-119.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Tien Shinhan, Training on King Kai's Planet [BT30-119]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-119.webp",
+        "Power": "10000",
+        "Color": "White",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Tien Shinhan"
+        ],
+        "Traits": [
+            "Earthling",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "limit 1",
+            "double strike"
+        ]
+    },
+    "BT30-120": {
+        "id": "BT30-120",
+        "face": {
+            "front": {
+                "name": "Chiaotzu, Training on King Kai's Planet",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-120.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chiaotzu, Training on King Kai's Planet [BT30-120]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-120.webp",
+        "Power": "10000",
+        "Color": "White",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Chiaotzu"
+        ],
+        "Traits": [
+            "Earthling",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "blocker",
+            "auto",
+            "limit 1",
+            "barrier"
+        ]
+    },
+    "BT30-121": {
+        "id": "BT30-121",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Ready for a Shared Fate",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-121.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goku, Ready for a Shared Fate [BT30-121]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-121.webp",
+        "Power": "30000",
+        "Color": "White",
+        "cost": "8",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "double strike",
+            "auto",
+            "barrier",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-122": {
+        "id": "BT30-122",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Strong Bonds",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-122.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goku, Strong Bonds [BT30-122]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-122.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "critical",
+            "auto",
+            "barrier",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-123": {
+        "id": "BT30-123",
+        "face": {
+            "front": {
+                "name": "Son Goku, Bonds With Comrades",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-123.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Bonds With Comrades [BT30-123]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-123.webp",
+        "Power": "4000",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-124": {
+        "id": "BT30-124",
+        "face": {
+            "front": {
+                "name": "Son Goku, Pan, & Trunks, Universe Odyssey",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-124.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Pan, & Trunks, Universe Odyssey [BT30-124]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-124.webp",
+        "Power": "25000",
+        "Color": "White",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: GT",
+            "Pan",
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "blocker",
+            "auto",
+            "activate: main",
+            "limit 1",
+            "dual attack"
+        ]
+    },
+    "BT30-125": {
+        "id": "BT30-125",
+        "face": {
+            "front": {
+                "name": "Pan, Strong Bonds",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-125.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pan, Strong Bonds [BT30-125]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-125.webp",
+        "Power": "10000",
+        "Color": "White",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "0",
+        "Series": "BT30",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "super combo",
+            "auto"
+        ]
+    },
+    "BT30-126": {
+        "id": "BT30-126",
+        "face": {
+            "front": {
+                "name": "Pan, Bonds With Comrades",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-126.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pan, Bonds With Comrades [BT30-126]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-126.webp",
+        "Power": "4000",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Pan"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-127": {
+        "id": "BT30-127",
+        "face": {
+            "front": {
+                "name": "Pan & Giru, Like-Minded",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-127.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pan & Giru, Like-Minded [BT30-127]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-127.webp",
+        "Power": "25000",
+        "Color": "White",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Pan",
+            "Giru"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "double strike",
+            "auto",
+            "barrier",
+            "activate: main",
+            "limit 1",
+            "once per turn"
+        ]
+    },
+    "BT30-128": {
+        "id": "BT30-128",
+        "face": {
+            "front": {
+                "name": "SS Trunks, Strong Bonds",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-128.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Trunks, Strong Bonds [BT30-128]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-128.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-129": {
+        "id": "BT30-129",
+        "face": {
+            "front": {
+                "name": "Trunks, Bonds With Comrades",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-129.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Trunks, Bonds With Comrades [BT30-129]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-129.webp",
+        "Power": "15000",
+        "Color": "White",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "blocker",
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-130": {
+        "id": "BT30-130",
+        "face": {
+            "front": {
+                "name": "Trunks, Rough Life",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-130.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Trunks, Rough Life [BT30-130]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-130.webp",
+        "Power": "4000",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Trunks: GT"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-134": {
+        "id": "BT30-134",
+        "face": {
+            "front": {
+                "name": "Serpent Road",
+                "type": "EXTRA",
+                "cost": "8",
+                "power": "",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-134.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Serpent Road [BT30-134]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-134.webp",
+        "Power": "",
+        "Color": "White",
+        "cost": "8",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": [
+            "field",
+            "activate: main",
+            "once per turn"
+        ]
+    },
     "BT30-143": {
         "id": "BT30-143",
         "face": {
