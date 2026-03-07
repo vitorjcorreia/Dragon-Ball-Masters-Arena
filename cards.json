@@ -317838,6 +317838,572 @@
         "Banned": false,
         "Keywords": []
     },
+    "BT30-109": {
+        "id": "BT30-109",
+        "face": {
+            "front": {
+                "name": "King Kai's Planet, Training Grounds",
+                "type": "Z-EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-109.webp",
+                "isHorizontal": true
+            }
+        },
+        "name": "King Kai's Planet, Training Grounds [BT30-109]",
+        "type": "Z_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-109.webp",
+        "Power": "",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "once per turn"
+        ]
+    },
+    "BT30-110": {
+        "id": "BT30-110",
+        "face": {
+            "front": {
+                "name": "Soul Punisher, Purifying Blast",
+                "type": "Z-EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-110.webp",
+                "isHorizontal": true
+            }
+        },
+        "name": "Soul Punisher, Purifying Blast [BT30-110]",
+        "type": "Z_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-110.webp",
+        "Power": "",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "activate: battle"
+        ]
+    },
+    "BT30-111": {
+        "id": "BT30-111",
+        "face": {
+            "front": {
+                "name": "Kaio-Ken Son Goku, Energy Release",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-111.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Kaio-Ken Son Goku, Energy Release [BT30-111]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-111.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "barrier",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-112": {
+        "id": "BT30-112",
+        "face": {
+            "front": {
+                "name": "Son Goku, Training on King Kai's Planet",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-112.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Training on King Kai's Planet [BT30-112]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-112.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-113": {
+        "id": "BT30-113",
+        "face": {
+            "front": {
+                "name": "Piccolo, Strategies for Victory",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-113.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Piccolo, Strategies for Victory [BT30-113]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-113.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Piccolo"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "dual attack",
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-115": {
+        "id": "BT30-115",
+        "face": {
+            "front": {
+                "name": "King Yemma, Guide to King Kai's Planet",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-115.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "King Yemma, Guide to King Kai's Planet [BT30-115]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-115.webp",
+        "Power": "15000",
+        "Color": "White",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "King Yemma"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "once per turn",
+            "activate: battle"
+        ]
+    },
+    "BT30-116": {
+        "id": "BT30-116",
+        "face": {
+            "front": {
+                "name": "Bubbles, Training Support",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-116.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bubbles, Training Support [BT30-116]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-116.webp",
+        "Power": "4000",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Bubbles"
+        ],
+        "Traits": [
+            "God",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: battle",
+            "limit 1"
+        ]
+    },
+    "BT30-117": {
+        "id": "BT30-117",
+        "face": {
+            "front": {
+                "name": "Gregory, Training Support",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-117.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Gregory, Training Support [BT30-117]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-117.webp",
+        "Power": "4000",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Gregory"
+        ],
+        "Traits": [
+            "God",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "limit 1"
+        ]
+    },
+    "BT30-143": {
+        "id": "BT30-143",
+        "face": {
+            "front": {
+                "name": "Android 17, Android 18, & Android 16, Trinity",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-143.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 17, Android 18, & Android 16, Trinity [BT30-143]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-143.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Android 17",
+            "Android 18",
+            "Android 16"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "barrier",
+            "activate: main"
+        ]
+    },
+    "BT30-144": {
+        "id": "BT30-144",
+        "face": {
+            "front": {
+                "name": "Son Goku, Krillin, & Master Roshi, Trinity",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-144.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Krillin, & Master Roshi, Trinity [BT30-144]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-144.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: Childhood",
+            "Krillin: Childhood",
+            "Master Roshi"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Turtle School"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "activate: main"
+        ]
+    },
+    "BT30-145": {
+        "id": "BT30-145",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Babidi, & Dabura, Trinity",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-145.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Babidi, & Dabura, Trinity [BT30-145]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-145.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu",
+            "Evil Wizard Babidi",
+            "Dabura"
+        ],
+        "Traits": [
+            "Majin",
+            "Evil Wizard",
+            "Demon Realm Race"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "activate: main"
+        ]
+    },
+    "BT30-146": {
+        "id": "BT30-146",
+        "face": {
+            "front": {
+                "name": "Broly, Cheelai, & Lemo, Trinity",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-146.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Broly, Cheelai, & Lemo, Trinity [BT30-146]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-146.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Broly: Br",
+            "Cheelai: Br",
+            "Lemo: Br"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "barrier",
+            "activate: main"
+        ]
+    },
+    "BT30-147": {
+        "id": "BT30-147",
+        "face": {
+            "front": {
+                "name": "Frieza, Cooler, & King Cold, Trinity",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-147.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Frieza, Cooler, & King Cold, Trinity [BT30-147]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-147.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Frieza",
+            "Cooler",
+            "King Cold"
+        ],
+        "Traits": [
+            "Frieza Clan",
+            "Frieza's Army"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "barrier",
+            "blocker",
+            "activate: main"
+        ]
+    },
+    "BT30-148": {
+        "id": "BT30-148",
+        "face": {
+            "front": {
+                "name": "Son Goku, Vegeta, & Paikuhand, Trinity",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-148.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Vegeta, & Paikuhand, Trinity [BT30-148]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-148.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku",
+            "Vegeta",
+            "Paikuhan"
+        ],
+        "Traits": [
+            "Saiyan",
+            "West Galaxy Warrior"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "auto",
+            "activate: main"
+        ]
+    },
+    "BT30-149": {
+        "id": "BT30-149",
+        "face": {
+            "front": {
+                "name": "Bulma, Opening Chapter",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-149.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bulma, Opening Chapter [BT30-149]",
+        "type": "Main_Deck",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-149.webp",
+        "Power": "1000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "ultimate",
+            "activate: main"
+        ]
+    },
     "BT30-083": {
         "id": "BT30-083",
         "face": {
