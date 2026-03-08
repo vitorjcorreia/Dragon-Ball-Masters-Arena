@@ -318623,6 +318623,463 @@
             "limit 1"
         ]
     },
+        "BT30-114": {
+        "id": "BT30-114",
+        "face": {
+            "front": {
+                "name": "North Kai, Wise Guide",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-114.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "North Kai, Wise Guide [BT30-114]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-114.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "North Kai"
+        ],
+        "Traits": [
+            "God",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-131": {
+        "id": "BT30-131",
+        "face": {
+            "front": {
+                "name": "Giru, Travel Companion",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-131.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Giru, Travel Companion [BT30-131]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-131.webp",
+        "Power": "4000",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Giru"
+        ],
+        "Traits": [
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "counter: attack",
+            "barrier",
+            "auto"
+        ]
+    },
+    "BT30-132": {
+        "id": "BT30-132",
+        "face": {
+            "front": {
+                "name": "Giru, Reliable Companion",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-132.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Giru, Reliable Companion [BT30-132]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-132.webp",
+        "Power": "4000",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Giru"
+        ],
+        "Traits": [
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "counter: play",
+            "limit 1",
+            "permanent",
+            "counter"
+        ]
+    },
+    "BT30-133": {
+        "id": "BT30-133",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku, Power of Awakened Bonds",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-133.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Son Goku, Power of Awakened Bonds [BT30-133]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-133.webp",
+        "Power": "30000",
+        "Color": "White",
+        "cost": "8",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "double strike",
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-135": {
+        "id": "BT30-135",
+        "face": {
+            "front": {
+                "name": "Spaceship Flight",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-135.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spaceship Flight [BT30-135]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-135.webp",
+        "Power": "",
+        "Color": "White",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            ""
+        ],
+        "Traits": [
+            ""
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "activate: battle"
+        ]
+    },
+    "BT30-136": {
+        "id": "BT30-136",
+        "face": {
+            "front": {
+                "name": "Toninjinka, Fearsome Ability",
+                "type": "Z-BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-136.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Toninjinka, Fearsome Ability [BT30-136]",
+        "type": "Z_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-136.webp",
+        "Power": "15000",
+        "Color": "Blue/White",
+        "cost": "2",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT30",
+        "Character": [
+            "Toninjinka"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "barrier",
+            "blocker",
+            "permanent",
+            "auto",
+            "limit 1"
+        ]
+    },
+    "BT30-137": {
+        "id": "BT30-137",
+        "face": {
+            "front": {
+                "name": "SS Son Gohan, New Guardian",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-137.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Gohan, New Guardian [BT30-137]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-137.webp",
+        "Power": "30000",
+        "Color": "Green/Yellow",
+        "cost": "8",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Son Gohan: Adolescence"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "energy-exhaust",
+            "double strike",
+            "successor",
+            "limit 1",
+            "auto",
+            "barrier"
+        ]
+    },
+    "BT30-138": {
+        "id": "BT30-138",
+        "face": {
+            "front": {
+                "name": "SS Son Goten, Spirit Explosion",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-138.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goten, Spirit Explosion [BT30-138]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-138.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "cost": "4",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "energy-exhaust",
+            "blocker",
+            "revenge",
+            "successor",
+            "limit 1",
+            "auto",
+            "barrier"
+        ]
+    },
+    "BT30-139": {
+        "id": "BT30-139",
+        "face": {
+            "front": {
+                "name": "SS Son Goten & SS Trunks, Dangerous Duo",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-139.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goten & SS Trunks, Dangerous Duo [BT30-139]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-139.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "cost": "6",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goten",
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "energy-exhaust",
+            "dual attack",
+            "successor",
+            "limit 1",
+            "auto"
+        ]
+    },
+    "BT30-140": {
+        "id": "BT30-140",
+        "face": {
+            "front": {
+                "name": "SS Trunks, Most Mischievous",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-140.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Trunks, Most Mischievous [BT30-140]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-140.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "cost": "4",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Trunks: Youth"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "energy-exhaust",
+            "successor",
+            "limit 1",
+            "auto"
+        ]
+    },
+    "BT30-141": {
+        "id": "BT30-141",
+        "face": {
+            "front": {
+                "name": "Beerus, Godly Battle Spectator",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-141.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Beerus, Godly Battle Spectator [BT30-141]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-141.webp",
+        "Power": "20000",
+        "Color": "Red/Black",
+        "cost": "6",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Beerus"
+        ],
+        "Traits": [
+            "God",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "energy-exhaust",
+            "critical",
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT30-142": {
+        "id": "BT30-142",
+        "face": {
+            "front": {
+                "name": "Whis, Godly Battle Spectator",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "15000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-142.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Whis, Godly Battle Spectator [BT30-142]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-142.webp",
+        "Power": "15000",
+        "Color": "Blue/Black",
+        "cost": "6",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Whis"
+        ],
+        "Traits": [
+            "God",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "energy-exhaust",
+            "blocker",
+            "auto",
+            "activate: main",
+            "limit 1"
+        ]
+    },
     "BT30-134": {
         "id": "BT30-134",
         "face": {
