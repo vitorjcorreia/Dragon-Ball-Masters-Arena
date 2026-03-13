@@ -318623,7 +318623,7 @@
             "limit 1"
         ]
     },
-        "BT30-114": {
+    "BT30-114": {
         "id": "BT30-114",
         "face": {
             "front": {
@@ -319721,6 +319721,1988 @@
         ],
         "Banned": false,
         "Keywords": []
+    },
+    "BT30-003_SPR": {
+        "id": "BT30-003_SPR",
+        "face": {
+            "front": {
+                "name": "SS Son Goku, Infinite Power",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "20000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-003_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goku, Infinite Power [BT30-003]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-003_SPR.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto",
+            "Barrier",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-015_SPR": {
+        "id": "BT30-015_SPR",
+        "face": {
+            "front": {
+                "name": "Spirit",
+                "type": "EXTRA",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-015_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Spirit [BT30-015]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-015_SPR.webp",
+        "Power": null,
+        "Color": "Red",
+        "cost": "0",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Activate: Main"
+        ]
+    },
+    "BT30-018": {
+        "id": "BT30-018",
+        "face": {
+            "front": {
+                "name": "Mai, Here to Help From the Future",
+                "type": "Z-UNISON",
+                "cost": "X",
+                "power": "15000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-018.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mai, Here to Help From the Future [BT30-018]",
+        "type": "Z_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-018.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "cost": "X",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "+2",
+            "Activate: Main",
+            "0",
+            "Activate: Battle"
+        ]
+    },
+    "BT30-019": {
+        "id": "BT30-019",
+        "face": {
+            "front": {
+                "name": "Son Goku, Adventure Partner",
+                "type": "Z-BATTLE",
+                "cost": "3",
+                "power": "25000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-019.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Adventure Partner [BT30-019]",
+        "type": "Z_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-019.webp",
+        "Power": "25000",
+        "Color": "Blue",
+        "cost": "3",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: Childhood"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Barrier",
+            "Blocker",
+            "Auto",
+            "Activate: Main/Battle"
+        ]
+    },
+    "BT30-020": {
+        "id": "BT30-020",
+        "face": {
+            "front": {
+                "name": "Pilaf, Clinging to Ambitions",
+                "type": "Z-BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-020.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pilaf, Clinging to Ambitions [BT30-020]",
+        "type": "Z_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-020.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "cost": "2",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [
+            "Pilaf"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Activate: Battle",
+            "Once per turn"
+        ]
+    },
+    "BT30-021": {
+        "id": "BT30-021",
+        "face": {
+            "front": {
+                "name": "Yamcha, Wolf Gale",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-021.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yamcha, Wolf Gale [BT30-021]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-021.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Yamcha"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Double Strike",
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT30-022": {
+        "id": "BT30-022",
+        "face": {
+            "front": {
+                "name": "Yamcha, Sharp Senses",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "20000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-022.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Yamcha, Sharp Senses [BT30-022]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-022.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Yamcha"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Limit 1",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT30-023": {
+        "id": "BT30-023",
+        "face": {
+            "front": {
+                "name": "Master Roshi, Wise Teachings",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-023.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Master Roshi, Wise Teachings [BT30-023]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-023.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Master Roshi"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Dual Attack",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT30-024": {
+        "id": "BT30-024",
+        "face": {
+            "front": {
+                "name": "Bulma, Dream-Chasing Girl",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-024.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bulma, Dream-Chasing Girl [BT30-024]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-024.webp",
+        "Power": "5000",
+        "Color": "Blue",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto"
+        ]
+    },
+    "BT30-025": {
+        "id": "BT30-025",
+        "face": {
+            "front": {
+                "name": "Bulma, Adventure for a Wish",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-025.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bulma, Adventure for a Wish [BT30-025]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-025.webp",
+        "Power": "1000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Blocker"
+        ]
+    },
+    "BT30-025_SPR": {
+        "id": "BT30-025_SPR",
+        "face": {
+            "front": {
+                "name": "Bulma, Adventure for a Wish",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-025_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bulma, Adventure for a Wish [BT30-025]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-025_SPR.webp",
+        "Power": "1000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Blocker"
+        ]
+    },
+    "BT30-026": {
+        "id": "BT30-026",
+        "face": {
+            "front": {
+                "name": "Bulma, Endless Dreams",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "1000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-026.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Bulma, Endless Dreams [BT30-026]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-026.webp",
+        "Power": "1000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Bulma"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle"
+        ]
+    },
+    "BT30-027": {
+        "id": "BT30-027",
+        "face": {
+            "front": {
+                "name": "Chi-Chi, Girl's Passion",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-027.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Chi-Chi, Girl's Passion [BT30-027]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-027.webp",
+        "Power": "15000",
+        "Color": "Blue",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Chi-Chi"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-028": {
+        "id": "BT30-028",
+        "face": {
+            "front": {
+                "name": "Oolong, Reliable Assists",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-028.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Oolong, Reliable Assists [BT30-028]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-028.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Oolong"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-029": {
+        "id": "BT30-029",
+        "face": {
+            "front": {
+                "name": "Puar, Reliable Assists",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-029.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Puar, Reliable Assists [BT30-029]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-029.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Puar"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-030": {
+        "id": "BT30-030",
+        "face": {
+            "front": {
+                "name": "Ox-King, Warrior Toughness",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-030.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ox-King, Warrior Toughness [BT30-030]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-030.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Ox-King"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Once per turn",
+            "Activate: Main"
+        ]
+    },
+    "BT30-031": {
+        "id": "BT30-031",
+        "face": {
+            "front": {
+                "name": "Pilaf, Conquest Ambitions",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-031.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pilaf, Conquest Ambitions [BT30-031]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-031.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Pilaf"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT30-032": {
+        "id": "BT30-032",
+        "face": {
+            "front": {
+                "name": "Pilaf, Brainiac",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-032.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pilaf, Brainiac [BT30-032]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-032.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Pilaf"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Limit 1",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT30-033": {
+        "id": "BT30-033",
+        "face": {
+            "front": {
+                "name": "Shu, Supporting a Comrade",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "10000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-033.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shu, Supporting a Comrade [BT30-033]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-033.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "0",
+        "Series": "BT30",
+        "Character": [
+            "Shu"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Super Combo",
+            "Auto"
+        ]
+    },
+    "BT30-034": {
+        "id": "BT30-034",
+        "face": {
+            "front": {
+                "name": "Shu, Sinister Scheme",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-034.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shu, Sinister Scheme [BT30-034]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-034.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Shu"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Burst 1",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-035": {
+        "id": "BT30-035",
+        "face": {
+            "front": {
+                "name": "Mai, Supporting a Comrade",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-035.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mai, Supporting a Comrade [BT30-035]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-035.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Mai"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Limit 1"
+        ]
+    },
+    "BT30-036": {
+        "id": "BT30-036",
+        "face": {
+            "front": {
+                "name": "Mai, Sinister Scheme",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-036.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Mai, Sinister Scheme [BT30-036]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-036.webp",
+        "Power": "4000",
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Mai"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Burst 1",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-037": {
+        "id": "BT30-037",
+        "face": {
+            "front": {
+                "name": "Pilaf Machine, Secret Weapon",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-037.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pilaf Machine, Secret Weapon [BT30-037]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-037.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Pilaf Machine"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-038": {
+        "id": "BT30-038",
+        "face": {
+            "front": {
+                "name": "Shenron, Stolen Wish",
+                "type": "BATTLE",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-038.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shenron, Stolen Wish [BT30-038]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-038.webp",
+        "Power": "30000",
+        "Color": "Blue",
+        "cost": "7",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Shenron"
+        ],
+        "Traits": [
+            "Shenron"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Burst 3",
+            "Activate: Main"
+        ]
+    },
+    "BT30-038_SPR": {
+        "id": "BT30-038_SPR",
+        "face": {
+            "front": {
+                "name": "Shenron, Stolen Wish",
+                "type": "BATTLE",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-038_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Shenron, Stolen Wish [BT30-038]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-038_SPR.webp",
+        "Power": "30000",
+        "Color": "Blue",
+        "cost": "7",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Shenron"
+        ],
+        "Traits": [
+            "Shenron"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Permanent",
+            "Auto",
+            "Burst 3",
+            "Activate: Main"
+        ]
+    },
+    "BT30-039": {
+        "id": "BT30-039",
+        "face": {
+            "front": {
+                "name": "King Piccolo, Wish Granted",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-039.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "King Piccolo, Wish Granted [BT30-039]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-039.webp",
+        "Power": "25000",
+        "Color": "Blue",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "King Piccolo"
+        ],
+        "Traits": [
+            "Namekian"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Auto",
+            "Once per turn",
+            "Burst 1",
+            "Super Combo"
+        ]
+    },
+    "BT30-040": {
+        "id": "BT30-040",
+        "face": {
+            "front": {
+                "name": "Self-Defense",
+                "type": "EXTRA",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-040.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Self-Defense [BT30-040]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-040.webp",
+        "Power": null,
+        "Color": "Blue",
+        "cost": "0",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-041": {
+        "id": "BT30-041",
+        "face": {
+            "front": {
+                "name": "Hoipoi Capsule",
+                "type": "EXTRA",
+                "cost": "0",
+                "power": null,
+                "Energy_cost": "0",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-041.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hoipoi Capsule [BT30-041]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-041.webp",
+        "Power": null,
+        "Color": "Blue",
+        "cost": "0",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Battle",
+            "Limit 1"
+        ]
+    },
+    "BT30-042": {
+        "id": "BT30-042",
+        "face": {
+            "front": {
+                "name": "Weakness",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-042.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Weakness [BT30-042]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-042.webp",
+        "Power": null,
+        "Color": "Blue",
+        "cost": "1",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main/Battle",
+            "Limit 1",
+            "Barrier"
+        ]
+    },
+    "BT30-054_SPR": {
+        "id": "BT30-054_SPR",
+        "face": {
+            "front": {
+                "name": "Videl, Hates to Lose",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "5000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-054_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Videl, Hates to Lose [BT30-054]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-054_SPR.webp",
+        "Power": "5000",
+        "Color": "Green",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Videl"
+        ],
+        "Traits": [
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Counter: Play",
+            "Limit 1",
+            "Barrier",
+            "Permanent",
+            "Auto"
+        ]
+    },
+    "BT30-056": {
+        "id": "BT30-056",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Destruction Majin",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-056.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Destruction Majin [BT30-056]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-056.webp",
+        "Power": "35000",
+        "Color": "Green",
+        "cost": "8",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Triple Strike",
+            "EX-Evolve",
+            "Activate: Main",
+            "Once per turn",
+            "Barrier"
+        ]
+    },
+    "BT30-057": {
+        "id": "BT30-057",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Closer to Despair",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "30000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-057.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Closer to Despair [BT30-057]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-057.webp",
+        "Power": "30000",
+        "Color": "Green",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Critical",
+            "Permanent",
+            "Activate: Main",
+            "Once per turn"
+        ]
+    },
+    "BT30-058": {
+        "id": "BT30-058",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Ultimate Unification",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "30000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-058.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Ultimate Unification [BT30-058]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-058.webp",
+        "Power": "30000",
+        "Color": "Green",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Revenge",
+            "Auto",
+            "Limit 1",
+            "Once per turn",
+            "Activate: Main"
+        ]
+    },
+    "BT30-058_SPR": {
+        "id": "BT30-058_SPR",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Ultimate Unification",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "30000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-058_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Ultimate Unification [BT30-058]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-058_SPR.webp",
+        "Power": "30000",
+        "Color": "Green",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Revenge",
+            "Auto",
+            "Limit 1",
+            "Once per turn",
+            "Activate: Main"
+        ]
+    },
+    "BT30-059": {
+        "id": "BT30-059",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Skillful Majin",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-059.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Skillful Majin [BT30-059]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-059.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Spirit Boost 1",
+            "Activate: Main/Battle",
+            "Once per turn",
+            "Barrier"
+        ]
+    },
+    "BT30-060": {
+        "id": "BT30-060",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Intelligent Majin",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-060.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Intelligent Majin [BT30-060]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-060.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Blocker",
+            "Auto"
+        ]
+    },
+    "BT30-061": {
+        "id": "BT30-061",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Ruinous Majin",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-061.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Ruinous Majin [BT30-061]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-061.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union-Absorb",
+            "Limit 1",
+            "Auto"
+        ]
+    },
+    "BT30-062": {
+        "id": "BT30-062",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Lawless Majin",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-062.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Lawless Majin [BT30-062]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-062.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Union-Absorb",
+            "Limit 1",
+            "Auto"
+        ]
+    },
+    "BT30-063": {
+        "id": "BT30-063",
+        "face": {
+            "front": {
+                "name": "Majin Buu, Separated Majin",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-063.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Buu, Separated Majin [BT30-063]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-063.webp",
+        "Power": "4000",
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Buu"
+        ],
+        "Traits": [
+            "Majin"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Counter",
+            "Counter",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-064": {
+        "id": "BT30-064",
+        "face": {
+            "front": {
+                "name": "Absorption",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-064.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Absorption [BT30-064]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-064.webp",
+        "Power": null,
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Union-Absorb",
+            "Once per turn"
+        ]
+    },
+    "BT30-065": {
+        "id": "BT30-065",
+        "face": {
+            "front": {
+                "name": "Regeneration",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-065.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Regeneration [BT30-065]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-065.webp",
+        "Power": null,
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Limit 1",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT30-066": {
+        "id": "BT30-066",
+        "face": {
+            "front": {
+                "name": "Quick Sacrifice",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-066.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Quick Sacrifice [BT30-066]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-066.webp",
+        "Power": null,
+        "Color": "Green",
+        "cost": "1",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT30-071_SPR": {
+        "id": "BT30-071_SPR",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku (Mini), Small Super Warrior",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-071_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Son Goku (Mini), Small Super Warrior [BT30-071]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-071_SPR.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku (Mini): DA"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Demon Realm"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Auto",
+            "Limit 1",
+            "Evolve"
+        ]
+    },
+    "BT30-078_SPR": {
+        "id": "BT30-078_SPR",
+        "face": {
+            "front": {
+                "name": "Majin Kuu, Witch's Underling",
+                "type": "BATTLE",
+                "cost": "1",
+                "power": "4000",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-078_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Majin Kuu, Witch's Underling [BT30-078]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-078_SPR.webp",
+        "Power": "4000",
+        "Color": "Yellow",
+        "cost": "1",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Majin Kuu: DA"
+        ],
+        "Traits": [
+            "Majin",
+            "Demon Realm"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Limit 1",
+            "Permanent",
+            "Evolve",
+            "Counter",
+            "Auto"
+        ]
+    },
+    "BT30-080": {
+        "id": "BT30-080",
+        "face": {
+            "front": {
+                "name": "Awakened Power",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": null,
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-080.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Awakened Power [BT30-080]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-080.webp",
+        "Power": null,
+        "Color": "Yellow",
+        "cost": "1",
+        "Combo_cost": null,
+        "Combo_power": null,
+        "Series": "BT30",
+        "Character": [],
+        "Traits": null,
+        "Banned": false,
+        "Keywords": [
+            "Counter: Attack",
+            "Limit 1",
+            "Blocker",
+            "Permanent",
+            "Counter"
+        ]
+    },
+    "BT30-085_SPR": {
+        "id": "BT30-085_SPR",
+        "face": {
+            "front": {
+                "name": "Son Goku, Ultra Technique",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-085_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Ultra Technique [BT30-085]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-085_SPR.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Blocker",
+            "Revenge",
+            "Auto",
+            "Once per turn",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-094_SPR": {
+        "id": "BT30-094_SPR",
+        "face": {
+            "front": {
+                "name": "Android 17 & Frieza, Headstrong Rivals",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "15000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-094_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Android 17 & Frieza, Headstrong Rivals [BT30-094]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-094_SPR.webp",
+        "Power": "15000",
+        "Color": "Black",
+        "cost": "3",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Android 17",
+            "Frieza"
+        ],
+        "Traits": [
+            "Android",
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Barrier",
+            "Dual Attack",
+            "Auto",
+            "Activate: Main",
+            "Limit 1",
+            "Activate: Battle"
+        ]
+    },
+    "BT30-095_SPR": {
+        "id": "BT30-095_SPR",
+        "face": {
+            "front": {
+                "name": "Ribrianne, Witchy Warrior",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "25000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-095_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Ribrianne, Witchy Warrior [BT30-095]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-095_SPR.webp",
+        "Power": "25000",
+        "Color": "Black",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Ribrianne"
+        ],
+        "Traits": [
+            "Maiden Squadron",
+            "Universe 2"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Deflect",
+            "Double Strike",
+            "Auto"
+        ]
+    },
+    "BT30-114_SPR": {
+        "id": "BT30-114_SPR",
+        "face": {
+            "front": {
+                "name": "North Kai, Wise Guide",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-114_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "North Kai, Wise Guide [BT30-114]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-114_SPR.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "North Kai"
+        ],
+        "Traits": [
+            "God",
+            "King Kai's Planet"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-127_SPR": {
+        "id": "BT30-127_SPR",
+        "face": {
+            "front": {
+                "name": "Pan & Giru, Like-Minded",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "25000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-127_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Pan & Giru, Like-Minded [BT30-127]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-127_SPR.webp",
+        "Power": "25000",
+        "Color": "White",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Pan",
+            "Giru"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling",
+            "Machine Mutant"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto",
+            "Barrier",
+            "Activate: Main",
+            "Limit 1",
+            "Once per turn"
+        ]
+    },
+    "BT30-133_SPR": {
+        "id": "BT30-133_SPR",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku, Power of Awakened Bonds",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-133_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Son Goku, Power of Awakened Bonds [BT30-133]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-133_SPR.webp",
+        "Power": "30000",
+        "Color": "White",
+        "cost": "8",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Double Strike",
+            "Auto",
+            "Activate: Main",
+            "Limit 1"
+        ]
+    },
+    "BT30-138_SPR": {
+        "id": "BT30-138_SPR",
+        "face": {
+            "front": {
+                "name": "SS Son Goten, Spirit Explosion",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-138_SPR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Son Goten, Spirit Explosion [BT30-138]",
+        "type": "Main_Deck",
+        "Rarity": "Special Rare[SPR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-138_SPR.webp",
+        "Power": "20000",
+        "Color": "Green/Yellow",
+        "cost": "4",
+        "Combo_cost": "1",
+        "Combo_power": "5000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Energy-Exhaust",
+            "Blocker",
+            "Revenge",
+            "Successor",
+            "Limit 1",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "BT30-150": {
+        "id": "BT30-150",
+        "face": {
+            "front": {
+                "name": "Family Kamehameha, Miracle Blast",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-150.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Family Kamehameha, Miracle Blast [BT30-150]",
+        "type": "Main_Deck",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-150.webp",
+        "Power": "40000",
+        "Color": "Green",
+        "cost": "8",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku",
+            "Son Gohan: Adolescence",
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Deflect",
+            "Triple Strike",
+            "Counter: Counter",
+            "Counter",
+            "Permanent",
+            "Auto",
+            "Barrier"
+        ]
+    },
+    "BT30-150_PR": {
+        "id": "BT30-150_PR",
+        "face": {
+            "front": {
+                "name": "Family Kamehameha, Miracle Blast",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-150_PR.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Family Kamehameha, Miracle Blast [BT30-150]",
+        "type": "Main_Deck",
+        "Rarity": "God Rare[GDR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT30/BT30-150_PR.webp",
+        "Power": "40000",
+        "Color": "Green",
+        "cost": "8",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT30",
+        "Character": [
+            "Son Goku",
+            "Son Gohan: Adolescence",
+            "Son Goten"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "Ultimate",
+            "Deflect",
+            "Triple Strike",
+            "Counter: Counter",
+            "Counter",
+            "Permanent",
+            "Auto",
+            "Barrier"
+        ]
     },
     "E-42": {
         "id": "E-42",
