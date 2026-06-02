@@ -1,0 +1,1608 @@
+{
+    "BT31-001": {
+        "id": "BT31-001",
+        "face": {
+            "front": {
+                "name": "Son Goku & Vegeta",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-001.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SS Gogeta, Situation Reversal Fusion",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-001_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku & Vegeta // SS Gogeta, Situation Reversal Fusion [BT31-001]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-001.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "once per turn",
+            "awaken",
+            "permanent",
+            "union",
+            "auto"
+        ]
+    },
+    "BT31-002": {
+        "id": "BT31-002",
+        "face": {
+            "front": {
+                "name": "Janemba",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-002.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Janemba, Blade of Hatred",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-002_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Janemba // Janemba, Blade of Hatred [BT31-002]",
+        "type": "Leader",
+        "Rarity": "Special Leader Rare[SLR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-002.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "awaken",
+            "permanent",
+            "activate: main",
+            "once per turn"
+        ]
+    },
+    "BT31-003": {
+        "id": "BT31-003",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Invincible Power",
+                "type": "Z-BATTLE",
+                "cost": "2",
+                "power": "20000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-003.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Gogeta, Invincible Power [BT31-003]",
+        "type": "Z_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-003.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "2",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "barrier",
+            "blocker",
+            "auto",
+            "limit 1"
+        ]
+    },
+    "BT31-004": {
+        "id": "BT31-004",
+        "face": {
+            "front": {
+                "name": "Phantom Shift -Disintegration-",
+                "type": "Z-EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-004.webp",
+                "isHorizontal": true
+            }
+        },
+        "name": "Phantom Shift -Disintegration- [BT31-004]",
+        "type": "Z_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-004.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "z-stack 1",
+            "activate: main/battle",
+            "limit 1",
+            "activate: main"
+        ]
+    },
+    "BT31-005": {
+        "id": "BT31-005",
+        "face": {
+            "front": {
+                "name": "Phantom Shift -Restoration-",
+                "type": "Z-EXTRA",
+                "cost": "2",
+                "power": "",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-005.webp",
+                "isHorizontal": true
+            }
+        },
+        "name": "Phantom Shift -Restoration- [BT31-005]",
+        "type": "Z_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-005.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "2",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "activate: main/battle",
+            "limit 1",
+            "activate: main"
+        ]
+    },
+    "BT31-006": {
+        "id": "BT31-006",
+        "face": {
+            "front": {
+                "name": "SS3 Gotenks, Wild Rampage",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "20000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-006.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS3 Gotenks, Wild Rampage [BT31-006]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-006.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Gotenks"
+        ],
+        "Traits": [
+            "Saiyan",
+            "Earthling"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "blocker",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT31-007": {
+        "id": "BT31-007",
+        "face": {
+            "front": {
+                "name": "SS3 Son Goku, Struggle in Another World",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "16000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-007.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS3 Son Goku, Struggle in Another World [BT31-007]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-007.webp",
+        "Power": "16000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "limit 1",
+            "activate: battle",
+            "once per turn"
+        ]
+    },
+    "BT31-008": {
+        "id": "BT31-008",
+        "face": {
+            "front": {
+                "name": "Son Goku, Other World Warrior",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "16000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-008.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Other World Warrior [BT31-008]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-008.webp",
+        "Power": "16000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT31-009": {
+        "id": "BT31-009",
+        "face": {
+            "front": {
+                "name": "Son Goku, Training in Another World",
+                "type": "BATTLE",
+                "cost": "2",
+                "power": "15000",
+                "Energy_cost": "2",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-009.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku, Training in Another World [BT31-009]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-009.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "cost": "2",
+        "Combo_cost": "0",
+        "Combo_power": "10000",
+        "Series": "BT31",
+        "Character": [
+            "Son Goku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "super combo",
+            "auto",
+            "sparking 5"
+        ]
+    },
+    "BT31-010": {
+        "id": "BT31-010",
+        "face": {
+            "front": {
+                "name": "Son Goku & Vegeta, Battling Against Evil",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "16000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-010.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Son Goku & Vegeta, Battling Against Evil [BT31-010]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-010.webp",
+        "Power": "16000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Son Goku",
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "blocker",
+            "auto",
+            "limit 1",
+            "activate: main/battle"
+        ]
+    },
+    "BT31-011": {
+        "id": "BT31-011",
+        "face": {
+            "front": {
+                "name": "SS Vegeta, Struggle in Another World",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "16000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-011.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Vegeta, Struggle in Another World [BT31-011]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-011.webp",
+        "Power": "16000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "limit 1",
+            "activate: battle",
+            "once per turn"
+        ]
+    },
+    "BT31-012": {
+        "id": "BT31-012",
+        "face": {
+            "front": {
+                "name": "Vegeta, Hellish Warrior",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "16000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-012.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegeta, Hellish Warrior [BT31-012]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-012.webp",
+        "Power": "16000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Vegeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT31-013": {
+        "id": "BT31-013",
+        "face": {
+            "front": {
+                "name": "Veku, Incomplete Fusion",
+                "type": "BATTLE",
+                "cost": "5",
+                "power": "10000",
+                "Energy_cost": "5",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-013.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Veku, Incomplete Fusion [BT31-013]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-013.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "cost": "5",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Veku"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "deflect",
+            "union-fusion",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT31-014": {
+        "id": "BT31-014",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Revoker of Evil",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "30000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-014.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Gogeta, Revoker of Evil [BT31-014]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-014.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "cost": "8",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "triple strike",
+            "revenge",
+            "union-fusion",
+            "auto"
+        ]
+    },
+    "BT31-015": {
+        "id": "BT31-015",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Vanquisher",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-015.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Gogeta, Vanquisher [BT31-015]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-015.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "revenge",
+            "union-fusion",
+            "auto",
+            "activate: battle",
+            "once per turn"
+        ]
+    },
+    "BT31-016": {
+        "id": "BT31-016",
+        "face": {
+            "front": {
+                "name": "Janemba, Concentrated Hatred",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "15000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-016.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Janemba, Concentrated Hatred [BT31-016]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-016.webp",
+        "Power": "15000",
+        "Color": "Red",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "once per turn",
+            "activate: main/battle",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT31-017": {
+        "id": "BT31-017",
+        "face": {
+            "front": {
+                "name": "Janemba, Demonic Howl",
+                "type": "BATTLE",
+                "cost": "4",
+                "power": "20000",
+                "Energy_cost": "4",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-017.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Janemba, Demonic Howl [BT31-017]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-017.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "4",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "counter: attack",
+            "limit 1",
+            "permanent",
+            "counter",
+            "auto"
+        ]
+    },
+    "BT31-018": {
+        "id": "BT31-018",
+        "face": {
+            "front": {
+                "name": "Janemba, Unintentional Evil",
+                "type": "BATTLE",
+                "cost": "3",
+                "power": "10000",
+                "Energy_cost": "3",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-018.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Janemba, Unintentional Evil [BT31-018]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-018.webp",
+        "Power": "10000",
+        "Color": "Red",
+        "cost": "3",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "burst 1",
+            "barrier",
+            "limit 1",
+            "activate: main/battle"
+        ]
+    },
+    "BT31-020": {
+        "id": "BT31-020",
+        "face": {
+            "front": {
+                "name": "Baby Janemba, the Abhorrent",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-020.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Baby Janemba, the Abhorrent [BT31-020]",
+        "type": "Main_Deck",
+        "Rarity": "Super Rare[SR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-020.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Baby",
+            "Janemba"
+        ],
+        "Traits": [
+            "Machine Mutant",
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "activate: main",
+            "activate: battle",
+            "once per turn"
+        ]
+    },
+    "BT31-021": {
+        "id": "BT31-021",
+        "face": {
+            "front": {
+                "name": "Baby Janemba, the Wicked",
+                "type": "BATTLE",
+                "cost": "6",
+                "power": "25000",
+                "Energy_cost": "6",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-021.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Baby Janemba, the Wicked [BT31-021]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-021.webp",
+        "Power": "25000",
+        "Color": "Red",
+        "cost": "6",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Baby",
+            "Janemba"
+        ],
+        "Traits": [
+            "Machine Mutant",
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main"
+        ]
+    },
+    "BT31-022": {
+        "id": "BT31-022",
+        "face": {
+            "front": {
+                "name": "Baby Janemba, Hell Gate Agent of Destruction",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "35000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-022.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Baby Janemba, Hell Gate Agent of Destruction [BT31-022]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-022.webp",
+        "Power": "35000",
+        "Color": "Red",
+        "cost": "8",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Baby",
+            "Janemba"
+        ],
+        "Traits": [
+            "Machine Mutant",
+            "Evil Incarnate",
+            "Agent of Destruction"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "auto"
+        ]
+    },
+    "BT31-023": {
+        "id": "BT31-023",
+        "face": {
+            "front": {
+                "name": "Janemba, Cyborg Body",
+                "type": "BATTLE",
+                "cost": "7",
+                "power": "30000",
+                "Energy_cost": "7",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-023.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Janemba, Cyborg Body [BT31-023]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-023.webp",
+        "Power": "30000",
+        "Color": "Red",
+        "cost": "7",
+        "Combo_cost": "0",
+        "Combo_power": "5000",
+        "Series": "BT31",
+        "Character": [
+            "Janemba"
+        ],
+        "Traits": [
+            "Evil Incarnate"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "barrier",
+            "activate: main",
+            "limit 1"
+        ]
+    },
+    "BT31-024": {
+        "id": "BT31-024",
+        "face": {
+            "front": {
+                "name": "Power Release",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-024.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Power Release [BT31-024]",
+        "type": "Main_Deck",
+        "Rarity": "Rare[R]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-024.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "activate: battle"
+        ]
+    },
+    "BT31-025": {
+        "id": "BT31-025",
+        "face": {
+            "front": {
+                "name": "Buying Time",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-025.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Buying Time [BT31-025]",
+        "type": "Main_Deck",
+        "Rarity": "Common[C]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-025.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "counter: attack",
+            "permanent",
+            "counter"
+        ]
+    },
+    "BT31-026": {
+        "id": "BT31-026",
+        "face": {
+            "front": {
+                "name": "Hellish Fusion",
+                "type": "EXTRA",
+                "cost": "1",
+                "power": "",
+                "Energy_cost": "1",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-026.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Hellish Fusion [BT31-026]",
+        "type": "Main_Deck",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-026.webp",
+        "Power": "",
+        "Color": "Red",
+        "cost": "1",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "counter:play",
+            "limit 1"
+        ]
+    },
+    "BT31-027": {
+        "id": "BT31-027",
+        "face": {
+            "front": {
+                "name": "Monaka",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-027.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Monaka, the Strongest Fighter",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-027_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Monaka // Monaka, the Strongest Fighter [BT31-027]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-027.webp",
+        "Power": "10000",
+        "Color": "Blue",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Monaka"
+        ],
+        "Traits": [
+            "Alien"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "activate: main",
+            "once per turn",
+            "awaken",
+            "permanent"
+        ]
+    },
+    "BT31-041": {
+        "id": "BT31-041",
+        "face": {
+            "front": {
+                "name": "SS4 Son Goku & SS4 Vegeta",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-041.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SS4 Gogeta, Vainglorious",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-041_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Son Goku & SS4 Vegeta // SS4 Gogeta, Vainglorious [BT31-041]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-041.webp",
+        "Power": "10000",
+        "Color": "Green",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Son Goku: GT",
+            "Vegeta: GT"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "awaken",
+            "once per turn",
+            "union",
+            "activate: main"
+        ]
+    },
+    "BT31-055": {
+        "id": "BT31-055",
+        "face": {
+            "front": {
+                "name": "Launch",
+                "type": "LEADER",
+                "cost": "",
+                "power": "5000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-055.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Launch, Transformed",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-055_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Launch // Launch, Transformed [BT31-055]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-055.webp",
+        "Power": "5000",
+        "Color": "Yellow",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Launch"
+        ],
+        "Traits": [
+            "Earthling",
+            "World Tournament"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "auto",
+            "limit 1",
+            "burst 2",
+            "activate: main",
+            "permanent",
+            "activate: battle",
+            "once per turn"
+        ]
+    },
+    "BT31-056": {
+        "id": "BT31-056",
+        "face": {
+            "front": {
+                "name": "Commeson",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-056.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "(Duplicate) Vegeta, Weapon Tainted by Evil",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-056_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Commeson // (Duplicate) Vegeta, Weapon Tainted by Evil [BT31-056]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-056.webp",
+        "Power": "10000",
+        "Color": "Yellow",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Commeson"
+        ],
+        "Traits": [
+            "Copy"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "activate: main",
+            "once per turn",
+            "awaken",
+            "activate: battle"
+        ]
+    },
+    "BT31-085": {
+        "id": "BT31-085",
+        "face": {
+            "front": {
+                "name": "Vegito",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-085.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "SSB Vegito, Ultimate Power",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-085_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Vegito // SSB Vegito, Ultimate Power [BT31-085]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-085.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Vegito"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "once per turn",
+            "awaken",
+            "burst 1",
+            "activate: main/battle",
+            "activate: battle"
+        ]
+    },
+    "BT31-086": {
+        "id": "BT31-086",
+        "face": {
+            "front": {
+                "name": "Aeos",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-086.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Aeos, Power of the Predecessors",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-086_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Aeos // Aeos, Power of the Predecessors [BT31-086]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-086.webp",
+        "Power": "10000",
+        "Color": "Black",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Aeos"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "activate: main",
+            "once per turn",
+            "burst 1",
+            "awaken",
+            "auto",
+            "activate",
+            "wormhole",
+            "activate: battle"
+        ]
+    },
+    "BT31-115": {
+        "id": "BT31-115",
+        "face": {
+            "front": {
+                "name": "Training in the Hyperbolic Time Chamber",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-115.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Completed Training in the Hyperbolic Time Chamber",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-115_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Training in the Hyperbolic Time Chamber // Completed Training in the Hyperbolic Time Chamber [BT31-115]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-115.webp",
+        "Power": "10000",
+        "Color": "White",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Hyperbolic Time Chamber"
+        ],
+        "Traits": [
+            "God"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "auto",
+            "activate: main/battle",
+            "once per turn",
+            "activate: main"
+        ]
+    },
+    "BT31-116": {
+        "id": "BT31-116",
+        "face": {
+            "front": {
+                "name": "Cell",
+                "type": "LEADER",
+                "cost": "",
+                "power": "10000",
+                "Energy_cost": "",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-116.webp",
+                "isHorizontal": false
+            },
+            "back": {
+                "name": "Cell, Perfect Power",
+                "type": "LEADER",
+                "cost": "",
+                "power": "15000",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-116_b.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "Cell // Cell, Perfect Power [BT31-116]",
+        "type": "Leader",
+        "Rarity": "Uncommon[UC]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-116.webp",
+        "Power": "10000",
+        "Color": "White",
+        "cost": "",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [
+            "Cell"
+        ],
+        "Traits": [
+            "Android"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "permanent",
+            "activate: main",
+            "once per turn",
+            "awaken",
+            "auto",
+            "activate: main/battle"
+        ]
+    },
+    "BT31-143": {
+        "id": "BT31-143",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Ultimate Warrior",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "20000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-143.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Gogeta, Ultimate Warrior [BT31-143]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-143.webp",
+        "Power": "20000",
+        "Color": "Red",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "double strike",
+            "barrier",
+            "blocker",
+            "auto",
+            "once per turn",
+            "0",
+            "activate: main",
+            "-5",
+            "limit 1"
+        ]
+    },
+    "BT31-144": {
+        "id": "BT31-144",
+        "face": {
+            "front": {
+                "name": "SSB Gogeta, Ultimate Warrior",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "20000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-144.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SSB Gogeta, Ultimate Warrior [BT31-144]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-144.webp",
+        "Power": "20000",
+        "Color": "Blue",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "double strike",
+            "barrier",
+            "auto",
+            "once per turn",
+            "+1",
+            "activate: main",
+            "-5",
+            "limit 1",
+            "revenge"
+        ]
+    },
+    "BT31-145": {
+        "id": "BT31-145",
+        "face": {
+            "front": {
+                "name": "SS4 Gogeta, Ultimate Warrior",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "20000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-145.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS4 Gogeta, Ultimate Warrior [BT31-145]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-145.webp",
+        "Power": "20000",
+        "Color": "Green",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "critical",
+            "barrier",
+            "dual attack",
+            "auto",
+            "once per turn",
+            "-1",
+            "activate: main",
+            "-5",
+            "limit 1"
+        ]
+    },
+    "BT31-146": {
+        "id": "BT31-146",
+        "face": {
+            "front": {
+                "name": "SS Vegito, Ultimate Warrior",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "20000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-146.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Vegito, Ultimate Warrior [BT31-146]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-146.webp",
+        "Power": "20000",
+        "Color": "Yellow",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "barrier",
+            "dual attack",
+            "blocker",
+            "auto",
+            "once per turn",
+            "+1",
+            "activate: main",
+            "-5",
+            "limit 1"
+        ]
+    },
+    "BT31-147": {
+        "id": "BT31-147",
+        "face": {
+            "front": {
+                "name": "SSB Vegito, Ultimate Warrior",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "20000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-147.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SSB Vegito, Ultimate Warrior [BT31-147]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-147.webp",
+        "Power": "20000",
+        "Color": "Black",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "double strike",
+            "barrier",
+            "dual attack",
+            "auto",
+            "once per turn",
+            "-1",
+            "activate: main",
+            "-5",
+            "limit 1"
+        ]
+    },
+    "BT31-148": {
+        "id": "BT31-148",
+        "face": {
+            "front": {
+                "name": "SS3 Gotenks, Ultimate Warrior",
+                "type": "UNISON",
+                "cost": "X",
+                "power": "20000",
+                "Energy_cost": "X",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-148.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS3 Gotenks, Ultimate Warrior [BT31-148]",
+        "type": "Main_Deck",
+        "Rarity": "Concept Rare[CR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-148.webp",
+        "Power": "20000",
+        "Color": "White",
+        "cost": "X",
+        "Combo_cost": "",
+        "Combo_power": "",
+        "Series": "BT31",
+        "Character": [],
+        "Traits": [],
+        "Banned": false,
+        "Keywords": [
+            "triple strike",
+            "barrier",
+            "auto",
+            "once per turn",
+            "+1",
+            "activate: main",
+            "-5",
+            "limit 1"
+        ]
+    },
+    "BT31-149": {
+        "id": "BT31-149",
+        "face": {
+            "front": {
+                "name": "SS Gogeta, Hell-Piercing Flash",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-149.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SS Gogeta, Hell-Piercing Flash [BT31-149]",
+        "type": "Main_Deck",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-149.webp",
+        "Power": "40000",
+        "Color": "Red",
+        "cost": "8",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT31",
+        "Character": [
+            "Gogeta"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "ultimate",
+            "barrier",
+            "triple attack",
+            "union-fusion",
+            "auto"
+        ]
+    },
+    "BT31-150": {
+        "id": "BT31-150",
+        "face": {
+            "front": {
+                "name": "SSB Kaio-ken Vegito, True God Power",
+                "type": "BATTLE",
+                "cost": "8",
+                "power": "40000",
+                "Energy_cost": "8",
+                "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-150.webp",
+                "isHorizontal": false
+            }
+        },
+        "name": "SSB Kaio-ken Vegito, True God Power [BT31-150]",
+        "type": "Main_Deck",
+        "Rarity": "Secret Rare[SCR]",
+        "image": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/assets/BT31/BT31-150.webp",
+        "Power": "40000",
+        "Color": "Black",
+        "cost": "8",
+        "Combo_cost": "1",
+        "Combo_power": "10000",
+        "Series": "BT31",
+        "Character": [
+            "Vegito"
+        ],
+        "Traits": [
+            "Saiyan"
+        ],
+        "Banned": false,
+        "Keywords": [
+            "ultimate",
+            "triple strike",
+            "over realm 6",
+            "permanent",
+            "over realm",
+            "auto"
+        ]
+    }
+}
